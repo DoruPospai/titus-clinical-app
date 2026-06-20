@@ -1,0 +1,30 @@
+SPECIALITATE: Reumatologie
+COD_DIAGNOSTIC: M32.9
+DATA: 06.03.2024
+MEDIC: Dr. Elena Preda
+---
+MEDIC: Bună ziua, ce simptome vă deranjează?
+PACIENT: Am o erupție pe față de câteva săptămâni, pe obraji și nas. Și mă dor articulațiile.
+MEDIC: Cum arată erupția și când apare?
+PACIENT: E roșie, simetrică, mai mult când stau la soare. La soare se înrăutățește mult.
+MEDIC: Ce articulații vă dor?
+PACIENT: Degetele de la mâini, încheieturile, genunchii. Mai toate, dimineața mai ales.
+MEDIC: Aveți oboseală?
+PACIENT: Oboseală cumplită. Mă trezesc obosită și la prânz trebuie să mă culc.
+MEDIC: Aveți febră?
+PACIENT: Uneori, nu înaltă, 37,5-38. Vine și pleacă.
+MEDIC: Aveți cădere mare de păr?
+PACIENT: Da! Pierd mult păr la pieptănat și la spălat. Mama mea s-a speriat.
+MEDIC: Aveți ulcerații în gură?
+PACIENT: Da, uneori apar răni mici în gură care nu dor, mi-am dat seama că apar mereu.
+MEDIC: Aveți vârsta de...?
+PACIENT: 27 de ani.
+MEDIC: Aveți probleme cu rinichii — spumă în urină, edeme?
+PACIENT: Mi s-a spus recent că am proteine în urină. Și gleznele mi se umflă.
+MEDIC: Aveți fenomen Raynaud — degetele albesc sau devin albastre la frig?
+PACIENT: Da, iarna degetele mai întâi albesc, apoi devin albastre și roșii. E dureros.
+MEDIC: Există boli autoimune în familie?
+PACIENT: Mama are Hashimoto, sora mea are psoriazis.
+---
+DIAGNOSTIC PREZUMTIV: Lupus eritematos sistemic activ — tânără cu rash malar fotosensibil, artrită, alopecie, ulcerații orale, proteinurie, fenomen Raynaud și oboseală marcată, cu criteriile ACR îndeplinite. Diferențial 1: Artrita reumatoidă cu manifestări extraarticulare — artrită prezentă, dar rash facial și nefrita orientează spre LES. Diferențial 2: Dermatomiozita — rash și oboseală posibile, dar distribuția facială și fotosensibilitate pledează contra.
+CUVINTE CHEIE: lupus eritematos, rash malar, fotosensibilitate, artrită, nefrita lupică, alopecie, anticorpi ANA

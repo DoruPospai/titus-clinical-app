@@ -1,0 +1,32 @@
+SPECIALITATE: Neurologie / Diabet
+COD_DIAGNOSTIC: E11.40
+DATA: 18.02.2024
+MEDIC: Dr. Sorin Predescu
+---
+MEDIC: Bună ziua, cu ce vă pot ajuta?
+PACIENT: Mă arde la picioare noaptea de nu pot dormi. Parcă am picioarele pe jar.
+MEDIC: De cât timp aveți această problemă?
+PACIENT: De vreo 2 ani, dar ultimul an e mai rău. Noaptea e cumplit.
+MEDIC: Aveți diabet?
+PACIENT: Da, de 15 ani. Iau pastile și insulină.
+MEDIC: Zahărul vă este controlat bine?
+PACIENT: Nu prea, am glicemia cam mare mereu. Nu respect dieta cum trebuie.
+MEDIC: Pe lângă arsuri, aveți și alte senzații la picioare?
+PACIENT: Și înțepături, parcă mii de ace. Și o amorțeală ciudată — simt că calc pe perne.
+MEDIC: Aveți răni sau tăieturi la picioare pe care nu le simțiți?
+PACIENT: Da! Nevasta mi-a arătat o rană sub călcâi pe care nici nu o simțeam. Văd că e acolo dar nu mă doare.
+MEDIC: Aveți slăbiciune la picioare?
+PACIENT: Da, mă împiedic mai des și uneori simt că nu ridic bine piciorul.
+MEDIC: Dimineața cum e față de seară?
+PACIENT: Dimineața e mai suportabil. Spre seară și noaptea se agravează mult.
+MEDIC: Aveți probleme cu vederea sau rinichii?
+PACIENT: Am ochelari de când am diabetul și mi s-a spus că rinichii sunt afectați puțin.
+MEDIC: Tensiunea arterială o controlați?
+PACIENT: Sunt pe pastile de tensiune, dar tot nu e perfectă.
+MEDIC: Aveți și la mâini senzații similare?
+PACIENT: Mai puțin, dar uneori și la degete simt un fel de amorțeală.
+MEDIC: Ați răcit picioarele sau umblați desculț?
+PACIENT: Nu, port șosete mereu că am auzit că trebuie.
+---
+DIAGNOSTIC PREZUMTIV: Neuropatie diabetică periferică senzitivo-motorie — diabetic cu control glicemic slab, arsuri nocturne și înțepături în mânușă și ciorap, ulcer neuropat descoperit incidental. Diferențial 1: Arteriopatie periferică — dureri la rece posibile, dar distribuția polineuropatică și contextul diabetic predomină. Diferențial 2: Sindrom de tunel carpian — mai specific la mâini, nu în tabloul simetric actual.
+CUVINTE CHEIE: neuropatie diabetică, arsuri nocturne, înțepături, amorțeală, ulcer neuropat, polineuropatie, control glicemic

@@ -1,0 +1,28 @@
+SPECIALITATE: Pneumologie
+COD_DIAGNOSTIC: J47
+DATA: 16.05.2024
+MEDIC: Dr. Simion Coman
+---
+MEDIC: Bună ziua, ce probleme pulmonare aveți?
+PACIENT: Tușesc mult de dimineață, scot multă mucozitate. E de ani de zile, dar acum am și febră.
+MEDIC: Cum este sputa — culoare, cantitate?
+PACIENT: Dimineața scot mult, uneori gălbui-verzui. Câteodată cu sânge.
+MEDIC: Ați avut pneumonii frecvente?
+PACIENT: Da, 3-4 pneumonii pe an de vreo 5 ani. Antibioticele ajută dar revine.
+MEDIC: Aveți vârsta de...?
+PACIENT: 47 de ani.
+MEDIC: Aveți dificultăți la respirație?
+PACIENT: La efort respir mai greu. Și am șuierat câteodată.
+MEDIC: Ați avut în copilărie infecții pulmonare severe sau tuse convulsivă?
+PACIENT: Da, la 7 ani am stat o lună în spital cu o pneumonie gravă. A fost critic.
+MEDIC: Aveți sinuzită cronică?
+PACIENT: Da, sinuzita o am de vreo 15 ani. Am operație la sinusuri.
+MEDIC: Scaunele sunt normale?
+PACIENT: Am câteva zile pe lună cu diaree și balonare. De mult.
+MEDIC: Aveți infertilitate sau probleme sexuale?
+PACIENT: Am probleme de fertilitate, da. Soția și eu nu am putut să avem copii.
+MEDIC: Există boli pulmonare în familie?
+PACIENT: Fratele meu tot cu probleme pulmonare, și e infertil.
+---
+DIAGNOSTIC PREZUMTIV: Bronșiectazie bilaterală severă posibil în cadrul sindromului Kartagener (diskinezie ciliară primară) — bronșiectazie + sinuzită cronică + situs inversus sau infertilitate + istoric familial sugestiv. Diferențial 1: Fibroza chistică — bronșiectazie + disfuncție digestivă, testul sudorii și mutațiile CFTR diferențiază. Diferențial 2: Bronșiectazie post-infecțioasă izolată — pneumonia severă din copilărie, dar tabloul bilateralizat și familial pledează pentru cauza genetică.
+CUVINTE CHEIE: bronșiectazie, diskinezie ciliară, sindrom Kartagener, sinuzită cronică, infertilitate, pneumonii frecvente, spută purulentă

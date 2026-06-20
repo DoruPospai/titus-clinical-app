@@ -1,0 +1,30 @@
+SPECIALITATE: ORL / Oncologie
+COD_DIAGNOSTIC: C32.1
+DATA: 05.04.2024
+MEDIC: Dr. Bogdan Niculescu
+---
+MEDIC: Bună ziua, ce vă aduce?
+PACIENT: Vocea mea s-a schimbat de câteva luni. Parcă sunt răgușit tot timpul și nu trece.
+MEDIC: De cât timp?
+PACIENT: De vreo 3-4 luni. Am crezut că e de la răceală, dar nu trece.
+MEDIC: Aveți dureri la înghițit?
+PACIENT: Uneori da, mai ales când înghit solid. O durere ușoară la gât.
+MEDIC: Aveți dificultăți la respirație sau stridor?
+PACIENT: Câteodată la efort respir mai greu și simt un zgomot la respirat.
+MEDIC: Ați scăzut în greutate?
+PACIENT: Da, 4 kg în 2 luni. Nu am poftă de mâncare.
+MEDIC: Fumați?
+PACIENT: Da, 40 de ani, câte 2 pachete pe zi. Am 61 de ani.
+MEDIC: Consumați alcool?
+PACIENT: Seară de seară, da.
+MEDIC: Aveți ganglioni umflați la gât?
+PACIENT: Da, am observat o umflătură la gâtul stâng de vreo 2 luni.
+MEDIC: Aveți tuse sau spută cu sânge?
+PACIENT: Câteva episoade de spută cu sânge, am crezut că e de la tuse.
+MEDIC: Ați mai observat modificări la voce în trecut?
+PACIENT: Nu, acesta e primul episod prelungit.
+MEDIC: Aveți reflux gastro-esofagian?
+PACIENT: Da, am arsuri frecvente și iau omeprazol de ani.
+---
+DIAGNOSTIC PREZUMTIV: Carcinom laringian glotic (T2N1) — bărbat vârstnic fumător-alcoolic cu disfonie persistentă, disfagie, stridor, hemoptizie și adenopatie laterocervicală. Diferențial 1: Polipi vocali benigni — disfonie izolată, dar scăderea ponderală și adenopatia exclud benignitatea. Diferențial 2: Carcinom faringian — disfagie și adenopatie posibile, laringoscopia diferențiază localizarea.
+CUVINTE CHEIE: cancer laringian, disfonie persistentă, fumat, disfagie, stridor, hemoptizie, adenopatie cervicală

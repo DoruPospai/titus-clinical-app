@@ -1,0 +1,30 @@
+SPECIALITATE: Psihiatrie
+COD_DIAGNOSTIC: F20.0
+DATA: 17.03.2024
+MEDIC: Dr. Adriana Ionescu
+---
+MEDIC: Bună ziua. Cum vă simțiți?
+PACIENT: Sunt bine, dar ma-a adus mama forțat. Ea crede că am probleme, eu nu.
+MEDIC: Ce observă mama la dumneavoastră?
+PACIENT: Că vorbesc singur. Dar eu vorbesc cu ei — cu vocile. Sunt trei voci, le cunosc.
+MEDIC: De cât timp auziți aceste voci?
+PACIENT: De vreo 6 luni. La început o singură voce, acum sunt trei. Uneori se ceartă între ele.
+MEDIC: Ce vă spun vocile?
+PACIENT: Comentează ce fac. Uneori mă insultă, îmi spun că sunt prost. Uneori plănuiesc ceva împotriva mea.
+MEDIC: Credeți că cineva vă urmărește sau vrea să vă facă rău?
+PACIENT: Vecinul. Am dovezi. Mi-a instalat camere în apartament și mă urmărește prin ele.
+MEDIC: Aveți vârsta de...?
+PACIENT: 26 de ani. Stau cu mama.
+MEDIC: Ați mai lucrat sau ați ieșit din casă în ultima perioadă?
+PACIENT: Am renunțat la serviciu că nu mai puteam de camere. Nu mai ies că mă urmăresc.
+MEDIC: Dormiți bine?
+PACIENT: Dorm puțin, vocile nu mă lasă noaptea.
+MEDIC: Aveți gânduri să vă faceți rău sau să faceți rău cuiva?
+PACIENT: Nu, eu sunt cel urmărit, nu eu fac rău.
+MEDIC: Ați folosit droguri sau substanțe?
+PACIENT: Am fumat canabis vreo 2 ani dar am oprit.
+MEDIC: Există boli psihice în familie?
+PACIENT: Unchiul a stat internat la psihiatrie, nu știu diagnosticul.
+---
+DIAGNOSTIC PREZUMTIV: Schizofrenie paranoidă, prim episod psihotic — tânăr cu halucinații auditive comentative și imperative, delir de persecuție sistematizat, izolare socială și deteriorare funcțională progresivă. Diferențial 1: Tulburare deliranta persistentă — delir izolat fără halucinații atât de proeminente. Diferențial 2: Psihoză indusă de canabis — consumul anterior, dar persistența la 6 luni după oprire pledează pentru schizofrenie.
+CUVINTE CHEIE: schizofrenie, halucinații auditive, delir de persecuție, prim episod psihotic, izolare socială, canabis, antipsihotic

@@ -1,0 +1,40 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Chirurgie generală - Urgență
+Diagnostic prezumtiv: Apendicită acută
+Data: 2026-05-14
+Medic: Dr. Popescu Radu
+
+MEDIC: Bună ziua, ce v-a adus la urgență?
+PACIENT: Am dureri intense în partea dreaptă a abdomenului de ieri seară.
+
+MEDIC: Cum a apărut durerea? Brusc sau treptat?
+PACIENT: A început în jurul buricului și s-a mutat în dreapta jos. S-a intensificat treptat.
+
+MEDIC: Aveți greață sau vărsături?
+PACIENT: Am vomitat de două ori azi dimineață.
+
+MEDIC: Aveți febră?
+PACIENT: Da, 37.8 dimineață. Acum mi se pare mai mult.
+
+MEDIC: Durerea se agravează la mișcare sau tuse?
+PACIENT: Da, la tuse mă doare tare. Nu pot merge drept.
+
+MEDIC: Ați mâncat ieri seară? Când a apărut durerea față de masă?
+PACIENT: La 2 ore după cină a apărut. Nu mai am poftă de mâncare deloc.
+
+MEDIC: Aveți diaree sau constipație?
+PACIENT: Nu am mai mers la toaletă de ieri.
+
+MEDIC: Ați mai avut dureri similare anterior?
+PACIENT: Nu, e prima oară.
+
+MEDIC: Aveți boli cronice sau operații abdominale în antecedente?
+PACIENT: Nicio operație, sunt sănătos în rest.
+
+MEDIC: Câți ani aveți?
+PACIENT: 22 de ani.
+
+DIAGNOSTIC PREZUMTIV: Apendicită acută (migrarea durerii periombilical → fosa iliacă dreaptă, anorexie, greață, febră, apărare musculară). Necesită evaluare chirurgicală urgentă, hemoleucogramă, ecografie abdominală.
+
+CUVINTE CHEIE: durere fosa iliacă dreaptă, migrare periombilicală, anorexie, greață, vărsături, febră, apărare musculară, semn Blumberg

@@ -1,0 +1,30 @@
+SPECIALITATE: Boli Infecțioase-Hepatologie
+COD_DIAGNOSTIC: B18.2
+DATA: 28.03.2024
+MEDIC: Dr. Marius Oprea
+---
+MEDIC: Bună ziua, ce problemă aveți?
+PACIENT: Am oboseală cronicã de ani de zile, dureri în dreapta sus și am ieșit pozitiv la anti-HCV.
+MEDIC: Când ați aflat de hepatita C?
+PACIENT: Acum 3 luni, la un control de rutina.
+MEDIC: Câți ani aveți?
+PACIENT: 48 de ani.
+MEDIC: Când credeți că ați contactat-o?
+PACIENT: Nu știu exact. Am eu proceduri medicale acum 20 de ani. Și tatuaj.
+MEDIC: Aveți simptome hepatice — icter, mâncărime?
+PACIENT: Nu icter. Câteodată mă mânâncă pielea.
+MEDIC: Aveți alcoolism?
+PACIENT: Beau moderat, un pahar seara.
+MEDIC: Ați făcut teste pentru severitatea bolii?
+PACIENT: Transaminaze crescute de 3 ori. Fibroscan arată fibroză F3.
+MEDIC: Aveți dureri articulare sau musculare?
+PACIENT: Da, articulații, mi s-a zis că poate fi legat de hepatita.
+MEDIC: Aveți vase de păianjen pe piele sau burtă mărită?
+PACIENT: Nu cred, n-am observat.
+MEDIC: Aveți diabet sau tulburări metabolice?
+PACIENT: Diabet tip 2 recent diagnosticat.
+MEDIC: Aveți rude cu hepatita sau ciroze?
+PACIENT: Fratele meu are ciroze, cauza necunoscuta.
+---
+DIAGNOSTIC PREZUMTIV: Hepatita C cronică genotip necunoscut cu fibroză avansată F3 — bărbat 48 ani cu HCV anti-pozitiv, fibroze F3 fibroscan, transaminaze crescute, DZ2 (asociere frecventa cu HCV), artralgie, risc de progresie spre ciroze. Tratament cu antivirale direct acționare indicat urgent. Diferențial 1: Coinfecție HBV — anti-HBc obligatoriu. Diferențial 2: Hepatita autoimuna — ANA, ASMA pot fi pozitive în HCV, greu de diferentiat fara biopsie.
+CUVINTE CHEIE: hepatita C cronică, fibroza hepatica F3, antivirale direct acționare, RNA HCV, genotipare, ciroze, DZ2 asociat

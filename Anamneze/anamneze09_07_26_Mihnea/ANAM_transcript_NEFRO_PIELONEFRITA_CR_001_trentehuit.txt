@@ -1,0 +1,30 @@
+SPECIALITATE: Nefrologie / Urologie
+COD_DIAGNOSTIC: N11.9
+DATA: 08.05.2024
+MEDIC: Dr. Ramona Ciobanu
+---
+MEDIC: Bună ziua, cu ce vă pot ajuta?
+PACIENT: Am infecții la rinichi des, de ani de zile. Acum iar mă doare în spate și am febră.
+MEDIC: Câte episoade de infecție urinară ați avut în ultimul an?
+PACIENT: Cam 4-5 pe an. De fiecare dată iau antibiotic și trece, dar revine.
+MEDIC: Cum se manifestă episoadele — febră, dureri?
+PACIENT: Durere la rinichi, febră mare 39-40, frisoane, durere la urinat. Clasic.
+MEDIC: Aveți vârsta de...?
+PACIENT: 55 de ani.
+MEDIC: Aveți pietre la rinichi?
+PACIENT: Da, mi s-a spus că am calculi mici. Un episod de colică renală acum 3 ani.
+MEDIC: Aveți tensiunea mare sau glicemia?
+PACIENT: Tensiunea da, de câțiva ani. Iau pastile.
+MEDIC: Ați observat că urina este mai puțină sau schimbată?
+PACIENT: Urina e mai concentrată câteodată și parcă mai puțină.
+MEDIC: Aveți analize de sânge recente?
+PACIENT: La ultima analiză mi s-a spus că creatinina e un pic crescută. M-am speriat.
+MEDIC: Vă este greu să urinați sau aveți senzație de vezică incomplet golită?
+PACIENT: Câteodată simt că nu am golit bine. Mergă iarăși la baie.
+MEDIC: Există rinichi malformați sau reflux vezico-ureteral în copilărie?
+PACIENT: Când eram mică am avut ceva la rinichi — infecții frecvente și reflux, au zis doctorii.
+MEDIC: Luați antibiotice profilactic?
+PACIENT: Nu, nu mi s-a propus nimic preventiv.
+---
+DIAGNOSTIC PREZUMTIV: Pielonefrită cronică pe fond de reflux vezico-ureteral rezidual și nefrolitiază — femei cu infecții urinare frecvente recurente, creatinina crescută (IRC incipienta), HTA și calculi. Diferențial 1: Tuberculoză renală — infecții urinare cronice cu cultură negativă posibilă, dar contextul bacterian pledează contra. Diferențial 2: Nefropatie obstructivă prin calculi — posibilă suprapunere, ecografia diferențiază.
+CUVINTE CHEIE: pielonefrită cronică, reflux vezico-ureteral, infecții urinare recurente, nefrolitiază, IRC incipientă, HTA, creatinina crescută

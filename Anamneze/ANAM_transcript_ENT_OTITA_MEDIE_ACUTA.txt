@@ -1,0 +1,25 @@
+Transcript — ANAM_transcript_ENT_OTITA_MEDIE_ACUTA
+MEDIC: Dr. Ionescu Maria
+
+MEDIC: Bună ziua. Ce simptome vă aduc?
+PACIENT: Mă doare urechea dreaptă de ieri seară, intens. Nu pot dormi.
+
+MEDIC: Aveți febră?
+PACIENT: Da, am măsurat 38.8 acasă. Am și frisoane.
+
+MEDIC: Aveți senzație de ureche înfundată?
+PACIENT: Da, aud mai prost cu urechea dreaptă. Parcă am ceva în ureche.
+
+MEDIC: Aveți scurgere din ureche?
+PACIENT: Nu, nimic care să curgă. Dar doare la apăsare pe tragus.
+
+MEDIC: Ați avut răceală recent?
+PACIENT: Da, am avut nas înfundat și gât iritat săptămâna trecută.
+
+MEDIC: Câți ani are copilul? (adresată părintelui)
+PACIENT: Are 4 ani.
+
+MEDIC: A mai avut otite?
+PACIENT: Da, a mai avut două otite în ultimul an.
+
+DIAGNOSTIC PREZUMTIV: Otită medie acută dreaptă — otalgie intensă, febră, hipoacuzie de transmisie, antecedente de infecție respiratorie superioară recentă, vârstă mică, otite recurente. Confirmare otoscopie. CUVINTE CHEIE: otita medie acuta, otalgie, febra, hipoacuzie, nas infundat, copil mic, otite recurente

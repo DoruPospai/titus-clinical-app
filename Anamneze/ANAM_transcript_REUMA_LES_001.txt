@@ -1,0 +1,21 @@
+CASE: Lupus eritematos sistemic — polisimptomatologie la femeie tânără
+DIALOG_ID: ANAM_REUMA_LES_001
+
+Medic: Bună ziua. Spuneți-mi ce vă deranjează.
+Pacient: Nu știu de unde să încep. Am atât de multe probleme că medicii nu știu ce să creadă. De un an am tot felul de simptome care vin și trec.
+Medic: Descrieți-mi ce simțiți cel mai mult.
+Pacient: Dureri articulare la mâini și genunchi, simetric la ambele mâini. Dimineața am o rigiditate de vreo jumătate de oră. Și oboseală enormă, toată ziua, nu mă refac după somn.
+Medic: Febră?
+Pacient: Des. Periodic am febră mică, 37.5-38, fără o cauză clară. Dispare singură după câteva zile.
+Medic: Probleme cu pielea?
+Pacient: Da, și asta e ciudat. Vara, când stau la soare, îmi apare o roșeață pe obraji și pe nas, ca un fluture. Și mă simt rău la soare în general. Am și pierdut mult păr în ultimele luni.
+Medic: Probleme cu rinichii, ați observat ceva la urină?
+Pacient: Acum că ziceți, recent urina era puțin spumoasă și am observat că am edeme la glezne spre seară.
+Medic: Ați avut vreo pleurezie sau pericard inflamat?
+Pacient: Acum 6 luni am avut o durere în piept când respiram, medicul la urgențe a zis că e o pleurezie mică. A trecut cu antiinflamatoare.
+Medic: Aveți ulcerații în gură?
+Pacient: Da, frecvent. Cred că am mereu câte un mic afte.
+Medic: Antecedente familiale de boli autoimune?
+Pacient: Mătușa mea are tiroidită Hashimoto. O verișoară are artrită reumatoidă.
+Medic: Vârsta dumneavoastră?
+Pacient: 28 de ani. Nu iau niciun medicament cronic.

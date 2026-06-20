@@ -1,0 +1,30 @@
+SPECIALITATE: Endocrinologie
+COD_DIAGNOSTIC: E23.0
+DATA: 25.03.2024
+MEDIC: Dr. Marius Ionescu
+---
+MEDIC: Bună ziua, ce simptome vă aduc la consultație?
+PACIENT: Mă simt fără vlagă, fără chef de nimic. Și am prins mult în greutate fără să mănânc mai mult.
+MEDIC: De cât timp?
+PACIENT: De vreo 2 ani, lent. Dar acum 2 ani am operat o tumoare la creier.
+MEDIC: Ce fel de operație a fost?
+PACIENT: La glanda mică din creier — hipofiza. Mi s-a spus că e o tumoare benignă.
+MEDIC: De atunci aveți tratament hormonal?
+PACIENT: Mi s-au dat niște pastile imediat după operație, dar nu am continuat. M-am simțit mai bine și am oprit.
+MEDIC: Aveți menstruație?
+PACIENT: De 2 ani nu mai am. Am crezut că e menopauza, am 38 de ani.
+MEDIC: Aveți libidou scăzut sau alte simptome sexuale?
+PACIENT: Da, niciun interes. Soțul se plânge.
+MEDIC: Aveți probleme cu tensiunea?
+PACIENT: Tensiunea e mică mereu. Amețesc când mă ridic.
+MEDIC: Aveți frig tot timpul?
+PACIENT: Da, mereu frig, mai ales la mâini și picioare.
+MEDIC: Aveți dureri de cap?
+PACIENT: Ocazional, dar nu ca înainte de operație.
+MEDIC: Aveți oboseală accentuată?
+PACIENT: Mă trezesc obosită. Adorm la prânz. Nu mai fac sport de 2 ani.
+MEDIC: Aveți tulburări de vedere?
+PACIENT: Nu vizibil, dar nu am mai verificat vederea de la operație.
+---
+DIAGNOSTIC PREZUMTIV: Panhipopituitarism post-chirurgical — femeie cu operație hipofizară și oprire tratament de substituție, cu hipotiroidism central, insuficiență suprarenală și hipogonadism hipogonadotrop (amenoree, lipsă libido, fatigabilitate, hipotensiune). Diferențial 1: Menopauza precoce — amenoree la 38 ani, dar contextul post-operator și celelalte deficite hormonale exclud. Diferențial 2: Depresie majoră — fatigabilitate și anhedonie prezente, dar baza endocrină e definitorice.
+CUVINTE CHEIE: hipopituitarism, operație hipofizară, amenoree, oboseală, hipotiroidism central, hipotensiune, substituție hormonală

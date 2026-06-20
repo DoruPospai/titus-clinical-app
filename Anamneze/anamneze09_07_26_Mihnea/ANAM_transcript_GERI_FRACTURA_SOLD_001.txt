@@ -1,0 +1,29 @@
+SPECIALITATE: Geriatrie-Ortopedie
+COD_DIAGNOSTIC: S72.0
+DATA: 23.01.2024
+MEDIC: Dr. Gheorghe Ristea
+---
+MEDIC: Bună ziua. Bunica a cazut. Cine o insoteste?
+APARTINATOR: Nepotul. Bunica are 83 de ani, a cazut acasa la baie, nu se mai poate ridica.
+MEDIC: Cand s-a intâmplat cazatura?
+APARTINATOR: Acum 3 ore. Am gasit-o pe jos.
+MEDIC: Are durere?
+PACIENT: Doare groaznic la sold si piciorul. Nu pot misca piciorul.
+MEDIC: Piciorul are pozitie anormala — rotit sau scurtat?
+MEDIC (catre asistenta): La inspectie — piciorul drept e extern rotat si scurtat.
+PACIENT: Sunt batrana, ce se intampla cu mine?
+MEDIC: Aveți osteoporoza?
+APARTINATOR: Da, tratament pentru oase. Dar o uitat des.
+MEDIC: A mai cazut anterior?
+APARTINATOR: De 4 ori in ultimul an. Cu vreo 2 fara fractura.
+MEDIC: Ia anticoagulante?
+APARTINATOR: Da, pentru fibrilatie atriala.
+MEDIC: Care a fost cauza cazaturii — ameteala, picioare?
+APARTINATOR: A zis ca i s-au incurcat picioarele. Poarta papuci mari.
+MEDIC: Are dementa?
+APARTINATOR: Da, moderata.
+MEDIC: Starea generala anterior?
+APARTINATOR: Slabita, manânca prost de o luna.
+---
+DIAGNOSTIC PREZUMTIV: Fractura de col femural drept (Garden III probabil) la varstnica cu osteoporoza si cădere mecanică — varstnica 83 ani, cădere in baie, pozitie tipica (rotatie externa + scurtare), multiple caderi in antecedente, osteoporoza, dementa, anticoagulat. Osteosinteza sau artroplastie partiala in functie de clasificare. Diferențial 1: Fractura intertrohanteriana — localizare mai joasa, imagine radiologica diferita. Diferențial 2: Fractura de bazin (ram pubian) — accident minor, mai putin invalidanta.
+CUVINTE CHEIE: fractura col femural, cădere varstnica, osteoporoza, rotatie externa scurtare, artroplastie partiala, fragilitate, anticoagulare perioperatorie

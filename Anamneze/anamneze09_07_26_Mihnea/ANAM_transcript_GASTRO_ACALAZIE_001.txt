@@ -1,0 +1,30 @@
+SPECIALITATE: Gastroenterologie
+COD_DIAGNOSTIC: K22.0
+DATA: 14.04.2024
+MEDIC: Dr. Alina Petre
+---
+MEDIC: Bună ziua, ce simptome aveți?
+PACIENT: Mâncarea îmi rămâne parcă blocată la gât, nu coboară. E de câțiva ani dar s-a înrăutățit.
+MEDIC: Se întâmplă și cu lichidele sau doar cu solide?
+PACIENT: Ciudat, cu lichidele mi se pare mai rău uneori. Solide merge câteodată mai bine.
+MEDIC: Cum procedați când mâncarea se blochează?
+PACIENT: Beau multă apă sau ridic brațele. Uneori trebuie să mă ridic în picioare și să mă mișc.
+MEDIC: Aveți regurgitare de mâncare nedigerată?
+PACIENT: Da, mai ales noaptea. Uneori mă trezesc cu mâncare în gât și mă înec.
+MEDIC: Ați slăbit?
+PACIENT: Da, vreo 6 kg în ultimul an. Îmi e teamă să mănânc.
+MEDIC: Aveți dureri la piept sau arsuri?
+PACIENT: O presiune ciudată la piept, mai ales în timp ce mânânc. Nu e o arsură.
+MEDIC: Aveți vârsta de...?
+PACIENT: 44 de ani.
+MEDIC: A apărut brusc sau treptat?
+PACIENT: Treptat, de vreo 4-5 ani. Primul an credeam că e stres.
+MEDIC: Tuse cronică sau pneumonii frecvente?
+PACIENT: Da! Am o tuse seacă cronică și acum 6 luni am făcut o pneumonie. Doctorii s-au mirat că sunt relativ tânără.
+MEDIC: Există boli autoimune sau neurologice la dumneavoastră?
+PACIENT: Nu, nimic. Sunt sănătoasă în rest.
+MEDIC: Înainte de a înghiți aveți salivație excesivă?
+PACIENT: Da, parcă strâng salivă în gură. Câteodată scuip înainte să mânânc.
+---
+DIAGNOSTIC PREZUMTIV: Acalazie esofagiană tip II — disfagie paradoxală lichide > solide, regurgitare nocturnă, scădere ponderală, aspirație pulmonară și manevra caracteristică de deglutiție. Diferențial 1: Stenoza esofagiană peptică — disfagie progresivă, dar solide mai afectate; absența arsurilor pledează contra. Diferențial 2: Pseudoacalazie prin neoplasm cardial — aceeași prezentare, esogastroscopia obligatorie.
+CUVINTE CHEIE: acalazie, disfagie paradoxală, regurgitare nocturnă, aspirație pulmonară, presiune toracică, scădere ponderală, manometrie

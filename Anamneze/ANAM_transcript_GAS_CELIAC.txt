@@ -1,0 +1,28 @@
+
+================================================================
+Transcript — ANAM_transcript_GAS_CELIAC
+MEDIC: Dr. Marin Cristina
+================================================================
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Diaree cronică de ani de zile, scaune voluminoase și urât mirositoare. Am slăbit mult.
+
+MEDIC: Aveți balonare sau dureri abdominale?
+PACIENT: Balonare enormă după ce mănânc pâine sau paste. Dureri abdominale crampe.
+
+MEDIC: Aveți anemie sau oboseală marcată?
+PACIENT: Da, am anemie de fier de ani de zile deși mănânc carne. Oboseală constantă.
+
+MEDIC: Aveți erupții cutanate?
+PACIENT: Da, erupție cu vezicule pe coate și genunchi, mă mănâncă teribil. Apare și dispare.
+
+MEDIC: Există boală celiacă în familie?
+PACIENT: O soră are intoleranță la gluten diagnosticată.
+
+MEDIC: Ați observat dacă simptomele se agravează după ce mâncați pâine sau cereale?
+PACIENT: Exact! Dacă evit pâinea mă simt mai bine. Dar nu am putut ține dieta.
+
+MEDIC: Câți ani aveți?
+PACIENT: 38 de ani.
+
+DIAGNOSTIC PREZUMTIV: Boală celiacă — diaree cronică cu steatoree, slăbire, balonare la gluten, anemie feriprivă refractară, dermatită herpetiformă, antecedente familiale. Confirmare anticorpi anti-tTG IgA, biopsie duodenală. CUVINTE CHEIE: celiac, diaree cronica, steatoree, balonare gluten, anemie feripriva, dermatita herpetiformă, intoleranță gluten

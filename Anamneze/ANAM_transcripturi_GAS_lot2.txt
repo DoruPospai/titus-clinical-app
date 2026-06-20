@@ -1,0 +1,143 @@
+================================================================
+Transcript — ANAM_transcript_GAS_LITIAZA_BILIARA
+MEDIC: Dr. Florescu Adrian
+================================================================
+
+MEDIC: Bună ziua. Ce vă deranjează?
+PACIENT: Durere puternică în dreapta sus, sub coastă, după ce mănânc gras. Durează câteva ore.
+
+MEDIC: Durerea iradiază undeva?
+PACIENT: Da, spre spate și spre umărul drept. Uneori e insuportabilă.
+
+MEDIC: Aveți greață sau vărsături în timpul episoadelor?
+PACIENT: Vărsături da, nu mă ajută. Și transpir mult în timpul durerii.
+
+MEDIC: Aveți icter — îngălbenirea pielii sau a ochilor?
+PACIENT: Nu, ochii sunt normali. Dar urina a fost mai închisă o dată.
+
+MEDIC: De câte ori ați mai avut astfel de episoade?
+PACIENT: De vreo 5 ori în ultimele 6 luni. Mereu după masă bogată.
+
+MEDIC: Câți ani aveți, sex și greutate?
+PACIENT: 42 de ani, femeie. Am vreo 80 kg, cam supraponderală.
+
+MEDIC: Există litiaza biliara în familie?
+PACIENT: Mama a avut vezica biliara scoasă.
+
+DIAGNOSTIC PREZUMTIV: Litiază biliară simptomatică — colică biliară postprandială dreaptă cu iradiere în umărul drept, greață, vărsături, episoade recurente, sex feminin, supraponderalitate, antecedente familiale. Confirmare ecografie abdominală. CUVINTE CHEIE: litiaza biliara, colica biliara, durere hipocondru drept, iradiere umar drept, greata, varsaturi, postprandial, obezitate
+
+
+================================================================
+Transcript — ANAM_transcript_GAS_PANCREATITA_ACUTA
+MEDIC: Dr. Stanescu Bogdan
+================================================================
+
+MEDIC: Bună ziua. Cum a început durerea?
+PACIENT: Durere de burtă teribilă, din noaptea trecută. S-a instalat brusc după o petrecere cu mult alcool.
+
+MEDIC: Unde este durerea și iradiază?
+PACIENT: În centrul burții, iradiază în spate ca o bara. Nu găsesc nicio poziție de confort.
+
+MEDIC: Aveți greață și vărsături?
+PACIENT: Vărsături multiple, nu mă pot opri. Nici apă nu țin.
+
+MEDIC: Ați mai avut episoade similare?
+PACIENT: Acum un an ceva mai ușor, după alcool de asemenea.
+
+MEDIC: Consumați alcool regulat?
+PACIENT: Da, câțiva ani de zile, cam mult. Mai ales bere și țuică.
+
+MEDIC: Aveți febră?
+PACIENT: Da, 38.5 de azi dimineață.
+
+MEDIC: Câți ani aveți?
+PACIENT: 47 de ani.
+
+DIAGNOSTIC PREZUMTIV: Pancreatită acută alcoolică — durere epigastrică cu iradiere în bară, vărsături incoercibile, febră, debut acut post-alcool, consum cronic de alcool, episod anterior. Confirmare amilaze/lipaze serice, CT abdominal. CUVINTE CHEIE: pancreatita acuta, durere epigastrica, iradiere in bara, varsaturi, alcool, debut brusc, febra
+
+
+================================================================
+Transcript — ANAM_transcript_GAS_CIROZA
+MEDIC: Dr. Petrescu Ioana
+================================================================
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Burta s-a umflat progresiv de câteva luni. Și picioarele sunt umflate permanent.
+
+MEDIC: Aveți îngălbenirea pielii sau ochilor?
+PACIENT: Da, pielea e galbenă de câteva săptămâni. Și ochii.
+
+MEDIC: Aveți sângerări sau vânătăi ușoare?
+PACIENT: Da, fac vânătăi la orice lovitură mică. Și gingiile sângerează.
+
+MEDIC: Aveți confuzie sau probleme de memorie?
+PACIENT: Soția zice că am perioade când nu sunt lucid. Că vorbesc ciudat.
+
+MEDIC: Consumați alcool?
+PACIENT: Am băut mult timp de 20 de ani. Am oprit acum 2 ani.
+
+MEDIC: Aveți hepatită virală diagnosticată?
+PACIENT: Hepatită C, diagnosticată acum 10 ani, nu am tratat.
+
+MEDIC: Câți ani aveți?
+PACIENT: 58 de ani.
+
+DIAGNOSTIC PREZUMTIV: Ciroză hepatică decompensată — ascită, edeme, icter, coagulopatie, encefalopatie hepatică, alcoolism cronic în antecedente, hepatită C netratată. Confirmare ecografie, fibroscan, biopsie hepatică. CUVINTE CHEIE: ciroza, ascita, edeme, icter, encefalopatie hepatica, alcool cronic, hepatita C, coagulopatie
+
+
+================================================================
+Transcript — ANAM_transcript_GAS_CANCER_COLON
+MEDIC: Dr. Ionescu Radu
+================================================================
+
+MEDIC: Bună ziua. Ce simptome vă deranjează?
+PACIENT: Sânge în scaun de câteva luni. La început am crezut că sunt hemoroizi.
+
+MEDIC: Ați observat modificări ale tranzitului intestinal?
+PACIENT: Da, alternez constipație cu diaree. Și scaunul a devenit mai subțire, ca un creion.
+
+MEDIC: Ați slăbit?
+PACIENT: Vreo 8 kg în 4 luni fără să încerc. Și sunt obosit tot timpul.
+
+MEDIC: Aveți dureri abdominale?
+PACIENT: Disconfort în stânga jos, persistent. Nu e durere puternică, dar e constant.
+
+MEDIC: Există cancer de colon în familie?
+PACIENT: Tatăl meu a murit de cancer de colon la 60 de ani. Un unchi similar.
+
+MEDIC: Aveți polipi intestinali diagnosticați?
+PACIENT: Am făcut colonoscopie acum 8 ani, aveau polipi adenomatoși. Nu am mai făcut de atunci.
+
+MEDIC: Câți ani aveți?
+PACIENT: 62 de ani.
+
+DIAGNOSTIC PREZUMTIV: Cancer colorectal — rectoragie cronică, modificarea tranzitului, scaun calibru redus, scădere ponderală, oboseală, antecedente familiale cancer colon, polipi adenomatoși anteriori. Confirmare colonoscopie cu biopsie, CT toracoabdominal. CUVINTE CHEIE: cancer colon, sange in scaun, scaun subtire, scadere ponderala, antecedente familiale, polipi adenomatosi, modificare tranzit
+
+
+================================================================
+Transcript — ANAM_transcript_GAS_APENDICITA
+MEDIC: Dr. Constantin Mihai
+================================================================
+
+MEDIC: Bună ziua. De când aveți durerea?
+PACIENT: A început azi dimineață în jurul buricului, acum s-a mutat în dreapta jos. Se agravează.
+
+MEDIC: Aveți greață sau vărsături?
+PACIENT: Da, am vomitat de două ori. Nu mi-e foame deloc.
+
+MEDIC: Aveți febră?
+PACIENT: Da, am măsurat 38.2 acasă.
+
+MEDIC: Durerea se agravează la mers sau la tuse?
+PACIENT: Da, la orice mișcare e mai rău. Am venit cu mașina aplecată.
+
+MEDIC: Aveți scaune diareice sau constipație?
+PACIENT: Constipat de ieri. Nu am putut merge la toaletă.
+
+MEDIC: Câți ani aveți?
+PACIENT: 22 de ani.
+
+MEDIC: Durerea este continuă sau vine în valuri?
+PACIENT: Continuă, nu trece. Se agravează treptat de dimineață.
+
+DIAGNOSTIC PREZUMTIV: Apendicită acută — durere migrată periombilical spre fosa iliacă dreaptă, greață, vărsături, febră, agravare la mișcare și tuse, anorexie, debut acut progresiv. Chirurgie de urgență. CUVINTE CHEIE: apendicita, durere fosa iliaca dreapta, migrare durere, febra, greata, varsaturi, agravare miscare, debut acut

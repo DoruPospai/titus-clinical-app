@@ -1,0 +1,30 @@
+SPECIALITATE: Neurologie
+COD_DIAGNOSTIC: G70.0
+DATA: 22.04.2024
+MEDIC: Dr. Vlad Ionescu
+---
+MEDIC: Bună ziua, ce vă deranjează?
+PACIENT: Am pleoapele căzute, mai ales spre seara. Dimineața e mai bine, dar la prânz le simt grele.
+MEDIC: De cât timp aveți această problemă?
+PACIENT: De vreo 5 luni. La început credeam că e de oboseală.
+MEDIC: Se agravează pe parcursul zilei sau după activitate?
+PACIENT: Exact, după ce citesc sau mă uit la televizor mai mult timp, parcă pleoapele se lasă și mai tare.
+MEDIC: Aveți și vedere dublă?
+PACIENT: Da, uneori văd dublu, mai ales seara sau când sunt obosită. Trece dacă închid un ochi.
+MEDIC: Aveți dificultăți la înghițit?
+PACIENT: Uneori mă înec cu lichide. Și mestecatul se îngreunează spre finalul mesei — simt că obosesc maxilarul.
+MEDIC: Vorbița s-a schimbat?
+PACIENT: Da! Oamenii îmi spun că la finalul conversațiilor vorbesc mai încet sau mai neclar. Singură nu prea observ.
+MEDIC: Aveți greutate la respirație?
+PACIENT: Nu în mod obișnuit, dar o dată, după o răceală mai tare, am simțit că respir greu.
+MEDIC: Aveți vârsta de...?
+PACIENT: 41 de ani.
+MEDIC: Ați observat slăbiciune la brațe sau picioare?
+PACIENT: La brațe da, după ce port greutăți sau fac ceva repetitiv. Dar trece după odihnă.
+MEDIC: Există ceva care îmbunătățește sau înrăutățește simptomele?
+PACIENT: Odihna ajută mult. Și când am febră pare că totul se agravează.
+MEDIC: Luați medicamente sau ați luat recent?
+PACIENT: Am luat antibiotic acum 2 luni, ciprofloxacin, și mi s-a părut că atunci a fost mai rău.
+---
+DIAGNOSTIC PREZUMTIV: Miastenia gravis oculobulbară — ptosis fluctuant, diplopia și disfagia cu variabilitate diurnă, agravare la efort și ameliorare după repaus, agravare la chinolone. Diferențial 1: Sindrom Lambert-Eaton — slăbiciune proximală, dar fără fluctuație diurnă tipică și fără ptosis. Diferențial 2: Miopatie oculofaringiană — ptosis și disfagie, dar fără fluctuație și fără diplopia.
+CUVINTE CHEIE: miastenia gravis, ptosis fluctuant, diplopia, disfagie, fatigabilitate musculară, anticorpi AChR, criza miastenică

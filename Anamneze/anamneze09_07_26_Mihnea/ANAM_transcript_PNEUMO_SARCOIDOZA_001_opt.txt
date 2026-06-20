@@ -1,0 +1,40 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Pneumologie / Medicină internă
+Diagnostic prezumtiv: Sarcoidoză pulmonară stadiu II
+Data: 2026-05-11
+Medic: Dr. Iacob Mihaela
+
+MEDIC: Bună ziua. Ce vă aduce la pneumologie?
+PACIENT: Tuse uscată și scurtare de respirație de 3 luni. Și oboseală mare.
+
+MEDIC: Aveți dureri articulare sau erupții cutanate?
+PACIENT: Da! Glezne dureroase, umflate, și niște noduli roșii dureroși pe picioare.
+
+MEDIC: Când au apărut nodulii?
+PACIENT: Odată cu tusea, acum 3 luni.
+
+MEDIC: Aveți febră sau scădere ponderală?
+PACIENT: Subfebrilitate, 37.4-37.6. Am slăbit 3 kg.
+
+MEDIC: Aveți tulburări de vedere?
+PACIENT: Da, o ochi mi-a fost roșu și dureros săptămâna trecută, a trecut.
+
+MEDIC: Aveți ganglioni măriți?
+PACIENT: Medicul de familie mi-a spus că am ganglioni la axile.
+
+MEDIC: Ați lucrat cu substanțe inhalatorii sau praf mineral?
+PACIENT: Nu, lucrez în birou.
+
+MEDIC: Există sarcoidoză sau boli autoimune în familie?
+PACIENT: Nu știu.
+
+MEDIC: Câți ani aveți?
+PACIENT: 31 de ani, femeie.
+
+MEDIC: Ați făcut radiografie toracică?
+PACIENT: Da, mi-a arătat adenopatii hilare bilaterale.
+
+DIAGNOSTIC PREZUMTIV: Sarcoidoză sistemică - sindrom Löfgren (adenopatii hilare bilaterale + eritem nodos + artrită acută + uveită anterioară). Stadiu II probabil. Necesită bronhoscopie cu biopsie, ACE, calciu urinar, RMN torace.
+
+CUVINTE CHEIE: adenopatii hilare bilaterale, eritem nodos, artrită acută, uveită, tuse uscată, sindrom Löfgren, ACE crescut, biopsie bronșică

@@ -1,0 +1,32 @@
+CASE: Dispoziție depresivă / anhedonie / oboseală
+DIALOG_ID: PSY_DEPRESSION_001
+
+Doctor: Cum vă simțiți în ultima perioadă?
+
+Patient: Nu mai am chef de nimic. Mă trezesc obosit și parcă nimic nu mă mai bucură.
+
+Doctor: De cât timp se întâmplă asta?
+
+Patient: De mai bine de o lună.
+
+Doctor: Dormiți bine?
+
+Patient: Nu. Adorm greu și mă trezesc pe la patru dimineața.
+
+Doctor: Pofta de mâncare s-a schimbat?
+
+Patient: Da, mănânc mai puțin. Am și slăbit puțin.
+
+Doctor: Aveți anxietate sau atacuri de panică?
+
+Patient: Anxietate da, dar nu atacuri puternice. Mai mult o apăsare continuă.
+
+Doctor: Vă puteți concentra?
+
+Patient: Greu. Citesc același lucru de mai multe ori.
+
+Doctor: Ați avut gânduri că nu mai merită să trăiți?
+
+Patient: Uneori mă gândesc că nu mai pot, dar nu am un plan să-mi fac rău.
+
+Doctor: E important că mi-ați spus. Vom discuta serios despre siguranță și despre ajutorul potrivit.

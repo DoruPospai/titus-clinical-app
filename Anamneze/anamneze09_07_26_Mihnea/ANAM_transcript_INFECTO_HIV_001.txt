@@ -1,0 +1,30 @@
+SPECIALITATE: Boli Infecțioase
+COD_DIAGNOSTIC: B20
+DATA: 14.02.2024
+MEDIC: Dr. Rodica Petrescu
+---
+MEDIC: Bună ziua, ce vă aduce astăzi la boli infecțioase?
+PACIENT: Am slăbit 12 kilograme în 4 luni fără să încerc, am febră intermitenta și transpirații nocturne.
+MEDIC: De cât timp aceste simptome?
+PACIENT: De vreo 5 luni progresiv.
+MEDIC: Câți ani aveți?
+PACIENT: 34 de ani.
+MEDIC: Aveți diaree persistentă sau probleme digestive?
+PACIENT: Da, diaree intermitentă de luni de zile. Câteodată cu mucus.
+MEDIC: Aveți infecții frecvente sau neobișnuite recent?
+PACIENT: O pneumonie în luna trecută. Și înainte o candidoză în gură persistentă.
+MEDIC: Aveți tuse sau probleme respiratorii?
+PACIENT: Da, tuse neproductivă care nu trece.
+MEDIC: Ați fost testat HIV anterior?
+PACIENT: Nu, nu am vrut.
+MEDIC: Aveți factor de risc — parteneri multipli, droguri injectabile, transfuzii?
+PACIENT: ...parteneri multipli, fără protecție uneori.
+MEDIC: Aveți ganglioni măriți?
+PACIENT: Da, la gât și la axilă simt ceva.
+MEDIC: Vă dor mușchii sau articulațiile?
+PACIENT: Da, am dureri generalizate.
+MEDIC: Aveți leziuni pe piele sau în gura?
+PACIENT: Câteva pete violacee pe picioare, nu știu ce sunt.
+---
+DIAGNOSTIC PREZUMTIV: Infecție HIV în stadiu avansat (CDC C — SIDA) — bărbat tânăr cu pierdere ponderala >10%, infecții oportuniste (pneumonie, candidoză orală), candidă în antecedente, posibil sarcom Kaposi (pete violacee), limfadenopatie generalizată, factor de risc sexual. CD4 probabil sub 200. Diferențial 1: Limfom non-Hodgkin — B symptoms (febra, transpirații, pierdere ponderala), adenopatie, dar imunodepresia HIV o complica. Diferențial 2: TBC diseminat — infecție oportunista frecventa în HIV avansat.
+CUVINTE CHEIE: HIV-SIDA, infecții oportuniste, candidoză orală, sarcom Kaposi, pierdere ponderala, CD4, TARV

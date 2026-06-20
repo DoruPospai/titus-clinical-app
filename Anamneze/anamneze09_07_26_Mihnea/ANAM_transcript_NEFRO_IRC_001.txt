@@ -1,0 +1,34 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Nefrologie
+Diagnostic prezumtiv: Insuficiență renală cronică stadiu G3b
+Data: 2026-05-02
+Medic: Dr. Cojocaru Mihai
+
+MEDIC: Bună ziua. Ce analize v-au trimis la nefrologie?
+PACIENT: Creatinina e 2.1 și RFG e calculat 35. Medicul de familie mi-a spus că e îngrijorător.
+
+MEDIC: Aveți simptome - oboseală, umflarea picioarelor, urini spumoase?
+PACIENT: Da la toate. Obosit mereu, picioarele umflate seara, și urina face spumă.
+
+MEDIC: Aveți diabet sau tensiune?
+PACIENT: Diabet de 15 ani, tip 2. Tensiune de 10 ani. Controlul nu e bine.
+
+MEDIC: Aveți infecții urinare frecvente sau calculi renali în antecedente?
+PACIENT: Câteva ITU de-a lungul anilor. Calculi nu.
+
+MEDIC: Luați AINS sau alte medicamente nefrotoxice?
+PACIENT: Ibuprofen des pentru dureri de spate.
+
+MEDIC: Aveți boală renală în familie?
+PACIENT: Fratele meu e la dializă de 3 ani, tot din cauza diabetului.
+
+MEDIC: Ați mai testat rinichii anterior?
+PACIENT: Ultimul an creatinina a crescut de la 1.6 la 2.1.
+
+MEDIC: Câți ani aveți?
+PACIENT: 62 de ani.
+
+DIAGNOSTIC PREZUMTIV: Insuficiență renală cronică stadiu G3b, probabil nefropatie diabetică + hipertensivă. Progresie documentată. AINS contraindicați.
+
+CUVINTE CHEIE: creatinină 2.1, RFG 35, proteinurie (urini spumoase), diabet, hipertensiune, AINS nefrotoxici, progresie documentată, antecedente familiale dializă

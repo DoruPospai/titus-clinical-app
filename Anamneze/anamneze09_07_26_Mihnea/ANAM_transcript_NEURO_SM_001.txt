@@ -1,0 +1,30 @@
+SPECIALITATE: Neurologie
+COD_DIAGNOSTIC: G35
+DATA: 11.03.2024
+MEDIC: Dr. Ioana Florescu
+---
+MEDIC: Bună ziua, ce simptome vă aduc la consultație?
+PACIENT: De vreo 3 săptămâni mi s-a amorțit piciorul drept și am un fel de slăbiciune la picior. Merg mai greu.
+MEDIC: A apărut brusc sau treptat?
+PACIENT: A apărut brusc, parcă într-o dimineață m-am trezit că nu mai simt bine piciorul.
+MEDIC: Aveți și alte simptome în afară de amorțeală și slăbiciune?
+PACIENT: Da, ochiul drept — vederea e cețoasă, mai ales când mă obosesc sau când fac sport.
+MEDIC: Vederea s-a înrăutățit și cu alte ocazii în trecut?
+PACIENT: Acum 6 luni am avut o perioadă de vreo 2 săptămâni când vedeam dublu și m-a trecut singur. Nu am mers la doctor.
+MEDIC: Aveți oboseală mai mare decât înainte?
+PACIENT: Oboseală cumplită. Mă trezesc dimineața obosită ca și când nu am dormit.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 32 de ani. Am crezut că e de la stres.
+MEDIC: La baie aveți probleme — urgențe, pierderi involuntare?
+PACIENT: Da, uneori simt o urgență mare să merg la baie și nu mai pot să amân. O dată nu am ajuns la timp.
+MEDIC: Aveți dureri undeva în corp?
+PACIENT: Da, uneori când mișc ochiul simt o durere ca un șoc în spatele ochiului.
+MEDIC: Simptomele se înrăutățesc când vă faceți cald sau la baie cald?
+PACIENT: Da! Dacă intru în baie cu apă caldă sau dacă e cald afară, simt că nu mai am piciorul deloc.
+MEDIC: Există boli autoimune în familie?
+PACIENT: Mama are ceva cu tiroida, dar altceva nu știu.
+MEDIC: Ați observat tremurături sau dificultăți la vorbire?
+PACIENT: Nu, la vorbire sunt OK. Dar uneori mă împiedic pe picior drept.
+---
+DIAGNOSTIC PREZUMTIV: Scleroză multiplă recidivant-remisivă — tânără cu episoade senzitivo-motorii și vizuale separate în timp și spațiu (nevrita optică + mielită), fenomen Uhthoff pozitiv. Diferențial 1: Neuromielită optică (NMOSD) — afectare optică și medulară, dar distribuția SM mai probabilă. Diferențial 2: Vasculită SNC — tablou episodic posibil, dar absența factorilor de risc vascular la tânăra.
+CUVINTE CHEIE: scleroză multiplă, nevrita optică, mielită, fenomen Uhthoff, episoade demielinizante, amorțeală, incontinență urinară

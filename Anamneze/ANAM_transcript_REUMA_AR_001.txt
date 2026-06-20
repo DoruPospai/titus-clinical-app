@@ -1,0 +1,25 @@
+CASE: Artrită reumatoidă — debut precoce cu poliartrită simetrică
+DIALOG_ID: ANAM_REUMA_AR_001
+
+Medic: Ce vă deranjează?
+Pacient: Am dureri la mâini de 3 luni, la toate degetele. Dimineața nu pot face nimic, abia strâng pumnul, durează o oră până se dezmorțesc.
+Medic: E simetric, la ambele mâini?
+Pacient: Da, exact la fel la ambele. Și la încheieturi.
+Medic: Umflătură?
+Pacient: Da, articulațiile mici ale degetelor sunt umflate vizibil. Și calde.
+Medic: Alte articulații afectate?
+Pacient: Am și la genunchi, mai ales cel drept. Și câteodată la umăr. Dar mâinile sunt cel mai rău.
+Medic: Oboseală?
+Pacient: Enormă. Mă trezesc obosită, merg obosită. Și am slăbit vreo 4 kilograme fără să vreau.
+Medic: Febră?
+Pacient: Subfebrilitate, 37.2-37.4, des.
+Medic: Ați luat ceva pentru durere?
+Pacient: Ibuprofen, ajută parțial dar nu trece de tot.
+Medic: Boli în familie?
+Pacient: Mama are artrită reumatoidă de 20 de ani, este pe tratament biologic. O mătușă are poliartrită.
+Medic: Aveți alte boli?
+Pacient: Am astm bronșic de mică, ușor. Altceva nu știu.
+Medic: Vârsta și ocupația?
+Pacient: 42 de ani, profesoară. Scriu mult la tablă, mă doare enorm acum.
+Medic: Fumați?
+Pacient: Am fumat 10 ani, m-am lăsat acum 5 ani.

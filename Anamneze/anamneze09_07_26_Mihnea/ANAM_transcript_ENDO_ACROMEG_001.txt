@@ -1,0 +1,30 @@
+SPECIALITATE: Endocrinologie
+COD_DIAGNOSTIC: E22.0
+DATA: 07.05.2024
+MEDIC: Dr. Mircea Pânzariu
+---
+MEDIC: Bună ziua, ce vă aduce la endocrinolog?
+PACIENT: Mi s-a schimbat fața. Soția mi-a scos niște poze vechi și am văzut că arăt altfel la față.
+MEDIC: Ce anume s-a schimbat?
+PACIENT: Maxilarul e mai proeminent, buza de jos mai groasă. Și fruntea parcă mai proeminentă.
+MEDIC: Mâinile sau picioarele vi s-au mărit?
+PACIENT: Da! Tocmai din cauza asta am venit — am mărit numărul la pantofi cu 2 numere. Și inelul nu mai îmi intră.
+MEDIC: Aveți dureri de cap frecvente?
+PACIENT: Da, dureri de cap de câțiva ani, mai ales dimineața.
+MEDIC: Aveți probleme cu vederea — câmpul vizual?
+PACIENT: Uneori parcă nu văd bine pe lateral. Am crezut că e de la oboseală.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 44 de ani.
+MEDIC: Transpirați excesiv sau vă este cald tot timpul?
+PACIENT: Da, transpir mult, chiar și vara asta. Soția mă ceartă pentru asta.
+MEDIC: Aveți vocea mai groasă decât înainte?
+PACIENT: Da, prietenii mi-au spus că vocea s-a schimbat. Eu nu am observat.
+MEDIC: Aveți dureri articulare sau la spate?
+PACIENT: Dureri la genunchi și la coloană. Am crezut că e de la muncă fizică.
+MEDIC: Aveți apnee — soția v-a spus că sforăiți și vă opriți din respirat?
+PACIENT: Da, soția mă trezește că nu respir câteodată. Sforăiesc de câțiva ani.
+MEDIC: Aveți probleme sexuale?
+PACIENT: Da, libidoul scăzut și câteva probleme de erecție în ultimul an.
+---
+DIAGNOSTIC PREZUMTIV: Acromegalie — bărbat cu modificări somatice progresive (macrognazie, creșterea mâinilor/picioarelor), dureri de cap, hemianopsie bitemporală incipientă, hiperhidroză, artropatii și hipogonadism sugerând adenom hipofizar GH-secretant. Diferențial 1: Gigantism — dacă debut prepubertar, dar vârsta și morfologia adultă exclud. Diferențial 2: Sindrom Marfan — proporții corporale modificate, dar fără hipersecreție hormonală.
+CUVINTE CHEIE: acromegalie, adenom hipofizar, IGF-1, macrognazie, hemianopsie bitemporală, hiperhidroză, hipogonadism

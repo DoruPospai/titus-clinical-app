@@ -1,0 +1,16 @@
+
+MEDIC: Dr. Ionescu Maria
+MEDIC: Ce probleme are copilul?
+PACIENT (mama): De mic a mers greu, se clatină mult. La 2 ani nu mergea deloc.
+MEDIC: Când a apărut problema cu ochii?
+PACIENT: La 18 luni i s-a găsit cataractă la ambii ochi. A fost operat la 2 ani.
+MEDIC: Are probleme cu învățatul, școala?
+PACIENT: Da, e în școală specială. Înțelege dar face față greu. Vorbește puțin și greu.
+MEDIC: Cum e fizic față de alți copii de vârsta lui?
+PACIENT: E mai mic, mai scund. Mușchii sunt slabi, obosește repede.
+MEDIC: Există boli similare în familie?
+PACIENT: Un văr de-al doilea a avut ceva asemănător, a murit la 12 ani.
+MEDIC: Câți ani are acum?
+PACIENT: 8 ani.
+MEDIC: Mai are alte probleme?
+PACIENT: Uneori are convulsii, de 2-3 ori pe an. Și nu a intrat la pubertate deși are 8 ani — medicul a spus că e posibil să nu intre normal.

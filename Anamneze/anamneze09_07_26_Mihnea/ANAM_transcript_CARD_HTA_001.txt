@@ -1,0 +1,43 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Cardiologie
+Diagnostic prezumtiv: Hipertensiune arterială esențială grad II
+Data: 2026-05-10
+Medic: Dr. Ionescu Mihai
+
+MEDIC: Bună ziua. Cu ce vă pot ajuta astăzi?
+PACIENT: Bună ziua, doctore. Am dureri de cap frecvente, mai ales dimineața, și mă simt amețit uneori.
+
+MEDIC: De cât timp aveți aceste simptome?
+PACIENT: De vreo trei luni. La început eram mai rar, dar acum aproape în fiecare zi.
+
+MEDIC: Ați măsurat tensiunea arterială în ultima perioadă?
+PACIENT: Da, am un tensiometru acasă. Am găsit valori de 160 la 100, uneori și mai mari.
+
+MEDIC: Aveți antecedente de hipertensiune în familie?
+PACIENT: Tatăl meu a avut probleme cu tensiunea și a murit de infarct la 65 de ani.
+
+MEDIC: Fumați sau consumați alcool?
+PACIENT: Am fumat vreo 20 de ani, dar m-am lăsat acum 5 ani. Alcool mai rar, la ocazii.
+
+MEDIC: Ce meserie aveți? Aveți stres la serviciu?
+PACIENT: Sunt manager de vânzări. Da, e mult stres, termene, ținte...
+
+MEDIC: Aveți alte boli cunoscute? Diabet, probleme cu rinichii?
+PACIENT: Nu, nu știu de nimic altceva.
+
+MEDIC: Luați vreo medicație în prezent?
+PACIENT: Numai aspirină uneori când mă doare capul.
+
+MEDIC: Aveți dureri în piept sau palpitații?
+PACIENT: Nu dureri, dar uneori simt că inima bate mai tare, mai ales seara.
+
+MEDIC: Scurtare de respirație la efort?
+PACIENT: Mă cam obosesc la urcat scările, dar cred că e și pentru că am luat în greutate.
+
+MEDIC: Câți ani aveți și cât cântăriți?
+PACIENT: 52 de ani, 95 de kg, înalt de 1.74.
+
+DIAGNOSTIC PREZUMTIV: Hipertensiune arterială esențială grad II, cu factori de risc cardiovascular multipli (antecedente familiale, fumat în antecedente, stres, suprapondere).
+
+CUVINTE CHEIE: hipertensiune, cefalee, amețeală, tensiune 160/100, antecedente familiale, suprapondere, palpitații

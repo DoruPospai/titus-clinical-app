@@ -1,0 +1,25 @@
+Transcript — ANAM_transcript_ENT_LARINGITA
+MEDIC: Dr. Constantin Elena
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Mi-am pierdut vocea de 3 zile. Vorbesc în șoaptă.
+
+MEDIC: Aveți durere în gât?
+PACIENT: Da, mă doare când înghit și când vorbesc. Gâtul e iritat.
+
+MEDIC: Aveți tuse?
+PACIENT: Tuse seacă, lătrătoare. Mă usucă în gât.
+
+MEDIC: Aveți febră?
+PACIENT: Nu, subfebrilitate, 37.3. Nu e mare.
+
+MEDIC: Ați forțat vocea recent?
+PACIENT: Da, am ținut o prezentare lungă cu 4 zile în urmă. Am vorbit mult.
+
+MEDIC: Aveți nas înfundat sau gât iritat?
+PACIENT: Am avut nas curgător săptămâna trecută, acum mai puțin.
+
+MEDIC: Câți ani aveți?
+PACIENT: 42 de ani.
+
+DIAGNOSTIC PREZUMTIV: Laringită acută — disfonie completă, odinofagie, tuse seacă lătrătoare, subfebrilitate, antecedent de suprasolicitare vocală și infecție respiratorie superioară. Confirmare laringoscopie indirectă. CUVINTE CHEIE: laringita, disfonie, pierderea vocii, tuse latratatoare, odinofagie, suprasolicitare vocala, infectie respiratorie

@@ -1,0 +1,30 @@
+SPECIALITATE: Chirurgie Oncologica
+COD_DIAGNOSTIC: C25.0
+DATA: 26.02.2024
+MEDIC: Dr. Tiberiu Moise
+---
+MEDIC: Bună ziua, cu ce va prezentati?
+PACIENT: Am îngălbenit de 3 saptamani, scaun deschis la culoare si urina intunecata.
+MEDIC: De cât timp ictuerul?
+PACIENT: Icterul a aparut progresiv. Am crezut ca e o hepatita.
+MEDIC: Aveți durere?
+PACIENT: Da, durere sunda in spate si sub coaste dreapta. Iradiaza in spate.
+MEDIC: Aveți scadere ponderala?
+PACIENT: Am slabit 10 kilograme in 2 luni, fara sa incerc.
+MEDIC: Câți ani aveți?
+PACIENT: 66 de ani.
+MEDIC: Fumati? Diabet?
+PACIENT: Fumez de 35 de ani. Diabet tip 2 recent, aparut brusc acum 4 luni.
+MEDIC: Aveți prurit cutanat?
+PACIENT: Da, ma mananca tot corpul de când am îngălbenit.
+MEDIC: Poftă de mâncare?
+PACIENT: Am scazut mult pofta. Grasimile îmi fac greata.
+MEDIC: Aveți pancreatita in antecedente?
+PACIENT: Nu.
+MEDIC: Tromboza recenta?
+PACIENT: Aveam tromboza de vena splenica acum 2 luni, tratata.
+MEDIC: Ati facut ecografie sau CT?
+PACIENT: CT arata masa in capul pancreasului cu dilatare de cale biliara principala.
+---
+DIAGNOSTIC PREZUMTIV: Adenocarcinom de cap de pancreas — barbat 66 ani fumator, icter obstructiv progresiv, durere iradiata in spate (invazie splancnica), scadere ponderala masiva, DZ2 aparut recent (marker paraneoplazic), tromboza spleno-portala, masa CT confirmata. Rezecabilitate evaluata urgent (protocolare vasculare). Diferențial 1: Colangiocarciom hiliar — localizare diferta, dar icter obstructiv similar. Diferențial 2: Pancreatita cronica — poate imita, dar scaderea ponderala acuta si DZ nou sugereaza cancer.
+CUVINTE CHEIE: adenocarcinom pancreatic, icter obstructiv, durere iradiata spate, DZ2 paraneoplazic, CA 19-9, duodenopancreatectomie Whipple, rezecabilitate vasculara

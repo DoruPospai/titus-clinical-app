@@ -1,0 +1,30 @@
+SPECIALITATE: Neurologie
+COD_DIAGNOSTIC: G61.0
+DATA: 07.05.2024
+MEDIC: Dr. Camelia Dănilă
+---
+MEDIC: Bună ziua, ce s-a întâmplat?
+PACIENT: Acum 4-5 zile am început să simt că mi se amorțesc picioarele, și ieri mi-am dat seama că nu mai pot merge normal. Picioarele sunt ca de vată.
+MEDIC: A început de la picioare sau de undeva anume?
+PACIENT: De la degete, parcă a urcat. Azi simt și la mâini.
+MEDIC: Ați avut vreo infecție sau boală înainte de a apărea simptomele?
+PACIENT: Da! Acum vreo 2 săptămâni am avut o diaree urâtă, vreo 4 zile. Am crezut că am mâncat ceva stricat.
+MEDIC: Aveți dureri?
+PACIENT: Da, dureri ciudate, nu știu cum să le descriu — parcă mă arde la picioare, un fel de junghi în spate.
+MEDIC: Puteți ridica brațele deasupra capului?
+PACIENT: Da, dar simt că obosesc repede. Astăzi mi-a fost mai greu să închid nasturii la cămașă.
+MEDIC: Aveți dificultăți la înghițit sau la respirație?
+PACIENT: Înghițitul e OK. Dar ieri seară am simțit că respir mai greu când stăteam culcat.
+MEDIC: Aveți vârsta de...?
+PACIENT: 38 de ani. Nu am mai avut probleme neurologice.
+MEDIC: Vezica funcționează normal?
+PACIENT: Acum că ziceți... ieri nu am putut urina timp de câteva ore, deși simțeam nevoia.
+MEDIC: Aveți palpitații sau vă simțiți rău din punct de vedere al inimii?
+PACIENT: Am simțit inima câteva ori că bate mai repede, și ieri tensiunea era puțin mai mare.
+MEDIC: Există paralizii în familie sau boli neuromusculare?
+PACIENT: Nu, nimic asemănător.
+MEDIC: Se înrăutățesc simptomele de la o zi la alta?
+PACIENT: Da, în fiecare zi e mai rău. De aceea m-am speriat.
+---
+DIAGNOSTIC PREZUMTIV: Sindrom Guillain-Barré (poliradiculoneuropatie inflamatorie acută) — paralizie ascendentă rapid progresivă la adult post-gastrointestinal, cu disautonomie și dureri neuropate. Diferențial 1: Mielită transversă acută — afectare medulară focală posibilă, dar distribuția ascendentă și contextul post-infecțios pledează pentru GBS. Diferențial 2: Neuropatie prin compresie medulară — dureri de spate prezente, dar absența nivelului senzorial clar.
+CUVINTE CHEIE: Guillain-Barré, paralizie ascendentă, post-infecțios, disautonomie, areflexie, durere neuropată, plasmafereză

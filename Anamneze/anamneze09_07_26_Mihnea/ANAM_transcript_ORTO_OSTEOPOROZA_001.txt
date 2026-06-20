@@ -1,0 +1,30 @@
+SPECIALITATE: Reumatologie-Ortopedie
+COD_DIAGNOSTIC: M81.0
+DATA: 11.04.2024
+MEDIC: Dr. Anca Sandu
+---
+MEDIC: Bună ziua, de ce ați venit astăzi?
+PACIENT: Am durere de spate de câteva luni și am scăzut 4 centimetri în înălțime față de tinerete.
+MEDIC: Câți ani aveți?
+PACIENT: 67 de ani.
+MEDIC: Sunteți la menopauza? Când a apărut?
+PACIENT: La 49 de ani menopauza. Acum 18 ani.
+MEDIC: Aveți fracturi anterioare — incheietura, vertebre?
+PACIENT: Am rupt incheietura la 60 de ani la o cazatura mica. Și radiografia acum arata vertebra tasata.
+MEDIC: Aveți rude cu fractura de sold?
+PACIENT: Mama a murit la 75 de ani dupa fractura de sold.
+MEDIC: Ați luat cortizon îndelungat?
+PACIENT: Da, pentru astm, an de an câte 3-4 luni.
+MEDIC: Cât expunere la soare si vitamina D luați?
+PACIENT: Puțin, stau mult în casa. Nu iau vitamina D.
+MEDIC: Aveți probleme de absorbție — celiacă, Crohn?
+PACIENT: Nu știu.
+MEDIC: Ați facut DEXA?
+PACIENT: Da, T-score -3.2 la coloana.
+MEDIC: Fumat? Alcool?
+PACIENT: Nu fumez, beau rar.
+MEDIC: Aveți dureri acute noi la spate?
+PACIENT: Da, recent am o durere acuta toracica când mișc brusc.
+---
+DIAGNOSTIC PREZUMTIV: Osteoporoza severa cu fracturi vertebrale si de incheietura — femeie 67 ani, menopauza precoce, corticoterapie cronica, istoric familial fractura sold, T-score -3.2, fractura vertebrala acuta toracica probabila. Tratament bisfosfonate/denosumab urgent. Diferențial 1: OsteomalacIE — deficientă vitamina D marcata, dar mai ales in adulti tineri. Diferențial 2: Mielom multiplu — fracturi vertebrale patologice la varstnic, proteina M.
+CUVINTE CHEIE: osteoporoza, T-score, fractura vertebrala, bisfosfonate, denosumab, menopauza, corticoizi

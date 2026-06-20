@@ -1,0 +1,40 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Cardiologie
+Diagnostic prezumtiv: Insuficiență cardiacă diastolică (HFpEF)
+Data: 2026-05-12
+Medic: Dr. Popescu Marian
+
+MEDIC: Bună ziua! Ce vă aduce astăzi la cabinet?
+PACIENT: Respir mai greu și simt o oboseală accentuată de câteva luni.
+
+MEDIC: S-a agravat recent?
+PACIENT: Da, în ultimele 2 săptămâni e mult mai rău. La urcat scări mă sufoc.
+
+MEDIC: Aveți hipertensiune arterială?
+PACIENT: Da, am diagnosticat acum 5 ani. Iau Amlodipina.
+
+MEDIC: Dureri în piept sau palpitații?
+PACIENT: Palpitații din când în când, mai ales seara.
+
+MEDIC: Aveți umflături la picioare?
+PACIENT: Da, gleznele sunt umflate seara.
+
+MEDIC: Dormiți cu mai multe perne? Vă treziți cu senzație de sufocare?
+PACIENT: Da, cu 2 perne. Uneori mă trezesc și trebuie să stau jos.
+
+MEDIC: Ați câștigat în greutate recent?
+PACIENT: 3 kg în ultima lună, cred că e apă.
+
+MEDIC: Ați schimbat medicația recent?
+PACIENT: Nu, aceleași medicamente pentru tensiune.
+
+MEDIC: Aveți diabet sau fibrilație atrială?
+PACIENT: Diabet tip 2 da. Fibrilație nu știu.
+
+MEDIC: Câți ani aveți?
+PACIENT: 68 de ani.
+
+DIAGNOSTIC PREZUMTIV: Insuficiență cardiacă cu fracție de ejecție prezervată (HFpEF), decompensată. Factori: HTA cronică, diabet, vârstă. Necesită ecocardiografie, BNP, diuretic.
+
+CUVINTE CHEIE: dispnee de efort, ortopnee, edeme gambiere, hipertensiune, diabet, HFpEF, BNP crescut, ecocardiografie

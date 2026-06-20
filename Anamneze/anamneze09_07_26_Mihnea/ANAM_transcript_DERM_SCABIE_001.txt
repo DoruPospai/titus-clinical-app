@@ -1,0 +1,28 @@
+SPECIALITATE: Dermatologie
+COD_DIAGNOSTIC: B86
+DATA: 22.02.2024
+MEDIC: Dr. Ionuț Popa
+---
+MEDIC: Bună ziua, cu ce problemă ați venit?
+PACIENT: Mă mănâncă groaznic mai ales noaptea, pe tot corpul. Nu mai dorm.
+MEDIC: De cât timp?
+PACIENT: De vreo 3 săptămâni. S-a înrăutățit progresiv.
+MEDIC: Unde sunt leziunile?
+PACIENT: Pe mâini între degete, la încheieturi, pe burtă, în jurul buricului și mai jos.
+MEDIC: Aveți linii fine, serpentine, pe piele?
+PACIENT: Nu am remarcat. Dar am bule mici și zgârieturi de la grăpat.
+MEDIC: Există alte persoane în casă cu aceleași simptome?
+PACIENT: Da! Soția mea are aceleași. A apărut la amândoi cam în același timp.
+MEDIC: Aveți contact recent cu persoane din colectivitate, spital, azil?
+PACIENT: Mama mea e la azil. Am vizitat-o des în ultima lună.
+MEDIC: Pruritul este mai intens noaptea?
+PACIENT: Da, noaptea e insuportabil, ziua mai suportabil.
+MEDIC: Aveți leziuni pe față sau pe scalp?
+PACIENT: Nu, pe față nu. Doar pe corp și pe mâini.
+MEDIC: Ați aplicat ceva pe piele?
+PACIENT: Creme de hidratare și un antihistaminic oral — nu a ajutat deloc.
+MEDIC: Aveți imunodeficiență sau corticoterapie îndelungată?
+PACIENT: Nu.
+---
+DIAGNOSTIC PREZUMTIV: Scabie comună — bărbat cu prurit nocturn intens, leziuni la nivelul spațiilor interdigitale și pliului axilar, contact epidemiologic (azil), cu transmitere familială. Diferențial 1: Scabie norvegiană — forma crustată la imunocompromiși, dar pacientul este imuncompetent. Diferențial 2: Dermatită de contact — distribuție diferită, fără afectare familială concomitentă.
+CUVINTE CHEIE: scabie, prurit nocturn, spații interdigitale, Sarcoptes scabiei, permetrin, contact epidemiologic, transmitere familială

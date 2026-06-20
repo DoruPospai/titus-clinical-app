@@ -1,0 +1,21 @@
+CASE: Tromboembolie pulmonară — dispnee acută după imobilizare
+DIALOG_ID: ANAM_PNEUMO_TEP_001
+
+Medic: Ce s-a întâmplat?
+Pacient: Am o lipsă de aer groaznică de azi dimineață, apărută brusc. Și o durere în piept, în dreapta, care se agravează când respir adânc.
+Medic: A apărut cu adevărat brusc?
+Pacient: Da, eram în pat și m-am sculat să merg la baie și brusc nu am mai putut respira. Mi s-a făcut și rău, am leșinat puțin.
+Medic: Ați tușit? Cu sânge?
+Pacient: Tușesc, da, și am scuipat puțin cu sânge azi dimineață. M-a speriat tare.
+Medic: Inima vă bate rapid?
+Pacient: Simt că bate foarte repede, parcă îmi iese din piept. Și sunt moale tot, transpir.
+Medic: Aveți dureri sau umflătură la picior?
+Pacient: Da! Piciorul stâng e umflat de 3 zile, roșu și cald, îl credeam o lovitură. Nu m-am gândit că e legat.
+Medic: Ați stat mult la pat recent?
+Pacient: Am operat genunchiul drept acum 10 zile, am stat în pat aproape tot timpul. Abia am început să merg.
+Medic: Ați luat tratament anticoagulant după operație?
+Pacient: Mi-au dat niște injecții la burtă în spital, dar acasă nu mi-au zis să continui cu nimic. Sau poate mi-au zis și am uitat.
+Medic: Antecedente de tromboze?
+Pacient: Acum 5 ani am avut o tromboză la picior, tot după o imobilizare. Mama a murit de embolie pulmonară.
+Medic: Luați pastile contraceptive?
+Pacient: Da, de 2 ani.

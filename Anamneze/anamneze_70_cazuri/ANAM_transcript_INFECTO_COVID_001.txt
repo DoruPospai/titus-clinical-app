@@ -1,0 +1,40 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Boli infecțioase / Pneumologie
+Diagnostic prezumtiv: COVID-19 cu pneumonie bilaterală și insuficiență respiratorie
+Data: 2026-05-08
+Medic: Dr. Nechita Bogdan
+
+MEDIC: Bună ziua. De când aveți simptomele?
+PACIENT: De 8 zile. La început tuse și febră, acum nu mai pot respira normal.
+
+MEDIC: Aveți test COVID pozitiv?
+PACIENT: Da, test rapid pozitiv acum 7 zile.
+
+MEDIC: Cât de mare e febra?
+PACIENT: Până la 39.5, persistentă.
+
+MEDIC: Saturația oxigenului?
+PACIENT: Acasă cu pulsoximetrul era 88-90. De aceea am venit.
+
+MEDIC: Aveți dureri în piept?
+PACIENT: Da, apăsare bilaterală, mai ales la respirat adânc.
+
+MEDIC: Aveți boli cronice - diabet, obezitate, boli cardiace?
+PACIENT: Diabet tip 2 și sunt supraponderal, 105 kg.
+
+MEDIC: Sunteți vaccinat COVID?
+PACIENT: Nu, nu am vrut să mă vaccinez.
+
+MEDIC: Luați medicamente pentru diabet?
+PACIENT: Metformin și Jardiance.
+
+MEDIC: Aveți modificări de gust sau miros?
+PACIENT: Da, de 6 zile nu simt nimic la mâncare.
+
+MEDIC: Câți ani aveți?
+PACIENT: 55 de ani.
+
+DIAGNOSTIC PREZUMTIV: COVID-19 sever cu pneumonie bilaterală și insuficiență respiratorie (SpO2 88-90%, factori de risc: diabet, obezitate, nevaccinat). Necesită internare, CT torace, oxigenoterapie, anticoagulare profilactică, corticoterapie (dexametazonă protocol).
+
+CUVINTE CHEIE: COVID-19 sever, pneumonie bilaterală, desaturare 88%, diabet, obezitate, nevaccinat, anosmie, dexametazonă, anticoagulare

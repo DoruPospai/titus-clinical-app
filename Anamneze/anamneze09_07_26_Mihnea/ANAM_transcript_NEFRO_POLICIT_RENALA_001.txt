@@ -1,0 +1,30 @@
+SPECIALITATE: Nefrologie / Genetică
+COD_DIAGNOSTIC: Q61.2
+DATA: 22.04.2024
+MEDIC: Dr. Andrei Preda
+---
+MEDIC: Bună ziua, ce vă aduce?
+PACIENT: Dureri în partea stângă și dreaptă, la rinichi. De câteva luni se înrăutățesc.
+MEDIC: Cum sunt durerile — continue, colici, surdă?
+PACIENT: Mai mult o greutate, o apăsare. Uneori mai ascuțit, mai ales dimineața.
+MEDIC: Aveți probleme cu tensiunea?
+PACIENT: Da, am tensiunea mare de vreo 5 ani. Am pastile.
+MEDIC: Există boli la rinichi în familie?
+PACIENT: Da! Tatăl meu a murit cu rinichii la dializă la 58 de ani. Și un unchi cu probleme similare.
+MEDIC: Aveți vârsta de...?
+PACIENT: 42 de ani.
+MEDIC: Aveți dureri de cap frecvente?
+PACIENT: Da, dureri de cap frecvente, mai ales la ceafă. Și câteva episoade de sânge din nas.
+MEDIC: Ați observat ceva la urină — sânge, culoare?
+PACIENT: Da, am avut câteva episoade de urină roz-roșiatică. Doctorul mi-a zis că e sânge.
+MEDIC: Aveți probleme la ficcat sau la inimă?
+PACIENT: Mi s-a spus că am ficatul puțin mărit. Și recent mi s-au descoperit ceva la inimă — un defect la valvă.
+MEDIC: Aveți dureri de cap brusce, violente?
+PACIENT: Acum 2 ani am avut o durere de cap cumplită brusc, ca un trăsnet. M-am dus la urgențe.
+MEDIC: Ce s-a descoperit atunci?
+PACIENT: Au zis că nu au găsit nimic grav. Dar mi-au arătat un chist la creier la CT.
+MEDIC: Aveți dureri abdominale la apăsare?
+PACIENT: Da, la apăsare pe burtă doare mai ales lateral.
+---
+DIAGNOSTIC PREZUMTIV: Polichistoză renală autosomal dominantă (ADPKD) — adulte cu dureri lombare bilaterale, HTA, hematurie, masă abdominală palpabilă, chisturi hepatice, anevrism intracranian și istoric familial de IRC. Diferențial 1: Pielonefrită cronică cu chisturi — mai puțin probabil fără infecții frecvente. Diferențial 2: Polichistoză renală autosomal recesivă — formă adultă mai rară, fără tabloul familial dominant.
+CUVINTE CHEIE: polichistoză renală, ADPKD, HTA, hematurie, masă abdominală, anevrism intracranian, IRC familial

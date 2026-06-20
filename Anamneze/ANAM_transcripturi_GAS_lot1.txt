@@ -1,0 +1,152 @@
+================================================================
+Transcript — ANAM_transcript_GAS_RGE
+MEDIC: Dr. Ionescu Mihai
+================================================================
+
+MEDIC: Bună ziua. Ce simptome vă deranjează?
+PACIENT: Arsuri la stomac după mâncare, mai ales după ce mănânc gras sau acid. Urcă până în gât.
+
+MEDIC: Când apar arsurile cel mai frecvent?
+PACIENT: La câteva ore după masă și noaptea când mă culc. Trebuie să dorm cu capul ridicat.
+
+MEDIC: Aveți gust acru sau amar în gură?
+PACIENT: Da, dimineața am gust amar și acid în gură. Uneori salivez mult.
+
+MEDIC: Aveți durere în piept sau dificultăți la înghițit?
+PACIENT: Durere în piept uneori, la început credeam că e inima. Și am senzație că mâncarea se oprește.
+
+MEDIC: Ce agravează simptomele?
+PACIENT: Cafeaua, ciocolata, alimentele grase. Și când mă aplec în față.
+
+MEDIC: Aveți tuse sau răgușeală?
+PACIENT: Tuse seacă persistentă, mai ales noaptea. Și vocea e mai răgușită dimineața.
+
+MEDIC: Câți ani aveți și consumați alcool sau fumați?
+PACIENT: 45 de ani. Fumez, un pachet pe zi. Alcool ocazional.
+
+MEDIC: Aveți greutate în plus?
+PACIENT: Da, am îngrășat vreo 15 kg în ultimii ani.
+
+DIAGNOSTIC PREZUMTIV: Boală de reflux gastroesofagian — pirozis postprandial și nocturn, regurgitare acidă, gust acru matinal, tuse nocturnă, disfagie, agravare la mâncare grasă și cafea, obezitate, fumat. Confirmare endoscopie digestivă superioară. CUVINTE CHEIE: reflux, arsuri stomac, pirozis, regurgitare acida, gust amar, tuse nocturna, disfagie, obezitate, fumat
+
+
+================================================================
+Transcript — ANAM_transcript_GAS_ULCER_DUODENAL
+MEDIC: Dr. Popescu Ana
+================================================================
+
+MEDIC: Bună ziua. Ce vă aduce la consultație?
+PACIENT: Durere în stomac care apare la 2-3 ore după masă. Se ameliorează când mănânc ceva.
+
+MEDIC: Durerea apare noaptea?
+PACIENT: Da, mă trezesc noaptea cu durere, mănânc ceva și trece. E ciudat.
+
+MEDIC: Ați observat sânge în scaun sau scaune negre?
+PACIENT: Acum două săptămâni am avut scaun negru, ca gudronul. M-am speriat.
+
+MEDIC: Aveți greață sau vărsături?
+PACIENT: Greață uneori. O dată am vomitat ceva ce părea zaț de cafea.
+
+MEDIC: Luați antiinflamatorii sau aspirină?
+PACIENT: Da, iau ibuprofen frecvent pentru dureri de spate, de ani de zile.
+
+MEDIC: Aveți dureri de stomac după ce mâncați sau înainte?
+PACIENT: Durerea apare când stomacul e gol. Mâncarea ameliorează.
+
+MEDIC: Aveți Helicobacter pylori diagnosticat?
+PACIENT: Nu am făcut test, dar bunicul a avut ulcer.
+
+MEDIC: Câți ani aveți?
+PACIENT: 52 de ani.
+
+DIAGNOSTIC PREZUMTIV: Ulcer duodenal — durere epigastrică postprandial tardiv ameliorată de alimentație, durere nocturnă, melenă, vărsătură hematemesis, consum cronic AINS, antecedente familiale ulcer. Confirmare endoscopie, test Helicobacter pylori. CUVINTE CHEIE: ulcer duodenal, durere stomac gol, melena, hematemeza, AINS, Helicobacter, durere nocturna
+
+
+================================================================
+Transcript — ANAM_transcript_GAS_IBS
+MEDIC: Dr. Constantin Elena
+================================================================
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Dureri abdominale care trec după ce merg la toaletă. De ani de zile.
+
+MEDIC: Cum sunt scaunele?
+PACIENT: Variabile. Uneori constipat zile întregi, apoi diaree bruscă. Niciodată normal.
+
+MEDIC: Aveți balonare sau gaze?
+PACIENT: Balonare enormă după masă. Mă simt umflat tot timpul. Și zgomote intestinale.
+
+MEDIC: Aveți sânge în scaun sau scaune nocturne?
+PACIENT: Nu, niciodată sânge. Niciodată noaptea.
+
+MEDIC: Există situații care agravează simptomele?
+PACIENT: Stresul agravează tot. La examene sau situații tensionate e cel mai rău.
+
+MEDIC: Ați pierdut în greutate?
+PACIENT: Nu, greutatea e stabilă.
+
+MEDIC: Câți ani aveți și există boli intestinale în familie?
+PACIENT: 34 de ani. Mama a avut ceva similar, nu știu exact diagnosticul.
+
+MEDIC: Simptomele sunt prezente de cât timp?
+PACIENT: De vreo 5 ani, de când am început serviciul.
+
+DIAGNOSTIC PREZUMTIV: Sindrom de colon iritabil — dureri abdominale ameliorate de defecație, alternantă constipație-diaree, balonare, fără sânge, agravare la stres, simptome cronice. Confirmare prin excludere — colonoscopie normală, calprotectina fecală normală. CUVINTE CHEIE: colon iritabil, durere abdominala, alternanta diaree constipatie, balonare, stres, fara sange, cronic
+
+
+================================================================
+Transcript — ANAM_transcript_GAS_COLITA_ULCERATIVA
+MEDIC: Dr. Radu Silviu
+================================================================
+
+MEDIC: Bună ziua. Ce simptome vă aduc?
+PACIENT: Diaree cu sânge de 3 săptămâni. Merg la toaletă de 8-10 ori pe zi.
+
+MEDIC: Aveți crampe abdominale?
+PACIENT: Crampe puternice înainte de a merge la toaletă. Urgența e enormă, nu pot amâna.
+
+MEDIC: Aveți febră sau oboseală?
+PACIENT: Febră mică, 37.5. Sunt epuizat, nu mai pot funcționa normal.
+
+MEDIC: Aveți dureri articulare sau probleme oculare?
+PACIENT: Da! Îmi dor genunchii și gleznele de câteva săptămâni. Prima dată am crezut că nu au legătură.
+
+MEDIC: Există boli inflamatorii intestinale în familie?
+PACIENT: Un unchi are boala Crohn.
+
+MEDIC: Ați mai avut episoade similare?
+PACIENT: Acum 2 ani ceva similar, mai ușor. A trecut singur.
+
+MEDIC: Câți ani aveți?
+PACIENT: 28 de ani.
+
+DIAGNOSTIC PREZUMTIV: Colită ulcerativă în puseu — diaree sanguinolentă, crampe, urgență de defecație, febră, artralgii periferice, episoade recurente, antecedente familiale boală inflamatorie intestinală. Confirmare colonoscopie cu biopsie. CUVINTE CHEIE: colita ulcerativa, diaree cu sange, crampe, urgenta defecatie, febra, artralgii, puseu, recurent
+
+
+================================================================
+Transcript — ANAM_transcript_GAS_CELIAC
+MEDIC: Dr. Marin Cristina
+================================================================
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Diaree cronică de ani de zile, scaune voluminoase și urât mirositoare. Am slăbit mult.
+
+MEDIC: Aveți balonare sau dureri abdominale?
+PACIENT: Balonare enormă după ce mănânc pâine sau paste. Dureri abdominale crampe.
+
+MEDIC: Aveți anemie sau oboseală marcată?
+PACIENT: Da, am anemie de fier de ani de zile deși mănânc carne. Oboseală constantă.
+
+MEDIC: Aveți erupții cutanate?
+PACIENT: Da, erupție cu vezicule pe coate și genunchi, mă mănâncă teribil. Apare și dispare.
+
+MEDIC: Există boală celiacă în familie?
+PACIENT: O soră are intoleranță la gluten diagnosticată.
+
+MEDIC: Ați observat dacă simptomele se agravează după ce mâncați pâine sau cereale?
+PACIENT: Exact! Dacă evit pâinea mă simt mai bine. Dar nu am putut ține dieta.
+
+MEDIC: Câți ani aveți?
+PACIENT: 38 de ani.
+
+DIAGNOSTIC PREZUMTIV: Boală celiacă — diaree cronică cu steatoree, slăbire, balonare la gluten, anemie feriprivă refractară, dermatită herpetiformă, antecedente familiale. Confirmare anticorpi anti-tTG IgA, biopsie duodenală. CUVINTE CHEIE: celiac, diaree cronica, steatoree, balonare gluten, anemie feripriva, dermatita herpetiformă, intoleranță gluten

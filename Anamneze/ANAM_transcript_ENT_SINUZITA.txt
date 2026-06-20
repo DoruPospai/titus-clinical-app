@@ -1,0 +1,25 @@
+Transcript — ANAM_transcript_ENT_SINUZITA
+MEDIC: Dr. Petrescu Dan
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Durere de cap în frunte și sub ochi de 5 zile. Se agravează când mă aplec înainte.
+
+MEDIC: Aveți nas înfundat sau scurgere nazală?
+PACIENT: Nas înfundat complet. Și scurgere groasă, gălbuie-verzuie.
+
+MEDIC: Aveți febră?
+PACIENT: Da, temperatură ușor crescută, 37.5.
+
+MEDIC: Aveți durere la apăsarea pe față?
+PACIENT: Da, sub ochi și pe frunte, doare la apăsare.
+
+MEDIC: Ați avut o răceală înainte?
+PACIENT: Da, acum 10 zile am avut gripă. Credeam că trece, dar s-a agravat.
+
+MEDIC: Aveți pierderea mirosului?
+PACIENT: Da, nu simt mirosul deloc de câteva zile.
+
+MEDIC: Câți ani aveți?
+PACIENT: 35 de ani.
+
+DIAGNOSTIC PREZUMTIV: Sinuzită maxilară și frontală acută — cefalee frontală și suborbiculară, agravată la aplecare, rinoree purulentă, obstrucție nazală, anosmie, febră, precedată de IACRS. Confirmare CT sinusuri. CUVINTE CHEIE: sinuzita, durere frunte, durere sub ochi, nas infundat, secretie purulenta, anosmie, agravare la aplecare

@@ -1,0 +1,28 @@
+SPECIALITATE: Endocrinologie / Diabet
+COD_DIAGNOSTIC: E10.1
+DATA: 12.01.2024
+MEDIC: Dr. Raluca Apostol
+---
+MEDIC: Bună ziua, ce simptome aveți?
+PACIENT: Beau apă din abundență, urinaz tot timpul și slăbesc rapid. Și mă simt fără vlagă.
+MEDIC: De cât timp?
+PACIENT: De vreo 3-4 săptămâni. Slăbit vreo 6 kg fără să vreau.
+MEDIC: Aveți greață sau dureri de burtă?
+PACIENT: Da! De ieri mă doare burta și mi-e greață. Am vărsătură de 2 ori.
+MEDIC: Aveți vedere încețoșată?
+PACIENT: Da, în ultimele 2 săptămâni văd mai greu. Am crezut că e oboseală.
+MEDIC: Respirați cu dificultate sau aveți respirație cu miros ciudat?
+PACIENT: Mama mi-a spus că respir ciudat, adânc. Și i s-a părut că am miros de fructe.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 22 de ani. Nu am mai avut probleme cu zahărul.
+MEDIC: Există diabet în familie?
+PACIENT: Tatăl meu are diabet, iau pastile. Dar el e mai în vârstă.
+MEDIC: Aveți infecții frecvente — răni care se vindecă greu?
+PACIENT: Nu, dar am avut o candidoză la gură luna trecută.
+MEDIC: Cât de mult ați băut apă astăzi?
+PACIENT: Probabil 6-7 litri. Tot timpul e gura uscată.
+MEDIC: Ați mâncat normal astăzi?
+PACIENT: Nu am apetit deloc. Nici ieri nu am mâncat aproape nimic.
+---
+DIAGNOSTIC PREZUMTIV: Cetoacidoză diabetică, diabet zaharat tip 1 debut — tânăr cu triada clasică (poliurie, polidipsie, scădere ponderală), greață, vărsături, respirație Kussmaul și halenă cetonemică. Diferențial 1: Diabet zaharat tip 2 cu debut acut — mai rar la vârstă tânără fără obezitate. Diferențial 2: Diabet insipid — poliurie și polidipsie prezente, dar absența cetonelor și glicemia diferențiază.
+CUVINTE CHEIE: cetoacidoză diabetică, debut DZ tip 1, poliurie, polidipsie, respirație Kussmaul, halenă cetonemică, insulinoterapie urgentă

@@ -1,0 +1,28 @@
+SPECIALITATE: Chirurgie Generala
+COD_DIAGNOSTIC: K56.6
+DATA: 05.02.2024
+MEDIC: Dr. Cosmin Biro
+---
+MEDIC: Bună ziua, cu ce urgenta ați venit?
+PACIENT: Nu am mai mers la toaleta de 4 zile, nu eliminu nici gaze, am dureri mari de burtă si varsat.
+MEDIC: De când au inceput simptomele?
+PACIENT: Acum 4 zile am simtit că nu pot merge la toaleta. Durerile s-au amplificat progresiv.
+MEDIC: Ati mai avut operatii abdominale anterior?
+PACIENT: Da, apendicectomie la 20 de ani si o operatie de intestin acum 5 ani pentru cancer de colon.
+MEDIC: Balonarea abdominala?
+PACIENT: Urias, burta e umflata si dura.
+MEDIC: Greata si varsaturi?
+PACIENT: Da, varsat de 3 ori azi. La inceput mancare, acum verde-galben.
+MEDIC: Câți ani aveți?
+PACIENT: 65 de ani.
+MEDIC: Aveți febra?
+PACIENT: Da, 38 de ieri seara.
+MEDIC: La palpare abdominul este sensibil?
+PACIENT: Dureros peste tot. La apasare si la eliberare.
+MEDIC: Ați luat ceva pentru durere?
+PACIENT: Antispastic, nu a ajutat.
+MEDIC: Aveți sunet metalic la ascultare — cum ar sti voi sa-mi spuneti?
+PACIENT: Nu pot sa spun asta, dar burta "face zgomote ciudate".
+---
+DIAGNOSTIC PREZUMTIV: Ocluzie intestinala mecanica prin bridă postoperatorie — pacient cu multipla chirurgie abdominala, oprire tranzit gaze si materii fecale 4 zile, varsaturi bilioase, distensie masiva, febra (risc ischemie). Urgenta chirurgicala. Diferențial 1: Volvulus de sigmoid — debut mai acut, imagine radiologica "bob de cafea". Diferențial 2: Ocluzue prin recidiva neoplazica — antecedente cancer colon, posibila compresie externa/invazie.
+CUVINTE CHEIE: ocluzie intestinala, brida postoperatorie, stopare tranzit, varsaturi bilioase, distensie abdominala, laparotomie urgenta, ischemie intestinala

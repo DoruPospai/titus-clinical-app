@@ -1,0 +1,28 @@
+SPECIALITATE: Ginecologie
+COD_DIAGNOSTIC: D25.9
+DATA: 14.03.2024
+MEDIC: Dr. Alina Dumitrescu
+---
+MEDIC: Bună ziua, ce probleme ginecologice aveți?
+PACIENT: Am menstruații foarte abundente de un an, cu cheaguri. Mă simt obosită tot timpul.
+MEDIC: De cât timp sunt abundente?
+PACIENT: De un an și jumătate s-au înrăutățit progresiv. Schimb tampoanele din oră în oră.
+MEDIC: Aveți dureri menstruale?
+PACIENT: Da, crampe puternice în primele 2 zile. Și dureri pelvine în afara menstruației.
+MEDIC: Aveți senzație de presiune pelvină sau urinare frecventă?
+PACIENT: Da, simt presiune jos în burtă. Și mai des la baie noaptea.
+MEDIC: Câți ani aveți și aveți copii?
+PACIENT: 42 de ani, 2 copii, cel mai mic are 10 ani.
+MEDIC: Ați făcut ecografie?
+PACIENT: Da, medicul de familie m-a trimis, mi-a zis că am fibrom mare.
+MEDIC: Știți dimensiunile?
+PACIENT: 7 centimetri mi-a spus. E în perete, intramural.
+MEDIC: Aveți constipație sau dificultate la defecare?
+PACIENT: Da, uneori simt presiune și la defecație.
+MEDIC: Ați observat creștere abdominală?
+PACIENT: Pantalonii îmi sunt mai strâmți, credeam că m-am îngrășat.
+MEDIC: Aveți analize pentru anemie?
+PACIENT: Nu am făcut recent. Mă simt slabă și amețesc.
+---
+DIAGNOSTIC PREZUMTIV: Fibrom uterin intramural voluminos cu metroragie și anemie secundară — femeie de 42 ani, menometroragie severă, simptome compresive vezicale și rectale, fibrom 7 cm ecografic confirmat. Diferențial 1: Adenomioză — uter globulos, dismenoree importantă, poate coexista cu fibromul. Diferențial 2: Cancer endometrial — excludere obligatorie la femeie 42 ani cu sângerare anormală, necesită curetaj biopsic.
+CUVINTE CHEIE: fibrom uterin, metroragie, anemie secundară, simptome compresive, miolom, histeroscopie, miomectomie

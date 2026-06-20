@@ -1,0 +1,30 @@
+SPECIALITATE: Reumatologie
+COD_DIAGNOSTIC: M05.9
+DATA: 18.01.2024
+MEDIC: Dr. Teodor Grigorescu
+---
+MEDIC: Bună ziua, ce vă aduce?
+PACIENT: Mă dor articulațiile de la mâini de mult timp. Dimineața simt că am mâinile îngheţate.
+MEDIC: Dimineața cât timp durează rigiditatea?
+PACIENT: Vreo 1-2 ore. Trebuie să le mișc mult până funcționează normal.
+MEDIC: Care articulații sunt afectate?
+PACIENT: Degetele, mai ales cele mici și mijlocii, și încheieturile la ambe mâini. Simetric.
+MEDIC: Sunt umflate?
+PACIENT: Da, degetele par mai umflate și am această deformare la câteva degete, parcă se duc lateral.
+MEDIC: Aveți dureri și la alte articulații?
+PACIENT: La genunchi, la gleznă. Și uneori umerii mă dor.
+MEDIC: Aveți oboseală?
+PACIENT: Da, oboseală cronică. Și anemie — mi s-a spus la ultimul control.
+MEDIC: Aveți vârsta de...?
+PACIENT: 48 de ani.
+MEDIC: Aveți noduli pe coate sau pe alte zone?
+PACIENT: Da, am un nodul mic pe cot, e acolo de 2 ani.
+MEDIC: Aveți uscăciune la ochi sau la gură?
+PACIENT: Da, ochii mă ustura mereu și gura e uscată, beau multă apă.
+MEDIC: Aveți probleme respiratorii — tuse seacă, dificultăți la respirat?
+PACIENT: O tuse seacă intermitentă, mai ales dimineața.
+MEDIC: Există boli reumatologice în familie?
+PACIENT: Mama a avut artrită, nu știu exact ce fel.
+---
+DIAGNOSTIC PREZUMTIV: Artrită reumatoidă seropozitivă cu afectare extra-articulară — femeie cu poliartrită simetric, rigiditate matinală prelungită, deformări, noduli reumatoizi, anemie și sindrom sicca secundar. Diferențial 1: Sindrom Sjögren primar cu artrită — sicca prominent, dar poliartrita și deformările pledează pentru AR. Diferențial 2: Lupus articular — poliartrită simetrică posibilă, dar fără rash sau fotosensibilitate.
+CUVINTE CHEIE: artrită reumatoidă, rigiditate matinală, deformări, noduli reumatoizi, factor reumatoid, anti-CCP, poliartrită simetrică

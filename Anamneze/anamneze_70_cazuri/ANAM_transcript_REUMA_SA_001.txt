@@ -1,0 +1,37 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Reumatologie
+Diagnostic prezumtiv: Spondilită anchilozantă
+Data: 2026-04-28
+Medic: Dr. Dumitrescu Andreea
+
+MEDIC: Bună ziua. Ce dureri aveți?
+PACIENT: Dureri de spate inferior și șolduri de vreo 3 ani. Se agravează dimineața și la repaus.
+
+MEDIC: La ce oră este cea mai intensă durerea?
+PACIENT: La 4-5 dimineața mă trezesc cu durere. Trebuie să mă ridic și să mă mișc.
+
+MEDIC: Cedează durerea la efort fizic?
+PACIENT: Da! Paradoxal, la mers și exerciții se ameliorează. La repaus se agravează.
+
+MEDIC: Cât durează redoarea matinală?
+PACIENT: 1-2 ore dimineața.
+
+MEDIC: Aveți dureri și la șolduri sau umeri?
+PACIENT: La ambele șolduri, da. Și am avut o dată iridociclită la ochiul stâng.
+
+MEDIC: Există spondilită sau boli inflamatorii în familie?
+PACIENT: Un unchi are spondilită, da.
+
+MEDIC: Ați testat HLA-B27?
+PACIENT: Nu.
+
+MEDIC: Câți ani aveți?
+PACIENT: 28 de ani.
+
+MEDIC: Aveți psoriazis sau boli intestinale?
+PACIENT: Psoriazis nu. Colon iritabil am eu.
+
+DIAGNOSTIC PREZUMTIV: Spondilită anchilozantă (spondilartropatie axială) - criterii ASAS probabil îndeplinite. Necesită HLA-B27, RMN sacroiliac, BASDAI.
+
+CUVINTE CHEIE: lombalgie inflamatorie, ritm inflamator, trezire nocturnă, ameliorare la efort, redoare matinală prelungită, uveită, antecedente familiale, vârstă tânără

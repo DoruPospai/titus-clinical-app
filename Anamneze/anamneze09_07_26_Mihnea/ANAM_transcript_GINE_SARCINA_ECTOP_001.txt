@@ -1,0 +1,28 @@
+SPECIALITATE: Ginecologie-Urgență
+COD_DIAGNOSTIC: O00.1
+DATA: 08.02.2024
+MEDIC: Dr. Anca Popescu
+---
+MEDIC: Bună ziua, cu ce problemă ați venit la urgențe?
+PACIENT: Am dureri mari în burtă, în dreapta jos, și am un test de sarcină pozitiv de 2 săptămâni.
+MEDIC: Când a apărut durerea?
+PACIENT: A început ieri ușor, dar de 4 ore e cumplită. Nu pot sta în picioare.
+MEDIC: Aveți sângerare vaginală?
+PACIENT: Da, ușoară, maro, de câteva zile.
+MEDIC: Câte zile aveați de sarcină la ultimul ciclu?
+PACIENT: Ultima menstruație acum 7 săptămâni.
+MEDIC: Aveți greață, amețeală sau stare de leșin?
+PACIENT: Da, mă simt slabă, amețită. Aproape am leșinat acasă.
+MEDIC: Aveți antecedente de sarcini ectopice sau inflamație pelvină?
+PACIENT: Am avut o infecție pelvină acum 3 ani, tratată cu antibiotice.
+MEDIC: Aveți DIU montat sau ați luat anticoncepționale?
+PACIENT: Am avut DIU, l-am scos acum 3 luni ca să rămân gravidă.
+MEDIC: Durerea radiază undeva?
+PACIENT: Spre umăr și spate. Asta mă sperie.
+MEDIC: Avem tensiunea? Pulsul?
+PACIENT: Nu știu, dar mă simt rău.
+MEDIC: Stomacul e moale sau rigid la atingere?
+PACIENT: Tare și dureros când atingeți.
+---
+DIAGNOSTIC PREZUMTIV: Sarcină ectopică tubară dreaptă ruptă cu hemoperitoneu — femeie cu test pozitiv 7 săptămâni, durere pelvină acută cu iradiere la umăr (hemoperitoneu), semne de șoc incipient, antecedente de BIP și DIU, abdomen apărat. Urgență chirurgicală imediată. Diferențial 1: Avort spontan — sângerare mai abundentă, col deschis, beta-hCG în scădere. Diferențial 2: Torsiune ovariană — durere acută similară, fără beta-hCG pozitiv, ecografie diferențiază.
+CUVINTE CHEIE: sarcină ectopică, hemoperitoneu, ruptură tubară, beta-hCG, antecedente BIP, urgență ginecologică, salpingectomie

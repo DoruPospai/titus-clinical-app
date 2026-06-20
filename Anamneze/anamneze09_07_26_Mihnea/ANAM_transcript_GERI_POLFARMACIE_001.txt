@@ -1,0 +1,30 @@
+SPECIALITATE: Geriatrie-Medicina Interna
+COD_DIAGNOSTIC: Z88.8
+DATA: 15.04.2024
+MEDIC: Dr. Nicoleta Danu
+---
+MEDIC: Bună ziua, cu ce problema ați venit astazi?
+PACIENT: Am ameteli de 2 luni, cad când mă ridic, si am slabiciune generala. Medicii tot adauga medicamente si nu ma simt bine.
+MEDIC: Câți ani aveți?
+PACIENT: 81 de ani.
+MEDIC: Câte medicamente luați zilnic?
+PACIENT: Imi numar... 12 pastile pe zi. Unele de doua ori.
+MEDIC: Aduceti-le pe toate, aveți?
+PACIENT: Da, am punga cu ele.
+MEDIC: Ameteala la ridicat din pat — tensiunea scade?
+PACIENT: Da, când ma ridic se invarte totul. De doua ori am cazut.
+MEDIC: Aveți anticoogulant în lista?
+PACIENT: Da, warfarina pentru fibrilatie atriala.
+MEDIC: Aveți somnifere sau anxiolitice?
+PACIENT: Da, Diazepam pentru somn. Si altul nou pentru depresie.
+MEDIC: Ați vazut mai mulți medici care au prescris independent?
+PACIENT: Cardiolog, neurolog, medicul de familie, psihiatru. Fiecare adauga.
+MEDIC: Aveți hipotensiune ortostatatica masur anterior?
+PACIENT: Nimeni nu a masurat ridicat si intins.
+MEDIC: INR-ul e in limite?
+PACIENT: Nu am verificat de 2 luni.
+MEDIC: Va simtiti confuza uneori?
+PACIENT: Da, mai ales dupa pastile. Somnolenta mult.
+---
+DIAGNOSTIC PREZUMTIV: Polimedicatie iatrogena (12 droguri) cu hipotensiune ortostatatica si rise de cadere la varstnica fragila — barbata 81 ani, prescriptori multipli necoordinati, benzodiazepina (risc Beers), anticoagulant nemonitorizat, hipotensori, antidepresiv, ameteali si caderi consecutive. Deprescriptie sistematica necesara. Diferențial 1: Stenoza aortica — sincopa la ridicat, suflul precordial. Diferențial 2: Hipovolemie — deshidratare la varstnic, diuretic in lista.
+CUVINTE CHEIE: polimedicatie, hipotensiune ortostatatica, cadere varstnic, criteriile Beers, deprescriptie, polipragmazie, reconciliere medicamentoasa

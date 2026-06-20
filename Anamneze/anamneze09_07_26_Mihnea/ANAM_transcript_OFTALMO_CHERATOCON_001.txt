@@ -1,0 +1,28 @@
+SPECIALITATE: Oftalmologie
+COD_DIAGNOSTIC: H18.6
+DATA: 16.04.2024
+MEDIC: Dr. Raluca Ungureanu
+---
+MEDIC: Bună ziua, ce probleme de vedere aveți?
+PACIENT: Vederea mea s-a inrautatit progresiv si ochelarii nu mă mai ajuta. E de 2 ani.
+MEDIC: Câți ani aveți?
+PACIENT: 24 de ani.
+MEDIC: Cum se manifesta — vedeti dublu, incetos?
+PACIENT: Incetos si imagini distorsionate, mai ales seara si noaptea. Halos in jurul luminilor.
+MEDIC: Aveți hipersensibilitate la lumina puternica?
+PACIENT: Da, nu pot conduce noaptea.
+MEDIC: Ati frecventa ochii des?
+PACIENT: Da, constant. Imi place sa-i frec, ma relaxeaza.
+MEDIC: Aveți alergii oculare?
+PACIENT: Conjunctivita alergica de ani de zile.
+MEDIC: Topografia corneana sau examenul anterior au aratat ceva?
+PACIENT: La un control anterior mi s-a spus ca corneea are forma conica.
+MEDIC: V-ati gândit la ochelari, lentile sau operatie cu laser?
+PACIENT: Medicul a zis ca nu pot sa-mi fac laser din cauza bolii.
+MEDIC: Vederea s-a inrautatit brusc recent?
+PACIENT: Da, ultimele 2 saptamani mai rau — edem acut posibil mi s-a spus.
+MEDIC: Aveți rude cu aceeași problema?
+PACIENT: Fratele mai mare are și el cheratocon.
+---
+DIAGNOSTIC PREZUMTIV: Cheratocon bilateral progresiv cu hidrops acut posibil — tânăr cu keratocon cunoscut, alocare persistenta (agravant), conjunctivita alergica (factor predispozant), agravare acuta recenta (hidrops). Cross-linking cornean + lentile sclerale. Diferențial 1: Degenerare marginala pelucida — forma atipica cheratocon inferior, topografie diferita. Diferențial 2: Ectazie post-LASIK — antecedente de laser, exclus clinic.
+CUVINTE CHEIE: cheratocon, topografie corneana, hidrops acut, frectare ochi, cross-linking, lentile sclerale, distorsiune vizuala

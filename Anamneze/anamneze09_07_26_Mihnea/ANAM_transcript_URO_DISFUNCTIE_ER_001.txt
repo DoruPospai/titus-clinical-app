@@ -1,0 +1,30 @@
+SPECIALITATE: Urologie-Andrologie
+COD_DIAGNOSTIC: N52.9
+DATA: 07.05.2024
+MEDIC: Dr. Vlad Marinescu
+---
+MEDIC: Bună ziua, cu ce problemă ați venit?
+PACIENT: Am probleme cu... erecția. Nu mai funcționează bine de câteva luni.
+MEDIC: De cât timp și cum a apărut?
+PACIENT: De vreo 6 luni. A apărut treptat, nu dintr-o dată.
+MEDIC: Câți ani aveți?
+PACIENT: 54 de ani.
+MEDIC: Aveți diabet sau tensiune mare?
+PACIENT: Diabet tip 2 de 8 ani, prost controlat. Tensiune, da.
+MEDIC: Fumat? Alcool?
+PACIENT: Fumez, un pachet pe zi de 30 de ani. Alcool moderat.
+MEDIC: Aveți erecții dimineața sau în vis?
+PACIENT: Nu, nici acelea nu mai există de câteva luni.
+MEDIC: Luați medicamente?
+PACIENT: Metformin, un beta-blocant, inhibitor de pompă de protoni.
+MEDIC: Aveți probleme cu partenera, stres?
+PACIENT: Nu relațional, dar am stres la serviciu mult.
+MEDIC: Aveți dureri la mers sau în picioare — claudicație?
+PACIENT: Da, uneori mă dor picioarele la mers lung.
+MEDIC: Testosteronul l-ați verificat?
+PACIENT: Nu, nu am verificat.
+MEDIC: Aveți ginecomastie sau scăderea pilozității?
+PACIENT: Pilozitatea s-a redus un pic. Nu am remarcat.
+---
+DIAGNOSTIC PREZUMTIV: Disfuncție erectilă severă de cauză vasculogenă și neuropatică mixtă — bărbat 54 ani cu DZ2 prost controlat, HTA, fumător sever, claudicație — semne de boală vasculară periferică, beta-blocant agravant, lipsa erecțiilor nocturne confirmă cauza organică. Diferențial 1: Hipogonadism primar sau secundar — testosteron scăzut, ginecomastie, pilozitate redusă. Diferențial 2: Depresie — component psihogen posibil suprapus, dar absența erecțiilor nocturne pledează pentru cauza organică.
+CUVINTE CHEIE: disfuncție erectilă, cauză vasculogenă, DZ2, boală vasculară periferică, testosteron, inhibitori PDE5, erecții nocturne absente

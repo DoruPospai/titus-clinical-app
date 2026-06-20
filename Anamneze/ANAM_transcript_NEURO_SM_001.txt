@@ -1,0 +1,21 @@
+CASE: Scleroză multiplă — episoade neurologice recurente la femeie tânără
+DIALOG_ID: ANAM_NEURO_SM_001
+
+Medic: Ce vă aduce astăzi la consultație?
+Pacient: Am niște probleme ciudate de câteva luni și nu știu ce să cred. Acum 4 luni am orbit brusc la ochiul drept, timp de vreo 3 săptămâni. A trecut de la sine.
+Medic: Ați consultat un medic atunci?
+Pacient: Da, oftalmologul a spus că e o inflamație a nervului optic și m-a trimis la neurolog, dar programarea e abia peste o lună.
+Medic: Ce alte simptome aveți acum?
+Pacient: Acum am o amorțeală pe tot piciorul drept, de vreo 2 săptămâni. Nu e durere, mai mult ca un furnicat permanent, mai ales când îmi apăs gâtul înainte.
+Medic: Oboseală?
+Pacient: Imensă. Obosesc repede, mai ales după-amiaza. Uneori nu pot termina ziua de muncă. Și este ciudat — dacă fac baie caldă sau mă înfierbânt, simptomele se înrăutățesc.
+Medic: Probleme cu echilibrul sau mersul?
+Pacient: Puțin. Uneori simt că mă clatin ușor, mai ales noaptea sau când e întuneric. Merg bine în general.
+Medic: Vedere dublă?
+Pacient: Am avut câteva zile acum 2 luni, a trecut.
+Medic: Probleme cu urinatul?
+Pacient: Da, și asta e jenantă. Câteodată nu apuc la baie, am pierderi mici. Sau dimpotrivă, nu pot începe să urineze când vreau eu.
+Medic: Antecedente în familie?
+Pacient: Nu știu de nimeni cu boli neurologice. Mama are tiroidă.
+Medic: Aveți alte boli, luați medicamente?
+Pacient: Nu, sunt sănătoasă altfel. Am 32 de ani. Nu fumez.

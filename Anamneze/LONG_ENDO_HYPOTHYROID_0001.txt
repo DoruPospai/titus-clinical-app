@@ -1,0 +1,38 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+DIALOG_ID: LONG_ENDO_HYPOTHYROID_0001
+Specialitate: Endocrinologie
+Diagnostic prezumtiv: Hipotiroidism primar manifest — tiroidită Hashimoto
+Data: 2026-05-29
+Medic: Dr. Voinea Camelia
+
+MEDIC: Bună ziua. Ce simptome vă supără?
+PACIENT: M-am îngrășat fără să mănânc mai mult, sunt mereu obosită și îmi este tot timpul frig.
+
+MEDIC: De cât timp aveți aceste simptome?
+PACIENT: De vreo un an, s-au agravat treptat.
+
+MEDIC: Aveți constipație?
+PACIENT: Da, mă duc la toaletă o dată la 3-4 zile.
+
+MEDIC: Aveți probleme cu memoria sau gândirea lentă?
+PACIENT: Da! Colegii s-au plâns că am reacții mai lente. Și mă simt deprimată.
+
+MEDIC: Aveți părul sau unghiile fragile?
+PACIENT: Îmi cade mult părul, am observat pe pernă și în baie.
+
+MEDIC: Câți ani aveți?
+PACIENT: 38 de ani.
+
+MEDIC: Ciclul menstrual este regulat?
+PACIENT: Nu, menstruația a devenit foarte abundentă și prelungită.
+
+MEDIC: Există boli de tiroidă în familie?
+PACIENT: Mama are tiroidită, ia Euthyrox.
+
+MEDIC: Ați verificat TSH-ul?
+PACIENT: Da, ultimul TSH era 12, valoarea normală e sub 4 mi s-a spus.
+
+DIAGNOSTIC PREZUMTIV: Hipotiroidism primar manifest (TSH 12), probabil tiroidită Hashimoto autoimună. Simptome clinice complete.
+
+CUVINTE CHEIE: oboseală, intoleranță la frig, constipație, creștere ponderală, cădere păr, menometroragie, bradipsihie, depresie, TSH crescut, antecedente familiale Hashimoto

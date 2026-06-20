@@ -1,0 +1,32 @@
+CASE: Copil cu febră și erupție
+DIALOG_ID: PED_FEVER_RASH_001
+
+Doctor: Ce s-a întâmplat cu copilul?
+
+Patient: Are febră de ieri și azi i-au apărut niște bubițe pe piele.
+
+Doctor: Cât de mare a fost febra?
+
+Patient: A avut 39. I-am dat antitermic și a scăzut puțin.
+
+Doctor: Erupția îl mănâncă?
+
+Patient: Da, se scarpină pe burtă și pe spate.
+
+Doctor: Tușește sau îi curge nasul?
+
+Patient: Îi curge nasul puțin, dar nu tușește tare.
+
+Doctor: Mănâncă și bea lichide?
+
+Patient: Mănâncă mai puțin, dar bea apă.
+
+Doctor: A vomitat sau are diaree?
+
+Patient: Nu, nu a vomitat și nu are diaree.
+
+Doctor: A fost în contact cu alți copii bolnavi?
+
+Patient: Da, la grădiniță au fost mai mulți copii răciți.
+
+Doctor: Vom examina erupția și gâtul, apoi decidem dacă sunt necesare teste suplimentare.

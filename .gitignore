@@ -1,0 +1,33 @@
+# .gitignore — TITUS
+
+# ── Secrete — NU se pun NICIODATĂ în Git ─────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Cache Python ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+
+# ── Cache semantic / model (nu folosit în prima versiune cloud) ─────────────
+*.semantic_cache.pkl
+
+# ── Backup-uri create automat de pipeline ────────────────────────────────────
+*_BACKUP_*.xlsx
+
+# ── Workbook-uri Excel — deja sincronizate pe Google Drive, nu duplicăm ──────
+*.xlsx
+*.xls
+
+# ── Fișiere temporare Excel ───────────────────────────────────────────────────
+~$*.xlsx
+~$*.xls
+
+# ── Environment / IDE ─────────────────────────────────────────────────────────
+.spyderproject
+.spyproject
+.vscode/
+.idea/
+
+# ── OS ─────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

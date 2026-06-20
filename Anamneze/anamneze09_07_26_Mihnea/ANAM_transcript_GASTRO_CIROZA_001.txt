@@ -1,0 +1,28 @@
+SPECIALITATE: Gastroenterologie
+COD_DIAGNOSTIC: K74.3
+DATA: 12.03.2024
+MEDIC: Dr. Andrei Marinescu
+---
+MEDIC: Bună ziua, ce vă aduce azi la mine?
+PACIENT: Mă simt balonat de crăp și obosit tot timpul.
+MEDIC: De când aveți aceste simptome?
+PACIENT: Cam de un an, dar s-a înrăutățit în ultimele luni.
+MEDIC: Ați observat vreo schimbare la nivelul abdomenului?
+PACIENT: Da, mi s-a umflat burta și am picioarele umflate.
+MEDIC: Cât de des consumați alcool?
+PACIENT: Cam zilnic, vreo 5-6 beri sau mai mult.
+MEDIC: Ați slăbit sau ați luat în greutate?
+PACIENT: Am slăbit vreo 8 kg fără să vreau.
+MEDIC: Aveți probleme cu scaunul sau cu urina?
+PACIENT: Urina e mai închisă la culoare și scaunul mai deschis.
+MEDIC: Ați avut vreo boală la ficat sau la familie?
+PACIENT: Nu știu de probleme la ficat, dar tata bea mult și el.
+MEDIC: Vă doare în partea dreaptă sub coaste?
+PACIENT: Da, uneori mă înțeapă acolo, mai ales seara.
+MEDIC: Ați observat vânătăi ușoare pe piele?
+PACIENT: Da, apar pete mov fără să mă lovesc.
+MEDIC: Aveți greață sau vărsături?
+PACIENT: Uneori dimineața simt greață, dar nu vomit.
+---
+DIAGNOSTIC PREZUMTIV: Ciroză hepatică Child B — etilism cronic cu semne de hipertensiune portală și alterare a funcției hepatice. Diferențial 1: Hepatită cronică virală — istoric de consum alcoolic ridicat, dar fără testare virală recentă. Diferențial 2: Steatohepatită non-alcoolică — posibilă suprapunere, dar etilismul dominant.
+CUVINTE CHEIE: ciroză, etilism, ascită, icter, trombocitopenie, varice esofagiene, Child B

@@ -1,0 +1,36 @@
+CASE: Colică biliară / durere postprandială
+DIALOG_ID: GI_BILIARY_COLIC_001
+
+Doctor: Unde vă doare?
+
+Patient: Mă doare în dreapta sus, sub coaste. Durerea vine în crize.
+
+Doctor: Când apare?
+
+Patient: Mai ales după ce mănânc gras. Aseară am mâncat prăjeli și m-a luat o durere cumplită.
+
+Doctor: Durerea se duce undeva?
+
+Patient: Parcă merge spre spate, spre umărul drept.
+
+Doctor: Aveți greață sau vărsături?
+
+Patient: Da, mi-a fost greață și am vomitat o dată.
+
+Doctor: Aveți febră?
+
+Patient: Nu cred. Nu mi-am luat temperatura, dar nu m-a luat cu frig.
+
+Doctor: Ați observat pielea sau ochii galbeni?
+
+Patient: Nu, nu cred.
+
+Doctor: Scaunul sau urina s-au schimbat la culoare?
+
+Patient: Urina parcă a fost mai închisă dimineață, dar nu sunt sigur.
+
+Doctor: Ați mai avut astfel de crize?
+
+Patient: Da, de câteva ori, dar mai scurte. Acum a ținut aproape două ore.
+
+Doctor: Vom face ecografie abdominală și analize pentru ficat și bilă.

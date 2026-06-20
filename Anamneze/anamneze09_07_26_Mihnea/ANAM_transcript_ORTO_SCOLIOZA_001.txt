@@ -1,0 +1,28 @@
+SPECIALITATE: Ortopedie
+COD_DIAGNOSTIC: M41.1
+DATA: 28.02.2024
+MEDIC: Dr. Mihail Grecu
+---
+MEDIC: Bună ziua, ce problemă v-a adus la ortopedie?
+PACIENT: Coloana mea e strâmbă. Am observat ca un umăr e mai sus decât celălalt și spatele nu e drept.
+MEDIC: Câți ani are copilul? Sau sunteți dvs. pacientul?
+PACIENT: E fiica mea, 13 ani. Eu o aduc.
+MEDIC: De cât timp ați observat?
+PACIENT: De vreo 6 luni observăm că stă aplecat. La scoala a spus asistenta că nu e drept.
+MEDIC: Are dureri de spate?
+PACIENT: Câteodată spune că o doare spatele la final de zi de scoala.
+MEDIC: A facut pubertate? Când a apărut prima menstruație?
+PACIENT: Menstruația la 12 ani, acum 1 an.
+MEDIC: Are dificultăți la respirație sau se oboseste ușor la efort?
+PACIENT: Nu, nu.
+MEDIC: Există coloana strâmbă în familie?
+PACIENT: Da, bunica mamă a avut scolioze.
+MEDIC: Ați facut radiografie?
+PACIENT: Da, unghi Cobb 32 de grade.
+MEDIC: Face sport activ?
+PACIENT: Volei, de 3 ori pe săptămâna.
+MEDIC: Se observa cocoasă la aplecarea în fata?
+PACIENT: Da, radiologul a mentionat gibozitate.
+---
+DIAGNOSTIC PREZUMTIV: Scolioza idiopatica adolescentina Cobb 32° — adolescenta 13 ani, la debut pubertate, unghi Cobb in curba de tratament (25-45°), gibozitate prezenta, fara deficit neurologic. Indicatie corset ortopedic. Diferențial 1: Scolioza congenitala — anomalie vertebrala de formare, depistata mai devreme. Diferențial 2: Scolioza neuromuscular (spina bifida, paralizie cerebrala) — examen neurologic normal, exclusa clinic.
+CUVINTE CHEIE: scolioza idiopatic adolescentina, unghi Cobb, gibozitate, pubertate, corset Boston, maturitate scheletala, Risser

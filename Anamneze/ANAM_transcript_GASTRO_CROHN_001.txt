@@ -1,0 +1,23 @@
+CASE: Boala Crohn — dureri abdominale cronice cu diaree la tânăr
+DIALOG_ID: ANAM_GASTRO_CROHN_001
+
+Medic: Ce vă aduce astăzi?
+Pacient: Am dureri de burtă de ani de zile, dar în ultimul an s-au înrăutățit. Am și diaree cronică, 4-5 scaune pe zi, uneori cu sânge.
+Medic: Unde exact vă doare?
+Pacient: Mai ales în partea dreaptă jos, dar poate migra. E o durere surdă, continuă, cu episoade mai intense.
+Medic: Ați slăbit?
+Pacient: 8 kilograme în 6 luni fără să încerc. Nu am poftă de mâncare, mă tem să mănânc pentru că după apare durerea.
+Medic: Febră?
+Pacient: Subfebrilitate des, 37.2-37.5. Și sunt obosit tot timpul, nu mă mai recunosc.
+Medic: Probleme în zona anală?
+Pacient: Da, și mă jenează să spun. Am o fistulă anală de câteva luni, am operat-o dar a revenit.
+Medic: Probleme cu articulațiile?
+Pacient: Da, ciudat, am dureri la genunchi și gleznă care vin și trec, fără umflare mare.
+Medic: Ochii?
+Pacient: O dată am avut ochiul roșu și dureros câteva săptămâni. Oftalmologul a spus uveită.
+Medic: Antecedente în familie?
+Pacient: Un văr are colită ulcerativă. Tata a avut ulcer.
+Medic: Aveți alte boli?
+Pacient: Nu. Am 24 de ani. Nu fumez, nu beau alcool.
+Medic: Medicamentele?
+Pacient: Am luat antiinflamatoare, antispastice, antibiotice pentru fistulă. Nimic cu efect durabil.

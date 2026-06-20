@@ -1,0 +1,28 @@
+SPECIALITATE: Hematologie
+COD_DIAGNOSTIC: D45
+DATA: 26.03.2024
+MEDIC: Dr. Florin Dascalu
+---
+MEDIC: Bună ziua, ce vă aduce la hematologie?
+PACIENT: Am cefalee aproape zilnic și roșeața feței a crescut. Mă mânâncă și după duș.
+MEDIC: De cât timp?
+PACIENT: De vreo 8 luni. Plus oboseală și cap greu.
+MEDIC: Câți ani aveți?
+PACIENT: 63 de ani.
+MEDIC: Pruritul apare mai ales după apă caldă?
+PACIENT: Exact! La dus cald mă mănâncă toată pielea. E caracteristic cumva?
+MEDIC: Aveți amețeli sau zgomote în urechi?
+PACIENT: Da, amețeli mai ales la sculat. Și uneori văd dublu.
+MEDIC: Aveți probleme cu sângele anterior — tromboze?
+PACIENT: Am avut tromboze venoase profunde la picior acum 2 ani.
+MEDIC: Aveți splenomegalie?
+PACIENT: Medicul de familie a simțit splina mărită la examinare.
+MEDIC: Ați făcut analize recente?
+PACIENT: Hematocrit 58, hemoglobina 19, trombocite 650.000.
+MEDIC: Luați medicamente — diuretice, antihipertensive?
+PACIENT: Amlodipina.
+MEDIC: Aveți rude cu boli de sânge?
+PACIENT: Nu știu.
+---
+DIAGNOSTIC PREZUMTIV: Policitemia vera (PV) — bărbat 63 ani cu poliglobulie (Ht 58%, Hb 19), trombocitoză, splenomegalie, prurit acvagen, tromboza în antecedente, simptome de hipervâscozitate (cefalee, tulburări vizuale). JAK2 V617F pozitiv probabil. Diferențial 1: Policitemia secundara (hipoxie, EPO) — SatO2, BPOC, fumăt trebuie excluse. Diferențial 2: Trombocitoza esentiala — trombocitoze, dar fara poliglobulie importanta.
+CUVINTE CHEIE: policitemia vera, JAK2, poliglobulie, prurit acvagen, hipervâscozitate, tromboza, flebotomie

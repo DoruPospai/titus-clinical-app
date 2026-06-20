@@ -1,0 +1,30 @@
+SPECIALITATE: ORL
+COD_DIAGNOSTIC: J38.0
+DATA: 07.05.2024
+MEDIC: Dr. Paula Dumitrescu
+---
+MEDIC: Bună ziua, ce probleme aveți cu vocea?
+PACIENT: Vocea mi-a dispărut brusc acum 3 săptămâni. Nu mai pot vorbi normal, șoptesc.
+MEDIC: Cum a apărut — brusc sau treptat?
+PACIENT: Brusc, m-am trezit dimineața și nu mai aveam voce. Fără durere, fără răceală.
+MEDIC: Aveți dificultăți la înghițit?
+PACIENT: Da, câteodată mă înec cu lichide, mai ales cu apă. Mă surprinde.
+MEDIC: Aveți tuse frecventă?
+PACIENT: Da, o tuse uscată enervantă. Mai ales după ce beau.
+MEDIC: Aveți dificultăți la respirație?
+PACIENT: Nu în repaus. La efort respir mai greu.
+MEDIC: Aveți dureri la gât sau la piept?
+PACIENT: Pieptul nu doare, dar am o senzație ciudată sub claviculă stângă.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 46 de ani.
+MEDIC: Aveți boli tiroidiene sau ați operat tiroida?
+PACIENT: Nu, tiroida e bine. Nu am operat nimic.
+MEDIC: Ați observat slăbire în greutate neexplicată?
+PACIENT: Da, 5 kg în 2 luni fără să îmi propun.
+MEDIC: Fumați sau ați fumat?
+PACIENT: Da, fumez de 20 de ani.
+MEDIC: Există ganglioni la gât sau la subraț?
+PACIENT: Mi s-a spus că la o ecografie am ganglioni mediastinali măriți.
+---
+DIAGNOSTIC PREZUMTIV: Paralizie de coardă vocală stângă prin compresie nerv recurent stâng — femeie fumătoare cu afonie bruscă, scurgere la deglutire, tuse seacă, scădere ponderală și adenopatie mediastinală, sugestive pentru neoplasm pulmonar/mediastinal. Diferențial 1: Paralizie de recurent post-virală — afonie bruscă posibilă, dar adenopatia mediastinală și scăderea ponderală exclud. Diferențial 2: Anevrism de aortă cu compresie nerv recurent — posibil, CT toracic diferențiază.
+CUVINTE CHEIE: paralizie coardă vocală, nerv recurent, afonie, disfagie, adenopatie mediastinală, fumat, neoplasm pulmonar

@@ -1,0 +1,30 @@
+SPECIALITATE: Cardiologie / Pneumologie
+COD_DIAGNOSTIC: I27.0
+DATA: 15.05.2024
+MEDIC: Dr. Cristina Georgescu
+---
+MEDIC: Bună ziua. Cu ce vă pot ajuta?
+PACIENT: De vreo doi ani respir tot mai greu, dar ultimele luni e cumplit. Urc un etaj și trebuie să mă opresc.
+MEDIC: Ați observat de ce mai exact vă lipsește aerul?
+PACIENT: La orice efort, chiar și la plimbat prin casă. Uneori și când stau liniștită.
+MEDIC: Vă umflați la picioare?
+PACIENT: Da, tot mai mult. Dimineața e mai bine, seara am picioarele ca niște butuci.
+MEDIC: Aveți dureri în piept?
+PACIENT: Uneori un fel de presiune, mai ales la efort. Nu e o durere ascuțită.
+MEDIC: Ați leșinat vreodată?
+PACIENT: Da, o dată am leșinat la supermarket. Am dat din brațe și m-am trezit pe podea.
+MEDIC: Aveți vârsta de...?
+PACIENT: 35 de ani. Și sunt cumva mai obosită decât ar trebui la vârsta mea.
+MEDIC: Aveți alte boli sau luați medicamente?
+PACIENT: Nu, nicio boală. Nu am mai mers la doctor de vreo 5 ani că nu am avut timp.
+MEDIC: Aveți bătăi rapide sau neregulate ale inimii?
+PACIENT: Uneori parcă fuge inima, mai ales la efort mic.
+MEDIC: Cineva din familie a avut probleme la inimă sau la plămâni?
+PACIENT: Mama a murit la 42 de ani, nu știu exact de ce — ceva la inimă.
+MEDIC: Aveți buze sau degete care capătă culoare albăstruie uneori?
+PACIENT: Da, mi s-a spus că am buzele cam violacee. Mai ales iarna.
+MEDIC: Ați observat că vă obosesc și brațele la activități simple?
+PACIENT: Și la pieptănat obosesc. Nu mai pot să fac treabă prin casă.
+---
+DIAGNOSTIC PREZUMTIV: Hipertensiune arterială pulmonară idiopatică — tânără fără comorbidități cu dispnee progresivă de efort, sincopă, cianoză și istoric familial sugestiv. Diferențial 1: Boală cardiacă congenitală cu șunt — cianoză și dispnee la tânăr, eco va diferenția. Diferențial 2: Embolie pulmonară cronică tromboembolică — CTEPH cu prezentare similară, dar absența trombozelor sau chirurgiei anterioare.
+CUVINTE CHEIE: hipertensiune pulmonară, dispnee progresivă, sincopă, cianoză, edeme, insuficiență cardiacă dreaptă, istoric familial

@@ -1,0 +1,28 @@
+SPECIALITATE: Alergologie-Urgenta
+COD_DIAGNOSTIC: T78.3
+DATA: 30.01.2024
+MEDIC: Dr. Victor Andrei
+---
+MEDIC: Bună ziua! Cine ați venit cu criza de azi?
+PACIENT: Am luat noul medicament acum 3 ore si am inceput sa mi se umfle buzele si gatul. Greu inghit.
+MEDIC: Ce medicament nou?
+PACIENT: Lisinopril pentru tensiune, prescris de 2 zile.
+MEDIC: Câți ani aveți?
+PACIENT: 58 de ani.
+MEDIC: Gâtul de simtiti obstructionat?
+PACIENT: Da, simt că îmi ingroasa în gât. Vocea suna ciudat.
+MEDIC: Dispnee — respiratie dificila?
+PACIENT: Usor. Ma ingrijoreaza.
+MEDIC: Aveți urticarie pe corp?
+PACIENT: Nu, fara urticarie. Numai umflatura.
+MEDIC: Ati mai facut edem angioneurotic anterior?
+PACIENT: Da! Acum 5 ani, fara medicament, s-a umflat limba. Nu au stiut cauza.
+MEDIC: Exista in familie problema similara?
+PACIENT: Mama a facut la fel. Si un unchi al meu.
+MEDIC: Ati luat IECA sau ARB anterior?
+PACIENT: Nu, acesta e primul.
+MEDIC: Saturatia de oxigen?
+PACIENT: 96% zice asistenta.
+---
+DIAGNOSTIC PREZUMTIV: Edem angioneurotic indus de IECA cu risc de obstructie cailor aeriene — barbat 58 ani, edem facial si laringian dupa prima doza de lisinopril (IECA), istoric familial de edem angioneurotic ereditar posibil (C1-INH deficienta), fara urticarie (bradikininica nu IgE mediat). Oprire imediata IECA, adrenalina, C1-INH concentrate. Diferențial 1: Edem angioneurotic ereditar (HAE) — C1-INH deficit, debut adolescenta, declansator chirurgie/stress. Diferențial 2: Anafilaxie cu angioedema — asociata urticarie, bronhospasm, hipotensie.
+CUVINTE CHEIE: edem angioneurotic, IECA lisinopril, bradikininic, obstructie cai aeriene, C1-inhibitor, adrenalina urgenta, contraindiciatie IECA pe viata

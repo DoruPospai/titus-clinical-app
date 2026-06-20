@@ -1,0 +1,30 @@
+SPECIALITATE: Reumatologie / Neurologie
+COD_DIAGNOSTIC: M33.2
+DATA: 15.03.2024
+MEDIC: Dr. Mona Dumitrescu
+---
+MEDIC: Bună ziua, cu ce vă pot ajuta?
+PACIENT: Nu mai pot urca scările. Picioarele nu mă mai susțin cum trebuie.
+MEDIC: De cât timp?
+PACIENT: De vreo 3 luni progresiv. Am crezut că e vârstă sau că nu fac sport.
+MEDIC: Aveți dificultăți și când vă ridicați din scaun sau din pat?
+PACIENT: Da! Trebuie să mă sprijin de masă când mă ridic. Și mă duc la baie cu greu dimineața.
+MEDIC: Aveți slăbiciune și la brațe?
+PACIENT: Da, greu să pun ceva pe raft sus. Îmi cad brațele.
+MEDIC: Aveți dureri musculare?
+PACIENT: O sensibilitate la atingere pe coapse și brațe. Nu dureri intense.
+MEDIC: Aveți dificultăți la înghițit?
+PACIENT: Da, câteodată mă înec cu lichide. Asta m-a speriat.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 45 de ani.
+MEDIC: Aveți probleme la respirație?
+PACIENT: Da, uneori respir greu după efort mic. Și am o tuse seacă.
+MEDIC: Aveți rash pe piele sau erupții?
+PACIENT: Nu că știu, dar am niște crăpături pe degete și am observat că mâinile arată ciudat — mâinile de mecanic, mi s-a spus.
+MEDIC: Aveți febră sau scădere în greutate?
+PACIENT: Am slăbit ceva, cam 4 kg. Și uneori febra scăzută.
+MEDIC: Există boli autoimune sau cancere în familie?
+PACIENT: Sora mea are tiroidită.
+---
+DIAGNOSTIC PREZUMTIV: Polimiozită (sau dermatomiozită amiopatică) — femeie cu slăbiciune musculară proximală simetrică progresivă, disfagie, fibroză pulmonară incipientă și modificări tegumentare (mâinile mecanicului). Diferențial 1: Dermatomiozită — tablou similar cu semne cutanate, biopsia mușchiului și anti-Jo1 diferențiază. Diferențial 2: Miopatie asociată neoplaziei — slăbiciunea la vârstă medie impune screening oncologic obligator.
+CUVINTE CHEIE: polimiozită, slăbiciune proximală, disfagie, mâinile mecanicului, CK crescut, anti-Jo1, fibroză pulmonară

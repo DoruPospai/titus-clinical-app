@@ -1,0 +1,27 @@
+SPECIALITATE: Boli Infecțioase
+COD_DIAGNOSTIC: B20
+DATA: 14.02.2024
+MEDIC: Dr. Rodica Petrescu
+---
+MEDIC: Bună ziua, ce vă aduce astăzi la boli infecțioase?
+PACIENT: Am slăbit 12 kilograme în 4 luni fără să încerc, am febră intermitenta și transpirații nocturne.
+MEDIC: De cât timp aceste simptome?
+PACIENT: De vreo 5 luni progresiv.
+MEDIC: Câți ani aveți?
+PACIENT: 34 de ani.
+MEDIC: Aveți diaree persistentă sau probleme digestive?
+PACIENT: Da, diaree intermitentă de luni de zile. Câteodată cu mucus.
+MEDIC: Aveți infecții frecvente sau neobișnuite recent?
+PACIENT: O pneumonie în luna trecută. Și înainte o candidoză în gură persistentă.
+MEDIC: Aveți tuse sau probleme respiratorii?
+PACIENT: Da, tuse neproductivă care nu trece.
+MEDIC: Ați fost testat HIV anterior?
+PACIENT: Nu, nu am vrut.
+MEDIC: Aveți factor de risc — parteneri multipli, droguri injectabile, transfuzii?
+PACIENT: ...parteneri multipli, fără protecție uneori.
+MEDIC: Aveți ganglioni măriți?
+PACIENT: Da, la gât și la axilă simt ceva.
+MEDIC: Vă dor mușchii sau articulațiile?
+PACIENT: Da, am dureri generalizate.
+MEDIC: Aveți leziuni pe piele sau în gura?
+PACIENT: Câteva pete violacee pe picioare, nu știu ce sunt.

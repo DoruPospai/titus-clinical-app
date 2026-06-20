@@ -1,0 +1,34 @@
+Transcript — ANAM_transcript_CARD_DCM
+MEDIC: Dr. Ionescu Radu
+
+MEDIC: Bună ziua. Ce simptome vă aduc la consultație?
+PACIENT: Mă sufoc când urc scările, doctore. Și noaptea trebuie să dorm pe două perne ca să respir.
+
+MEDIC: De când au apărut aceste simptome?
+PACIENT: De vreo 6 luni, progresiv. La început credeam că sunt obosit.
+
+MEDIC: Aveți palpitații sau senzație de bătăi neregulate?
+PACIENT: Da, inima bate neregulat uneori. M-am speriat de câteva ori noaptea.
+
+MEDIC: Aveți umflături la picioare?
+PACIENT: Da, spre seară gleznele sunt umflate. Dimineața mai bine.
+
+MEDIC: Consumați alcool?
+PACIENT: Recunosc, cam mult. Vreo 10-15 ani am băut zilnic, bere și vin.
+
+MEDIC: Aveți dureri în piept?
+PACIENT: O apăsare ușoară uneori, nu durere propriu-zisă.
+
+MEDIC: Ați leșinat vreodată?
+PACIENT: O dată, acum 3 luni, la urcat scări.
+
+MEDIC: Aveți tuse?
+PACIENT: Da, tuse seacă care nu trece. Mai ales noaptea.
+
+MEDIC: Câți ani aveți și fumați?
+PACIENT: 52 de ani. Fumez, un pachet pe zi de 20 de ani.
+
+MEDIC: Aveți diabet sau hipertensiune?
+PACIENT: Tensiunea e crescută, iau tratament de 5 ani.
+
+DIAGNOSTIC PREZUMTIV: Cardiomiopatie dilatativă probabil alcoolică — dispnee de efort și decubit, edeme declive, palpitații cu ritm neregulat, sincopă, tuse nocturnă, consum cronic de alcool, HTA, fumător. Confirmare ecocardiografie, BNP, Holter. CUVINTE CHEIE: cardiomiopatie dilatativa, dispnee, edeme, alcool cronic, ritm neregulat, insuficienta cardiaca, sincopa

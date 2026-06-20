@@ -1,0 +1,23 @@
+CASE: Infarct miocardic acut — durere toracică severă cu iradiere
+DIALOG_ID: ANAM_CARDIO_IMA_001
+
+Medic: Bună ziua. Ce vă aduce astăzi la urgențe?
+Pacient: Am o durere îngrozitoare în piept de vreo oră. Nu mi-a mai fost așa niciodată.
+Medic: Descrieți durerea — unde exact și cum o simțiți?
+Pacient: Chiar în mijlocul pieptului, ca și cum ar sta cineva pe mine. Îmi merge și în brațul stâng, până la cot. Și puțin în maxilar.
+Medic: A apărut brusc sau treptat?
+Pacient: Brusc. Eram la birou, nu făceam nimic deosebit, și deodată a venit.
+Medic: Transpirați? Vi se face rău?
+Pacient: Da, transpir mult, rece. Mi-e puțin greață. Am vomitat o dată.
+Medic: Aveți dificultăți la respirat?
+Pacient: Ceva, nu mult. Mă simt slăbit, parcă îmi fuge pământul de sub picioare.
+Medic: Ați mai avut dureri în piept în trecut?
+Pacient: Da, de câteva luni apărea câte o strângere când urcam scările sau mergeam repede, dar trecea repede. Azi nu trece.
+Medic: Aveți tensiune, diabet?
+Pacient: Tensiune am de 10 ani, iau un medicament. Diabet nu am. Sunt mai gras, recunosc.
+Medic: Fumați?
+Pacient: Am fumat 20 de ani, m-am lăsat acum 5 ani. Un pachet pe zi fumam.
+Medic: Antecedente în familie?
+Pacient: Tatăl meu a murit de infarct la 58 de ani. Fratele a avut un stent pus la 52 de ani.
+Medic: Luați alte medicamente?
+Pacient: Numai pentru tensiune. Nu am mai luat nimic azi, că dimineața m-am simțit bine.

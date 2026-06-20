@@ -1,0 +1,28 @@
+Transcript — ANAM_transcript_PUL_IPF
+MEDIC: Dr. Marin Cristina
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Respir din ce în ce mai greu. De câțiva ani.
+
+MEDIC: La ce efort apare dificultatea?
+PACIENT: La început doar la urcatul scărilor. Acum și la activități simple.
+
+MEDIC: Aveți tuse?
+PACIENT: Tuse seacă persistentă. Nu scot nimic.
+
+MEDIC: Ați observat un sunet specific la respirație?
+PACIENT: Medicul a zis că se aude ceva la ascultare, ca un velcro.
+
+MEDIC: Ați lucrat cu praf sau substanțe?
+PACIENT: Am lucrat în industrie, cu praf de metal ani de zile.
+
+MEDIC: Aveți boli autoimune?
+PACIENT: Artrită reumatoidă, de 10 ani.
+
+MEDIC: Ați fumat?
+PACIENT: Am fumat mulți ani.
+
+MEDIC: Câți ani aveți?
+PACIENT: 67 de ani.
+
+DIAGNOSTIC PREZUMTIV: Fibroză pulmonară idiopatică — dispnee progresivă la efort, tuse seacă, crepitante velcro bilateral, artrită reumatoidă, fumat, expunere profesională. Confirmare HRCT (pattern UIP), teste funcționale pulmonare. CUVINTE CHEIE: fibroza pulmonara, IPF, dispnee progresiva, tuse seaca, crepitante velcro, boala autoimuna, fumat

@@ -1,0 +1,38 @@
+3070 - Patella Aplasia (Absența congenitală a rotulei) Transcript 2
+DIALOG_ID: PATELLA_APLASIA_004
+==========================================================================
+Medic: Bună ziua. Cu ce vă pot ajuta astăzi?
+
+Pacient: Am venit pentru că fiica mea de 12 ani are probleme mari când încearcă să facă sport la școală.
+
+Medic: Ce fel de probleme apar în timpul orelor de educație fizică?
+
+Pacient: Nu poate să sară și nu poate să își îndrepte genunchii complet atunci când stă pe scaun.
+
+Medic: Lăsați-mă să mă uit puțin la picioarele ei. Observ o formă neobișnuită în partea din față a genunchilor.
+
+Pacient: Da, uitați-vă când își îndoaie picioarele. Fața genunchiului rămâne plată, nu se formează acea gâlmă osoasă normală.
+
+Medic: Dacă pipăi aici... într-adevăr, lipsește acea „plăcuță” osoasă mobilă din fața articulației. La ambele picioare este așa?
+
+Pacient: Da, la amândouă. Am observat asta de când era mică, dar am crezut că se va dezvolta osul mai târziu.
+
+Medic: Din păcate, dacă nu s-a format până la această vârstă, înseamnă că structura respectivă pur și simplu nu există.
+
+Pacient: Și din cauza asta nu are ea forță să împingă în picioare sau să urce treptele?
+
+Medic: Exact, pentru că acel os are rolul de a funcționa ca o pârghie pentru mușchii mari ai coapsei. Fără el, mușchiul trage în gol.
+
+Pacient: Are vreo legătură și cu faptul că picioarele ei par puțin deformate spre exterior?
+
+Medic: Da, lipsa acelui element de sprijin modifică toată axa piciorului și forțează articulația să lucreze strâmb.
+
+Pacient: Se poate pune un os fals acolo sau există vreun tratament?
+
+Medic: În primă fază trebuie să facem niște radiografii speciale ca să vedem exact cum sunt prinse tendoanele în lipsa osului.
+
+Pacient: Ne puteți trimite chiar astăzi să facem aceste investigații la imagistică?
+
+Medic: Sigur că da, vă fac imediat biletul de trimitere și apoi decidem planul de recuperare.
+
+Pacient: Vă mulțumim mult. Sper să găsim o soluție ca să poată avea o viață normală.

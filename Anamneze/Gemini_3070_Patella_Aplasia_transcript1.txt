@@ -1,0 +1,39 @@
+3070 - Patella Aplasia (Absența congenitală a rotulei)
+Transcript 1
+DIALOG_ID: PATELLA_APLASIA_003
+==========================================================================
+Medic: Bună ziua. Ce vă supără la genunchiul drept?
+
+Pacient: Bună ziua, doctore. Am o problemă foarte ciudată din naștere, dar acum, de când m-am apucat de alergat, a început să mă doară groaznic.
+
+Medic: Descrieți-mi ce simțiți diferit la acest genunchi față de celălalt.
+
+Pacient: Păi, în primul rând, când pun mâna pe el, nu simt acel os rotund și tare din față, cel pe care îl au toți oamenii.
+
+Medic: Adică zona din fața articulației este complet moale la pipăit?
+
+Pacient: Da, exact! Este plat total. Dacă apăs, dau direct de tendoane și de articulație, nu e niciun „scut” acolo.
+
+Medic: Și cum vă afectează asta mișcarea piciorului, în afară de durere?
+
+Pacient: Nu pot să întind piciorul perfect drept când sunt în aer sau când vreau să dau într-o minge de fotbal. N-am forță deloc.
+
+Medic: Genunchiul este stabil când mergeți sau simțiți că fuge într-o parte?
+
+Pacient: Fuge foarte des, mai ales când cobor scările. Am mereu senzația că piciorul se va îndoi invers sau că va ceda.
+
+Medic: Această lipsă a osului din față o aveți la amândoi genunchii sau doar la cel drept?
+
+Pacient: Doar la cel drept. Cel stâng este perfect normal, simt osul acela mobil sub piele fără probleme.
+
+Medic: Când ați fost copil, ați avut probleme la mers sau la ridicat în picioare din cauza asta?
+
+Pacient: Mama îmi spunea că am început să merg mai târziu și că mereu aveam o poziție ciudată a piciorului, dar nu am fost la medic atunci.
+
+Medic: Durerea actuală unde este localizată mai exact?
+
+Pacient: Chiar acolo în față, unde ar fi trebuit să fie osul. Simt ca o arsură adâncă după ce merg mai mult pe jos.
+
+Medic: Este destul de clar. Avem o lipsă de structură osoasă esențială în acea zonă. Mergem la un examen clinic pe targă.
+
+Pacient: Sigur. Chiar vreau să văd ce se poate face, că m-am săturat să îmi scape piciorul.

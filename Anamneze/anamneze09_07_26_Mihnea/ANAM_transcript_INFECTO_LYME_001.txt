@@ -1,0 +1,28 @@
+SPECIALITATE: Boli Infecțioase
+COD_DIAGNOSTIC: A69.2
+DATA: 21.05.2024
+MEDIC: Dr. Alexandru Neagu
+---
+MEDIC: Bună ziua, cu ce problemă ați venit?
+PACIENT: Am o erupție roșie pe picior care crește în cerc și sunt extrem de obosit.
+MEDIC: De cât timp?
+PACIENT: Erupția a apărut acum 10 zile. A crescut de la un punct mic la 8-10 cm.
+MEDIC: Ați observat mușcatura de capuse?
+PACIENT: Da! Acum 2 săptămâni am scos o căpușă după ce am stat în pădure.
+MEDIC: Erupția este circulară cu centru palid?
+PACIENT: Da, ca un ochi de taur roșu cu mijlocul mai deschis.
+MEDIC: Aveți febră?
+PACIENT: Subfebril, 37,5-38. Și frisoane la debut.
+MEDIC: Aveți dureri articulare?
+PACIENT: Da, articulații și mușchi, mai ales genunchi.
+MEDIC: Aveți simptome neurologice — paralizie facială, amorțeli?
+PACIENT: Am slăbiciune ușoară la pleoapa dreaptă, de 2 zile.
+MEDIC: Aveți palpitații sau frecvent inima?
+PACIENT: Uneori palpitații, da.
+MEDIC: Unde locuiți? Mergeți des în pădure?
+PACIENT: La sat, lângă pădure. Merg frecvent la plimbare.
+MEDIC: Ați mai avut Lyme anterior?
+PACIENT: Nu, prima dată.
+---
+DIAGNOSTIC PREZUMTIV: Boala Lyme diseminata timpurie (stadiul 2) — mușcatura de căpusa confirmata, eritem migrans clasic, paralizie facială partiala (neuropatie craniala), artralgii, palpitații (bloc de conducere posibil). Doxiciclina sau amoxicilina. Diferențial 1: Eritem migrans izolat (stadiul 1) — fara diseminare, dar paralizia faciala indica stadiul 2. Diferențial 2: Tinea corporis — forma inelara, dar fara context epidemiologic Lyme.
+CUVINTE CHEIE: boala Lyme, eritem migrans, Borrelia burgdorferi, căpusa, paralizie faciala, bloc atrioventricular, doxiciclina

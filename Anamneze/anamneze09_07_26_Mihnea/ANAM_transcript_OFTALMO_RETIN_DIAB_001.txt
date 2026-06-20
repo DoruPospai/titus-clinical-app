@@ -1,0 +1,28 @@
+SPECIALITATE: Oftalmologie
+COD_DIAGNOSTIC: H36.0
+DATA: 29.03.2024
+MEDIC: Dr. Paul Enache
+---
+MEDIC: Bună ziua, de ce ați venit la control?
+PACIENT: Diabetologul m-a trimis la control ocular. Am diabet de 15 ani și mă doare că nu am mai venit la ochi 3 ani.
+MEDIC: Câți ani aveți?
+PACIENT: 58 de ani.
+MEDIC: Controlul glicemic cum a fost în ultimii ani?
+PACIENT: Prost. HbA1c a tot ieșit 9-10%.
+MEDIC: Aveți simptome vizuale?
+PACIENT: Câteodată pete plutitoare și vederea e puțin încețoșată mai ales dimineata.
+MEDIC: Aveți hipertensiune?
+PACIENT: Da, tratata.
+MEDIC: Aveți afectare renală diabetică?
+PACIENT: Creatinina crescuta si proteinurie. Nefropatia diabetica, da.
+MEDIC: La ultimul control ocular ce vi s-a spus?
+PACIENT: Retinopatie nonproliferativa moderata, 3 ani înainte.
+MEDIC: Aveți pierdere de vedere?
+PACIENT: Da, vederea centrala s-a înrăutățit în ultimele luni. Nu mai văd bine de citit.
+MEDIC: Aveți vase noi pe retina sau sânge în ochi?
+PACIENT: Nu știu, nu am văzut nimic.
+MEDIC: Folosiți insulina?
+PACIENT: Da, de 5 ani. Plus metformin.
+---
+DIAGNOSTIC PREZUMTIV: Retinopatie diabetica proliferativa cu edem macular diabetic — DZ15 ani, control glicemic precar cronic, nefropatie asociata (triada microvasculara diabetica), pete flotante (hemoragie), înrăutățire acut a vederii centrale. Laser retinian + anti-VEGF. Diferențial 1: Cataracta diabetica — opacifiere cristalin, frecvent la diabetici, dar nu explica petele flotante. Diferențial 2: Ocluzie de vena retiniana — debut mai brusc, hemoragii masive.
+CUVINTE CHEIE: retinopatie diabetica proliferativa, edem macular diabetic, HbA1c, pete flotante, anti-VEGF, fotocoagulare laser, neovasularizatie

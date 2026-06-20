@@ -1,0 +1,30 @@
+SPECIALITATE: Chirurgie Generala
+COD_DIAGNOSTIC: K40.9
+DATA: 17.03.2024
+MEDIC: Dr. Radu Lungu
+---
+MEDIC: Bună ziua, cu ce problema ați venit la chirurgie?
+PACIENT: Am o umflatura in inghinal drept care apare când mă ridic sau tușesc. Mai am de doi ani.
+MEDIC: Câți ani aveți?
+PACIENT: 55 de ani.
+MEDIC: Umflatura disparate la intins?
+PACIENT: Da, dispare spontan când mă culc sau o impng cu mâna.
+MEDIC: S-a marit in ultimul timp?
+PACIENT: Da, a crescut mult in ultimele 6 luni. Acum e cat un ou.
+MEDIC: Aveți durere?
+PACIENT: Disconfort la mers lung si muncă fizica. Uneori durere slapă.
+MEDIC: Munciți fizic greu?
+PACIENT: Da, ridicat greutati la depozit.
+MEDIC: Aveți probleme urinare — prostate, urinare dificila?
+PACIENT: Am HBP, merg des la baie noaptea.
+MEDIC: Aveți constipatie cronica?
+PACIENT: Da, am constipatie si mă impung mult la toaleta.
+MEDIC: Ati mai avut operatii în zona?
+PACIENT: Nu.
+MEDIC: Umflatura s-a blocat vreodata — nu ati putut sa o reduceti manual?
+PACIENT: O data acum o luna, 1 ora nu s-a redus. Dupa s-a dus singura. M-a speriat.
+MEDIC: Aveți febra sau durere brusca violenta?
+PACIENT: Nu acum.
+---
+DIAGNOSTIC PREZUMTIV: Hernie inghinala directa voluminoasa reductibila cu episod de incarcerare temporara — bărbat 55 ani, muncitor fizic, constipatie cronica (presiune abdominala crescuta), HBP cu efort miccional, hernie crescuta, episod de incarcerare spontan redusa (risc major de strangulare). Indicatie operatorie electiva urgentata. Diferențial 1: Limfadenopatie inghinala — masa neexpansiva la tuse, dura, fara reducere. Diferențial 2: Hernie femurala — mai frecventa la femei, canal femural, risc strangulare mai mare.
+CUVINTE CHEIE: hernie inghinala, incarcerare, strangulare, reducere manuala, hernioplastie Lichtenstein, muncitor fizic, proteza de plasa

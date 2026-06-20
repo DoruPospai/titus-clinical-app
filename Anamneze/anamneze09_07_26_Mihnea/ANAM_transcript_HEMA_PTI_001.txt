@@ -1,0 +1,30 @@
+SPECIALITATE: Hematologie
+COD_DIAGNOSTIC: D69.3
+DATA: 18.03.2024
+MEDIC: Dr. Sorin Badea
+---
+MEDIC: Bună ziua, ce vă aduce la hematologie?
+PACIENT: Mă umplu de vânătăi la cel mai mic contact și am apărut puncte roșii mici pe piele.
+MEDIC: De cât timp?
+PACIENT: De 3 săptămâni a apărut brusc. Nu am mai avut niciodată.
+MEDIC: Vârsta?
+PACIENT: 28 de ani.
+MEDIC: Ați avut o infecție recentă — gripă, viroză?
+PACIENT: Da, cu 2 săptămâni înainte am avut o răceală cu febră.
+MEDIC: Aveți sângerare din gingii sau nas?
+PACIENT: Da, gingivale la periaj și sânge mic din nas.
+MEDIC: Aveți menstruații abundente?
+PACIENT: Ultima menstruație a fost mai abundentă decât normal.
+MEDIC: Punctele roșii mici unde sunt?
+PACIENT: Pe picioare mai ales, pe brațe. Mici, nu dispar la presiune.
+MEDIC: Luați medicamente — aspirina, ibuprofen, anticoagulante?
+PACIENT: Nu.
+MEDIC: Aveți boli autoimune?
+PACIENT: Nu știu.
+MEDIC: Ați făcut analize de sânge?
+PACIENT: Trombocitele au ieșit 8.000. Medicul m-a trimis urgent.
+MEDIC: Aveți mărire de ganglioni sau splina mărită?
+PACIENT: Nu știu, nu am simțit nimic.
+---
+DIAGNOSTIC PREZUMTIV: Purpură trombocitopenică imună (PTI) acută post-virală — femeie tânăra cu trombocitopenie severă (8.000), debut acut post-infecție, petechii, sângerare mucoasă, fără splenomegalie sau adenopatie, fără alte citopenii. Diferențial 1: Trombocitopenie în LES — ANA/ANCA la femeie tânăra obligatorii. Diferențial 2: PTT (purpura trombotica trombocitopenica) — anemie hemolitică microangiopatică + neurologic + renal.
+CUVINTE CHEIE: PTI, purpura trombocitopenică imună, petechii, trombocitopenie severă, anticorpi antiplachetari, IVIG, corticosteroizi

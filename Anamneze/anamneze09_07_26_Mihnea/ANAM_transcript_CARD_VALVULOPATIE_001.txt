@@ -1,0 +1,28 @@
+SPECIALITATE: Cardiologie
+COD_DIAGNOSTIC: I35.0
+DATA: 08.02.2024
+MEDIC: Dr. Mihai Dumitrescu
+---
+MEDIC: Bună ziua, ce vă aduce la consultație?
+PACIENT: Mă lipsește aerul când merg pe jos, chiar și la mică distanță. Mai demult mergeam kilometri fără probleme.
+MEDIC: De cât timp aveți această problemă?
+PACIENT: Cam de un an și jumătate, dar ultimele două luni s-a înrăutățit mult.
+MEDIC: Aveți și dureri în piept sau în brațe?
+PACIENT: Da, uneori mă strânge la piept când urc scările, parcă îmi pune cineva un bolov pe piept.
+MEDIC: Ați leșinat sau simțit că vi se înnegrește vederea?
+PACIENT: Da, de două ori m-am simțit că cad, o dată chiar am căzut pe stradă. Doctorii m-au trimis la camera de gardă.
+MEDIC: Vă umflați la picioare seara?
+PACIENT: Da, la gleznă și la gambe. Dimineața trece, dar seara mă strâng pantofii.
+MEDIC: Aveți amețeli sau senzație de bătăi neregulate ale inimii?
+PACIENT: Nu bătăi neregulate, dar mă amețesc când mă ridic repede de pe scaun.
+MEDIC: Câți ani aveți și ați mai avut probleme cu inima?
+PACIENT: 72 de ani. Acum câțiva ani mi s-a zis că am un suflu, dar nu mi-am dat importanță.
+MEDIC: Ați mai consultat vreun cardiolog?
+PACIENT: Acum 5 ani mi-a făcut cineva o ecografie la inimă și mi-a zis că am o valvă strâmtă. Nu am mai urmărit.
+MEDIC: Aveți tensiunea mare sau alte boli?
+PACIENT: Am tensiunea puțin mare și zahărul la limită. Iau o pastilă de tensiune.
+MEDIC: Noaptea vă trezește vreodată lipsa aerului?
+PACIENT: Da, uneori noaptea simt că mă sufoc și stau cu 2 perne sub cap.
+---
+DIAGNOSTIC PREZUMTIV: Stenoză aortică severă simptomatică — triada clasică: angină de efort, sincopă de efort, dispnee progresivă la vârstnic cu suflu cunoscut. Diferențial 1: Insuficiență cardiacă congestivă — dispnee și ortopnee prezente, dar sincopa și angor sugerează stenoză valvulară. Diferențial 2: Cardiomiopatie hipertrofică obstructivă — tablou similar la vârstnic, eco diferențiază.
+CUVINTE CHEIE: stenoză aortică, sincopă de efort, angină de efort, dispnee progresivă, suflu aortic, ortopnee, edeme gambiere

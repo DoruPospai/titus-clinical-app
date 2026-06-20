@@ -1,0 +1,96 @@
+
+════════════════════════════════════════════════════════════════
+DIALOG 1 — Insuficiență cardiacă
+════════════════════════════════════════════════════════════════
+
+CASE: Dispnee de efort și edeme la pacient vârstnic
+DIALOG_ID: DLG_CARDIO_HEART_FAILURE_001
+
+Doctor: Bună ziua. Ce vă aduce astăzi?
+Patient: Mă sufoc când urc scările. Înainte mergeam fără probleme, acum mă opresc la primul etaj.
+Doctor: De când a apărut această problemă?
+Patient: De vreo două luni, dar în ultima săptămână e mai rău.
+Doctor: Noaptea dormiți bine?
+Patient: Nu. Mă trezesc cu senzația că nu am aer și trebuie să stau cu capul ridicat pe două perne.
+Doctor: Ați observat umflături la picioare?
+Patient: Da, spre seară mi se umflă glezna și picioarele. Dimineața e mai bine.
+Doctor: Simțiți și inima cum bate?
+Patient: Uneori da, simt cum îmi bate inima neregulat. Mă sperie.
+Doctor: Ați mai avut probleme cu inima?
+Patient: Am tensiunea mare de mulți ani. Și colesterolul crescut.
+Doctor: Vă simțiți obosit?
+Patient: Foarte obosit. Nu mai am putere deloc. Fac câțiva pași și obosesc.
+Doctor: Aveți tuse?
+Patient: Da, tușesc mai ales noaptea. Uneori scot și puțină flegmă.
+
+════════════════════════════════════════════════════════════════
+DIALOG 2 — Accident vascular cerebral (AVC)
+════════════════════════════════════════════════════════════════
+
+CASE: Deficit neurologic acut — suspiciune AVC
+DIALOG_ID: DLG_NEURO_STROKE_001
+
+Doctor: Spuneți-mi ce s-a întâmplat.
+Patient: Ieri dimineață m-am trezit și nu mai puteam mișca bine mâna dreaptă. Mi-a căzut colțul gurii și vorbesc greu.
+Doctor: A apărut brusc sau treptat?
+Patient: Brusc. M-am trezit și era deja așa.
+Doctor: Aveți dureri de cap?
+Patient: Mă doare capul tare, nu mi s-a mai întâmplat niciodată atât de rău.
+Doctor: Vedeți bine?
+Patient: Văd un pic dublu, mai ales când mă uit în dreapta.
+Doctor: Vă simțiți amețit?
+Patient: Puțin. Mi se învârte camera cu mine când mă ridic.
+Doctor: Ați mai avut episoade similare?
+Patient: Nu, e prima dată. Dar am tensiunea mare de ani de zile și nu iau medicamentele regulat.
+Doctor: Aveți diabet sau fumați?
+Patient: Fumez de 30 de ani. Diabet nu am.
+
+════════════════════════════════════════════════════════════════
+DIALOG 3 — Boală de reflux gastroesofagian
+════════════════════════════════════════════════════════════════
+
+CASE: Arsuri retrosternale și disfagie
+DIALOG_ID: DLG_DIGEST_GERD_001
+
+Doctor: Ce vă deranjează?
+Patient: Mă arde la stomac după ce mănânc. Urcă în sus, până în gât.
+Doctor: De cât timp?
+Patient: De câteva luni. Mai ales după masă mare sau seara.
+Doctor: Se agravează când vă întindeți?
+Patient: Exact. Când stau culcat pe spate e mai rău. Dorm cu capul ridicat.
+Doctor: Aveți dificultăți la înghițit?
+Patient: Uneori înghit greu, mai ales solidele. Parcă se opresc la mijloc.
+Doctor: Aveți răgușeală sau tuse?
+Patient: Da, sunt răgușit dimineața. Și tușesc fără să știu de ce.
+Doctor: Ați observat dacă stresul agravează simptomele?
+Patient: Cu siguranță. La serviciu am mult stres și atunci e mai rău.
+Doctor: Aveți greutate în plus?
+Patient: Da, am câteva kilograme în plus de vreo doi ani.
+Doctor: Consumați alcool sau cafea?
+Patient: Cafea trei pe zi. Alcool rar, la ocazii.
+
+════════════════════════════════════════════════════════════════
+DIALOG 4 — Hipotiroidism
+════════════════════════════════════════════════════════════════
+
+CASE: Fatigabilitate și constipație la femeie de vârstă medie
+DIALOG_ID: DLG_ENDO_HYPOTHYROID_001
+
+Doctor: Ce simptome vă deranjează în ultima perioadă?
+Patient: Sunt obosită tot timpul. Nu mai am energie deloc, chiar și după ce dorm.
+Doctor: De când?
+Patient: De vreo șase luni. S-a înrăutățit treptat.
+Doctor: Ați observat modificări în greutate?
+Patient: Am luat în greutate fără să mănânc mai mult. Vreo cinci kilograme în șase luni.
+Doctor: Cum este tranzitul intestinal?
+Patient: Am constipație. Merg la baie o dată la trei-patru zile și e greu.
+Doctor: Simțiți frig mai mult decât înainte?
+Patient: Îmi este mereu frig. Colegii sunt în tricou și eu stau cu jacheta pe mine.
+Doctor: Aveți părul sau unghiile mai fragile?
+Patient: Da, îmi cade părul mult. Și pielea e uscată, mai ales pe mâini.
+Doctor: Aveți probleme de memorie sau concentrare?
+Patient: Uit lucruri. Seara nu îmi amintesc ce am făcut dimineața.
+Doctor: În familie există probleme cu tiroida?
+Patient: Mama a avut tiroidă. A luat pastile toată viața.
+Doctor: Ritmul cardiac vi s-a schimbat?
+Patient: Parcă inima bate mai rar. Și mă simt greoaie în mișcări.

@@ -1,0 +1,25 @@
+SPECIALITATE: Alergologie-ORL
+COD_DIAGNOSTIC: J30.1
+DATA: 18.04.2024
+MEDIC: Dr. Mirela Tanase
+---
+MEDIC: Bună ziua, cu ce simptome nazale ați venit?
+PACIENT: Strănuturi în salve dimineata, nas infundat tot timpul, secretie clara si ochii imi lacrimeaza primavara.
+MEDIC: De cât timp?
+PACIENT: De la 16 ani, acum am 31. Se inrautateste primavara si toamna.
+MEDIC: Câte ore pe zi aveți simptome?
+PACIENT: Dimineata 1-2 ore de stranut intens. Restul zilei nas infundat si scurgere.
+MEDIC: Aveți și astm sau eczema?
+PACIENT: Mica dermatita pe coate. Astm nu.
+MEDIC: Factorii care inrautatesc?
+PACIENT: Iarba, copaci, primavara. Si pisicile. Si uneori praf.
+MEDIC: Ați testata alergenic?
+PACIENT: Da, prick test pozitiv la polenuri (graminee, betula), acarienii si pisica.
+MEDIC: Calitatea vietii e afectata?
+PACIENT: Nu pot dormi bine cu nasul infundat. La serviciu dificultati de concentrare.
+MEDIC: Luati ceva?
+PACIENT: Antihistaminice sezonier si spray nazal cu cortizon. Ajuta partial.
+MEDIC: Ati încercat imunoterapie?
+PACIENT: Nu, nu am stiut ca e posibil.
+MEDIC: Aveți simptome tot anul sau sezonier?
+PACIENT: Sezonier mai rau, dar tot anul la praf si pisici.

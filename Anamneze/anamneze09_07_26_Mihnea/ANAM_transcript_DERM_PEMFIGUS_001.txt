@@ -1,0 +1,30 @@
+SPECIALITATE: Dermatologie
+COD_DIAGNOSTIC: L10.0
+DATA: 26.03.2024
+MEDIC: Dr. Adrian Florescu
+---
+MEDIC: Bună ziua, ce probleme aveți?
+PACIENT: Mă mănâncă și am bule pe corp care se sparg și lasă răni dureroase.
+MEDIC: De cât timp?
+PACIENT: De vreo 2 luni. A început cu răni în gură, mi s-a crezut aftoasă. Acum e și pe corp.
+MEDIC: Rănile din gură sunt dureroase?
+PACIENT: Cumplit. Nu pot mânca solid de 3 săptămâni. Slăbesc.
+MEDIC: Unde pe corp sunt bulele?
+PACIENT: Pe spate, pe piept, pe scalp. Apar bule mari cu lichid care se sparg ușor, la atingere.
+MEDIC: Bulele sunt ferme sau se rup ușor la atingere?
+PACIENT: La cea mai mică atingere sau frecare se rup. Cu prosopul, cu hainele.
+MEDIC: Aveți și la ochi sau în zona genitală?
+PACIENT: Da, în zona genitală am și câteva răni.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 55 de ani.
+MEDIC: Luați medicamente pe termen lung?
+PACIENT: Captopril pentru tensiune, de 8 ani. Și un antiinflamator ocazional.
+MEDIC: Aveți alte boli autoimune?
+PACIENT: Nu, nimic cunoscut.
+MEDIC: Aveți febră sau alterarea stării generale?
+PACIENT: Mă simt rău în general, febra ocazional 37,5-38.
+MEDIC: Aveți dureri musculare sau articulare?
+PACIENT: Nu marcate, dar mă simt slăbită.
+---
+DIAGNOSTIC PREZUMTIV: Pemfigus vulgar — femeie cu bule flacide fragile pe mucoasă și piele, semn Nikolsky pozitiv probabil, leziuni orale inițiale, cu afectare funcțională severă. Diferențial 1: Pemfigoid bulos — bule mai ferme, afectare orală mai rară, IgG anti-BP180 vs. anti-DSG3 diferențiază. Diferențial 2: Pemfigus indus de captopril (IECA) — posibil, retragerea captoprilului va clarifica.
+CUVINTE CHEIE: pemfigus vulgar, bule flacide, semn Nikolsky, leziuni orale, autoanticorpi DSG3, rituxizumab, corticosteroizi

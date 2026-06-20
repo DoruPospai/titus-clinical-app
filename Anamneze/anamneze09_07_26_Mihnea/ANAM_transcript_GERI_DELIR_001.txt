@@ -1,0 +1,26 @@
+SPECIALITATE: Geriatrie
+COD_DIAGNOSTIC: F05.0
+DATA: 02.03.2024
+MEDIC: Dr. Sorin Mateescu
+---
+MEDIC: Familia spune că bunicul a facut ceva brusc. De cât timp?
+APARTINATOR: De ieri seara s-a schimbat. Vorbeste necoerent, nu stie unde e, e agitat, nu doarme.
+MEDIC: Înainte de ieri cum era?
+APARTINATOR: Lucid. Are 82 de ani, mai uita câte ceva dar era orientat.
+MEDIC: A facut operatie sau a fost spitalizat recent?
+APARTINATOR: A fost operat pe sold acum 4 zile, fractura de sold. A venit acasă ieri.
+MEDIC: Schimbarea e mai rea noaptea?
+APARTINATOR: Noaptea e dezorienta total, vede lucruri, striga. Ziua mai lucid dar confuz.
+MEDIC: Ia multe medicamente?
+APARTINATOR: Da, 8-9 medicamente. I-au mai adaugat analgezice dupa operatie — morfina si altele.
+MEDIC: Bea suficienta apa?
+APARTINATOR: Nu prea. Dupa operatie a mancat si baut prost.
+MEDIC: Are febra?
+APARTINATOR: 37,8 de azi dimineata.
+MEDIC: Are durere sau semne urinare?
+APARTINATOR: A urinat mica cantitate azi. Ai observat ca urina e mai inchisa.
+MEDIC: Are dementa anterioara diagnosticata?
+APARTINATOR: Ușoară, dar functionala.
+---
+DIAGNOSTIC PREZUMTIV: Delir postoperator acut la varstnic cu dementa preexistenta — barbat 82 ani, debut acut fluctuant post-chirurgie sold, modificare de la baseline, fluctuatie noapte-zi (hiperactive nocturn), posibile precipitante: opioide, infectie urinara, deshidratare. Cauze tratabile de exclus sistematic. Diferențial 1: Exacerbare acuta dementa — debut mai lent, fara fluctuatie rapida sau cauza organica acuta. Diferențial 2: Psihoza de orgine, encefalopatie Wernicke — nutritie postoperatorie deficitara, alcoolism in antecedente.
+CUVINTE CHEIE: delir postoperator, confuzie acuta, varstnic fragil, fluctuatie noapte-zi, precipitanti multipli, deshidratare, infectie urinara

@@ -1,0 +1,30 @@
+SPECIALITATE: Hematologie / Oncologie
+COD_DIAGNOSTIC: C92.0
+DATA: 17.04.2024
+MEDIC: Dr. Liviu Manea
+---
+MEDIC: Ce vă aduce la urgențe?
+PACIENT: Am oboseală cumplită de vreo 3 săptămâni, și ieri am ieșit sânge din gingii fără motiv.
+MEDIC: De câtă vreme sunt aceste simptome și cum au început?
+PACIENT: Brusc. Acum 3 săptămâni am simțit o slăbiciune mare. Nu asociez cu nimic.
+MEDIC: Aveți febră?
+PACIENT: Da, febră în fiecare seară, 38-38,5. Și transpirații.
+MEDIC: Ați observat vânătăi sau pete pe piele?
+PACIENT: Da! Am vânătăi pe brațe și picioare fără să mă lovesc. Și niște pete roșii mici, ca niște puncte.
+MEDIC: Aveți dureri de oase?
+PACIENT: Da, dureri difuze la oase, mai ales la stern și coloană.
+MEDIC: Aveți ganglioni umflați?
+PACIENT: Da, la gât am ceva umflat.
+MEDIC: Aveți dureri de cap sau dureri de ceafă?
+PACIENT: Dureri de cap am, mai intense ultimele zile.
+MEDIC: Aveți vârsta de...?
+PACIENT: 42 de ani. Nu am mai avut boli.
+MEDIC: Ați observat splina sau ficatul mărită — dureri sub coaste stânga?
+PACIENT: Da, am o jenă sub coasta stângă de câteva zile.
+MEDIC: Cum este pofta de mâncare?
+PACIENT: Scăzută mult. Mă forțez să mănânc.
+MEDIC: Aveți infecții frecvente recent?
+PACIENT: Da, 3 infecții în ultimele 2 luni, inclusiv o pneumonie.
+---
+DIAGNOSTIC PREZUMTIV: Leucemie acută mieloblastică — bărbat cu debut acut, pancitopenie clinică (anemie, trombocitopenie, infecții), dureri osoase, splenomegalie și simptome B. Diferențial 1: Limfom non-Hodgkin cu invazie medulară — adenopatii și splenomegalie, dar debut acut și pancitopenie pledează pentru leucemie. Diferențial 2: Anemie aplastică — pancitopenie și infecții frecvente, dar dureri osoase și splenomegalie exclud aplazia.
+CUVINTE CHEIE: leucemie acută, pancitopenie, peteșii, dureri osoase, splenomegalie, debut acut, blaste

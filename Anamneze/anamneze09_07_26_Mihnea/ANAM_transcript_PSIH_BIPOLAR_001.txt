@@ -1,0 +1,28 @@
+SPECIALITATE: Psihiatrie
+COD_DIAGNOSTIC: F31.1
+DATA: 28.04.2024
+MEDIC: Dr. Florin Micu
+---
+MEDIC: Bună ziua, ce se întâmplă?
+PACIENT: Mă simt superb! Sunt plin de energie, nu am dormit 3 zile și nu mi-e somn. Am rezolvat toate problemele familiei.
+MEDIC: De cât timp aveți această energie?
+PACIENT: De vreo 2 săptămâni. Nici nu știu de ce m-au adus aici, eu sunt bine.
+MEDIC: Familia ce observă la dumneavoastră?
+PACIENT: Prostii. Că vorbesc prea repede, că am dat toți banii la prieteni, că am luat credite. Dar e investiție bună.
+MEDIC: Cât ați cheltuit în ultima lună?
+PACIENT: Vreo 30.000 de euro. Pe idei bune. Am o afacere în cap de care nu le spun.
+MEDIC: Aveți vârsta de...?
+PACIENT: 32 de ani.
+MEDIC: Ați mai trecut prin episoade similare?
+PACIENT: Acum 3 ani, același lucru. Am stat internat 2 săptămâni.
+MEDIC: Și între episoade — ați avut perioade de tristețe?
+PACIENT: Da, după episodul de acum 3 ani am fost la pământ 4 luni. Nu mă ridicam din pat.
+MEDIC: Luați tratament?
+PACIENT: Am luat litiu, dar am oprit acum 3 luni că nu mai simțeam nimic.
+MEDIC: Aveți gânduri mărete despre dumneavoastră — că aveți puteri speciale?
+PACIENT: Sunt deștept. Am IQ de 180, garantat. Toți ceilalți nu înțeleg.
+MEDIC: Aveți gânduri să vă faceți rău sau să faceți ceva extrem?
+PACIENT: Nu, am planuri mari. Prea mult de făcut.
+---
+DIAGNOSTIC PREZUMTIV: Tulburare bipolară tip I, episod maniacal cu caracteristici psihotice — bărbat cu episod maniacal recurent, insomnie fără oboseală, megalomanie, cheltuieli iraționale și grandiozitate, după oprirea litiului. Diferențial 1: Manie secundară (medicamentoasă sau organică) — oprirea litiului în antecedent, dar tabloul bipolar evident. Diferențial 2: Tulburare de personalitate narcisistă — trăsături de grandoare, dar episodicitatea și severitatea pledează pentru bipolar.
+CUVINTE CHEIE: tulburare bipolară, manie, insomnie, grandozitate, cheltuieli iraționale, litiu, episod recurent

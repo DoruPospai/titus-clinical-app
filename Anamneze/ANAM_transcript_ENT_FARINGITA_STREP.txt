@@ -1,0 +1,25 @@
+Transcript — ANAM_transcript_ENT_FARINGITA_STREP
+MEDIC: Dr. Radu Silviu
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Mă doare groaznic în gât de ieri. Nu pot înghiți nici salivă.
+
+MEDIC: Aveți febră?
+PACIENT: Da, 39.2. Am frisoane și mă simt foarte rău.
+
+MEDIC: Aveți tuse?
+PACIENT: Nu, nu tușesc. Doar gâtul mă omoară.
+
+MEDIC: Aveți ganglioni umflați la gât?
+PACIENT: Da, simt ceva la gât, e umflat și doare la apăsare.
+
+MEDIC: Aveți nas înfundat?
+PACIENT: Nu, nasul e liber complet.
+
+MEDIC: Ați stat în contact cu cineva bolnav?
+PACIENT: Da, colega mea de birou a avut angină acum o săptămână.
+
+MEDIC: Câți ani aveți?
+PACIENT: 28 de ani.
+
+DIAGNOSTIC PREZUMTIV: Faringită streptococică (scor Centor 4) — odinofagie severă, febră înaltă, adenopatie cervicală dureroasă, absența tusei, contact cu caz de angină. Tratament antibiotic indicat. Confirmare test rapid streptococ. CUVINTE CHEIE: faringita streptococica, odinofagie, febra inalta, adenopatie cervicala, fara tuse, contact angina

@@ -1,0 +1,37 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Gastroenterologie
+Diagnostic prezumtiv: Boala Crohn, localizare ileocolonică
+Data: 2026-05-18
+Medic: Dr. Radu Simona
+
+MEDIC: Bună ziua. Spuneți-mi ce simptome aveți.
+PACIENT: Doctore, am diaree aproape zilnic de 4 luni, dureri abdominale și am slăbit mult.
+
+MEDIC: Câte scaune pe zi?
+PACIENT: 5-8 scaune, uneori cu sânge și mucus.
+
+MEDIC: Unde este durerea?
+PACIENT: În dreapta jos, mai ales. Câteodată și crampă generalizată înainte de scaun.
+
+MEDIC: Câte kilograme ați pierdut?
+PACIENT: 7 kg în 4 luni, fără dietă.
+
+MEDIC: Aveți febră?
+PACIENT: Subfebrilitate, 37.4-37.6.
+
+MEDIC: Aveți afecțiuni ale gurii, articulații dureroase, probleme de piele sau ochi?
+PACIENT: Da! Am afte bucale des. Și genunchii mă dor.
+
+MEDIC: Există boli inflamatorii intestinale în familie?
+PACIENT: Un frate are rectocolită hemoragică.
+
+MEDIC: Fumați?
+PACIENT: Da, 10 țigări pe zi.
+
+MEDIC: Câți ani aveți?
+PACIENT: 24 de ani.
+
+DIAGNOSTIC PREZUMTIV: Boala Crohn probabilă (ileocolonică), cu manifestări extraintestinale (afte, artropatie). Necesită colonoscopie, calprotectină fecală, CRP, imagistică.
+
+CUVINTE CHEIE: diaree cronică, rectoragie, durere fosa iliacă dreaptă, scădere ponderală, afte bucale, artropatie, antecedente familiale IBD, fumat

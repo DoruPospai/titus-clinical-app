@@ -1,0 +1,2990 @@
+idx,code,name
+0,1,Cataract
+1,2,Celiac Disease
+2,3,Carotid Sinus Syndrome
+3,4,Carpal Tunnel Syndrome
+4,5,Chlamydia Pneumoniae
+5,6,Chlamydial Sexually Transmitted Disease
+6,7,Chancroid
+7,8,Chickenpox
+8,9,Cervicitis
+9,10,Cervicitis Ectropion & True Erosion
+10,11,Cervical Polyps
+11,12,Cervical Spondylosis
+12,13,Cervical Dysplasia
+13,14,Cervical Malignancy
+14,15,Cellulitis Periorbital & Orbital
+15,16,Cerebral Palsy
+16,17,Angioedema
+17,18,Ankylosing Spondylitis
+18,19,Aneurysm Of The Abdominal Aorta
+19,20,Classic Angina
+20,21,Abortion Spontaneous
+21,22,Abruptio Placenta
+22,23,Acetaminophen Poisoning
+23,24,Prinzmetal Angina
+24,25,Unstable Angina
+25,26,Rubella
+26,27,Rubella Congenital
+27,28,Altitude Illness
+28,29,Alzheimer Disease
+29,30,Amblyopia
+30,31,Amebiasis
+31,32,Amyloidosis
+32,33,Amyotrophic Lateral Sclerosis
+33,34,Anaerobic & Necrotizing Infections
+34,35,Anaphylaxis
+35,36,Balanitis
+36,37,Barotitis Media
+37,38,Cat Scratch Disease
+38,39,Oroya Fever
+39,40,Attention Deficit Hyperactivity Disorder
+40,41,Autism
+41,42,Atrial Fibrillation
+42,43,Atrial Septal Defect
+43,44,Aspergillosis
+44,45,Asthma
+45,47,Atherosclerotic Occlusive Disease
+46,48,Arthritis Rheumatoid
+47,49,Asbestosis
+48,50,Arthritis Osteo
+49,51,Arthritis Psoriatic
+50,52,Arterial Gas Embolism
+51,53,Arteriosclerotic Heart Disease
+52,54,"Arthritis Infectious Bacterial, Nongonococcal"
+53,55,Arthritis Juvenile Rheumatoid
+54,56,Anxiety
+55,57,"Aortic Dissection, Acute"
+56,58,Aortic Valvular Stenosis Acquired
+57,59,Aortic Supravalvular Stenosis (Williams Beuren)
+58,60,Addison Disease
+59,61,Adenovirus Infection
+60,62,Acne Rosacea
+61,63,Acne Vulgaris
+62,64,Anorectal Fistula
+63,65,Anorexia Nervosa
+64,66,Measles
+65,67,Anorectal Abscess
+66,68,Anemia Pernicious
+67,69,Anemia Sickle Cell
+68,70,Anemia Aplastic
+69,71,Anemia Autoimmune Hemolytic
+70,72,Alcoholism
+71,73,Aldosteronism Primary
+72,74,Alopecia
+73,75,Alopecia Areata
+74,76,Cardiac Tamponade
+75,77,Cardiomyopathy End Stage
+76,78,"Candidiasis, Vulvovaginitis"
+77,79,Carbon Monoxide Poisoning
+78,80,Bronchitis Acute
+79,81,Brucellosis
+80,82,Bulimia Nervosa
+81,83,Candidiasis
+82,84,Brain Abscess
+83,85,Brain Injury
+84,86,Brachial Cleft Fistula
+85,87,Breast Abscess
+86,88,Bronchiolitis
+87,89,Bronchiolitis Obliterans
+88,90,Breast Cancer Female
+89,91,Bronchiectasis
+90,92,Botulism Infant
+91,93,Botulism Wound
+92,94,Chondrosarcoma
+93,95,Botulism Foodborn
+94,96,Blastomycosis Chronic Infection
+95,97,Blepharitis
+96,98,Osteosarcoma
+97,99,Ewing Sarcoma
+98,100,Bladder Injury
+99,101,"Blastomycosis, Acute Infection"
+100,102,Behcet Syndrome
+101,103,Bell Palsy
+102,104,Verruga Peruana
+103,105,Trench Fever
+104,106,Bacillary Angiomatosis
+105,107,Basal Cell Carcinoma
+106,108,Aortic Supravalvular Stenosis (Shone)
+107,109,Aortic Regurgitation Chronic
+108,110,Appendicitis Acute
+109,111,Arterial Limb Embolus & Thrombosis
+110,112,Choledocholithiasis
+111,113,Cholelithiasis
+112,114,Cholangitis
+113,115,Cholecystitis
+114,116,Chronic Obstructive Pulmonary Disease
+115,117,Cirrhosis Of The Liver
+116,118,Cholera
+117,120,Coccidiodomycosis
+118,121,Colorectal Malignancy
+119,122,Claudication
+120,123,Coarctation Of The Aorta
+121,124,Common Cold
+122,125,Complete Atrioventricular Canal
+123,126,Condyloma Acuminata
+124,127,Congenital Megacolon
+125,128,Congestive Heart Failure
+126,129,Viral Conjunctivitis
+127,130,Chronic Cor Pulmonale
+128,131,Corneal Ulceration
+129,192,Diabetes Mellitus Type I
+130,193,Diabetes Mellitus Type Ii
+131,194,Dermatitis Stasis
+132,195,Diabetes Insipidus
+133,196,Dermatitis Diaper
+134,197,Dermatitis Exfoliative
+135,198,Dermatitis Herpetiformis
+136,199,Dermatitis Seborrheic
+137,200,Arthritis Bacterial Gonococcal
+138,201,Cutaneous Squamous Cell Carcinoma
+139,202,Cutaneous T Cell Lymphoma
+140,203,Cystic Fibrosis
+141,204,Cytomegalovirus Inclusion Disease Congenital
+142,205,Cytomegalovirus Inclusion Disease Acquired
+143,206,Decompression Sickness
+144,207,Sub Acute Infective Endocarditis
+145,208,Acute Infective Endocarditis
+146,209,Cryptorchidism
+147,210,Cushing Disease
+148,211,Spontaneous Bacterial Peritonitis
+149,212,Cushing Syndrome Adrenal Tumor
+150,213,Septic Shock
+151,214,Costochondritis
+152,215,Crohn Disease
+153,216,Chronic Cholecystitis
+154,217,Cryptococcosis
+155,218,Dermatitis Atopic
+156,219,Dermatitis Contact
+157,220,Dementia
+158,221,Depression
+159,222,Histamine Fish Poisoning
+160,223,Paralytic Shellfish Poisoning
+161,224,Neurotoxic Shellfish Poisoning
+162,225,Tetrodoxin Poisoning
+163,227,Cytomegalovirus Inclusion Disease Immunocompromised Host
+164,228,Anthrax Cutaneous
+165,229,Ciguatera Syndrome
+166,230,Traveler S Diarrhea
+167,231,Salmonella Enterocolitis
+168,232,Bacillary Dysentery
+169,233,Staphylococcus Food Poisoning
+170,234,Bacillus Cereus Food Poisoning
+171,235,Clostridium Perfringens Food Poisoning
+172,236,"Vibrioparahaemolyticus, Food Poisoning"
+173,237,Diabetic Ketoacidosis
+174,238,Diarrhea Acute Viral
+175,239,Viral Gastroenteritis Rotavirus
+176,240,Viral Gastroenteritis Norwalk/Related Viruses
+177,241,Hookworm Disease
+178,242,Strongyloidiasis
+179,243,Trichuriasis
+180,245,Anthrax Inhalation
+181,246,Granuloma Inguinale
+182,247,Babesiosis
+183,248,Balantidiasis
+184,249,Dracunculiasis
+185,250,Loiasis
+186,251,Streptocerciasis
+187,252,Mansonella Perstans Infection
+188,253,Angiostrongyliasis Cantonensis
+189,254,Echinococcosis
+190,255,Angiostrongyliasis Costaricensis
+191,256,Ascariasis
+192,257,Larva Migrans Cutaneous
+193,258,Nonspecific Febrile Illness
+194,259,Generalized Disease Of The Newborn
+195,260,Aseptic Meningitis/Encephalitis
+196,261,Poliomyelitis Acute
+197,262,Gnathostomiasis
+198,263,Larva Migrans Visceral
+199,264,Larva Migrans Ocular
+200,265,Anisakiasis
+201,266,Lymphatic Filariasis
+202,267,Tropical Pulmonary Eosinophilia
+203,268,Onchocerchiasis
+204,269,Biliary Duct Dwelling Trematodes Infection
+205,270,Lung-Dwelling Trematodes Infection
+206,271,Liver-Dwelling Trematodes. Fasciola Hepatica Infection
+207,272,Intestine-Dwelling Trematodes Infection
+208,273,Pleurodynia
+209,274,Coxsackievirus Infection
+210,275,Hand-Foot-And-Mouth Disease
+211,276,Acute Hemorrhagic Conjunctivitis
+212,277,Lymphocytic Choriomeningitis
+213,278,Sandfly Fever
+214,279,Dengue Fever
+215,280,Colorado Tick Fever
+216,281,Taeniasis Saginata Infection
+217,282,Intestinal Taeniasis Solium
+218,283,Cysticercosis
+219,284,Diphyllobothriasis
+220,285,Eastern Equine Encephalitis
+221,286,Chikungunya Virus Infection
+222,287,Epidemic Polyarthritis
+223,288,Lassa Fever
+224,289,California Encephalitis
+225,290,Saint-Louis Encephalitis
+226,291,Japanese Encephalitis
+227,292,Tick-Borne Encephalitis
+228,293,Rift Valley Fever
+229,294,Hemorrhagic Fever With Renal Syndrome
+230,295,Hantavirus Pulmonary Syndrome
+231,296,Yellow Fever
+232,297,Dengue Hemorrhagic Fever-Shock Syndrome
+233,298,Gas Gangrene
+234,299,Streptococcal Sore Throat
+235,300,Isosporiasis
+236,301,Schistosoma Haematobium Infection
+237,302,Schistosome Dermatitis
+238,303,Schistosoma Mansoni Infection
+239,304,Schistosoma Japonicum Infection
+240,305,Rocky Mountain Spotted Fever
+241,306,Mediterranean Spotted Fever
+242,307,Louse-Borne Relapsing Fever
+243,308,Tick-Borne Relapsing Fever
+244,309,Vascular Dementia
+245,310,Pick Disease
+246,311,Diffuse Lewy Body Dementia
+247,312,Flea-Borne Endemic Typhus
+248,313,Louse-Borne Epidemic Typhus
+249,314,Chigger-Borne Scrub Typhus
+250,315,Ehrlichiosis Human Monocytic
+251,316,Yaws
+252,317,Endemic Syphilis
+253,318,Leptospirosis Anicteric
+254,319,Leptospirosis Severe
+255,320,Chagas Disease Acute
+256,321,Chagas Disease Chronic
+257,322,Sleeping Sickness
+258,323,Pinta
+259,324,Hydrocephalus Normal Pressure
+260,326,Supranuclear Palsy Progressive
+261,327,Frontotemporal Dementia
+262,328,Ehrlichiosis Human Granulocytic
+263,329,Q Fever Acute
+264,330,Q Fever Chronic
+265,331,Cortical Basal Ganglionic Degeneration
+266,332,Primary Aphasia Progressive
+267,333,Digitalis Toxicity
+268,334,Diphteria
+269,335,Disseminated Intravascular Coagulation
+270,336,Dissociative Disorder
+271,337,Diverticulosis Of The Colon
+272,338,Diverticulitis Of The Colon
+273,339,Down Syndrome
+274,340,Dumping Syndrome
+275,341,Dupuytren Contracture
+276,342,Uterine Bleeding Dysfunctional
+277,343,Encephalitis Viral
+278,344,Encopresis
+279,345,Endometriosis
+280,346,Enuresis
+281,347,Eosinophilic Pneumonia
+282,348,Epididymitis
+283,349,Epiglottitis
+284,350,Epstein-Barr Virus Infection
+285,351,Dyshidrosis
+286,352,Dyspepsia Functional
+287,353,Eclampsia
+288,354,Ectopic Pregnancy
+289,355,Erectile Dysfunction
+290,356,Erysipela
+291,357,Erythema Multiforme
+292,358,Erythema Nodosum
+293,359,Zenker Diverticulum
+294,360,Fecal Impaction
+295,361,Fibrocytic Breast Disease
+296,362,Folliculitis
+297,363,Erythroblastosis Fetalis
+298,364,Esophageal Cancer
+299,365,Achalasia Esophageal
+300,366,Reflux Esophagitis
+301,367,Glaucoma Primary Angle Closure
+302,368,Glomerulonephritis Acute Post Infective
+303,369,Gout Attack
+304,370,Granuloma Annulare
+305,371,Granuloma Pyogenic
+306,372,Guillain Barre Syndrome
+307,373,Headache Cluster
+308,374,Headache Tension
+309,375,Gastric Malignancy
+310,376,Giant Cell Arteritis
+311,377,Gilbert Disease
+312,378,Glaucoma Chronic Open Angle
+313,379,Frozen Shoulder
+314,380,Furonculosis
+315,381,Fragile X Syndrome
+316,382,Frostbite
+317,383,Heat Exhaustion & Heat Stroke
+318,384,Hemochromatosis
+319,385,Hemophilia A
+320,386,Hemorrhoids
+321,388,Hepatitis Viral B C
+322,389,Hepatitis Viral A
+323,390,Hepatoma
+324,391,Hyperparathyroidism Primary
+325,392,Malignancy Related Hypercalcemia
+326,393,Vitamin D Related Hypercalcemia
+327,394,Vitamin A Related Hypercalcemia
+328,395,Hepatorenal Syndrome
+329,396,Herpangina
+330,397,Herpes Eye Infections
+331,398,Herpes Gestationis
+332,399,Herpes Simplex Primary Oralfacial Infections
+333,400,Herpes Simplex Reactivation Hsv Oral-Facial Infections
+334,401,Herpes Genital
+335,402,Herpes Zoster
+336,403,Herpetic Whitlow
+337,404,Hidradenitis Suppurativa
+338,405,Hip Fracture
+339,406,Histoplasmosis Chronic Pulmonary
+340,407,Histoplasmosis Acute Disseminated
+341,408,Hiv Infections & Aids
+342,409,Hodgkin Disease
+343,410,Hordeolum
+344,411,Huntington Disease
+345,412,Hydrocele
+346,413,Familial Hypertriglyceridemia
+347,414,Familial Lipoprotein Lipase Deficiency
+348,415,Familial Combined Hyperlipidemia
+349,416,Dysbetalipoproteinemia
+350,417,Familial Apoprotein Cii Deficiency
+351,418,Familial Hypercholesterolemia
+352,419,Familial Defective Apob 100
+353,420,Hyperemesis Gravidarum
+354,421,Hyperkaliemia
+355,422,Hypernatremia
+356,423,Hyperparathyroidism Secondary
+357,424,Aluminum Intoxication
+358,425,Hyperprolactinemia
+359,426,Hypersensitivity Pneumonitis Acute
+360,427,Hypersensitivity Pneumonitis Chronic
+361,428,Hypertension Essential
+362,429,Atherosclerotic Renovascular Hypertension
+363,430,Fibrous Dysplasia Renovascular Hypertension
+364,431,Adrenocortical Adenoma
+365,432,Bilateral Adrenocortical Hyperplasia
+366,433,Glucocorticoid Remediable Aldosteronism
+367,434,Apparent Mineralocorticoid Excess
+368,435,Liddle Syndrome
+369,436,Primary Cortisol Resistance
+370,437,Hemophilia B
+371,439,Non Endocrine Tumors Acth Secreting
+372,440,Glycyrrhetenic Acid Ingestion
+373,441,Steroids Ingestion
+374,442,Congenital Adrenal Hyperplasia 11 Hydroxylase Deficiency
+375,443,Congenital Adrenal Hyperplasia 17 Hydroxylase Deficiency
+376,444,Congenital Adrenal Hyperplasia 21 Hydroxylase Deficiency
+377,445,Congenital Adrenal Hyperplasia 3B Hydroxysteroid Dehydrogenase
+378,446,Pheochromocytoma
+379,447,Preeclampsia
+380,448,Sleep Apnea Obstructive
+381,449,Wilms Tumor
+382,450,Pyelonephritis Chronic
+383,451,Pseudohypoparathyroidism
+384,452,Hypoparathyroidism
+385,453,Meningititis Bacterial Adults
+386,454,Intracranial Hypertension
+387,455,Polycythemia Vera
+388,456,Glomerulonephritis Chronic
+389,457,Nephrotic Syndrome
+390,458,Renal Failure Acute
+391,459,Renal Failure Chronic
+392,460,Cryoglobulinemia
+393,461,Schonlein-Henoch Purpura
+394,462,Goodpasture Syndrome
+395,463,Hemolytic Uremic Syndrome
+396,464,Thrombotic Thrombocytopenia Purpura
+397,465,Polycystic Kidney Disease
+398,466,Ask Upmark Syndrome
+399,467,Hydronephrosis
+400,468,Porphyria Acute Intermittent
+401,469,Porphyria Cutanea Tarda
+402,470,Coproporphyria Hereditary
+403,471,Porphyria Variegate
+404,472,X Linked Sideroblastic Anemia
+405,473,Congenital Erythropoietic Porphyria
+406,474,Protoporphyria Erythropoietic
+407,475,Myocardial Infarction Acute
+408,476,Atrioventricular Block First Degree
+409,477,Atrioventricular Block Second Degree
+410,478,Atrioventricular Block Third Degree
+411,479,Rheumatic Fever Acute
+412,480,Left Atrium Cardiac Myxoma
+413,481,Cardiac Fibroma
+414,482,Cardiac Rhabdomyoma
+415,483,Cardiac Papillary Fibroelastoma
+416,484,Cardiac Lipoma
+417,485,Mesothelioma Of The Atrioventricular Node
+418,486,Hemangiosarcoma Of The Heart
+419,487,Rhabdomyosarcoma Of The Heart
+420,488,Secondary Tumor Of The Heart
+421,489,Carcinoid Tumor
+422,490,Mitral Stenosis
+423,491,Mitral Regurgitation Chronic
+424,492,Mitral Regurgitation Acute
+425,493,Mitral Valve Prolapse
+426,494,Superior Vena Cava Syndrome
+427,495,Aortic Regurgitation Acute
+428,496,Pericarditis Chronic Constrictive
+429,497,Pericarditis Acute
+430,498,Tricuspid Regurgitation Valve Lesion
+431,499,Tricuspid Stenosis
+432,500,Cardiomyopathy Hypertrophic
+433,501,Cardiomyopathy Restrictive
+434,502,Myocarditis Infectious
+435,503,Right Ventricular Dysplasia
+436,504,Endomyocardial Fibrosis
+437,505,Charcot Marie Tooth
+438,506,Friedrich Ataxia
+439,507,Parkinson Disease
+440,509,Striatonigral Degeneration
+441,510,Machado Joseph Disease
+442,511,Idiopathic Torsion Dystonia
+443,512,Meige Syndrome
+444,513,Drug Induced Parkinson
+445,514,Tardive Akathisia
+446,515,Tardive Dyskinesia Or Dystonia
+447,516,Neuroleptic Malignant Syndrome
+448,517,Gilles De La Tourette Syndrome
+449,518,Restless Leg Syndrome
+450,519,Spinocerebellar Ataxia 1
+451,520,Ataxia Telangectasia
+452,521,Cockayne Syndrome
+453,522,Marinesco Sjogren Syndrome
+454,523,X Linked Spinobulbar Muscular Atrophy
+455,524,Primary Lateral Sclerosis
+456,525,Spinal Muscular Atrophy I Infantile
+457,526,Spinal Muscular Atrophy Iii Juvenile
+458,527,Familial Spastic Paraplegia
+459,528,Pure Autonomic Failure
+460,529,Shy Drager Syndrome
+461,530,Riley Day Syndrome
+462,531,Paroxysmal Facial Pain
+463,532,Trigeminal Neuropathy
+464,533,Meniere Syndrome
+465,534,Neoplastic Spinal Cord Compression
+466,535,Spinal Cord Infarction T3 T4
+467,536,Spinal Cord Infarction Anterior Spinal Artery
+468,537,Hematomyelia
+469,538,Spinal Epidural Abscess
+470,539,Transverse Myelitis
+471,540,Devic Syndrome
+472,541,Spondylitic Myelopathy
+473,542,Syringomyelia
+474,543,Subacute Combined Degeneration
+475,544,Tabes Dorsalis
+476,545,Acute Subdural Hematoma
+477,546,Acute Epidural Hematoma
+478,547,Chronic Subdural Hematoma
+479,548,Pilocytic Astrocytoma Of The Cerebellum
+480,549,High Grade Astrocytoma
+481,550,Germinoma Brain
+482,551,Neurofibromatosis Type 1
+483,552,Tuberous Sclerosis
+484,553,Von Hippel Lindau Syndrome
+485,554,Leopard Syndrome
+486,555,Kearns Sayre
+487,556,Jervell And Lange Nielsen
+488,557,Romano Ward Syndrome
+489,558,Multiple Sclerosis
+490,559,Acute Disseminated Encephalomyelitis
+491,560,Subdural Empyema
+492,561,Suppurative Intracranialthrombophlebitis
+493,562,Chronic And Recurrent Meningitis
+494,563,Viral Meningitis Acute
+495,565,Tropical Spastic Paraparesis
+496,566,Progressive Multifocal Leukoencephalopathy
+497,567,Subacute Sclerosing Panencephalitis
+498,568,Kuru Syndrome
+499,569,Creutzfeldt Jakob Disease
+500,570,Gerstmann Straussler Scheinker
+501,571,Fatal Familial Insomnia
+502,572,Hypoglycemic Encephalopathy
+503,573,Merrf Syndrome
+504,574,Melas Syndrome
+505,575,Leigh Syndrome
+506,576,Leber Disease
+507,577,Metachromatic Leukodystrophy Juvenile Form
+508,578,Adrenoleukodystrophy
+509,579,Gm 2 Gangliosidosis
+510,580,Wernicke Korsakoff
+511,581,Deficiency Amblyopia
+512,582,Alcoholic Cerebellar Degeneration
+513,583,Strachan Syndrome
+514,584,Myasthenia Gravis
+515,585,Duchenne Muscular Dystrophy
+516,586,Becker Muscular Dystrophy
+517,587,Limb Girdle Dystrophy
+518,588,Myotonic Dystrophy
+519,589,Steinert Disease
+520,590,Facioscapulohumeral Muscular Dystrophy
+521,591,Oculopharyngeal Dystrophy
+522,592,Carnitine Palmityoltransferase Deficiency
+523,593,Hypokalemic Periodic Paralysis
+524,594,Hyperkalemic Periodic Paralysis
+525,595,Chronic Fatigue Syndrome
+526,596,Silicosis
+527,597,Coal Worker Pneumoconiosis
+528,598,Berryliosis
+529,599,Community Acquired Pneumonia
+530,600,Emphysema
+531,601,Bronchitis Chronic
+532,602,Kartagener Syndrome
+533,603,Dyskinetic Cilia
+534,604,Yellow Nail Syndrome
+535,605,Idiopathic Pulmonary Fibrosis
+536,606,Lymphocyte Intersticial Pneumoniae
+537,607,Hermanski Pudlak
+538,608,Graft Versus Host Disease Acute
+539,609,Letterer Siwe
+540,610,Hand Schuller Christian
+541,611,Primary Pulmonary Hypertension
+542,612,Pulmonary Embolism
+543,613,Pleural Effusion
+544,614,Pneumothorax
+545,615,Mediastinitis Acute
+546,616,Ondine Curse
+547,617,Acute Respiratory Distress Syndrome
+548,618,Bronchogenic Carcinoma
+549,619,Acute Respiratory Failure
+550,620,Pneumomediastinum
+551,621,Mediastinal Tumor
+552,622,Bronchial Adenoma
+553,623,Atelectasis
+554,624,Pulmonary Tuberculosis
+555,625,Lung Abscess
+556,626,Pneumonia Bacterial Nosocomial
+557,627,Pneumonia Mycoplasma
+558,628,Pneumonia Pneumocystic Carinii
+559,629,Pneumonia Viral
+560,630,Sarcoidosis
+561,631,Lofgren Syndrome
+562,632,Hypothyroidism
+563,633,Graves Disease
+564,634,Toxic Adenoma
+565,635,Thyroiditis Granulomatous
+566,636,Hashimoto
+567,637,Gull Syndrome
+568,638,Acromegaly
+569,639,Acromegaloid Facial Appearance
+570,640,Hypogonadotropic (Central Secondary) Hypogonadism
+571,641,Hypoglycemia
+572,642,Hypoglycemia Transient Hemiplegia
+573,643,Hypoglycemia Transient Neonatal
+574,644,Mc Quarrie
+575,645,Acute Adrenocortical Insifficiency
+576,646,Meningococcemia
+577,647,Parrot Ii
+578,648,Kanner Syndrome
+579,649,Opitz Frias Syndrome
+580,650,Opitz Caveggia Syndrome
+581,651,Oppenheimer Syndrome
+582,652,Oppenheim Urbach
+583,653,Paget Ii Disease
+584,654,Refsum Disease
+585,655,Fabry Disease
+586,656,Gaucher Type I
+587,657,Gaucher Type Ii
+588,658,Gaucher Type Iii
+589,659,Wolman Syndrome
+590,660,Norman Landing Syndrome
+591,661,Gm1 Gaugliosidosis Juvenile
+592,662,Gm1 Gangliosis Adult
+593,663,Pompe Disease Generalized
+594,664,Pompe Disease Late Infantile Acid Maltose Deficiency
+595,665,Cori  Forbes Disease
+596,666,Andersen Disease
+597,667,Kwashiorkor
+598,668,Carnitine Deficiency Primary Systemic
+599,669,Whipple Disease
+600,670,Barth Syndrome
+601,671,Hurler Disease
+602,672,Scheie Syndrome
+603,673,Hurler Scheie
+604,674,Hunter Syndrome
+605,675,San Filippo
+606,676,Morquio
+607,677,Maroteaux Lamy
+608,678,Marfan Syndrome
+609,679,Ehlers Danlos Syndrome
+610,680,Pseudoxanthoma Elasticum
+611,681,Osteogenesis Imperfecta Type I
+612,682,Osteogenesis Imperfecta Type Ii
+613,683,Cutis Laxa Syndrome Congenital
+614,684,Cutis Laxa Syndrome Acquired
+615,685,Chronic Gouty Arthritis
+616,686,Homocystinuria Cystathionine Synthase Deficiency
+617,687,Alkaptonuria
+618,688,Primary Hyperoxaliuria
+619,689,Cystinosis Infantile
+620,690,Beckwith Wiedemann
+621,691,Relapsing Polychondritis
+622,692,Kawasaki Disease
+623,693,Cystinosis Adult
+624,694,Hyperphenylalaninemia
+625,695,Cystinuria
+626,696,Dibasic Aminoaciduria I
+627,697,Dibasic Aminoaciduria
+628,698,Selenium Deficiency
+629,699,Hypophosphatemia
+630,700,Hypophosphatemia X Linked
+631,701,Hypomagnesemia
+632,702,Hartnup Disease
+633,703,Renal Glycosuria
+634,704,Glucose Galoctose Malabsorption
+635,705,Gelactosemia Classic
+636,706,Pellagra
+637,707,Beriberi
+638,708,Korsakoff Syndrome
+639,709,Marasmus
+640,710,Hypocalcemia
+641,711,Systemic Lupus Erythematosus
+642,712,Periarteritis Nodosa
+643,713,Scleroderma
+644,714,Polymyositis Dermatomyositis
+645,715,Still Disease
+646,716,Sjogrin Syndrome
+647,717,Strauss Churg Zak
+648,718,Wegener Granulomatosis
+649,719,Buerger Disease
+650,720,Takayasu Disease
+651,721,Raynaud Disease Primary
+652,722,Erythromelalgia
+653,723,Acrocyanosis
+654,724,Felty Syndrome
+655,725,Reiter Syndrome
+656,726,Hypertensive Crisis
+657,727,Hypochondriasis
+658,728,Rendu Osler Weber Disease
+659,729,Leukemia Myeloid Acute
+660,730,Leukemia Lymphoblastic Acute
+661,731,Leukemia Myeloid Chroniic
+662,732,Leukemia Lymphocytic Chronic B Cells
+663,733,Small Lymphocytic Lymphoma
+664,734,Non Hodgkin Lymphoma
+665,735,Burkitt Lymphoma
+666,736,Sezary Bouvrain
+667,737,Multiple Myeloma
+668,738,Waldenstrom Macroglobulinemia
+669,739,Franklin Disease
+670,740,Seligmann Disease
+671,741,Factor Xi Deficiency
+672,742,Factor Xiii Deficiency
+673,743,Vitamin K Deficiency
+674,744,Thrombocytopenic Purpura Idiopathic Acute
+675,745,Afibrinogenemia
+676,746,Thrombocytopenic Purpura Idiopathic Chronic
+677,747,Von Willebrand Disease
+678,748,Bernard Soulier Syndrome
+679,749,Platelet Release Defect
+680,750,Kasabash Merritt
+681,751,Plasminogen Activator Inhibitor Deficiency
+682,752,Primary Fibrinolysis
+683,753,Circulating Anticoagulants Syndrome
+684,754,Antithrombin Deficiency
+685,755,Protein S Or C Deficiency
+686,756,Paroxysmal Cold Hemoglobinuria
+687,757,Anemia Spur Cell
+688,758,Paroxysmal Nocturnal Hemoglobinuria
+689,759,Diamond Blackfan
+690,760,Favism
+691,761,Neonatal Jaundice (G6Pd)
+692,762,Anemia Hemolytic Congenital Non Spherocytic (G6Pd)
+693,763,Anemia Hemolytic Acquired Auto Immune
+694,764,Spherocytosis Hereditary
+695,765,Elliptocytosis Hereditary
+696,766,Anemia Hemolytic Drug Induced (G6Pd)
+697,767,Anemia Hemolytic Episodic Without Drug Exposure (G6Pd)
+698,768,Thrombocytosis Essential
+699,770,Anemia Inflammatory
+700,771,Thalassemia Alpha
+701,772,Myelofibrosis Idiopathic
+702,773,Thalassemia Beta Major
+703,774,Thalassemia B Minor
+704,775,Methemoglobinemia
+705,776,Acute Gastritis
+706,777,Type B Chronic Gastritis
+707,778,Type A Chronic Gastritis
+708,779,Menetrier Disease
+709,780,Gastric Ulcer
+710,781,Afferent Loop Syndrome
+711,782,Bile Reflux Gastropathy
+712,783,Post Vagotomy Diarrhea
+713,784,General Malabsorption Following Ulcer Surgery
+714,785,Osteomalacia And Osteoporosis Following Ulcer Surgery
+715,786,Stress Related Mucosal Injury
+716,787,Mucosal Injury Caused By Aspirin
+717,788,Mallory Weiss Syndrome
+718,789,Esophageal Rupture Mechanical
+719,790,Esophageal Foreign Body
+720,791,Ulcer Duodenal
+721,792,Pure Red Cell Aplasia Acquired
+722,793,Shwachman Diamond
+723,794,Fanconi Anemia
+724,795,Evans Syndrome
+725,796,Herpes Simplex Virus Esophagitis
+726,797,Varicella Zoster Virus Esophagitis
+727,798,Cytomegalovirus Esophagitis
+728,799,Bacterial Esophagitis
+729,800,Candida Esophagitis
+730,801,Radiation Esophagitis
+731,802,Corrosive Esophagitis
+732,803,Pill Induced Esophagitis
+733,804,Oropharyngeal Paralysis
+734,805,Globus Pharyngeus
+735,806,Achalasia Of The Esophagus
+736,807,Diffuse Esophageal Spasm
+737,808,Plummer Vinson Syndrome
+738,809,Hiatal Hernia
+739,810,Paraesophageal Or Mixed Hernia Strangulated
+740,811,Boerhaave Syndrome
+741,812,Lactase Deficiency Adult
+742,813,Diabetes Mellitus Malabsorption
+743,814,Intestinal Lymphangiectasia
+744,815,Ulcerative Colitis
+745,816,Zollinger Ellison Syndrome
+746,817,Short Bowel Syndrome
+747,818,Malabsorption Due To Bacterial Overgrowth
+748,819,Chronic Intestinal Pseudo Obstruction
+749,820,Tropical Sprue Malabsorption Syndrome
+750,821,Intestinal Lymphoma
+751,822,Radiation Injury To The Small Bowel
+752,823,Eosinophilic Enteritis
+753,824,Irritable Bowel Syndrome
+754,825,Duodenum Diverticulitis
+755,826,Multiple Jejunal Diverticula
+756,827,Meckel Diverticulum
+757,828,Megacolon Aganglionic
+758,829,Chronic Secondary Pseudo Obstruction
+759,830,Idiopathic Intestinal Pseudo Obstruction
+760,831,Acute Intestinal Pseudo Obstruction
+761,832,Chronic Constipation
+762,833,Non Occlusive Mesenteric Ischemia
+763,834,Chronic Mesenteric Arterial Insufficiency
+764,835,Acute Fulminant Ischemia Colitis
+765,836,Subacute Ischemic Colitis
+766,837,Angiodysplasia Of The Colon
+767,838,Anal Fissure
+768,839,Anal Ulcer
+769,840,Anal Fistula
+770,841,Perirectal Abscess
+771,842,Acute Peritonitis
+772,843,Fitz Hugh Curtis
+773,844,Gonococcal Peritonitis
+774,845,Mesenteric Lipodystrophy
+775,846,Familial Mediterranean Fever
+776,847,Acute Intestinal Obstruction
+777,848,Physiologic Jaundice Of The Newborn
+778,849,Crigler Najjar Typei
+779,850,Crigler Najjar Typeii
+780,851,Acquired Deficiency Of Glucoronosyl Transferase
+781,852,Dubin Johnson Syndrome
+782,853,Rotor Syndrome
+783,854,Benign Recurrent Intrahepatic Cholestasis
+784,855,Recurrent Jaundice Of Pregnancy
+785,856,Drug Induced Cholestasis
+786,857,Post Operative Jaundice
+787,858,Chronic Viral Hepatitis B
+788,859,Chronic Viral Hepatitis C
+789,860,Autoimmune Hepatitis
+790,861,Primary Biliary Cirrhosis
+791,862,Secondary Biliary Cirrhosis
+792,863,Cardiac Cirrhosis
+793,864,Portal Hypertension
+794,865,Budd Chiari
+795,866,Variceal Bleebing
+796,867,Spontaneous Bacterial Peritonitis
+797,868,Hepatic Encephalopathy
+798,869,Macrovesicular Fatty Liver
+799,870,Acute Microvesicular Fatty Liver Of Pregnancy
+800,871,Reye Syndrome
+801,872,Wilson Disease
+802,873,Alpha I Antitrypsin Deficiency
+803,874,Chronic Pancreatitis
+804,875,Acute Pancreatitis
+805,876,Annular Pancreas
+806,877,Hereditary Pancreatitis
+807,878,Acalculous Cholecystitis Acute
+808,879,Gallstone Ileus
+809,880,Dysfunction Of The Sphincter Of Oddi
+810,881,Liver Abscess
+811,882,Splenic Abscess
+812,883,Renal Abscess
+813,884,Urethritis In Woman
+814,885,Urethriris In Mem
+815,886,Vaginal Trichomoniasis
+816,887,Bacterial Vaginosis
+817,888,Vulvovaginal Candidiasis
+818,889,Mucopurulent Cervicitis
+819,890,Pelvic Inflammatory Disease
+820,891,Genital Herpes
+821,892,Genital Syphilis
+822,893,Human Papillomavirus Infection And Genital Warts
+823,894,Tuberculous Salpingitis
+824,895,Non Tuberculous Salpingitis
+825,896,Cystitis
+826,897,Acute Pyelonephritis
+827,898,Prostatitis Acute Bacterial
+828,899,Prostatitis Chronic Bacterial
+829,900,Prostatitis Non Bacterial
+830,901,Prostatodynia
+831,902,Vertebral Osteomyelitis
+832,903,Acute Hematogenous Osteomyelitis
+833,904,Chronic Hematogenous Osteomyelitis
+834,905,Pneumonia Streptococcal
+835,906,Toxic Shock Syndrome
+836,907,Pott Disease
+837,908,Ritter Syndrome
+838,909,Toxic Epidermal Necrolysis
+839,910,Impetigo Bullous
+840,911,Impetigo Non Bullous
+841,912,Staphylococcal Brain Abscess
+842,913,Pharyngitis Non Streptococcal
+843,914,Pharyngitis Streptococcal
+844,915,Scarlet Fever
+845,916,Necrotizing Fasciitis
+846,917,Pregnancy Associated Listeriosis
+847,918,Neonatal Listeriosis
+848,919,Tetanus
+849,920,Listeriosis Central Nervous System Infection
+850,921,Meningitis Meningococcal
+851,922,Urethritis Gonococcal Untreated In Men
+852,923,Gonococcal Infection Disseminated
+853,924,Otitis Media Moraxella Catarrhalis
+854,925,Otitis Media Streptococcus Pneumoniae
+855,926,Otitis Media Haemophilus Influenzae
+856,927,Tracheobronchitis Purulent Moraxella
+857,928,Pneumonia Moraxella
+858,929,Meningitis Hoemophilus Influenzae
+859,930,Pneumonia Haemophilus Influenzae
+860,931,Legionnaires Disease
+861,932,Pertussis
+862,933,Helicobacter Infections
+863,934,Pneumonia Non Bacteremic Pseudomonas
+864,935,Pneumonia Bacteremic Pseudomonas
+865,936,Bacteremia Pseudomonas
+866,937,Meningitis Pseudomonas
+867,938,Eye Keratitis Pseudomonas
+868,939,Endophtalmitis Pseudomonas
+869,940,Sternoclavicular Pyarthrosis
+870,941,Melioidosis Acute Pulmonary Infection
+871,942,Melioidosis Acute Skin Infection
+872,943,Glanders
+873,944,Typhoid Fever
+874,945,Campylobacter Enteric Disease
+875,946,Vibrio Parahaemolyticus Diarrheal Infection
+876,947,Vibrio Parahaemolyticus Dysentery
+877,948,Vibrio Vulnificus Primary Sepsis
+878,949,Vibrio Vulnificus Wound Infection
+879,950,Tularemia Ulcero Glandular Adults
+880,951,Tularemia Ulcero Glandular Infant
+881,952,Tularemia Glandular
+882,953,Tularemia Typhoidal
+883,954,Tularemia Oculoglandular
+884,955,Tularemia Oropharyngeal
+885,956,Tularemia Pulmonary
+886,957,Plague Bubonic
+887,958,Plague Septicemic
+888,959,Plague Primary Pneumonic
+889,960,Plague Secondary Pneumonic
+890,961,Yersinia Enteric Disease
+891,962,Mesenteric Adenitis Terminal Ileitis
+892,963,Yersinia Pharyngitis
+893,964,Yersinia Induced Arthritis
+894,965,Nocardiosis Cutaneous
+895,966,Nocardiosis Disseminated
+896,967,Pneumonia Klebsiella
+897,968,Nocardiosis Pulmonary
+898,969,Oral Cervicofacial Actinomycosis Disease
+899,970,Thoracic Actinomycosis Disease
+900,971,Abdominal Actinomycosis Disease
+901,972,Pelvic Actinomycosis Disease
+902,973,Pulmonary Tuberculosis Primary
+903,974,Pulmonary Tuberculosis Post Primary
+904,975,Pleural Tuberculosis
+905,976,Tuberculosis Lymphadenitis
+906,977,Pericardial Tuberculosis
+907,978,Genitourinary Tuberculosis
+908,979,Genital Tuberculosis In Woman
+909,980,Genital Tuberculosis In Man
+910,981,Gastro Intestinal Tuberculosis
+911,982,Miliary Tuberculosis
+912,983,Tuberculous Meningitis
+913,984,Leprosy Tuberculoid
+914,985,Leprosy Lepromatous
+915,986,Leprosy Borderline
+916,987,Erythema Nodosum Leprosum
+917,988,Syphilis Primary In Man
+918,989,Syphilis Primary In Woman
+919,990,Syphilis Secondary
+920,991,Syphilis Meningeal
+921,992,Syphilis Meningo Vascular
+922,993,Syphilis General Paresis
+923,994,Syphilis Tabes Dorsalis
+924,995,Syphilis Aortic Regurgitation
+925,996,Syphilis Late Lesions Of The Eyes
+926,997,Syphilis Gumma
+927,998,Syphilis Congenital Early
+928,999,Syphilis Congenital Late
+929,1000,Lyme Disease Stage1
+930,1001,Lyme Disease Stage2
+931,1002,Lyme Disease Stage3
+932,1003,Bannwarth Syndrome
+933,1004,Rickettsialpox
+934,1005,Urethritis Chlamydial
+935,1006,Epididymitis Chlamydial
+936,1007,Proctitis Chlamydial
+937,1008,Proctitis Herpes Simplex Virus
+938,1009,Urethral Syndrome In Woman
+939,1010,Chlamydial Conjunctivitis Neonatal
+940,1011,Cervicitis Mucopurulent Chlamydial
+941,1012,Endometritis Syndrome
+942,1013,Gonococcal Conjunctivitis Neonatal
+943,1014,Lymphogranuloma Venereum
+944,1015,Trachoma
+945,1016,Psittacosis
+946,1017,Pneumonia Chlamydia
+947,1018,Encephalitis Herpes Simplex Virus
+948,1019,Neonatal Infection Herpes Simplex Virus
+949,1020,Smallpox
+950,1021,Molluscum Contagiosum
+951,1023,Parvovirus Arthropathy
+952,1024,Transient Aplastic Crisis
+953,1025,Bowen Disease
+954,1026,Common Cold Rhinovirus Infection
+955,1027,Common Cold Coronarovirus Infection
+956,1028,Common Cold Respiratory Syncytial Virus
+957,1029,Pneumonia Respiratory Syncytial Virus
+958,1030,Pneumonia Para Influenza Virus
+959,1031,Common Cold Para Influenza Virus
+960,1032,Common Cold Adenovirus
+961,1033,Pharyngoconjunctival Fever Adenovirus
+962,1034,Tropical Spastic Paresis
+963,1035,Influenza Virus Infection
+964,1036,Pneumonia Primary Influenza
+965,1037,Norwalk Enteritis
+966,1038,Mumps
+967,1039,Rabies
+968,1040,Vesicular Stomatitis Virus Infection
+969,1041,West Nile Virus Infection
+970,1042,Central European Tick Borne Encephalitis
+971,1043,Western Equine Encephalitis
+972,1044,Venezuelan Equine Encephalitis
+973,1045,Sindbis Virus Infection
+974,1046,South American Hemorrhagic Fever
+975,1047,Crimean Congo Hemorrhagic Fever
+976,1048,Filoviridae Infection
+977,1049,Oral Thrush
+978,1050,Mucormycosis
+979,1051,Tinea Capitis
+980,1052,Tinea Corporis
+981,1053,Tinea Cruris
+982,1054,Tinea Pedis
+983,1055,Tinea Versicolor
+984,1056,Furasiosis
+985,1057,Pityriasis Versicolor Infection
+986,1058,Paracoccidiomycosis Infection
+987,1059,Sporotrichosis Lymphangitic
+988,1060,Sporotrichosis Plaque
+989,1061,Amebic Colitis
+990,1062,Amebiasis Intestinal Fulminant
+991,1063,Amebic Liver Abscess
+992,1064,Naegleria Infection
+993,1065,Amebic Encephalitis Granulomatous
+994,1066,Acanthamoeba Keratitis
+995,1067,Malaria
+996,1068,Malaria Falciparum Severe
+997,1069,Tropical Splenomegaly
+998,1070,Visceral Leishmaniasis
+999,1071,Cutaneous Leishmaniasis
+1000,1072,Mucosal Leishmaniasis
+1001,1073,Toxoplasmosis
+1002,1074,Toxoplasmosis In Immunocompromised Host
+1003,1075,Toxoplasmosis Ocular
+1004,1076,Toxoplasmosis Congenital
+1005,1077,Esophageal Varices
+1006,1078,Failure To Thrive
+1007,1079,Horner Syndrome
+1008,1080,Id Reaction
+1009,1081,Antidiuretic Hormone Excessive Secretion
+1010,1082,Insect Bites And Stings
+1011,1083,Insomnia
+1012,1084,Insulinoma
+1013,1085,Interstitial Cystitis
+1014,1086,Intussusception Infant
+1015,1087,Intussusception Adults
+1016,1088,Anemia Iron Deficiency
+1017,1089,Iron Toxicity Acute
+1018,1090,Kaposi Sarcoma
+1019,1091,Keloids
+1020,1092,Keratosis Actinic
+1021,1093,Labyrinthitis
+1022,1094,Dry Eye
+1023,1095,Lactose Intolerance
+1024,1096,Laryngeal Cancer
+1025,1097,Laryngitis
+1026,1098,Laryngotracheobronchitis
+1027,1099,Laxative Abuse
+1028,1100,Lead Poisoning Mild
+1029,1101,Lead Poisoning Severe
+1030,1103,Leukoplakia Oral
+1031,1104,Lichen Planus
+1032,1105,Mechanical Low Back Pain
+1033,1106,Lumbar Disk Disorder
+1034,1107,Lung Primary Malignancy
+1035,1108,Localized Lupus Erythematosus Discoid
+1036,1109,Widespread Lupus Erythematosus Discoid
+1037,1110,Macular Degeneration Age Related
+1038,1111,Macular Degeneration Age Related Neovascular Exudative
+1039,1112,Mastalgia
+1040,1113,Metatarsalgia
+1041,1114,Miliaria Rubra
+1042,1115,Milk Alkali Syndrome
+1043,1116,Motion Sickness
+1044,1117,Narcolepsy
+1045,1118,Neurodermatitis
+1046,1119,Neurofibromatosis Type 2
+1047,1120,Obesity
+1048,1121,Obsessive Compulsive Disorder
+1049,1122,Ocular Chemical Burns
+1050,1123,Onychomycosis Dermatophytes
+1051,1124,Onychomycosis Candida
+1052,1125,Optic Atrophy Inherited
+1053,1126,Optic Atrophy Acquired
+1054,1127,Optic Neuritis
+1055,1128,Oral Cavity Neoplasm
+1056,1129,Osgood Schlatter Disease
+1057,1131,Osteochondritis Dissecans
+1058,1132,Osteomalacia Adults
+1059,1133,Rickets
+1060,1134,Osteonecrosis
+1061,1135,Legg Calve Perthes
+1062,1136,Osteoporosis
+1063,1137,Otitis Externa
+1064,1138,Otitis Media
+1065,1139,Otitis Media Infant
+1066,1140,Otitis Media With Effusion
+1067,1141,Otosclerosis
+1068,1142,Ovarian Cancer Epithelial
+1069,1143,Ovarian Cancer Germ Cells
+1070,1144,Ovarian Tumor Benign
+1071,1145,Paget Disease Of The Breast
+1072,1146,Pancreatic Cancer Exocrine
+1073,1147,Paronychia
+1074,1148,Erythema Infectiosum
+1075,1149,Joint Disease Parvovirus B19 Infection
+1076,1150,Transient Aplastic Crisis Parvovirus B19 Infection
+1077,1151,Chronic Anemia Parvovirus B19 Infection
+1078,1152,Patent Ductus Arteriosus
+1079,1153,Patent Ductus Arteriosus With Pulmonary Hypertension
+1080,1154,Pediculosis Capitis
+1081,1155,Pediculosis Corporis
+1082,1156,Phthirus Pubis
+1083,1157,Pemphigoid Bullous
+1084,1158,Pemphigus Vulgaris
+1085,1159,Phimosis
+1086,1160,Paraphimosis
+1087,1161,Agoraphobia
+1088,1162,Simple Phobia
+1089,1163,Social Phobia
+1090,1164,Phototoxic Photodermatitis
+1091,1165,Photoallergic Photodermatitis
+1092,1166,Polymorphous Light Eruption
+1093,1167,Pinworm Infection
+1094,1168,Pityriasis Alba
+1095,1169,Pityriasis Rosea
+1096,1170,Placenta Previa
+1097,1171,Polymyalgia Rheumatica
+1098,1172,Post Concussive Syndrome
+1099,1173,Post Traumatic Stress Disorder
+1100,1174,Premature Labor
+1101,1175,Premenstrual Syndrome
+1102,1176,Pressure Ulcer
+1103,1177,Priapism
+1104,1178,Prostatic Cancer
+1105,1179,Prostatic Hyperplasia Benign
+1106,1180,Pruritis Ani
+1107,1181,Pruritis Vulvae
+1108,1182,Pseudofolliculitis Barbae
+1109,1183,Pseudogout
+1110,1184,Pseudomembranous Colitis
+1111,1185,Psoriasis Type I
+1112,1186,Psoriasis Type Ii
+1113,1187,Puerperal Infection
+1114,1188,Pulmonary Edema
+1115,1189,Pulmonic Valvular Stenosis
+1116,1190,Pyloric Stenosis Infant
+1117,1192,Rabies Paralytic
+1118,1193,Radiation Sickness
+1119,1194,Rectal Prolapse Infant
+1120,1195,Rectal Prolapse Adult
+1121,1196,Refractive Errors
+1122,1197,Renal Calculi
+1123,1198,Renal Cell Adenocarcinoma
+1124,1199,Respiratory Syncytial Virus Infection
+1125,1200,Respiratory Distress Syndrome Neonatal
+1126,1201,Respiratory Distress Syndrome Adult
+1127,1202,Renal Tubular Acidosis Type I
+1128,1203,Renal Tubular Acidosis Type Ii
+1129,1204,Renal Tubular Acidosis Type Iv
+1130,1205,Retinal Detachment
+1131,1206,Retinitis Pigmentosa
+1132,1207,Retinopathy Of Prematurity Acute
+1133,1208,Retinopathy Diabetes Type Ii
+1134,1209,Retinopathy Diabetes Type I
+1135,1210,Rhabdomyolysis
+1136,1211,Rhinitis Allergic
+1137,1212,Roseola
+1138,1213,Salicylate Poisoning Acute
+1139,1214,Salicylate Poisoning Chronic
+1140,1215,Salivary Gland Calculi
+1141,1216,Salivary Gland Tumor Benign
+1142,1217,Salivary Gland Tumor Malignant
+1143,1218,Scabies
+1144,1219,Schizophrenia
+1145,1220,Scleritis
+1146,1221,Seizure Generalized
+1147,1222,Seizure Generalized Absence
+1148,1223,Simple Partial Seizure
+1149,1224,Complex Partial Seizure
+1150,1225,Seizure Febrile
+1151,1226,Sepsis
+1152,1227,Serum Sickness
+1153,1228,Sexual Dysfunction In Woman
+1154,1229,Shock Circulatory
+1155,1230,Shock Cardiogenic
+1156,1231,Sialadenitis
+1157,1232,Sinusitis
+1158,1233,Sinusitis Complicated
+1159,1234,Snake Envenomations Crotalidae
+1160,1235,Snake Envenomations Elapidae
+1161,1236,Sporotrichosis Cutaneous
+1162,1237,Sporotrichosis Disseminated
+1163,1239,Status Epilepticus
+1164,1240,Stevens Johnson
+1165,1241,Stomatitis Allergic
+1166,1242,Stroke
+1167,1243,Sub Arachnoid Hemorrhage
+1168,1244,Sub Clavian Steal Syndrome
+1169,1245,Sub Phrenic Abscess
+1170,1246,Substance Abuse
+1171,1247,Syncope
+1172,1248,Diffuse Synovitis Pigmented Villonodular
+1173,1249,Facial Form Of Synovitis Pigmented Villonodular
+1174,1250,Taenia Solium Infection
+1175,1251,Hymenolepis Nana
+1176,1252,Hymenolepis Diminuta
+1177,1253,Dipylidium Caninum
+1178,1255,Temporomandibular Joint Syndrome
+1179,1256,Tendinitis
+1180,1257,Testicular Malignancy Adult
+1181,1258,Testicular Malignancy Infant
+1182,1259,Testicular Torsion
+1183,1260,Tetralogy Of Fallot
+1184,1261,Thoracic Outlet Syndrome Neurologic Type
+1185,1263,Thoracic Outlet Syndrome Venous Type
+1186,1264,Thoracic Outlet Syndrome Arterial Type
+1187,1265,Thrombophlebitis Sural
+1188,1266,Thyroglossal Duct Cyst
+1189,1267,Thyroid Malignant Neoplasia
+1190,1268,Follicular Carcinoma Of The Thyroid
+1191,1269,Medullary Carcinoma Of The Thyroid
+1192,1270,Anaplastic Carcinoma Of The Thyroid
+1193,1271,Torticollis
+1194,1272,Tracheitis Bacterial
+1195,1273,Transfusion Reaction Hemolytic
+1196,1274,Transient Ischemic Attack
+1197,1275,Trichinosis
+1198,1276,Genital Trichomoniasis In Woman
+1199,1277,Genital Trichomoniasis In Man
+1200,1279,Turner Syndrome
+1201,1280,Endemic Murine Typhus
+1202,1281,Scrub Typhus
+1203,1282,Urinary Incontinence
+1204,1283,Urticaria Acute
+1205,1284,Urticaria Chronic
+1206,1285,Uterine Corpus Endometrial Cancer
+1207,1286,Uterine Corpus Sarcoma
+1208,1287,Uterine Myoma
+1209,1288,Uterine Prolapse
+1210,1289,Uveitis Anterior
+1211,1290,Uveitis Posterior
+1212,1291,Vaginal Adenosis
+1213,1292,Vaginal Carcinoma
+1214,1293,Vaginal Sarcoma
+1215,1294,Vaginismus
+1216,1295,Varicose Veins
+1217,1296,Ventricular Septal Defect Congenital
+1218,1297,Ventricular Septal Defect Acquired
+1219,1298,Vitiligo
+1220,1299,Vulvar Carcinoma In Situ
+1221,1300,Vulvar Malignancy Invasive
+1222,1301,Vulvovaginitis Bacterial
+1223,1302,Vulvovaginitis Estrogen Deficient
+1224,1303,Vulvovaginitis Prepubescent
+1225,1304,Warts Verruca Vulgaris
+1226,1305,Warts Verruca Plantaris
+1227,1306,Verruca Plana
+1228,1307,Epidermodysplasia Verruciformis
+1229,1308,Wiscott Aldrich Syndrome Chilhood
+1230,1309,Wiscott Aldrich Syndrome
+1231,1310,Zinc Deficiency
+1232,1311,Aagenaes
+1233,1312,Aarskog Scott
+1234,1313,Aase Smith
+1235,1314,Abdominal Angina
+1236,1315,Abdominal Apoplexiy
+1237,1316,Abdominal Cocoon
+1238,1317,Abeshouse Triad
+1239,1318,Ablepharon Macrostomia
+1240,1319,Abrikossoff Myoblastoma
+1241,1320,Acanthosis Nigricans Malignant
+1242,1321,Accomodative Effort
+1243,1322,Achard Thiers
+1244,1323,Achenbach
+1245,1324,Achondroplasia
+1246,1325,Achoo Syndrome
+1247,1326,Achromatopsia Type I
+1248,1327,Achromatopsia Type Ii
+1249,1328,Achromatopsia Type Iii
+1250,1329,Achromatopsia Type Iv
+1251,1330,Achromic Nevi
+1252,1331,Perinatal Hypophosphatasia
+1253,1332,Infantile Hypophosphatasia
+1254,1333,Childhood Hypophosphatasia
+1255,1334,Adult Hypophosphatasia
+1256,1335,Ackerman Syndrome
+1257,1336,Acral Fibrokeratoma
+1258,1337,Acrocallosal Syndrome
+1259,1338,Acrocephalosyndactyly Ii
+1260,1339,Acrodermatitis Persistent
+1261,1340,Acrodysostosis
+1262,1341,Acrokeratoelastoidosis
+1263,1342,Acro Osteolysis
+1264,1343,Acroparesthesia
+1265,1344,Acropectorovertebral
+1266,1345,Acrophobia
+1267,1346,Actinic Keratopathy
+1268,1348,Adams Victor Mancall
+1269,1349,Adenosine Phosphoribosyl Transferase Deficiency Type I
+1270,1350,Adenosine Phosphoribosyl Transferase Deficiency Type Ii
+1271,1351,Adie Critchley
+1272,1352,Adrenal Hemorrhage Neonatal
+1273,1353,Advanced Sleep Phase
+1274,1354,Adynamic Bone Disease
+1275,1355,Ventricular Septal Defect Congenital With Pulmonary Hypertension
+1276,1356,Afferent Limb Acute
+1277,1357,Afzelius
+1278,1358,Agammaglobulinemia Congenital
+1279,1359,Agammaglobulinemia Acquired
+1280,1360,Aglossia Adactylia
+1281,1361,Aicardi
+1282,1362,Aicardi Goutieres
+1283,1363,Aids Embryopathy
+1284,1364,Ainhum
+1285,1365,Akinetic
+1286,1366,Akinetic Mutism
+1287,1367,Alacrima Congenital
+1288,1368,Alactasia  Infant
+1289,1369,Albatross
+1290,1370,Albers Schonberg I Adult Benign
+1291,1371,Albers Schonberg I Malignant
+1292,1372,Albert
+1293,1373,Albinism Ocular Autosomal Recessive
+1294,1376,Albinism Ocular Temperature Sensitive
+1295,1377,Albinism Ocular Ty Neg
+1296,1378,Albinism Ocular Ty Pos
+1297,1379,Albinism Ocular Yellow Mutant
+1298,1380,Albinoidism Dominant
+1299,1381,Alcoholic Cardiomegaly Emphysema
+1300,1382,Alcoholic Ketoacidosis
+1301,1383,Alcoholic Neuropathy
+1302,1384,Alcoholic Paranoia
+1303,1385,Alcoholic Reversible Acute Muscular
+1304,1386,Alcohol Withdrawal
+1305,1387,Aldosterone Synthetase Deficiency
+1306,1388,Alexander
+1307,1389,Alexander Ws
+1308,1390,Alibert Bazin
+1309,1391,Alibert I
+1310,1392,Alibert Ii
+1311,1393,Alibert Iii
+1312,1394,Alice In Wonderland
+1313,1395,Aliquorrhea
+1314,1396,Allan Herndon Dudley
+1315,1397,Allemann
+1316,1398,Allen Hines
+1317,1399,Allen Masters
+1318,1400,Allergic Alveolitis Extrinsic
+1319,1401,Allergic Cystitis
+1320,1402,Allergic Gastroenteritis
+1321,1403,Allergic Rhinitis
+1322,1404,Allergic Seminal
+1323,1405,Alpers
+1324,1406,Alpers Huttenlocher
+1325,1407,Alpha 2 Antiplasmin Deficiency
+1326,1408,Alport
+1327,1409,Alstroem
+1328,1410,Altamira
+1329,1411,Alveolar Capillary Block
+1330,1412,Amenorrhea Galactorrhea Hypothyroidism
+1331,1413,Amnesia Global Transient
+1332,1414,Amniotic Band
+1333,1415,Amniotic Fluid
+1334,1416,Amyloidosis Atrial Standstill Familial
+1335,1417,Amyloidosis Iii
+1336,1418,Amyloidosis Vii
+1337,1419,Amyloidosis Ix
+1338,1420,Analbuminemia
+1339,1421,Ancell
+1340,1422,Andermann
+1341,1423,Anderson Cm
+1342,1424,Anderson  Lg
+1343,1425,Andogsky
+1344,1426,Andrade
+1345,1427,Anetoderma Primary
+1346,1428,Angelman
+1347,1429,Angelucci
+1348,1430,Angiectasis Pregnancy
+1349,1431,Angioimmunoblastic Lymphadenopathy
+1350,1432,Angioma Multiple Progressive
+1351,1433,Angioma Neurocutaneous Hereditary
+1352,1434,Angioneurotic Edema Hereditary
+1353,1435,Angiotropic Large Cell Lymphoma
+1354,1436,Anhidrosis
+1355,1437,Aniridia
+1356,1438,Ankylosed Teeth Clinodactyly
+1357,1439,Anorectal
+1358,1440,Anoxic Overwear
+1359,1441,Pectoralis Major Syndrome
+1360,1442,Inframammary Syndrome
+1361,1443,Tietze Sydrome
+1362,1444,Antley Blixer
+1363,1445,Anton
+1364,1446,Anton Vogt
+1365,1447,Anus Imperforate
+1366,1448,Anxiety Tension
+1367,1449,Aortic Arch Hypoplasia
+1368,1450,Aortic Atresia
+1369,1451,Aortic Left Ventricular Tunnel
+1370,1452,Aorticopulmonary Window
+1371,1453,Aortocaval Fistula
+1372,1454,Apert
+1373,1455,Aplasia Cutis Congenita
+1374,1456,Apoplexia Uteri
+1375,1457,Apple Peel
+1376,1458,Apractognosia
+1377,1459,Ards Adult Respiratory Distress
+1378,1460,Aredyld
+1379,1461,Arginase Deficiency
+1380,1462,Argininosuccinase Lyase Deficiency Neonatal
+1381,1463,Argininosuccinase Lyase Deficiency Infant
+1382,1464,Arias
+1383,1465,Arlt
+1384,1466,Armendares
+1385,1467,Arnold Chiari Type I
+1386,1468,Arnold Chiari Type Ii
+1387,1469,Arnold Nerve Cough
+1388,1470,Arteriovenous Fistula Of Coronary Artery
+1389,1471,Arthrogryposis
+1390,1472,Arthrogryposis Distal Type Ii
+1391,1473,Arthrogryposis Distal Type Ii With Craniofacial Abnormalities
+1392,1474,Asa Triad
+1393,1475,Ascher
+1394,1476,Asherman
+1395,1477,Asherson
+1396,1478,Aspartylglycosaminuria Infant
+1397,1479,Aspartylglycosaminuria Adult
+1398,1480,Asperger
+1399,1481,Astrom Mancall Richardson
+1400,1482,Astronaut Bone Demineralization
+1401,1483,Atelosteogenesis
+1402,1484,Athyrotic Hypothyroidism
+1403,1485,Atkin
+1404,1486,Atlantoaxial Spine Dislocation
+1405,1487,Atlas
+1406,1488,Atrial Septal Defect Atrioventricular Conduction Prolonged
+1407,1489,Atrophy Deafness Neurogenic Amyothrophy
+1408,1490,Austin
+1409,1491,Autoimmuno Hemolytic Anemias Warm Antibody Type
+1410,1492,Autoimmuno Hemolytic Anemias Cold Agglutination Syndrome
+1411,1493,Autoscopic
+1412,1494,Avellis
+1413,1495,Axenfeld
+1414,1496,Axenfeld Schurenberg
+1415,1497,Ayerza
+1416,1498,Baboon
+1417,1499,Baelz
+1418,1500,Bagasse Worker
+1419,1501,Bailey Cushing
+1420,1502,Baker Cysts
+1421,1503,Balint
+1422,1504,Balcan Nephritis
+1423,1505,Ballard
+1424,1506,Baller Gerold
+1425,1507,Balser Fitz
+1426,1508,Bamatter
+1427,1509,Banker Victor Adams
+1428,1510,Bannayan Riley Smith
+1429,1511,Bantler
+1430,1512,Banti
+1431,1513,Barany
+1432,1514,Barber Hw
+1433,1515,Bardet Biedl
+1434,1516,Bare Lymphocyte
+1435,1517,Barlow
+1436,1518,Barnard Scholz
+1437,1519,Barraquer Simons
+1438,1520,Barre Lieou
+1439,1521,Barrett
+1440,1522,Barrow
+1441,1523,Bart
+1442,1524,Bartter Classic
+1443,1525,Basilar Artery Migraine
+1444,1526,Bass
+1445,1527,Bassen Kornzweig
+1446,1528,Bateman
+1447,1529,Batten Turner
+1448,1530,Battered Child
+1449,1531,Bayford Autenrieth
+1450,1532,Bazelon
+1451,1533,Bazex Griffith
+1452,1534,Bazin
+1453,1535,Bazzana
+1454,1536,Beals I
+1455,1537,Beals Hecht
+1456,1538,Bean
+1457,1539,Beard
+1458,1540,Beare Stevenson Cutis Gyratum
+1459,1541,Becker Reuter
+1460,1542,Bearn Kunkel Slater
+1461,1543,Becker Sw Ii
+1462,1544,Beck Ibrahim
+1463,1545,Beer And Cobalt
+1464,1546,Behr I
+1465,1547,Behr Ii
+1466,1548,Bencze
+1467,1549,Benedikt
+1468,1550,Berdon
+1469,1551,Berendes Bridge Good
+1470,1552,Berger Goldberg Adult
+1471,1553,Berger Goldberg Neonate
+1472,1554,Berger Hinglais
+1473,1555,Bergstrand
+1474,1556,Berk Tabatznik
+1475,1557,Berlin  Ci
+1476,1558,Berlin I  R
+1477,1559,Berlin Ii  R
+1478,1560,Berloque
+1479,1561,Bernard
+1480,1562,Bernhardt Roth
+1481,1563,Bernheim
+1482,1564,Besnier Prurigo
+1483,1565,Beta Blocker Embryopathy Neonate
+1484,1566,Beta Ketothiolase Deficiency
+1485,1567,Beta Methylcrotonyl Coa Carboxylase Deficiency
+1486,1568,Bethlem Myopathy
+1487,1569,Bettley
+1488,1570,Beukes Type Hip Dysplasia
+1489,1571,Bezold
+1490,1572,Bhattacharyya Connor
+1491,1573,Biber Haab Dimmer
+1492,1574,Bicarbonate Deficit
+1493,1575,Bicipital Tenosynovitis
+1494,1576,Bickel Fanconi
+1495,1577,Bickers Adams
+1496,1578,Bielschowsky Luts Cogan
+1497,1579,Biemond I
+1498,1580,Biemond Ii
+1499,1581,Biemond Iii
+1500,1582,Bietti I
+1501,1583,Bilginturan
+1502,1584,Billroth
+1503,1585,Binder
+1504,1586,Bing Neel
+1505,1587,Binswanger
+1506,1588,Biotinidase Deficiency
+1507,1589,Bird Headed Dwarfism Montreal Type
+1508,1590,Birsch Hirschfield
+1509,1591,Birt Hogg Dube
+1510,1592,Biventricular Transposed Aorta And Left Ventricular Stenotic Pulmonary Artery
+1511,1593,Bixler
+1512,1594,Bjorkman Dacie
+1513,1595,Bjornstad Crandall
+1514,1596,Bk Mole
+1515,1597,Black Widow Spider Bite
+1516,1598,Bladder Neck
+1517,1599,Blast
+1518,1600,Blencke
+1519,1601,Blepharonasofacial
+1520,1602,Blepharophimosis Ptosis Epicanthus Inversus Lacrimal Stenosis
+1521,1603,Blessig Iwanoff
+1522,1604,Blind Pouch
+1523,1605,Bloch Sulzberger
+1524,1606,Bloodgood
+1525,1607,Bloom I
+1526,1608,Bloom Ii
+1527,1609,Blount Barber Infant
+1528,1610,Blount Barber Adolescent
+1529,1611,Blue Color Blindness
+1530,1612,Blue Diaper
+1531,1613,Bobble Head Doll
+1532,1614,Bochdalek
+1533,1615,Body Of Luys
+1534,1616,Boerjeson Forssman Lehmann
+1535,1617,Bonnet C
+1536,1618,Bornholm
+1537,1619,Bouveret
+1538,1620,Bowen Dal
+1539,1621,Bowler Thumb
+1540,1622,Bradbury Eggleston
+1541,1623,Bradley
+1542,1624,Brain Bone Fat
+1543,1625,Brain W R
+1544,1626,Brain Tumor Neuroasthenia
+1545,1627,Brandt
+1546,1628,Brazilian Purpuric Fever
+1547,1629,Breast Feeding Hyperbilirubinemia
+1548,1630,Bremer
+1549,1631,Brennemann
+1550,1632,Brenner
+1551,1633,Briesky
+1552,1634,Bright
+1553,1635,Bristowe
+1554,1636,Broadbent
+1555,1637,Broca Aphasia
+1556,1638,Brock
+1557,1639,Brodie I
+1558,1640,Brodie Ii
+1559,1641,Bronchiolitis Obliterans Diffuse
+1560,1642,Bronchiolitis Obliterans Interstitial Lung Disease
+1561,1643,Bronchocentric Granulomatosis
+1562,1644,Bronze Baby
+1563,1645,Brown
+1564,1646,Brown Bowel
+1565,1647,Brown Oculocutaneous Albinism
+1566,1648,Brown Recluse Spider Bite
+1567,1649,Brown Sequard
+1568,1650,Brown Vialetto Van Laere
+1569,1651,Bruck De Lange
+1570,1652,Brueghel
+1571,1653,Brunauer
+1572,1654,Bruns
+1573,1655,Brusa Torricelli
+1574,1656,Bruton
+1575,1657,Bruyn Went
+1576,1658,Buccolingual Masticatory
+1577,1659,Buchanan
+1578,1660,Buckey
+1579,1661,Bulldog
+1580,1662,Bull Eye Retinopathy
+1581,1663,Bureau Barriere
+1582,1664,Burke R M
+1583,1665,Burnett
+1584,1666,Burning Tongue
+1585,1667,Chronic Stress Syndrome
+1586,1668,Burton
+1587,1669,Bury
+1588,1670,Buschke Fisher Brauer
+1589,1671,Buschke Ollendorff
+1590,1672,Busquet
+1591,1673,Bussiere Escobar
+1592,1674,Byar Jurkiewicz
+1593,1675,Byers
+1594,1676,Byler
+1595,1677,Bywaters
+1596,1678,Bywaters Lesions
+1597,1679,C Trigonocephaly
+1598,1680,Cacchi Ricci
+1599,1681,Cadasil
+1600,1682,Caffey Silverman
+1601,1683,Cairns
+1602,1684,Calcareous Tendonitis
+1603,1685,Calcinosis Universalis
+1604,1686,Calvarial Hyperostosis
+1605,1687,Camera
+1606,1688,Campailla Martinelli
+1607,1689,Camptodactyly Cleft Palate Club Foot
+1608,1690,Camptodactyly Ichthiosis
+1609,1691,Camptomelic Dysplasia I
+1610,1692,Camurati Engelmann
+1611,1693,Canavan
+1612,1694,Cannon De La Paz
+1613,1695,Cannon A B
+1614,1696,Cantrell Pentalogy
+1615,1697,Cantu I
+1616,1698,Cantu Ii
+1617,1699,Capdepont
+1618,1700,Capgras
+1619,1701,Caplan Colinet
+1620,1702,Capsular Thrombosis
+1621,1703,Capute Rimoin Konigsmark
+1622,1704,Carbamyl Phosphate
+1623,1705,Carbohydrate Deficient Glycoprotein
+1624,1706,Cardiopulmonary Mental Retardation Autophagic Vacuolar Myopathy
+1625,1707,Carini   Alligator Baby
+1626,1708,Carl Smith Acute Infectious Lymphocytosis
+1627,1709,Carmi
+1628,1710,Carney Ii
+1629,1711,Carnosinase Deficiency
+1630,1712,Caroli
+1631,1713,Carotid Artery Aneurysm
+1632,1714,Carotid Artery Cavernous Sinus Fistula
+1633,1715,Carotid Body Tumor
+1634,1716,Carotid System Ischemia
+1635,1717,Carpenter
+1636,1718,Carr Barr Plunkett
+1637,1719,Carson Neill
+1638,1720,Carter Sukavajana
+1639,1721,Cartilage Hair Hypoplasia
+1640,1724,Cataplexy
+1641,1725,Catatonic Schizophrenia
+1642,1726,Cat Cry
+1643,1727,Cat Eye
+1644,1728,Cat Scratch
+1645,1729,Cauchois Eppinger Frugoni
+1646,1730,Causalgia
+1647,1731,Cayler
+1648,1732,Cebocephaly
+1649,1733,Pulmonary Idiopathic Hemosiderosis
+1650,1734,Cenani Lenz
+1651,1735,Central Cord
+1652,1736,Cerebellar Ataxia Hypogonadism
+1653,1737,Cerebellar Superior Peduncle
+1654,1738,Cerebral Concussion
+1655,1739,Cerebral Radiation
+1656,1740,Cerebrocostomantibular
+1657,1741,Cervical Aorta
+1658,1742,Cervical Cord Anterior
+1659,1743,Cervical Rib
+1660,1744,Cervical Spondylotic Myelopathy
+1661,1745,Cervix Annular Detachment Of
+1662,1746,Cestan Chenais
+1663,1747,Chanarin Dorfman
+1664,1748,Chandler  P A
+1665,1749,Chandra Khetarpal
+1666,1750,Charcot Intermittent Biliary Fever
+1667,1751,Charcot Joints
+1668,1752,Charge
+1669,1753,Charlin
+1670,1754,Chattle
+1671,1755,Chediak Higashi
+1672,1756,Cherry Red Spot Myoclonus
+1673,1757,Chilaiditi
+1674,1758,Chinese Restaurant
+1675,1759,Chiray
+1676,1760,Chloasma
+1677,1761,Chloroquine Retinopathy
+1678,1762,Cholangitis Primary Sclerosing
+1679,1763,Cholesterol Pericarditis
+1680,1764,Cholesteryl Ester Hydrolase Deficiency
+1681,1765,Chondrodysplasia Punctata X Linked
+1682,1766,Chondromalacia Patellae
+1683,1767,Chorda Tympani
+1684,1768,Chorea Hereditary Benign
+1685,1769,Chorea Gravidarum
+1686,1770,Chorea Senile
+1687,1771,Choriocarcinoma Infantile
+1688,1772,Chorioretinopathy Central Serous
+1689,1773,Choroidal Dystrophy Central Areolar
+1690,1774,Choroideremia
+1691,1775,Christian I
+1692,1776,Christian Ii
+1693,1777,Christ Siemens Touraine
+1694,1778,Chromosome 1P Partial Deletion
+1695,1779,Chromosome 1Q Partial Trisomy
+1696,1780,Chromosome 1Q Proximal Deletion
+1697,1781,Chromosome 1Q Terminal Deletion
+1698,1782,Chromosome 2P Partial Deletion
+1699,1783,Chromosome 2P Partial Duplication
+1700,1784,Chromosome 3B Translocation
+1701,1785,Chromosome 3P Partial Deletion
+1702,1786,Chromosome 3P Partial Duplication
+1703,1787,Chromosome 3Q Partial Duplication
+1704,1788,Chromosome 4P Partial Duplication
+1705,1789,Chromosome 5P Partial Duplication
+1706,1790,Chromosome 5Q Partial Duplication
+1707,1791,Chromosome 6P Partial Duplication
+1708,1792,Chromosome 6Q Partial Deletion
+1709,1793,Chromosome 6Q Partial Duplication
+1710,1794,Chromosome 7P Partial Deletion
+1711,1795,Chromosome 7P Partial Duplication
+1712,1796,Chromosome 7Q Partial Deletion
+1713,1797,Chromosome 7Q Partial Duplication
+1714,1798,Chromosome 7Q Partial Duplication
+1715,1799,Chromosome 8P Partial Deletion
+1716,1800,Chromosome 8 Trisomy
+1717,1801,Chromosome 8P Partial Duplication
+1718,1802,Chromosome 8Q Partial Duplication
+1719,1803,Chromosome 9/Mosaic
+1720,1804,Chromosome 9P Duplication
+1721,1805,Chromosome 9P Partial Deletion
+1722,1806,Chromosome 9Q Partial Duplication
+1723,1807,Chromosome 10P Partial Deletion
+1724,1808,Chromosome 10P Partial Duplication
+1725,1809,Chromosome 10Q Partial Duplication
+1726,1810,Chromosome 11Q Partial Deletion
+1727,1811,Chromosome 11Q Partial Duplication
+1728,1812,Chromosome 12 Trisomy
+1729,1813,Chromosome 13Q Partial Deletion
+1730,1814,Chromosome 14Q Partial Deletion
+1731,1815,Chromosome 15Q Partial Deletion
+1732,1816,Chromosome 15Q Partial Duplication
+1733,1817,Chromosome 15Q Partial Duplication Distal
+1734,1818,Chromosome 16P Partial Duplication
+1735,1819,Chromosome 16Q Partial Deletion
+1736,1820,Chromosome 16Q Partial Duplication
+1737,1821,Chromosome 17P Partial Deletion
+1738,1822,Chromosome 17P Partial Duplication
+1739,1823,Chromosome 14Q Partial Duplication
+1740,1824,Chromosome 17Q Partial Duplication
+1741,1825,Chromosome 18P Partial Deletion
+1742,1826,Chromosome 18Q Partial Deletion
+1743,1827,Chromosome 19Q Partial Duplication
+1744,1828,Chromosome 20P Partial Duplication
+1745,1829,Chromosome 21Q Partial Deletion
+1746,1830,Chromosome 22Q Partial Deletion
+1747,1831,Chudley
+1748,1832,Chylomicron Retention
+1749,1834,Citelli
+1750,1835,Citrullinemia Neonate
+1751,1836,Citrullinemia Subacute
+1752,1837,Citrullinemia Atypical
+1753,1838,Ciuffo
+1754,1839,Civatte
+1755,1840,Clam Digger Itch
+1756,1841,Swimmer Itch
+1757,1842,Clouston
+1758,1843,Cluneal Nerve
+1759,1844,Clutton
+1760,1845,Coal Miner Elbow
+1761,1846,Student Elbow
+1762,1847,Coats Group I
+1763,1848,Coats Group Ii
+1764,1849,Coats Group Iii
+1765,1850,Cobb
+1766,1851,Cockayne Touraine
+1767,1852,Cocktail Party
+1768,1853,Codman
+1769,1854,Coenzyme Q 10 Deficiency
+1770,1855,Coffin Lowry
+1771,1856,Coffin Siris
+1772,1857,Cogan I
+1773,1858,Cogan Ii
+1774,1859,Cogan Iii
+1775,1860,Cogan Reese
+1776,1861,Cohen
+1777,1862,Coital Cephalalgia
+1778,1863,Cold Panniculitis
+1779,1864,Cold Urticaria
+1780,1865,Collagenoma Cutaneous Familial
+1781,1866,Collagenous Colitis
+1782,1867,Collet Sicard
+1783,1868,Colonic Inertia
+1784,1869,Color Blindness Blue Monocone Monochromate Type
+1785,1870,Color Blindness Partial Deutan Series
+1786,1871,Color Blindness Partial Protean Series
+1787,1872,Color Blindness Partial Tritanomaly
+1788,1873,Comfort Steinberg
+1789,1874,Comly
+1790,1875,Cone Rod Dystrophy
+1791,1876,Conradi
+1792,1877,Conway
+1793,1878,Cooperman Miura
+1794,1879,Cooper I
+1795,1880,Cooper Ii
+1796,1881,Cords
+1797,1882,Cork Worker
+1798,1883,Cornea Guttata Anterior Polar Cataract
+1799,1884,Corneal Dermoids Short Stature
+1800,1885,Corneal Dystrophy Polymorphous Posterior
+1801,1886,Corneal Hypohestesia Familial
+1802,1887,Coronaryartery Steal
+1803,1888,Corpus Callosum Agenesis
+1804,1889,Corpus Luteum Insufficiency
+1805,1890,Corrigan Ab
+1806,1891,Cor Triatriatum
+1807,1892,Costen
+1808,1893,Cotard
+1809,1894,Cottle
+1810,1895,Cough Syncope
+1811,1896,Couvade
+1812,1897,Couvelaire
+1813,1898,Cowden
+1814,1899,Crain
+1815,1900,Crane Heise
+1816,1901,Craniodiaphyseal Dysostosis
+1817,1902,Cranio Frontonasal
+1818,1903,Crescentic Glomerulonephritis
+1819,1904,Cretinism Sporadic
+1820,1905,Creyx Levy
+1821,1906,Critical Illness Neuropathy
+1822,1907,Crome
+1823,1908,Cronkhite Canada
+1824,1909,Cross
+1825,1910,Crosti
+1826,1911,Crouzon
+1827,1912,Crow Fukase
+1828,1913,Crst Syndrome
+1829,1914,Cruveilhier Baumgarten
+1830,1915,Cutis Marmorata
+1831,1916,Cutis Verticis Gyrata
+1832,1917,Cyclical Edema
+1833,1918,Cyclic Neutropenia
+1834,1919,Cyclic Strabismus
+1835,1920,Cyclic Vomiting Idiopathic
+1836,1921,Cyclopia
+1837,1922,Cylindric Spirals Myopathy
+1838,1923,Cyriax
+1839,1924,Cystathioninuria
+1840,1925,Cystic Duct
+1841,1926,Cystic Duct Stump
+1842,1927,Cystitis Irradiation
+1843,1928,Dacosta
+1844,1929,Dahlberg
+1845,1930,Dana I
+1846,1931,Dandy Walker
+1847,1932,Darier Ferrand
+1848,1933,Darier Roussy
+1849,1934,Darier White
+1850,1935,Darrow Gamble
+1851,1936,David W
+1852,1937,David Stickler
+1853,1938,Davies
+1854,1939,Davis Ja
+1855,1940,Davis Md
+1856,1941,Dawidenkow
+1857,1942,Deafness Conductive Malformed External Ears
+1858,1943,Deafness Congenital Otitic Meningitis
+1859,1944,Deafness Hypogonadism X Linked Recessive
+1860,1945,Deafness Conductive X Linked
+1861,1946,Deafness Sensorineural X Linked
+1862,1947,Deafness Optic Atrophy
+1863,1948,Deafness  Sensorineural Autosomal Dominant
+1864,1949,Deafness Sensorineural Autosomal Recessive
+1865,1950,De Barsy
+1866,1951,Debre Fittke
+1867,1952,De Clerambault
+1868,1953,Defecation Syncope
+1869,1954,Purpura Fulminans
+1870,1955,De Jeans
+1871,1956,Dejerine Klumpke
+1872,1957,Dejerine Mouzon
+1873,1958,Dejerine Onion Peel Sensory Loss
+1874,1959,Dejerine Roussy
+1875,1960,Dejerine Sottas
+1876,1961,Dejerine Thomas
+1877,1962,De La Chapelle
+1878,1963,De Lange I
+1879,1964,Degos Acanthoma
+1880,1966,Delleman Orthuys
+1881,1967,Demarquay
+1882,1968,Dementia Paralytica
+1883,1969,De Meyer
+1884,1970,De Morgan
+1885,1971,De Morsier I
+1886,1972,Denial
+1887,1973,Dennie Marfan
+1888,1974,Dennie Marfan
+1889,1975,Denny Brown I
+1890,1976,Denys Drash
+1891,1977,De Quervain I Adult
+1892,1978,De Quervain I Infant
+1893,1979,De Quervain Ii
+1894,1980,Dercum
+1895,1981,Dermal Erythropoiesis
+1896,1982,Dermatitis Artefacta
+1897,1983,Dermatitis Radiation Acute
+1898,1984,Dermatitis Radiation Chronic
+1899,1985,Dermatoosteolysis Kirghizian Type
+1900,1986,Derry
+1901,1987,De Sanctis Cacchione
+1902,1988,Desbuquoi
+1903,1989,Desmond
+1904,1990,De Souza
+1905,1991,Desquamative Interstitial Pneumonia
+1906,1992,Determann
+1907,1993,Deutschlaender
+1908,1994,Devergie
+1909,1995,Diabetes Mellitus Transient Neonatal
+1910,1996,Diabetes True Renal
+1911,1997,Diabetic Myelopathy
+1912,1998,Diabetic Pseudotabes
+1913,1999,Diallinas Amalric
+1914,2000,Diaphyseal Medullary Stenosis Bone Malignancy
+1915,2001,Diaphragm Congenital Absence
+1916,2002,Diaphragm Eventratio
+1917,2003,Diaphragm Rupture
+1918,2004,Diaphyseal Aclasis
+1919,2005,Diastrophic Dwarfism
+1920,2006,Dietlen
+1921,2007,Dietl
+1922,2008,Dietrich
+1923,2009,Di George
+1924,2010,Digitotalar Dysmorphism
+1925,2011,Di Guglielmo I Acute
+1926,2012,Di Guglielmo I Chronic
+1927,2013,Dihydropyrimidine Dehydrogenase Deficiency Metabolic
+1928,2014,Dihydropyrimidine Dehydrogenase Deficiency Pharmacokinetic
+1929,2015,Di Mauro Di Mauro
+1930,2016,Dimmer
+1931,2017,Di Saia
+1932,2018,Distichiasis Lymphedema
+1933,2019,Diversion Colitis
+1934,2020,Diver Syncope
+1935,2021,Divry Van Bogaert
+1936,2022,Dna Autosensitivity
+1937,2023,Doan Wiseman
+1938,2024,Doan Wright
+1939,2025,Dobriner
+1940,2026,Dohi
+1941,2027,Donohue
+1942,2028,Door
+1943,2029,Double Cortex
+1944,2030,Double Outlet Left Ventricle
+1945,2031,Double Outlet Right Ventricle I
+1946,2032,Double Outlet Right Ventricle Ii
+1947,2033,Double Outlet Right Ventricle Iv
+1948,2034,Dowling Degos
+1949,2035,Dowling Meara
+1950,2036,Down
+1951,2037,Scapuloperoneal X Linked
+1952,2038,Mild Hereditary Elliptocystosis With Poikilocytosis In Infancy
+1953,2039,Hereditary Pyropoikilocytosis Hpp
+1954,2040,Dressler D
+1955,2041,Dressler W
+1956,2042,Dreuw M
+1957,2043,Drobin
+1958,2044,Duane
+1959,2045,Dubowitz
+1960,2046,Duchenne I
+1961,2047,Duchenne Dystrophy In Females
+1962,2048,Duckert
+1963,2049,Dudley Klingenstein
+1964,2050,Duhring
+1965,2051,Dumon Radermecker
+1966,2052,Dunningam
+1967,2053,Dupre
+1968,2054,Dural Sinus Thrombosis
+1969,2055,Lactose Intolerance Neonate
+1970,2056,Durand Type I
+1971,2057,Durand Type Ii
+1972,2058,Duvernoi
+1973,2059,Dwarfism Environmental
+1974,2060,Dwarfism Immunopathy Asthma
+1975,2061,Dyggve Melchior Clausen
+1976,2062,Dyke Davidoff Masson
+1977,2063,Dyschromatosis Universalis Hereditaria
+1978,2064,Dysostosclerosis
+1979,2065,Dysphasic Dementia
+1980,2066,Dystocia Dystrophia
+1981,2067,Dystonia Deafness
+1982,2068,Dysuria Pyuria
+1983,2069,E Ferol
+1984,2070,Eagles
+1985,2071,Eales
+1986,2072,Ear Cholesteatoma
+1987,2073,Eaton Lambert
+1988,2074,Ebstein
+1989,2075,Edwards
+1990,2076,Egger
+1991,2077,Ehrenfried
+1992,2078,Stroke Sequelae
+1993,2079,Bell Palsy Sequelae
+1994,2080,Poliomyelitis Sequelae
+1995,2081,Eisenmenger
+1996,2082,Electroshock Induced Psychotic
+1997,2083,Eliakim
+1998,2084,Ellis Van Creved
+1999,2085,Elpenor
+2000,2086,Elsahy Waters
+2001,2087,Elsberg
+2002,2088,Elschnig I
+2003,2089,Embolism Paradoxical
+2004,2090,Emery Nelson
+2005,2091,Empty Sella Acquired
+2006,2092,Empty Sella Primary
+2007,2093,Enamel Renal
+2008,2094,Encephalitic Parkinsonism
+2009,2095,End Plate Acetylcholinesterase Deficiency Congenital
+2010,2096,Engel
+2011,2097,Engel Aring
+2012,2098,Engel Von Recklinghausen
+2013,2099,Enteropathic Arthritis
+2014,2100,Enteropathy Associated T Cell Lymphoma
+2015,2101,Eosinophilia Myalgia
+2016,2102,Epidermolysis Bullosa Simple Ogna
+2017,2103,Epileptic Automatism
+2018,2104,Epiphyseal Ischemic Necrosis
+2019,2105,Epstein Aa
+2020,2106,Erb Charcot
+2021,2107,Erb Duchenne Neonate
+2022,2108,Erb Goldflam
+2023,2109,Erythrocyanotic Headache
+2024,2110,Erythrocytosis Benign Familial
+2025,2111,Erythrocytic Hypoplasia Acquired Chronic
+2026,2112,Phosphofructokinase Deficiency
+2027,2113,Phosphoglycerate Kinase Deficiency
+2028,2114,Esophagus Apoplexy
+2029,2115,Esophagus Spasm Diffuse
+2030,2116,Espildora Luque
+2031,2117,Ethanolaminosis
+2032,2118,Eyelid Congenital
+2033,2119,Faber
+2034,2122,Factitious Purpura
+2035,2123,Fahr
+2036,2124,Fahr Volhard
+2037,2125,Failed Back
+2038,2126,Fairbank
+2039,2127,Falls Kertesz
+2040,2128,Falret
+2041,2129,Fammm
+2042,2130,De Toni Debre Fanconi Type I
+2043,2131,De Toni Debre Fanconi Type Ii
+2044,2132,Farabee
+2045,2133,Farber
+2046,2134,Farmer Lung
+2047,2135,Farmer Mustian
+2048,2136,Favre
+2049,2137,Favre Racouchot
+2050,2138,Fazio Londe
+2051,2139,Fechtner
+2052,2140,Feer
+2053,2141,Feldaker
+2054,2142,Female Prostatic Obstruction
+2055,2143,Femoral Facial
+2056,2144,Ferguson Critchley
+2057,2145,Ferguson Smith
+2058,2146,Fertile Eunuch
+2059,2147,Fetal Alcohol
+2060,2148,Fetal Distress
+2061,2149,Fetal Folate Antagonist
+2062,2150,Fetal Hydantoin
+2063,2151,Fetal Toluene
+2064,2152,Fetal Trimethadione
+2065,2153,Fetal Valproate
+2066,2154,Fetal Vitamin A
+2067,2155,Fibromatosis Gingival Hands Nose And Ears Abnormalities Splenomegaly
+2068,2156,Fibromatosis Gingival Progressive Deafness
+2069,2157,Fibromatosis Juvenile Hyaline
+2070,2158,Fibrosis Mediastinal Idiopathic
+2071,2159,Fibrositis
+2072,2160,Filatov Dukes
+2073,2161,Filippi
+2074,2162,Finnish Nephrosis
+2075,2163,Fischer Sargent Drachman
+2076,2164,Fisher Cm
+2077,2165,Fisher Miller
+2078,2166,Fish Eye
+2079,2167,Fitch
+2080,2168,Fleck
+2081,2169,Flecked Retina
+2082,2170,Flegel
+2083,2171,Fleisher
+2084,2172,Floating Harbor
+2085,2173,Floppy Eyelid
+2086,2174,Fluckiger
+2087,2175,Flynn Aird
+2088,2176,Focal Fibrocartilagineous Dysplasia
+2089,2177,Foix
+2090,2178,Foix Alajouanine
+2091,2179,Foix Chavany Marie
+2092,2180,Foix Jefferson
+2093,2181,Methylenetetrahydrofolate Reductase Deficiency
+2094,2182,Folling
+2095,2183,Forsius Eriksson
+2096,2184,Foster Kennedy
+2097,2185,Fountain
+2098,2186,Fournier
+2099,2187,Fourth Ventricle
+2100,2188,Foville I
+2101,2189,Foville Ii
+2102,2190,Cavernous Sinus Thrombophlebitis
+2103,2191,Foville Wilson
+2104,2192,Fox Fordyce
+2105,2193,Frame
+2106,2194,Franceschetti
+2107,2195,Franceschetti Kaufman
+2108,2196,Franceschetti Klein
+2109,2197,Franceschetti Thier
+2110,2198,Francois I
+2111,2199,Frankl Hochwart
+2112,2200,Fraser
+2113,2201,Freeman Sheldon
+2114,2202,Freiberg Infraction
+2115,2203,Frenkel
+2116,2204,Sweating Gustatory
+2117,2205,Fried Emery Spino Muscular Atrophy Type Ii
+2118,2206,Friedman Roy
+2119,2207,Friedreich Auerbach Hypertrophic Myopathy
+2120,2208,Friedrich Epiphyseal Necrosis Sternal Ends
+2121,2209,Froehlich Sexual Infantilism
+2122,2210,Fructose 1 6 Bisphosphatase Hereditaty Deficiency
+2123,2211,Fructose Intolerance Hereditary
+2124,2212,Fryns
+2125,2213,Fuchs Ii  Blepharochalasis
+2126,2214,Fuchs Iii Heterochromic Uveitis
+2127,2215,Fuchs Iv Corneal Dystrophy
+2128,2216,Fukuyama
+2129,2217,Fundus Albipunctatus
+2130,2218,Gaisbock Stress Erythrocytosis
+2131,2219,Galactokinase Deficiency Galactosemia
+2132,2220,Galactorrhea Black
+2133,2221,Galactosemia I
+2134,2222,Galactosemia Iii
+2135,2223,Galloway Mowat
+2136,2224,Gamekeeper Thumb
+2137,2225,Gamma Cystathionase Deficiency
+2138,2226,Gamstorp Hyperkalemic Paralysis
+2139,2227,Gapo
+2140,2228,Gardener Diamond
+2141,2229,Gardner
+2142,2230,Genito Palato Cardiac
+2143,2231,Osteomyelitis  Sicca
+2144,2232,Gass
+2145,2233,Erythroblastopenia Acute Acquired
+2146,2234,Intestinal Motility I
+2147,2235,Intestinal Motility Ii
+2148,2236,Gastrocutaneous
+2149,2237,Gastrointestinal Milk Allergy In Infants
+2150,2238,Hiv Bowel
+2151,2239,Post Shunt Encephalopathy
+2152,2241,Bloating Fullness Abdominal Discomfort
+2153,2243,Gastric Hypoacidity
+2154,2244,Gastric Acid Secretion
+2155,2245,Gluten Enteropathy Children
+2156,2246,Gluten Enteropathy Latent Variety
+2157,2247,Gluten Enteropathy Adult Variety
+2158,2248,Histiocytic Dermoarthritis
+2159,2249,Crossed Paralysis Of Viii Th Nerve
+2160,2250,Gelolepsy
+2161,2251,Postaxial Acrofacial Dysostosis
+2162,2252,Geographic Tongue
+2163,2253,Laryngeal Adductor Paralysis
+2164,2254,Paralytic Vertigo
+2165,2255,Pseudopsychopathic
+2166,2256,Gerstmann
+2167,2257,Infantile Lichenoid Acrodermatitis
+2168,2258,Hereditary Methemoglobinemia With General Deficiency Of Nadh
+2169,2259,Choriogenic Gynecomastia
+2170,2260,Pituitary Dwarfism Iii
+2171,2261,Gillespie
+2172,2262,Gillum Anderson
+2173,2263,Erythrokeratodermia Ataxia
+2174,2264,Hypokalemic Metabolic Alkalosis
+2175,2265,Glanzmann
+2176,2266,Glanzmann Riniker
+2177,2267,Deafness Oligodontia
+2178,2268,Enteroptosis
+2179,2269,Globus
+2180,2270,Globus Pallidus Necrosis
+2181,2271,Glomus Jugulare Tumor
+2182,2272,Glossodynia
+2183,2273,Glossopalatine Ankylosis
+2184,2274,Glucagonoma
+2185,2275,Glue Ear
+2186,2276,Glutaric Aciduria I
+2187,2277,Glutaric Aciduria Iib
+2188,2278,Glutamylcysteine Synthetase Deficiency
+2189,2279,Glutathione Synthetase Deficiency
+2190,2280,Glycerol Intolerance
+2191,2281,Glycerolkinase Deficiency
+2192,2282,Glycogen Storage Type Viii
+2193,2283,Goebel
+2194,2284,Corticostriatocerebellar
+2195,2285,Goeminne
+2196,2286,Goeminne Coxavera Patella Aplasia
+2197,2287,Goldberg Shprintzen
+2198,2288,Goldberg Wenger
+2199,2289,Oculovertebral Dysplasia
+2200,2290,Goltz
+2201,2291,Gombo
+2202,2292,Cerebellotrigeminodermal Dysplasia
+2203,2293,Thymoma Immunodeficiency
+2204,2294,Acrocephalopolysyndactyly Iv
+2205,2295,Gordon Cooke
+2206,2296,Pseudohypoaldosteronism Type Ii
+2207,2297,Frontometaphyseal Dysplasia
+2208,2298,Gorlin Goltz
+2209,2299,Prurigo Pigmentosa
+2210,2300,Allergic Vasculitis Acute
+2211,2301,Allergic Vasculitis Chronic
+2212,2302,Gowers Panatrophy
+2213,2303,Distal Muscular Dystrophy
+2214,2304,Goyer
+2215,2305,Gradenigo
+2216,2306,Grahmann
+2217,2307,Granddad
+2218,2308,Granulosis Rubra Nasi
+2219,2309,Graves Ophthalmopathy
+2220,2310,Gray
+2221,2311,Anterior Membrane Dystrophy
+2222,2312,Great Arteries Complete Transposition
+2223,2313,Grebe
+2224,2314,Green Nail
+2225,2316,Greig Ii
+2226,2318,Palmoplantar Progressive Keratoderma
+2227,2319,Burning Feet
+2228,2320,Nasopharyngeal Torticollis
+2229,2321,Grob
+2230,2322,Fleischer I
+2231,2323,Macular Corneal Dystrophy Groenouw
+2232,2324,Groll Hirschowitz
+2233,2325,Thrombocytopenia Radial Aplasia
+2234,2326,Grover
+2235,2327,Microcystic Corneal Dystrophy
+2236,2328,Guillain Alajouanine Garcin
+2237,2329,Hypokalemia Familial
+2238,2330,Gustatory Rhinorrhea
+2239,2331,Gutierrez
+2240,2332,Habituated Hoarseness
+2241,2333,Pemphigus Benign Familial
+2242,2334,Haim Munk
+2243,2335,Hair Brain
+2244,2336,Hairy Elbows
+2245,2337,Acro Osteolysis
+2246,2338,Functional Ovarian Disturbance
+2247,2339,Half And Half Nail
+2248,2340,Band Keropathy Deafness
+2249,2341,Hallermann Streiff
+2250,2342,Pallidal Degeneration Progressive
+2251,2343,Hallgren
+2252,2344,Lichen Planus Sclerosis Atrophicus
+2253,2345,Hallopeau Siemens
+2254,2346,Hall Riggs
+2255,2347,Mediastinal Emphysema
+2256,2348,Hand Foot Uterus
+2257,2349,Haney Falls
+2258,2350,Hanhart Type I
+2259,2351,Hanhart Type Ii
+2260,2352,Hanhart Type Iii
+2261,2353,Hanhart Type Iv
+2262,2354,Chondrodysplasia Punctata
+2263,2355,Alveolar Microlithiasis
+2264,2356,Hard Water
+2265,2357,Hare Eye
+2266,2358,Celiac Axis Compression
+2267,2359,Harlequin Color Change
+2268,2360,Harlequin Fetus
+2269,2361,Hyperinsulinoma
+2270,2362,Harvey
+2271,2363,Haverhill Fever
+2272,2364,Hawkin
+2273,2365,Keratoderma Climactericum
+2274,2366,Hayden Grossman
+2275,2367,Autonomic Hyperreflexia
+2276,2368,Pulmonic Stenosis Deafness
+2277,2369,Heberden Nodes
+2278,2370,Hebra Prurigo
+2279,2371,Camptomelic Trism
+2280,2372,Acute Primary Diaphragmitis
+2281,2373,Heerfordt
+2282,2374,Heide
+2283,2375,Cortical Blindness
+2284,2376,Cow Milk Precipitins
+2285,2377,Helmholtz Harrington
+2286,2378,Anhidrosis Neurolabyrinthitis Deafness
+2287,2379,Hematuria Essential
+2288,2380,Hemihypertrophy
+2289,2381,Hemifacial Spasm
+2290,2382,Hemihypertrophy
+2291,2383,Hemiplegia Hemianesthesia Alternating Hypoglossal
+2292,2384,Hemiplegic Migraine Familial
+2293,2385,Hemoglobin Constant Spring
+2294,2386,Hemoglobin C Homozygous
+2295,2387,Hemoglobin D Homozygous
+2296,2388,Hemoglobin E Homozygous
+2297,2389,Hemoglobin H
+2298,2390,Hemophagocytic Reactive
+2299,2391,Hemorrhagic Neonatal
+2300,2392,Hemorrhagic Shock And Encephalopathy
+2301,2393,Hemorrhoidal Prostatic Impotence
+2302,2394,Palindromic Rheumatism
+2303,2395,Hennebert
+2304,2396,Hennekam
+2305,2397,Hepatic Flexure
+2306,2398,Hepatitis Fulminating
+2307,2399,Hermaphroditism True
+2308,2400,Herrick
+2309,2401,Herrmann
+2310,2402,Glycogenosis Type Vi
+2311,2403,Hersh
+2312,2404,Hersman
+2313,2405,Vertical Diplopia
+2314,2406,Ulnar Aplasia
+2315,2407,Herva
+2316,2408,Herxheimer
+2317,2409,Hidradenoma Eruptivum
+2318,2410,High Altitude Pulmonary Edema
+2319,2411,High Output Circulatory Failure
+2320,2412,Cerebellar Ataxia Helminthiasis
+2321,2413,Lazy Bladder
+2322,2414,Hip Congenital Dislocation
+2323,2415,Hirsutism Essential
+2324,2416,Hmg Coa Lyase Deficiency
+2325,2417,Progressive Fibrosis Vastus Intermedius
+2326,2418,Patellar Fat Pad Hypertrophy
+2327,2419,Hoffmann
+2328,2420,Nevus Lipomatosus Cutaneous Superficialis
+2329,2421,Chorioretinal Infarction
+2330,2422,Holocarboxylase Synthetase Deficiency
+2331,2423,Holt Oram
+2332,2424,Dementia Pugilistica
+2333,2425,Homocarnosinosis
+2334,2426,Homologous Blood
+2335,2427,Atrophodermia Reticulata
+2336,2428,Honeymoon Cystitis
+2337,2429,Familial Hypolipidemia
+2338,2430,Meningeal Angiomatosis
+2339,2431,Hooft Jongbloet
+2340,2432,Acrokeratosis Verruciformis
+2341,2433,Aneurysms Of Valsalva Sinuses Congenital
+2342,2435,Housemaid Knee
+2343,2436,Hobturator Hernia
+2344,2437,Solvent Mixture Paralysis
+2345,2438,Acromegaloid
+2346,2439,Pulmonary Artery Aneurysm Thrombosis
+2347,2440,Genitoanorectalis Elephantiasis
+2348,2441,Hungry Bones
+2349,2442,Hunt I
+2350,2443,Hunt Ii
+2351,2444,Huriez
+2352,2445,Hurst
+2353,2446,Hutchinson Gilford
+2354,2447,Choroiditis Guttata Senilis
+2355,2448,Hutchinson Melanotic Whitlow
+2356,2449,Hutchinson Triad
+2357,2450,Hydatidiform Mole
+2358,2451,Nodular Prurigo
+2359,2452,Periodic Arthritis
+2360,2453,Hydroa Vacciniforme
+2361,2454,Hyperalgesic Pseudothrombophlebitis
+2362,2455,Hypercalciuria Familial Idiopathic
+2363,2456,Asymmetric Hyperhidrosis
+2364,2458,Thermoregulating Hyperhidrosis
+2365,2459,Hyper Igm
+2366,2460,Hyperkinetic Heart
+2367,2461,Heperleucine Isoleucinemia
+2368,2462,Hyperlexia
+2369,2463,Hyperlipoproteinemia Type V
+2370,2464,Hyperlysinemia Periodic
+2371,2465,Hyperlysinemia Persistent
+2372,2466,Hypermagnesemia
+2373,2467,Hypermobility
+2374,2468,Hyperornithinemia Hyperammoniemia Homocitrullinuria
+2375,2469,Hyperostosis Cranialis Interna
+2376,2470,Hyperostosis Hyperphosphatemia
+2377,2471,Hyperparathyroidism Familial
+2378,2472,Hyperparathyroidism Myopathy
+2379,2473,Hyperparathyroidism  Skeletal
+2380,2474,Hyperparathyroidism  Urologic
+2381,2475,Hyperpathia
+2382,2476,Dihydropteridine Reductase Deficiency Type 4
+2383,2477,Dihydropterine Reductase Deficiency Type 5
+2384,2478,Persistent Hyperphenylalaninemia And Tyrosinemia Type 6
+2385,2479,Hyperphosphatasia Mental Retardation
+2386,2480,Hyperprolinemia
+2387,2481,Heperprostaglandin E
+2388,2482,Hypersomnia
+2389,2484,Hypertrichosis Congenital Anterior Cervical Peripheral Sensory Motor Neuropathy
+2390,2485,Hypertrichosis Fibromatosis Gingival
+2391,2486,Hypertrichosis Lanuginosa Congenital
+2392,2487,Hypertrichosis Osteochondrodysplasia
+2393,2488,Hypervalinemia
+2394,2489,Hyperventilation
+2395,2490,Hypoalphalipoproteinemias
+2396,2491,Hypoglobulinemia Transient Infantile
+2397,2492,Hypokalemia
+2398,2493,Hypokalemic Periodic Paralysis
+2399,2494,Hyponatremia
+2400,2495,Hypotenar Hammer
+2401,2496,Hysterical Syncope
+2402,2498,Ichthyosiform Erythroderma Unilateral
+2403,2499,Ichthyosis Cheek Eyebrow
+2404,2500,Ichthyosis Follicularis Atrichia Photophobia
+2405,2501,Ichthyosis Hepato Splenomegaly Ataxia
+2406,2502,Ichthyosis Male Hypogonadism
+2407,2503,Ichthyosis Vulgaris Dominant
+2408,2504,Ichthyosis Vulgaris Sex Linked Dominant
+2409,2505,Ichthyosis Vulgaris Sex Linked Recessive
+2410,2506,Idiopathic Hypertrophic Subaortic Stenosis
+2411,2507,Iga Selective Deficiency
+2412,2508,Iliocaval Compression
+2413,2509,Illum
+2414,2510,Illusion Of Fregoli
+2415,2511,Illusion Of Intermetamorphosis
+2416,2512,Imerslund Graesbeck
+2417,2513,Immersion Foot
+2418,2514,Immunoproliferative Small Intestinal
+2419,2515,Immunotactoid Glomerulopathy
+2420,2516,Inaproppropiate Falsetto
+2421,2517,Inclusion Body Myositis
+2422,2518,Indian Childhood Cirrhosis
+2423,2519,Infantile
+2424,2520,Inspissated Bile
+2425,2521,Intermittent Vertebral Compression
+2426,2522,Interstitial Keratitis I
+2427,2523,Intestinal Carbohydrate Dyspepsia
+2428,2524,Intestinal Knot
+2429,2525,Intestinal Nodular Hyperplasia
+2430,2526,Intestinal Polyposis Familial
+2431,2527,Intestinal Primary Lymphoma Of Adult Wester
+2432,2528,Intestinal Primary Lymphoma Of Childhood
+2433,2529,Interamural Coronary Artery Aneurysm
+2434,2530,Irido Corneal Endothelial
+2435,2531,Irvine Gass
+2436,2532,Isolated Growth Hormone Deficiency
+2437,2533,Isovaleric Acidemia
+2438,2534,Israel
+2439,2535,Infantile Free Sialic Acid Storage Disease
+2440,2536,Itai Itai
+2441,2538,Nevus Depigmentosus Systematicus
+2442,2539,Ito Nevus
+2443,2540,Actinic Reticuloid
+2444,2541,Asplenia
+2445,2542,Ivemark Ii
+2446,2543,Ives Houston
+2447,2544,Ivemark Iii
+2448,2545,Ivic
+2449,2546,Jabs Blaus
+2450,2547,Arthritis Deforming
+2451,2548,Jackson Ii
+2452,2549,Jackson Barr
+2453,2550,Focal Epilepsy
+2454,2551,Pachyonychia Congenita
+2455,2552,Jackson Weiss
+2456,2553,Arthropathy Camptodactyly
+2457,2554,Brachial Plexus Neuritis
+2458,2555,Genital Oculo Oral
+2459,2556,Linked Spondyloepiphyseal Dysplasia
+2460,2557,Jacobsen Brodwall
+2461,2558,Petrosphenoidal Carrefour
+2462,2559,Alopecia Reflex
+2463,2560,Epidermal Nevus
+2464,2561,Pachyonychia Congenita  Ii
+2465,2562,Polyostotic Fibrous Dysplasia
+2466,2563,Jake Paralysis
+2467,2564,Pseudoleukemic Anemia
+2468,2565,Cone Rod Dystrophy
+2469,2566,Jamaican Vomiting Sickness
+2470,2567,Disabling Positional Vertigo
+2471,2568,Spondylometaphyseal Dysostosis
+2472,2569,Amaurotic Idiocylate Infantile Type
+2473,2570,Myoclonic Epilepsy Juvenile
+2474,2571,Paraneoplastic Thrombocytopenic Purpura
+2475,2572,Costovertebral Dysostosis
+2476,2573,Internuclear Ophthalmoplegia
+2477,2574,Jejunitis Chronic Ulcerative
+2478,2575,Opticoacoustic Nerve Atrophy Dementia
+2479,2576,Early Familial Cerebellar Degeneration
+2480,2577,Lymphocytic Benign Skin Infiltration
+2481,2578,Infantile Thoracic Dystrophy
+2482,2579,Jeune Tommasi
+2483,2580,Granulomatous Disease Variant
+2484,2581,Johanson Blizzard
+2485,2582,Johnson Neuroectodermal
+2486,2583,Nicotinic Acid Deficiency Encephalopathy
+2487,2584,Fibrous Jaw Dysplasia
+2488,2585,Familial Cerebellar Vermis Agenesis
+2489,2586,Vesicovaginal Postcesarean Fistula
+2490,2587,Orocraniodigital
+2491,2588,Juberg Marsidi
+2492,2589,Juhlin Michalsson
+2493,2590,Jumper Knee
+2494,2591,Jung
+2495,2592,Macula Senile Disciform Degeneration
+2496,2593,Macula Senile Disciform Degeneration
+2497,2594,Juvenile Xanthogranuloma
+2498,2595,Kabuki Make Up
+2499,2596,Flecked Retina
+2500,2597,Atrophoderma Pigmentosum
+2501,2598,Eczema Herpeticum
+2502,2599,Lupus Panniculitis
+2503,2600,Karsch Neugenbauer
+2504,2601,Karyomegalic Interstitial Nephritis
+2505,2602,Osteochondrorthrosis Deformans Endemica
+2506,2603,Kaufman
+2507,2604,Kaufman Mckusick
+2508,2605,Herman
+2509,2606,Angina Pectoris Normal Arteries
+2510,2607,Keratitis Fugax Hereditaria
+2511,2608,Keratoderma Palmo Plantar Clinodactyly
+2512,2609,Keratoderma Palmo Plantar Deafness
+2513,2610,Keratoderma Palmo Plantar And Gingival
+2514,2611,Keratosis Pilaris Decalvans
+2515,2612,Nuclear Jaundice
+2516,2613,Penta X
+2517,2614,Keutel
+2518,2615,Kid
+2519,2616,Kidney Arteriovenous Fistula
+2520,2617,Kifafa Seizures
+2521,2618,Necrotizing Subacute Cervical Lymphoadenitis
+2522,2619,King Denborough
+2523,2620,Kingston
+2524,2621,Dancing Eye
+2525,2622,Periodic Thyrotoxic Paralysis
+2526,2623,Kjer Optic Atrophy
+2527,2624,Bulimia Hypersomnia
+2528,2625,Klinefelter
+2529,2626,Brevicollis
+2530,2627,Klippel Trenaunay Weber
+2531,2628,Temporal Lobectomy Behavior
+2532,2629,Knee Joint Internal Derangement
+2533,2630,Kniest
+2534,2631,Lipoatrophic Diabetes
+2535,2632,Kocher Debre Semelaigne
+2536,2633,Acantholysis Bullosa
+2537,2634,Arthrolithiasis Knee
+2538,2635,Ileocecal Valve
+2539,2636,Diaphragmatic Obstetric Paralysis
+2540,2638,Cutaneo Intestinal
+2541,2639,Kohlschutter
+2542,2640,Kok
+2543,2641,Konigsmark
+2544,2642,Korean Hemorrhagic Fever
+2545,2643,Epilepsia Partialis Continua
+2546,2644,Spondylometaphyseal Dysplasia
+2547,2645,Krabbe I Infantile
+2548,2646,Suppurative Scleritis
+2549,2647,Encephalo Ophthalmic Dysplasia
+2550,2648,Short Limb Dwarfism
+2551,2649,Opticomalacia Atherosclerotica
+2552,2650,Traumatic Fronto Basal
+2553,2651,Cerebrocardiac
+2554,2652,Ovary Carcinoma Mucocellulare
+2555,2653,Kuess
+2556,2654,Ceroid Lipofuscinosis
+2557,2655,Chlorpromazine Toxicity
+2558,2656,Osteoporotic Vertebra Collapse
+2559,2657,Arthrogryposis Variant
+2560,2658,Benign Chronic Neutropenia
+2561,2659,Hyperkeratosis Follicularis Penetrans
+2562,2660,Acrodefects Gingival Fibromatosis
+2563,2661,Vertigo Paroxysmal
+2564,2662,Lactate Dehydrogenase Deficiency
+2565,2663,Lacunar
+2566,2664,Duodenal Stenosis
+2567,2665,Bile Duct Atresia
+2568,2666,Alcoholic Cirrhosis
+2569,2667,Myoclonus Epilepsy
+2570,2668,Persecution Victim
+2571,2669,Lambert
+2572,2670,Lambotte
+2573,2671,Intention Myoclonus
+2574,2672,Palmoplantar Erythema
+2575,2673,Mesomelic Dwarfism Langer
+2576,2674,Acrodysplasia V
+2577,2675,Achondrogenesis Type Ii
+2578,2676,Myogelosis
+2579,2677,Lanzieri Craniofacial Malformation
+2580,2678,Growth Hormone Insensitivity
+2581,2679,Laryngeal Neuralgia Superior
+2582,2680,Persecution Mania
+2583,2681,Amblyopic Hysteric Paralysis
+2584,2682,Folie A Deux
+2585,2683,Lateral Sinus Thrombosis
+2586,2684,Lathyrism
+2587,2685,Laubry Pezzi
+2588,2686,Acromegaloid Gigantism
+2589,2687,Fibrochondrogenesis
+2590,2688,Lazy Leukocyte
+2591,2689,Leaking Duodenal Stump
+2592,2690,Leber Ii
+2593,2691,Leber Miliary Aneurysms
+2594,2692,Plantar Fibromatosis
+2595,2693,Erythroderma Desquamativum
+2596,2694,Lenegre
+2597,2695,Lymphoma Lennert
+2598,2696,Lennox Gastaut
+2599,2697,Myoclonia Nystagmus
+2600,2698,Hyperostotic Dwarfism
+2601,2699,Lenz
+2602,2700,Hyperoxaluria Adult
+2603,2701,Hyperoxaluria Infantile
+2604,2702,Leptomeningeal Adhesive Thickening
+2605,2703,Leriche
+2606,2704,Leri Pleonosteosis
+2607,2705,Leri Weill Dyschondrosteosis
+2608,2706,Allergic Vestibulitis
+2609,2707,Mucolipidosis Ii
+2610,2708,Dystrophia Pigmentosa
+2611,2709,Lesch Nyhan
+2612,2710,Leukocyte Adhesion Deficiency
+2613,2711,Choreo Acanthocytosis
+2614,2712,Levy Hollister
+2615,2713,Lewandowsky Ii
+2616,2714,Epidermodysplasia Verruciformis
+2617,2715,Ocular Albinism
+2618,2716,Leyden Ii
+2619,2717,Femoral Dystrophy
+2620,2718,Lhermitte Cornil Quesnel
+2621,2719,Libman Sacks Endocarditis
+2622,2720,Deafness Ataxia
+2623,2721,Light Eruption Polymorphous
+2624,2722,Lingua Nigra
+2625,2723,Lipomatosis Multiple
+2626,2724,Ulcus Vulve Acutum
+2627,2725,Paralysis Of Dementia Paralytica
+2628,2726,Tonsillar Herniation
+2629,2727,Infantile Cerebral Diplegia
+2630,2728,Liver Peliosis
+2631,2729,Lobar Emphysema Congenital
+2632,2730,Locked In Syndrome
+2633,2731,Locked Lung
+2634,2732,Pulmonary Eosinophilia Chronic
+2635,2733,Myosclerosis Of Loewenthal
+2636,2734,Loin Pain Hematuria
+2637,2735,Pyruvate Dehydrogenase Complex Deficiency
+2638,2736,Long Chain 3 Hydroxyacyl Coa Dehydrogenase Deficiency
+2639,2737,Longer Leg
+2640,2738,Long Thumb Brachydactyly
+2641,2739,Mucosynechial Dermatitis
+2642,2740,Ataxia Telangiectasia Syndrome I
+2643,2741,Organic Aciduria
+2644,2742,Leukodystrophy Adult Onset
+2645,2743,Lower Leg Stasis
+2646,2744,Lown Ganong Levine
+2647,2745,Lowry
+2648,2746,Lowry Wood
+2649,2747,Essential Hyponatremia
+2650,2748,Male Pseudohermaphroditism
+2651,2749,Parapharyngeal Abscess
+2652,2750,Total Frontal Atrophy
+2653,2751,Fever Dehydration
+2654,2752,Pure Dehydration
+2655,2753,Lundberg I
+2656,2754,Lundberg Ii
+2657,2755,Lutembacher
+2658,2756,Elastosis Perforans Serpiginosa
+2659,2757,Lutz Richner
+2660,2758,Lyle
+2661,2759,Lymphadenosis Benigna Orbitae
+2662,2760,Lymphocytic Colitis
+2663,2761,Lymphohistiocytosis Familial
+2664,2762,Cancer Family
+2665,2763,Lysosomal Glycogen Storage Disease Without Glucosidase Deficiency
+2666,2764,Macroamylasemia
+2667,2765,Carpus Curvus
+2668,2766,Madida
+2669,2767,Chondrodystrophy Hemangiomas
+2670,2768,Short Rib Polydactyly
+2671,2769,Male Climacteric
+2672,2770,Pilomatrixoma
+2673,2771,Malignant Hyperthermia
+2674,2772,Acroangiodermatitis
+2675,2773,Man In The Barrel
+2676,2774,Manubriosternal
+2677,2775,Maple Syrup
+2678,2776,Marble Brain
+2679,2777,Cyanosis In Schistosomiasis
+2680,2778,Corpus Callosum Degeneration
+2681,2779,Jaw Winking
+2682,2780,Marden Walker
+2683,2781,Marie Bamberg
+2684,2782,Arnold Head
+2685,2783,Vitamin A Intoxication
+2686,2784,Hereditary Hypotrichosis
+2687,2785,Marjolin Ulcer
+2688,2786,Ophthalmodynia Hypertonica Copulationis
+2689,2787,Dystonia Visual Failure
+2690,2788,Ectodermal Dysplasia Atypical
+2691,2789,Marshall Smith
+2692,2790,Martsolf
+2693,2791,Masseteric Hypertrophy Congenital Form
+2694,2792,Benign Masseteric Hypertrophy
+2695,2793,Massive Aspiration Fetale
+2696,2794,Glomus Tumor Multiple
+2697,2795,Maternally Inherited Sensorineural Deafness
+2698,2796,Puerperal Mastitis
+2699,2797,Articulo Oculo Cerebro Skeletal Dysplasia
+2700,2798,Mediastinal Silicosis
+2701,2799,Corneal Dystrophy Congenital Deafness
+2702,2800,Syphilitic Erythema Nodosum
+2703,2801,Mauriac P
+2704,2802,Uterovaginal Hypoplasia
+2705,2803,Urticarial Vasculitis
+2706,2804,Osteitis Fibrosa Disseminata
+2707,2805,Brachydactyly Type B
+2708,2806,Achondroplasia Swiss Type
+2709,2807,Proctalgia Fugax
+2710,2808,Meadows
+2711,2809,Meconium Aspiration
+2712,2810,Dysencephalia Splanchnocystic
+2713,2811,Meconium Plug
+2714,2812,Juvenile Epithelial Dystrophy
+2715,2813,Megasigmoid
+2716,2814,Meige
+2717,2815,Keratosis Palmoplantaris
+2718,2816,Melkersson Rosenthal
+2719,2817,Mende
+2720,2818,Mendelson
+2721,2819,Keratitis Rubra Figurata
+2722,2820,Menkes Ii
+2723,2821,Menopausal
+2724,2822,Menstrual Period Unexplained Delay
+2725,2823,Rolandic Vein Occlusion
+2726,2824,Mesenteric Artery Superior
+2727,2825,Mesial Temporal Lobe Epilepsy
+2728,2826,Metachromatic Leukodystrophy Congenital
+2729,2827,Metachromatic Leukodystrophy Late Infantile
+2730,2828,Metachromatic Leukodystrophy Adult Form
+2731,2829,Metachromatic Leukodystrophy Mld With Multiple Sulfatase Deficiency
+2732,2830,Metatropic Dysplasia
+2733,2831,Methylmalonic Acidemia
+2734,2832,Paroxysmal Idiopathic Myoglobinuria
+2735,2833,Michelin Tire Baby
+2736,2834,Oculopalatoskeletal
+2737,2835,Micromyomas Uteri
+2738,2836,Micturition Syncope
+2739,2837,Midline Granuloma
+2740,2838,Acanthosis Nigricans Diabetes
+2741,2839,Mietens Weber
+2742,2840,Migraine
+2743,2841,Ninth Day Erythema
+2744,2842,Atrophia Alba
+2745,2843,Miliary Hemangiomas Congenital
+2746,2844,Milkman Loser
+2747,2845,Millard Gubler
+2748,2846,Lissencephaly I
+2749,2847,Postaxial Acrofacial Dysostosis
+2750,2848,Basilar Artery Insufficiency
+2751,2849,Alkyl Mercury Poisoning
+2752,2850,Mixed Sclerosing Bone Dysplasia
+2753,2851,Myoneuro Gastrointestinal Encephalopathy
+2754,2852,Hemiplegic Familial Migraine
+2755,2853,Akinesia Algera
+2756,2854,Central Hematomyelia
+2757,2855,Retinopathy Mental Retardation
+2758,2856,Mirror Pseudotoxemia
+2759,2857,Mitochondrial Myopathy Benign Infantile
+2760,2858,Mitochondrial Myopathy Cardiomiopathy Benign Infantile
+2761,2859,Mitochondrial Myopathy Lethal Infantile
+2762,2860,Mitral Valve Atresia
+2763,2861,Hunter Glossitis
+2764,2862,Moenckeberg
+2765,2863,Progressive Spasm
+2766,2864,Orofacial Digital Ii
+2767,2865,Meningitis Benign Recurrent
+2768,2866,Molybdenum Cofactor Deficiency
+2769,2867,Monday Fever
+2770,2868,Inner Ear Anomaly
+2771,2869,Superficial Breast Phlebitis
+2772,2870,Mondor Phlebitis Penis
+2773,2871,Mountain Sickness Erythremic Type
+2774,2872,Mongolian Blue Spots
+2775,2873,Montreal Platelets
+2776,2874,Dwarfism Stiff Joints Ocular Abnormalities
+2777,2875,Moore Lightning Streaks
+2778,2876,Abdominal Epilepsy
+2779,2877,Ulcus Rodens Corneal
+2780,2878,Hyperostosis Frontalis Interna
+2781,2879,Morning Glory
+2782,2880,Androgen Insensitivity
+2783,2881,Short First Metatarsal
+2784,2882,Metatarsalgia
+2785,2883,Analgesic Paralysis
+2786,2884,Moulded Baby
+2787,2885,Sinusitis Bronchiectasis
+2788,2886,Paroxysmal Dystonic Choreoathetosis
+2789,2887,Moya Moya
+2790,2888,Moynahan I
+2791,2889,Moynahan Ii
+2792,2890,Parapsoriasis Guttata
+2793,2891,Muckle Wells
+2794,2892,Myopathy Cushing
+2795,2893,Multicentric Reticulohistiocytosis
+2796,2894,Multicore Minicore Myopathy
+2797,2895,Multifidus Triangle
+2798,2896,Classic Men Ii A
+2799,2897,Men Ii A
+2800,2898,Men Ii B
+2801,2899,Multiple Organ Failure
+2802,2901,Murchison Pel Ebstein Fever
+2803,2902,Presenile Ataxia Cerebellaris
+2804,2903,Muscle Phosphoglycerate Mutase Deficiency
+2805,2904,Muscle Phosphoglycerate Kinase Deficiency
+2806,2905,Muscular Dystrophy Late Onset Distal Nonaka Type
+2807,2906,Muscular Dystrophy Proximal Autosomal Dominant Late Onset Type
+2808,2907,Musculoaponeurotic Fibromatosis
+2809,2908,Myasthenia Congenital Epsilon Subunit Mutation
+2810,2909,Myasthenia Grvis Transient Neonatal
+2811,2910,Myasthenia Familial Limb Girdle
+2812,2911,Myelocerebellar
+2813,2912,Myelofibrosis
+2814,2913,Myhre
+2815,2914,Myopathy Congenital Fiber Type Disproportion
+2816,2915,Myopathy X Linked Excessive Autophagy
+2817,2916,Myositis Localized
+2818,2917,Myotonic Fluctuans
+2819,2918,Myotonic Generalized
+2820,2919,Myotubular Myopathy
+2821,2920,Myotubular Myopathy X Linked
+2822,2921,Myxedema Coma
+2823,2922,Myxedema Juvenile
+2824,2923,Myxedema Madness
+2825,2924,Myxedematous Cerebellar
+2826,2925,Naegeli
+2827,2926,Acrofacial Dysostosis
+2828,2927,Najjar
+2829,2928,Angioblastoma
+2830,2929,Amyloid Corneal Deposits
+2831,2930,Naked Stent
+2832,2931,Nance Horan Man
+2833,2932,Nance Horan Woman
+2834,2933,Nance Sweeney
+2835,2934,Narcolepsy Diabetogenic Hyperinsulinism
+2836,2935,Keratosis Lichenoides Chronica
+2837,2936,Acro Osteolysis
+2838,2937,Nelson
+2839,2938,Nemaline Myopathies Early Onset
+2840,2939,Nemaline Myopathies Late Onset Type
+2841,2940,Neocerebellar
+2842,2941,Neonatal Hepatitis
+2843,2942,Neonatal Lupus Erythematosus
+2844,2943,Neoplastic Porphyria Cutanea Tarda
+2845,2944,Nephritis Radiation
+2846,2945,Nephrophthisis Familial Juvenile
+2847,2946,Ichthyosiform Erythroderma Variant
+2848,2947,Urticaria Perstans Hemorrhagica
+2849,2948,Sex Linked Nystagmus
+2850,2949,Megalocornea Mental Retardation
+2851,2950,Gastroesophageal Reflux Infant
+2852,2951,Neu Laxova
+2853,2952,Pemphigus Vegetans
+2854,2953,Neuritis Multiplex Cutanea
+2855,2954,Neuritis Patellar Plexus
+2856,2955,Neuroblastoma
+2857,2956,Neurogenic Bladder
+2858,2957,Neuropathy Hereditary Sensory Radicular
+2859,2958,Neuropathy Serum
+2860,2959,Neutropenia Immunoglobulin Abnormalities Familial Form
+2861,2960,Neutropenia Immunoglobulin Abnormalities Non Familial Form
+2862,2961,Neutropenia Newborn
+2863,2962,Nevus Flammeus
+2864,2963,Lymphopenia
+2865,2964,Embolia Cutis Medicamentosa
+2866,2965,Cataract Telangiectasia
+2867,2966,Nielsen Jakobs
+2868,2967,Exhaustive Psychosis
+2869,2968,Niemann Pick Type Ia Acute Form
+2870,2969,Niemann Pick Type Is Chronic Non Neuronopathic
+2871,2970,Niemann Pick Type Ic
+2872,2971,Niemann Pick Type Iia
+2873,2972,Niemann Pick Type Iic
+2874,2973,Niemann Pick Type Iid
+2875,2974,Endochondral Dysostosis
+2876,2975,Night Eating
+2877,2976,Nocturnal Frequency In Women
+2878,2977,Gangrenous Stomatitis
+2879,2978,Nonketotic Hyperglycinemia
+2880,2979,Borries Syndrome
+2881,2980,Benign Hydrocephalus Syndrome
+2882,2981,Congenital Elephantiasis
+2883,2982,Elephantiasis Tarda
+2884,2983,Noonan
+2885,2984,Noonan Like Cherubism;Polyarticular Pigmented Villonodular Synovitis
+2886,2985,Lcat Deficiency
+2887,2986,Hereditary Male Pseudohermaphroditism
+2888,2987,Numb Chin
+2889,2988,Nutcracker
+2890,2989,Nutritional Recovery
+2891,2990,Nyssen Van Bogaert
+2892,2991,Nystagmus Compensation
+2893,2992,Observation Hip
+2894,2993,Occipital Horn
+2895,2994,Occupational Nosebleeds
+2896,2995,Urofacial
+2897,2996,Oculo Cerebello Tegmental
+2898,2997,Oculo Dento Digital Dysplasia
+2899,2998,Oculomelic Amyoplasia
+2900,2999,Mannosidosis
+2901,3000,Papulo Erythroderma Ofuji
+2902,3001,Night Blindness Stationary
+2903,3002,Ohaha
+2904,3003,Okihiro
+2905,3004,Oliver Mcfarlane
+2906,3005,Olivopontocerebellar Atrophy X Linked
+2907,3006,Reticuloendotheliosis
+2908,3007,Omohyoid
+2909,3008,Ophthalmia Sympathetic
+2910,3009,Opsismodysplasia
+2911,3010,Orbital Apex
+2912,3011,Orbital Myositis
+2913,3012,Organic Hyperinsulinism
+2914,3013,Multiple Epiphyseal Dysplasia Tarda
+2915,3014,Retroperitoneal Idiopathic Fibrosis
+2916,3015,Orofacial Digital Iii
+2917,3016,Orotic Aciduria I
+2918,3017,Orthostatic Syncope
+2919,3018,Ortner
+2920,3019,Brachydactyly Type A 6
+2921,3020,Tibial Tubercle Osteochondrosis
+2922,3021,Ball Valve Gallstone
+2923,3022,Osteoarthritis Hypertrophic Generalized
+2924,3023,Osteogenesis Imperfecta Microcephaly Cataracts
+2925,3024,Osteoglophonic Dwarfism
+2926,3025,Osteomesopyknosis
+2927,3026,Osteopathia Striata Cranial Stenosis
+2928,3027,Amyloidosis Familial Visceral
+2929,3028,Othello
+2930,3029,Acetabular Protrusion
+2931,3030,Cadmium Intoxication
+2932,3031,Ovarian Failure Premature
+2933,3032,Ovarian Hyperstimulation
+2934,3033,Ovarian Hyperthecosis
+2935,3034,Sharp
+2936,3035,Oversuppression
+2937,3036,Factor V Deficiency
+2938,3037,5 Oxoprolinase Deficiency
+2939,3038,5 Oxoprolinuria
+2940,3039,Pacemaker
+2941,3040,Pachydermoperiostosis Secondary
+2942,3041,Tracheolaryngeal Trauma
+2943,3043,Paget Juvenile
+2944,3044,Effort Thrombosis
+2945,3045,Ataxia Anemia Sideroblastic
+2946,3046,Paine
+2947,3047,Ataxia Telangiectasia Ii
+2948,3048,Painful Heel
+2949,3049,Palant
+2950,3050,Palatal Myoclonus
+2951,3051,Pallister Hall
+2952,3052,Pallister Killian
+2953,3053,Palsy Sixth Nerve Benign
+2954,3054,Superior Pulmonary Sulcus
+2955,3055,Pancreatic Pseudocysts
+2956,3056,Pancreatometaphyseal
+2957,3057,Panic Attack
+2958,3058,Papillary Muscle Dysfunction
+2959,3059,Periodontitis Keratosis Palmoplantaris
+2960,3060,Orofacial Digital Dysostosis I
+2961,3061,Paraspasm Bilateral
+2962,3062,Parastremmatic Dysplasia
+2963,3063,Achondrogenesis I
+2964,3064,Adrenal Medullary Neuroblastoma
+2965,3065,Parrot Pseudoparalysis
+2966,3066,Hemifacial Atrophy
+2967,3067,Partington
+2968,3068,Atrophoderma Progressivum
+2969,3069,Passwell
+2970,3070,Patella Aplasia
+2971,3071,Patello Femoral Excessive Lateral Pressure
+2972,3072,Pseudoleprechaunism
+2973,3073,Dermatopathic Lymphadenopathy
+2974,3074,Pavor Nocturnus
+2975,3075,Splenic Flexure
+2976,3076,Marrow Pancreas
+2977,3077,Aplasia Axialis Extracorticalis Congenita
+2978,3078,Macrogenitosomia
+2979,3079,Arthrogryposis Multiplex Congenita
+2980,3080,Cerebro Oculo Facio Skeletal
+2981,3081,Ernster Luft
+2982,3082,May White
+2983,3083,Cori Type  V Glycogenosis
+2984,3084,Ebola Hemarrhagic Fever
+2985,3085,Avian Influenza
+2986,3086,Covid 19 Infection
+2987,3087,Obstructive Sleep Apnea
+2988,3088,Covid 19 Omicron

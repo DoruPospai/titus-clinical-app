@@ -1,0 +1,26 @@
+# requirements.txt — TITUS, prima versiune Streamlit Cloud
+# Decizie: FĂRĂ model semantic (e5-large, faiss, sentence-transformers)
+# Motiv: risc RAM pe free tier + beneficiu încă neclar (vezi TITUS_CONTEXT.md §10)
+# Aplicația funcționează cu Stratul 1 (exact match lexicon) — SemanticMatcher
+# are deja fallback graceful (available=False) dacă aceste pachete lipsesc.
+#
+# Versiuni fixate la cele confirmate funcționale local (pip freeze, 20 iunie 2026).
+
+streamlit==1.54.0
+pandas==2.3.3
+openpyxl==3.1.5
+xlsxwriter==3.2.9
+numpy==2.4.2
+
+# Google Drive sync (Service Account)
+google-api-python-client==2.190.0
+google-auth==2.49.0
+google-auth-httplib2==0.3.0
+
+# Excel reading edge cases (used by pandas internally for some formats)
+et_xmlfile==2.0.0
+
+# Opțional — NOSO_free_expr.py::match_expression() are fallback graceful
+# (try/except ImportError) dacă lipsește. Activează doar dacă vrei fuzzy
+# matching pe expresii libere din modul "Expresie liberă".
+# rapidfuzz==3.14.3

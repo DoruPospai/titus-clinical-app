@@ -1,0 +1,37 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Endocrinologie - Urgență
+Diagnostic prezumtiv: Insuficiență suprarenală acută (criză addisoniană)
+Data: 2026-05-21
+Medic: Dr. Ionescu Camelia
+
+MEDIC: Doamnă, ce s-a întâmplat? Sunați slab.
+PACIENT: Mă simt îngrozitor. Vărsături, durere de burtă atroce și nu pot sta în picioare.
+
+MEDIC: Aveți boală Addison sau luați corticoizi?
+PACIENT: Da, am insuficiență suprarenală, iau Hidrocortizon zilnic.
+
+MEDIC: Ați luat medicația azi?
+PACIENT: Am vomitat de 4 ori de dimineață. Nu am putut lua pastilele.
+
+MEDIC: Ce s-a întâmplat ieri? Stres, infecție, traumatism?
+PACIENT: Am avut gastroenterită de ieri, 38.5 febră, diaree.
+
+MEDIC: Tensiunea? Aveți senzație că leșinați?
+PACIENT: Da, am leșinat o dată. Tensiunea acasă era 80/50.
+
+MEDIC: Aveți dureri musculare sau crampe?
+PACIENT: Crampe la picioare și durere lombară intensă.
+
+MEDIC: Când a început deteriorarea accentuată?
+PACIENT: De 2-3 ore s-a agravat rapid.
+
+MEDIC: Câți ani aveți?
+PACIENT: 41 de ani.
+
+MEDIC (spre asistentă): TA acum?
+ASISTENTĂ: 75/45, puls 120, confuzie ușoară.
+
+DIAGNOSTIC PREZUMTIV: Criză addisoniană (insuficiență suprarenală acută) precipitată de gastroenterită și imposibilitatea administrării cortizonului oral. Urgență metabolică - hidrocortizon IV 100mg bolus imediat, glucoză, monitorizare ionogramă.
+
+CUVINTE CHEIE: criză addisoniană, hipotensiune severă, vărsături, imposibilitatea medicației orale, gastroenterită precipitantă, hidrocortizon IV urgent, hipoglicemie posibilă, hiperpigmentare

@@ -1,0 +1,30 @@
+SPECIALITATE: Gastroenterologie
+COD_DIAGNOSTIC: K51.0
+DATA: 14.03.2024
+MEDIC: Dr. Elena Vasilescu
+---
+MEDIC: Ce probleme aveți cu scaunul?
+PACIENT: Dau sânge când merg la baie și diaree de vreo 3 săptămâni.
+MEDIC: Cât de des mergeți la toaletă?
+PACIENT: De 8-10 ori pe zi, cu mucus și sânge.
+MEDIC: Aveți dureri de burtă?
+PACIENT: Da, mă doare în partea stângă jos, mai ales după ce mănânc.
+MEDIC: Ați slăbit?
+PACIENT: Da, vreo 4 kg.
+MEDIC: Aveți febră sau oboseală?
+PACIENT: Mă simt obosit și uneori am temperatură mică.
+MEDIC: Ați mai avut episoade similare?
+PACIENT: Da, acum un an, dar a trecut cu pastile.
+MEDIC: Ce medicamente luați?
+PACIENT: Am luat ibuprofen de la dureri de cap.
+MEDIC: Fumați sau beți?
+PACIENT: Nu fumez, beau rar.
+MEDIC: Aveți dureri la încheieturi?
+PACIENT: Da, mă dor genunchii și încheieturile.
+MEDIC: Ați observat pete pe piele?
+PACIENT: Nu, doar oboseală mare.
+MEDIC: Cum e pofta de mâncare?
+PACIENT: Scăzută, mănânc puțin.
+---
+DIAGNOSTIC PREZUMTIV: Colită ulceroasă în puseu — diaree sanguinolentă frecventă, dureri abdominale și pierdere ponderală. Diferențial 1: Boală Crohn colonică — localizare posibilă, dar fără afectare discontinuă clară. Diferențial 2: Colită infecțioasă — absența febrei înalte și istoricul recurent pledează contra.
+CUVINTE CHEIE: colită ulceroasă, diaree sanguinolentă, puseu, tenesme, anemie, artralgii, mesalazină

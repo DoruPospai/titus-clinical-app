@@ -1,0 +1,28 @@
+SPECIALITATE: Ginecologie-Oncologie
+COD_DIAGNOSTIC: C56
+DATA: 05.03.2024
+MEDIC: Dr. Mihai Constantin
+---
+MEDIC: Bună ziua, ce simptome vă aduc astăzi?
+PACIENT: Am burtă umflată de câteva luni, mă simt balonată tot timpul și nu îmi vine să mănânc.
+MEDIC: De cât timp?
+PACIENT: De vreo 4-5 luni m-am umflat la burtă. Am slăbit 8 kilograme fără să țin regim.
+MEDIC: Aveți dureri pelvine?
+PACIENT: Da, durere surdă, plictisitoare, jos în burtă.
+MEDIC: Aveți menstruații normale?
+PACIENT: Am menopauza de 5 ani. Dar am avut 2 episoade mici de sângerare vaginală.
+MEDIC: Câți ani aveți?
+PACIENT: 62 de ani.
+MEDIC: Există cancer în familie — ovarian, mamar, colorectal?
+PACIENT: Mama a murit de cancer ovarian la 58 ani. Sora are cancer la sân.
+MEDIC: Ați făcut ecografie sau analize recent?
+PACIENT: Am CA 125 crescut, a ieșit 890. Medicul de familie m-a trimis urgent.
+MEDIC: Aveți simptome urinare — urinare frecventă?
+PACIENT: Da, merg la toaletă des. Și am constipație de luni.
+MEDIC: Aveți dificultăți la respirație sau tuse?
+PACIENT: Uneori respir greu când stau culcată.
+MEDIC: Observați ceva la membrele inferioare — umflături?
+PACIENT: Picioarele sunt umflate de câteva săptămâni.
+---
+DIAGNOSTIC PREZUMTIV: Carcinom ovarian avansat probabil — femeie 62 ani postmenopauza, distensie abdominală cu ascită, CA 125 900, simptome compresive, sângerare postmenopauza, pierdere ponderală, istoric familial puternic (BRCA probable). Diferențial 1: Carcinom peritoneal primar — similare clinic, diferențiere histologică. Diferențial 2: Carcinom de tub uterin — prezentare similară, implică același management.
+CUVINTE CHEIE: carcinom ovarian, CA 125, ascită, simptome compresive, postmenopauza, BRCA, sângerare postmenopauza

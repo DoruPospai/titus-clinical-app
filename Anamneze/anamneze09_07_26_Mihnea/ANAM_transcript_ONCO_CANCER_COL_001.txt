@@ -1,0 +1,30 @@
+SPECIALITATE: Ginecologie / Oncologie
+COD_DIAGNOSTIC: C53.9
+DATA: 20.05.2024
+MEDIC: Dr. Mirela Apostol
+---
+MEDIC: Bună ziua, ce vă aduce astăzi?
+PACIENT: Am sângerare după actul sexual, de vreo 3 luni. La început credeam că e normal, dar continuă.
+MEDIC: Câți ani aveți și mai aveți menstruație?
+PACIENT: 38 de ani, menstruația e regulată, nu am menopauza.
+MEDIC: Sângerarea apare exclusiv după contact sexual sau și altfel?
+PACIENT: Și altfel, între menstruații. Uneori și o scurgere cu miros urât.
+MEDIC: Aveți dureri pelvine?
+PACIENT: Da, dureri în partea de jos a burții, și la spate. Uneori mai intense.
+MEDIC: Ați mai mers la ginecolog? Când ați făcut ultima oară test Babeș-Papanicolau?
+PACIENT: Ultima oară acum 8 ani. Nu am mai mers.
+MEDIC: Câți parteneri sexuali ați avut de-a lungul vieții?
+PACIENT: Mai mulți, da. Am început devreme relațiile sexuale.
+MEDIC: Ați avut infecție cu HPV sau condilome?
+PACIENT: Acum 12 ani mi s-a spus că am ceva la col la un control, dar mi s-a zis că nu e grav și am uitat.
+MEDIC: Aveți probleme la urinat sau la scaun?
+PACIENT: Urin mai des și simt presiune la vezică. Uneori urinez și sânge.
+MEDIC: Aveți picioarele umflate?
+PACIENT: Piciorul stâng mi s-a umflat recent, fără motiv aparent.
+MEDIC: Ați slăbit?
+PACIENT: Da, vreo 5 kg în ultimele 2 luni.
+MEDIC: Fumați?
+PACIENT: Da, de 15 ani.
+---
+DIAGNOSTIC PREZUMTIV: Carcinom de col uterin avansat (stadiu IIB probabil) — femeie cu sângerare postcoitală, menoragii, scurgere urât mirositoare, dureri pelvine, hematurie și limfedem unilateral, cu factori de risc multipli (HPV, fumat, control tardiv). Diferențial 1: Cervicită cu HPV neoplazic CIN III — fără invazie încă, dar tabloul clinic avansat pledează pentru carcinom. Diferențial 2: Carcinom endometrial cu invazie cervicală — posibil, colposcopie și biopsie diferențiază.
+CUVINTE CHEIE: cancer col uterin, sângerare postcoitală, HPV, hematurie, limfedem, scurgere vaginală, biopsie cervicală

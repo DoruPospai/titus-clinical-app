@@ -1,0 +1,37 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Medicină sportivă / Nefrologie
+Diagnostic prezumtiv: Rabdomioliză post-efort
+Data: 2026-05-16
+Medic: Dr. Stan Mihai
+
+MEDIC: Ce simptome aveți?
+PACIENT: Mușchii picioarelor mă dor îngrozitor de 3 zile și nu mai pot merge normal.
+
+MEDIC: Ce efort ați făcut în ultimele zile?
+PACIENT: Am alergat primul meu maraton duminică. M-am pregătit 4 luni dar a fost extrem de intens.
+
+MEDIC: Cum arată urina? Ce culoare?
+PACIENT: Maro închis, ca ceaiul tare. Mă speriat, de aia am venit.
+
+MEDIC: Câtă apă ați băut în timpul și după maraton?
+PACIENT: Puțin. Am uitat să mă hidratez cum trebuie.
+
+MEDIC: Aveți slăbiciune musculară - nu puteți ridica picioarele?
+PACIENT: Abia urc scările. Îmi tremură picioarele.
+
+MEDIC: Aveți dureri la rinichi sau urini rare?
+PACIENT: Urinez mult mai puțin decât normal.
+
+MEDIC: Ați luat ibuprofen sau alte AINS pentru dureri musculare?
+PACIENT: Da, 3 comprimate de 400mg ieri pentru dureri.
+
+MEDIC: Aveți greată sau amețeli?
+PACIENT: Greață ușoară, fără febră.
+
+MEDIC: Câți ani aveți?
+PACIENT: 33 de ani.
+
+DIAGNOSTIC PREZUMTIV: Rabdomioliză post-efort sever (mioglobinurie - urini maro, mialgii intense, oligurie, deshidratare, AINS nefrotoxici în context de injurie renală acută potențială). CK probabil > 10.000. Hidratare IV urgentă, monitorizare renală.
+
+CUVINTE CHEIE: rabdomioliză, mioglobinurie, urini maro, mialgii severe, efort extrem, deshidratare, oligurie, AINS nefrotoxici, CK crescut

@@ -1,0 +1,31 @@
+Transcript — ANAM_transcript_ENDO_GRAVES
+MEDIC: Dr. Ionescu Mihai
+
+MEDIC: Bună ziua. Ce vă aduce la consultație?
+PACIENT: Inima îmi bate foarte repede tot timpul, chiar și în repaus. Și tremur la mâini.
+
+MEDIC: Ați slăbit recent?
+PACIENT: Da, 5 kg în două luni deși mănânc mai mult ca de obicei.
+
+MEDIC: Aveți intoleranță la căldură?
+PACIENT: Da, transpir excesiv și nu suport căldura. Toți au frig și mie mi-e cald.
+
+MEDIC: Aveți agitație sau nervozitate?
+PACIENT: Sunt foarte agitată, nervoasă cu toată lumea. Soțul zice că nu mă mai recunoaște.
+
+MEDIC: Aveți probleme cu ochii?
+PACIENT: Ochii parcă mi-au ieșit puțin în afară. Și îi simt iritați, uscați.
+
+MEDIC: Aveți dificultăți de respirație?
+PACIENT: Uneori la efort mic mă sufoc. Inima bate atât de repede încât mă sperie.
+
+MEDIC: Aveți boli autoimune în familie?
+PACIENT: O mătușă are tiroidită Hashimoto. Eu am vitiligo de 2 ani.
+
+MEDIC: Câți ani aveți?
+PACIENT: 32 de ani.
+
+MEDIC: De când au apărut simptomele?
+PACIENT: De vreo 3 luni, progresiv. La început credeam că sunt stresată.
+
+DIAGNOSTIC PREZUMTIV: Boala Graves — hipertiroidism autoimun cu tahicardie, tremor, scădere ponderală, intoleranță la căldură, transpirații, agitație, exoftalmie bilaterală. Confirmare TSH supresat, FT4 crescut, TRAb pozitivi, scintigrafie tiroidiană. CUVINTE CHEIE: hipertiroidism, tahicardie, tremor, scădere ponderală, intoleranță căldură, transpirații, exoftalmie, Graves, autoimunitate

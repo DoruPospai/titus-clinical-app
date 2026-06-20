@@ -1,0 +1,28 @@
+SPECIALITATE: Hematologie-Oncologie
+COD_DIAGNOSTIC: C90.0
+DATA: 08.04.2024
+MEDIC: Dr. Ioana Stancu
+---
+MEDIC: Bună ziua, ce simptome vă aduc astăzi?
+PACIENT: Am dureri de spate de luni de zile, slab la analize și medicul de familie nu găsea explicație.
+MEDIC: Câți ani aveți?
+PACIENT: 68 de ani.
+MEDIC: Durerea de spate e constantă sau la mișcare?
+PACIENT: Constantă. Trezesc noaptea cu durere. La mișcare e mai rea.
+MEDIC: Ați pierdut în înălțime sau aveți cocoașă?
+PACIENT: Da, soția spune că m-am micșorat și am spate rotund.
+MEDIC: Aveți oboseală excesivă?
+PACIENT: Da, mă obosesc la cel mai mic efort. Nu am energie.
+MEDIC: Ați fost anemiat la analize?
+PACIENT: Hemoglobina 8, da. Plus creatinina crescută.
+MEDIC: Aveți infecții frecvente?
+PACIENT: 3 pneumonii în ultimul an. E mult, știu.
+MEDIC: Aveți durere la coaste sau la oase?
+PACIENT: Da, coaste dor și când respir adânc.
+MEDIC: Ați căzut sau ați avut fracturi?
+PACIENT: Vertebra T8 fracturată, mi-a zis radiologul fără traumatism major.
+MEDIC: Aveți proteina Bence Jones sau imunoglobuline crescute în analize?
+PACIENT: Medicul de familie a trimis, se pare că e o proteina anormală în sânge.
+---
+DIAGNOSTIC PREZUMTIV: Mielom multiplu simptomatic — bărbat 68 ani cu triada CRAB: hipercalcemie posibilă, insuficienta renala, anemie, dureri osoase cu fractura patologică vertebrală, infecții recurente (imunodeficienta), proteina M detectată. Diferențial 1: Gamapatia monoclonala de semnificatie nedeterminata (MGUS) — fara leziuni de organ, proteina M sub 3g. Diferențial 2: Macroglobulinemia Waldenstrom — IgM monoclonal, mai ales cu sindrom de hipervâscozitate.
+CUVINTE CHEIE: mielom multiplu, proteina M, fractura patologică, anemie, insuficienta renala, bortezomib, autotransplant

@@ -1,0 +1,28 @@
+SPECIALITATE: Ortopedie
+COD_DIAGNOSTIC: M75.1
+DATA: 04.04.2024
+MEDIC: Dr. Florin Macovei
+---
+MEDIC: Bună ziua, cu ce problema la umar ați venit?
+PACIENT: Umărul drept mă doare de 3 luni, mai ales noaptea și când ridic mâna deasupra capului.
+MEDIC: Câți ani aveți? Ce activitate fizică faceți?
+PACIENT: 55 de ani. Lucrez în constructii, ridic greutăți toată ziua.
+MEDIC: Durerea apare mai ales la ce mișcări?
+PACIENT: La ridicare brată peste umăr, la pieptănat, la întoarcere cu bratul.
+MEDIC: Aveți slăbiciune la brat?
+PACIENT: Da, când încerc să ridic nu am forța. Am scăpat de câteva ori un obiect.
+MEDIC: Noaptea durerea vă trezeşte?
+PACIENT: Da, de câte 2-3 ori mă trezeste durerea când stau pe umărul ăsta.
+MEDIC: Ați avut traumatism recent?
+PACIENT: Nu traumatism major. Mișcări repetitive la serviciu.
+MEDIC: Ați facut fizioterapie sau infiltrații?
+PACIENT: 2 infiltratii cu cortizion, au ajutat temporar.
+MEDIC: Aveți ecografie sau RMN de umar?
+PACIENT: Ecografie arată ruptura partiala supraspinos.
+MEDIC: Bratul stâng cum este?
+PACIENT: Stânga e ok.
+MEDIC: Aveți diabet sau boli sistemice?
+PACIENT: Nu.
+---
+DIAGNOSTIC PREZUMTIV: Ruptura partiala tendon supraspinos cu sindrom de impingement subacromial — muncitor fizic 55 ani, durere nocturna, deficit de forță, mișcari deasupra capului dureroase, ruptura partiala ecografic confirmata, esec infiltratii. Indicatie artroscopie sau tratament conservator intensiv. Diferențial 1: Artrita acromio-claviculara — durere la capatul umărului, simptome diferite. Diferențial 2: Capsulita adeziva (umar inghetat) — limitare globala a mobilității, nu selectiva ca in ruptura tendon.
+CUVINTE CHEIE: ruptura tendon supraspinos, sindrom impingement subacromial, coafa rotatorilor, artroscopie, durere nocturna, mișcare activa deficit, infiltratie

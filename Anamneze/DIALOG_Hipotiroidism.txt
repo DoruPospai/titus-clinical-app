@@ -1,0 +1,24 @@
+DIALOG 4 — Hipotiroidism
+════════════════════════════════════════════════════════════════
+
+CASE: Fatigabilitate și constipație la femeie de vârstă medie
+DIALOG_ID: DLG_ENDO_HYPOTHYROID_001
+
+Doctor: Ce simptome vă deranjează în ultima perioadă?
+Patient: Sunt obosită tot timpul. Nu mai am energie deloc, chiar și după ce dorm.
+Doctor: De când?
+Patient: De vreo șase luni. S-a înrăutățit treptat.
+Doctor: Ați observat modificări în greutate?
+Patient: Am luat în greutate fără să mănânc mai mult. Vreo cinci kilograme în șase luni.
+Doctor: Cum este tranzitul intestinal?
+Patient: Am constipație. Merg la baie o dată la trei-patru zile și e greu.
+Doctor: Simțiți frig mai mult decât înainte?
+Patient: Îmi este mereu frig. Colegii sunt în tricou și eu stau cu jacheta pe mine.
+Doctor: Aveți părul sau unghiile mai fragile?
+Patient: Da, îmi cade părul mult. Și pielea e uscată, mai ales pe mâini.
+Doctor: Aveți probleme de memorie sau concentrare?
+Patient: Uit lucruri. Seara nu îmi amintesc ce am făcut dimineața.
+Doctor: În familie există probleme cu tiroida?
+Patient: Mama a avut tiroidă. A luat pastile toată viața.
+Doctor: Ritmul cardiac vi s-a schimbat?
+Patient: Parcă inima bate mai rar. Și mă simt greoaie în mișcări.

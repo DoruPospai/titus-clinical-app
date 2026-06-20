@@ -1,0 +1,30 @@
+SPECIALITATE: Pneumologie / Cardiologie
+COD_DIAGNOSTIC: I27.2
+DATA: 14.05.2024
+MEDIC: Dr. Camelia Voicu
+---
+MEDIC: Bună ziua, cu ce vă prezentați?
+PACIENT: Respir greu de vreo doi ani. Am făcut mai multe tromboze la picioare în trecut.
+MEDIC: Câte episoade de tromboză ați avut?
+PACIENT: Trei, în 6 ani. Am luat anticoagulant de fiecare dată și am oprit după 6 luni.
+MEDIC: Ați avut embolie pulmonară vreodată?
+PACIENT: Da, acum 4 ani am stat interntat la spital cu embolie pulmonară. Am crezut că m-am vindecat.
+MEDIC: Acum la ce distanță vă apare dispneea?
+PACIENT: La 50 de metri mă opresc. Urc o treaptă și respir greu.
+MEDIC: Aveți edeme la picioare?
+PACIENT: Da, picioarele umflate permanent. Și burta mi s-a mărit.
+MEDIC: Aveți palpitații?
+PACIENT: Inima bate repede mai tot timpul.
+MEDIC: Aveți vârsta de...?
+PACIENT: 52 de ani.
+MEDIC: Ați leșinat sau simțit că leșinați?
+PACIENT: Da, am leșinat luna trecută la cumpărături.
+MEDIC: Luați anticoagulant în prezent?
+PACIENT: Am oprit acum un an că am crezut că nu mai e nevoie.
+MEDIC: Aveți dureri la piept?
+PACIENT: Presiune la piept la efort, da.
+MEDIC: Cianoza sau buze viorii?
+PACIENT: Soția mi-a spus că am buzele cam violacee.
+---
+DIAGNOSTIC PREZUMTIV: Hipertensiune pulmonară cronică tromboembolică (CTEPH) — bărbat cu tromboze venoase profunde recurente, embolie pulmonară anterioară nerezolvată complet, cu dispnee progresivă severă, cord pulmonar cronic și sincopă. Diferențial 1: Hipertensiune pulmonară arterială idiopatică — prezentare similară, dar absența trombozelor în antecedent pledează contra. Diferențial 2: Insuficiență cardiacă dreaptă de altă cauză — posibil, dar contextul tromboembolism cronic este definitoriu.
+CUVINTE CHEIE: CTEPH, hipertensiune pulmonară cronică, tromboembolism, cord pulmonar cronic, sincopă, dispnee severă, anticoagulare

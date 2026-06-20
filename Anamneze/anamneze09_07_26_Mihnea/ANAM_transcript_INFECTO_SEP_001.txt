@@ -1,0 +1,28 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: ATI / Medicină internă - Urgență
+Diagnostic prezumtiv: Sepsis - punct de plecare urinar
+Data: 2026-05-25
+Medic: Dr. Negru Florian
+
+MEDIC: Doamna, soțul dumneavoastră a adus-o de urgență. Spuneți-mi ce s-a întâmplat.
+SOȚIE: Ieri a vomitat mult, are febră 40, ieri seară era confuz, nu știa unde e.
+
+MEDIC: Are dureri?
+SOȚIE: Îl doare spatele. Și nu a urinat de 6 ore, deși a băut lichide.
+
+MEDIC: Are boli cronice?
+SOȚIE: Are diabet, urologie - prostată mărită. Nu lua toate medicamentele.
+
+MEDIC: Tensiunea? Pulsul?
+ASISTENTĂ: TA 85/50, puls 118, SpO2 94%, temp 39.8.
+
+MEDIC: Aveți sondă urinară sau manopere urologice recente?
+SOȚIE: A fost la urolog acum o săptămână pentru cistoscopie.
+
+MEDIC: Când a început deteriorarea?
+SOȚIE: Ieri dimineață a fost bine, azi-noapte s-a schimbat rapid.
+
+DIAGNOSTIC PREZUMTIV: Sepsis urinar sever (urosepsis) cu disfuncție de organ (hipotensiune, oligurie, confuzie). Necesită resuscitare volemică imediată, hemocultură, antibiotic larg spectru urgent.
+
+CUVINTE CHEIE: febră 40, hipotensiune 85/50, tahicardie, oligurie, confuzie, cistoscopie recentă, diabet, prostatism, urosepsis, disfuncție organ

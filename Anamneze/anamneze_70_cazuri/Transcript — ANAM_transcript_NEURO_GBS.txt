@@ -1,0 +1,19 @@
+Transcript — ANAM_transcript_NEURO_GBS
+MEDIC: Dr. Florescu Adrian
+MEDIC: Bună ziua. De când aveți aceste probleme?
+PACIENT: De 5 zile. A început cu furnicături la picioare, acum nu mai pot merge normal.
+MEDIC: Cum a progresat slăbiciunea?
+PACIENT: A început la picioare, acum simt slăbiciune și la brațe. Urcă în sus.
+MEDIC: Aveți dureri musculare?
+PACIENT: Da, dureri difuze la mușchi, mai ales la coapse și gambe.
+MEDIC: Aveți dificultăți la înghițit sau respirat?
+PACIENT: Puțin greu la înghițit. Și simt că nu am tot aerul, mai ales când stau culcat.
+MEDIC: Ați avut o infecție recentă?
+PACIENT: Da, acum 2 săptămâni am avut diaree 3 zile, cu febră. A trecut singur.
+MEDIC: Când mergeți, cum simțiți picioarele?
+PACIENT: Parcă nu mai simt solul. Merg nesigur, am căzut ieri. Picioarele sunt grele ca plumbul.
+MEDIC: Aveți modificări de vedere sau față asimetrică?
+PACIENT: Nu, dar vocea parcă e mai nazală de ieri.
+MEDIC: Câți ani aveți?
+PACIENT: 38 de ani.
+DIAGNOSTIC PREZUMTIV: Sindrom Guillain-Barré — paralizie ascendentă simetrică rapid progresivă, areflexie, parestezii distale, disfagie, dispnee, infecție precedentă. Urgență neurologică — internare, monitorizare respiratorie, imunoglobuline IV. CUVINTE CHEIE: paralizie ascendentă, areflexie, parestezii, slăbiciune simetrică, diaree recentă, dispnee, disfagie, GBS

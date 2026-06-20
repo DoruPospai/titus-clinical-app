@@ -1,0 +1,30 @@
+SPECIALITATE: ORL
+COD_DIAGNOSTIC: J32.4
+DATA: 14.02.2024
+MEDIC: Dr. Dan Popescu
+---
+MEDIC: Bună ziua, cu ce mă puteți ajuta?
+PACIENT: Am nasul înfundat de luni de zile și dureri la față, mai ales dimineața.
+MEDIC: De cât timp?
+PACIENT: De vreo 2 ani. Se înrăutățește iarna.
+MEDIC: Aveți scurgeri nazale?
+PACIENT: Da, scurgeri gălbui-verzui, mai ales dimineața. Și din spate, în gât — e dezgustător.
+MEDIC: Aveți dureri de cap?
+PACIENT: Dureri sub ochi și la frunte. Mai ales când mă aplec în față.
+MEDIC: Vă miroase bine? Aveți anosmie?
+PACIENT: Nu mai simt mirosurile de 6 luni. M-am trezit că nu simt parfumul soției.
+MEDIC: Aveți polipi sau obstrucție cunoscute?
+PACIENT: Mi s-a spus că am polipi la un control acum un an.
+MEDIC: Aveți astm sau alergii?
+PACIENT: Da, astm bronșic de 10 ani și alergie la praf. Iau inhalator.
+MEDIC: Aveți vârsta de...?
+PACIENT: 43 de ani.
+MEDIC: Sforăiți sau aveți dificultăți la respirat pe nas noaptea?
+PACIENT: Sforăiesc tare și soția doarme în altă cameră. Respir pe gură noaptea.
+MEDIC: Aveți dureri la dinți sau la maxilar?
+PACIENT: Da, dureri la dinți superiori dreapta, dentistul a zis că nu sunt dinții.
+MEDIC: Aveți antibiotic acum?
+PACIENT: Am luat de câteva ori, câte o săptămână. Ajuta puțin dar nu definitiv.
+---
+DIAGNOSTIC PREZUMTIV: Rinosinuzită cronică cu polipi nazali (CRSwNP) — bărbat cu obstrucție nazală cronică, anosmie, rinoreea mucopurulentă, polipoza nazală la examinare anterioară, astm și alergie la praf (triada Widal posibilă). Diferențial 1: Rinosinuzită cronică fără polipi — posibilă, dar anosmia și polipii cunoscuți pledează pentru CRSwNP. Diferențial 2: Tumoră de sinus — obstrucție cronică unilaterală, dar tabloul bilateral și contextul alergic pledează contra.
+CUVINTE CHEIE: rinosinuzită cronică, polipi nazali, anosmie, rinoreea mucopurulentă, astm, alergie, triada Widal

@@ -1,0 +1,31 @@
+Transcript — ANAM_transcript_NEFRO_IGA
+MEDIC: Dr. Popa Silviu
+
+MEDIC: Bună ziua. Ce vă aduce la consultație?
+PACIENT: De 3 ori în ultimul an, urina mi-a devenit roșie după ce am avut o răceală sau angină. Trece singur după câteva zile.
+
+MEDIC: Cât timp după infecție apare hematuria?
+PACIENT: La 1-2 zile după ce mă îmbolnăvesc. E ciudat că apare exact când am febră.
+
+MEDIC: Aveți dureri în flanc sau lombar?
+PACIENT: Da, durere surdă în flanc stâng în timpul episoadelor.
+
+MEDIC: Aveți tensiune arterială crescută?
+PACIENT: Medicul de familie a zis că tensiunea e ușor crescută, 140/90.
+
+MEDIC: Aveți umflături la față sau picioare?
+PACIENT: Dimineața fața e puțin umflată, mai ales pleoapele.
+
+MEDIC: Aveți oboseală sau urini mai puțin?
+PACIENT: Oboseală da. Nu am observat schimbări la urină ca volum.
+
+MEDIC: Există boli renale în familie?
+PACIENT: Un unchi are insuficiență renală, dar nu știu cauza.
+
+MEDIC: Câți ani aveți?
+PACIENT: 28 de ani.
+
+MEDIC: Ați avut infecții repetate la gât sau răceli frecvente?
+PACIENT: Da, angine frecvente, de 3-4 ori pe an.
+
+DIAGNOSTIC PREZUMTIV: Nefropatie IgA (boala Berger) — hematurie macroscopică recurentă declanșată de infecții, durere în flanc, HTA ușoară, edeme periorbitare matinale, infecții respiratorii frecvente. Confirmare biopsie renală cu depozite mezangiale IgA. CUVINTE CHEIE: hematurie recurenta, post-infectioasa, nefropatie IgA, boala Berger, flanc, HTA, angine frecvente

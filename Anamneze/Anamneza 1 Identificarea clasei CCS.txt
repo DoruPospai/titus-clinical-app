@@ -1,0 +1,9 @@
+Anamneza 1: Identificarea clasei CCS II (Limitare ușoară)
+Medic: Bună ziua. Ce anume vă aduce la noi și când au început problemele?
+Pacient: Bună ziua, domnule doctor. De vreo 3 luni tot simt o apăsare în piept, ca o greutate, care uneori îmi amorțește și umărul stâng.
+Medic: Această apăsare apare când stați liniștit sau când faceți efort?
+Pacient: Nu, în repaus n-am nimic. Apare doar când mă grăbesc. De exemplu, dacă merg normal la cumpărături nu am treabă, dar dacă mă grăbesc să prind autobuzul sau dacă urc la etajul 2 la fiica mea, mă strânge în piept de trebuie să mă opresc.
+Medic: Și dacă vă opriți, ce se întâmplă?
+Pacient: Dacă mă opresc și stau pe loc cam 3-4 minute, trece complet, ca și cum n-ar fi fost. Sau dacă pun o pastilă de nitroglicerină sub limbă, îmi trece și mai repede, cam într-un minut.
+Medic: În timp ce mâncați sau când ieșiți dimineața în aer rece se întâmplă mai des?
+Pacient: Da, exact! Iarna asta, când bătea vântul rece de la munte, mă strângea în piept după doar câțiva pași. Și dacă plec la plimbare imediat după o masă mai copioasă, pățesc la fel.

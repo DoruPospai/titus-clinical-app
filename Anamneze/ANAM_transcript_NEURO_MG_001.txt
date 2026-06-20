@@ -1,0 +1,23 @@
+CASE: Miastenie gravis — slăbiciune musculară fluctuantă
+DIALOG_ID: ANAM_NEURO_MG_001
+
+Medic: Ce simptome vă aduc astăzi?
+Pacient: Am o slăbiciune ciudată la mușchi, care e mai rea seara și după efort. Dimineața sunt bine, spre seară abia mă mișc.
+Medic: De când?
+Pacient: De 4 luni, progresiv. La început credeam că sunt stresată.
+Medic: Unde simțiți slăbiciunea mai mult?
+Pacient: La brațe, când ridic ceva deasupra capului obosesc repede. Și la picioare când urc scări. Dar cel mai deranjant e la față.
+Medic: Ce se întâmplă la față?
+Pacient: Îmi cade pleoapa dreaptă, mai ales seara. Și am vedere dublă câteodată, tot seara. Dimineața pleoapele sunt normale.
+Medic: Probleme cu înghițitul sau vorbitul?
+Pacient: Da, când mănânc mult sau vorbesc mult, vocea îmi devine nazonată, parcă vorbesc prin nas. Înghițitul e uneori dificil, mai ales spre finalul mesei.
+Medic: Probleme cu respiratul?
+Pacient: Uneori, la efort mare, simt că nu am suficient aer. Nu am avut episoade severe.
+Medic: Simptomele se ameliorează cu odihna?
+Pacient: Da, exact. Dacă mă culc 20 de minute, revin la normal. Asta e ce mă uimește.
+Medic: Aveți boli tiroidiene?
+Pacient: Da, am tiroidită Hashimoto de 3 ani, iau Euthyrox.
+Medic: Antecedente familiale?
+Pacient: Mama are lupus. O mătușă are tiroidită la fel ca mine.
+Medic: Vârsta?
+Pacient: 35 de ani. Nu fumez.

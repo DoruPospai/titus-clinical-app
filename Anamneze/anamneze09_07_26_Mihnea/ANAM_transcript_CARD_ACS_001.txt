@@ -1,0 +1,37 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Cardiologie - Urgență
+Diagnostic prezumtiv: Sindrom coronarian acut - STEMI
+Data: 2026-04-22
+Medic: Dr. Popa Andrei
+
+MEDIC: Domnule, ce s-a întâmplat? Spuneți-mi rapid ce simțiți.
+PACIENT: Doctore, am o durere teribilă în piept de vreo oră. Mă sufoc și îmi iradiază în brațul stâng.
+
+MEDIC: Durerea a apărut brusc sau treptat?
+PACIENT: Brusc, eram la birou și m-a lovit ca un pumnal. Nu pot respira bine.
+
+MEDIC: Pe o scară de la 1 la 10, cât de intensă e durerea?
+PACIENT: 9, poate 10. Nu am simțit niciodată așa ceva.
+
+MEDIC: Transpirați? Vă este greață?
+PACIENT: Da, transpir mult și simt greață, aproape am vomitat.
+
+MEDIC: Aveți boli de inimă cunoscute?
+PACIENT: Am angină pectorală, iau nitroglicerină. Dar azi nitroglicerina nu a ajutat.
+
+MEDIC: Ați luat aspirină?
+PACIENT: Nu, nu am avut la mine.
+
+MEDIC: Câți ani aveți? Fumați?
+PACIENT: 58 de ani. Fumez de 30 de ani, un pachet pe zi.
+
+MEDIC: Diabet sau colesterol crescut?
+PACIENT: Am diabet de tip 2 și colesterol mare, iau Metformin și o statină.
+
+MEDIC: Episoade similare anterior?
+PACIENT: Am mai avut crize de angină dar treceau cu nitroglicerină. Asta nu trece.
+
+DIAGNOSTIC PREZUMTIV: Sindrom coronarian acut cu supradenivelare ST (STEMI) - necesită intervenție de urgență.
+
+CUVINTE CHEIE: durere toracică, iradiere braț stâng, transpirații, greață, angină preexistentă, nitroglicerină ineficientă, diabet, fumat

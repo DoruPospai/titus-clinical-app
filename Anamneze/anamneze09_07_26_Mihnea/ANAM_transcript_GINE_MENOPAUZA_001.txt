@@ -1,0 +1,28 @@
+SPECIALITATE: Ginecologie
+COD_DIAGNOSTIC: N95.1
+DATA: 28.04.2024
+MEDIC: Dr. Cristina Ionescu
+---
+MEDIC: Bună ziua, cu ce vă prezentați?
+PACIENT: Am bufeuri la fiecare oră, transpirații noaptea și nu dorm. De 6 luni sunt disperată.
+MEDIC: Câți ani aveți și când a fost ultima menstruație?
+PACIENT: 52 de ani. Ultima menstruație a fost acum 14 luni.
+MEDIC: Bufeurile sunt intense?
+PACIENT: Extrem de intense. Mă trezesc noaptea de 4-5 ori, cearceaful e ud.
+MEDIC: Aveți alte simptome — irascibilitate, probleme de memorie?
+PACIENT: Da, sunt nervoasă, iritabilă cu soțul și copiii. Și am uitat lucruri importante la serviciu.
+MEDIC: Aveți uscăciune vaginală sau durere la contact sexual?
+PACIENT: Da, am dureri la contact. Îmi afectează relația.
+MEDIC: Aveți probleme urinare — incontinență sau urinări frecvente?
+PACIENT: Câteodată pierd urină când tușesc. E stânjenitor.
+MEDIC: Aveți osteoporoză sau fracturi în familie?
+PACIENT: Mama mea a avut fractură de șold la 70 de ani.
+MEDIC: Luați medicamente? Fumați?
+PACIENT: Nu fumez, nu iau medicamente.
+MEDIC: Ați luat vreodată tratament hormonal?
+PACIENT: Nu, mă tem de cancer.
+MEDIC: Aveți depresie sau anxietate?
+PACIENT: Uneori mă simt tristă fără motiv, plâng.
+---
+DIAGNOSTIC PREZUMTIV: Menopauză naturală cu sindrom climacteric sever — femeie 52 ani, 14 luni de amenoree, bufeuri intense, tulburări de somn, simptome uro-genitale (atrofie), labilitate emoțională, factor de risc osteoporoză familial. Diferențial 1: Menopauză prematură (dacă debutul a fost înainte de 40 ani) — exclusă prin vârstă. Diferențial 2: Hipotiroidism — poate mima unele simptome, TSH obligatoriu.
+CUVINTE CHEIE: menopauză, bufeuri, atrofie urogenitală, sindrom climacteric, terapie hormonală, osteoporoză, FSH crescut

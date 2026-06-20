@@ -1,0 +1,26 @@
+
+================================================================
+Transcript — ANAM_transcript_GAS_CIROZA
+MEDIC: Dr. Petrescu Ioana
+================================================================
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Burta s-a umflat progresiv de câteva luni. Și picioarele sunt umflate permanent.
+
+MEDIC: Aveți îngălbenirea pielii sau ochilor?
+PACIENT: Da, pielea e galbenă de câteva săptămâni. Și ochii.
+
+MEDIC: Aveți sângerări sau vânătăi ușoare?
+PACIENT: Da, fac vânătăi la orice lovitură mică. Și gingiile sângerează.
+
+MEDIC: Aveți confuzie sau probleme de memorie?
+PACIENT: Soția zice că am perioade când nu sunt lucid. Că vorbesc ciudat.
+
+MEDIC: Consumați alcool?
+PACIENT: Am băut mult timp de 20 de ani. Am oprit acum 2 ani.
+
+MEDIC: Aveți hepatită virală diagnosticată?
+PACIENT: Hepatită C, diagnosticată acum 10 ani, nu am tratat.
+
+MEDIC: Câți ani aveți?
+PACIENT: 58 de ani.

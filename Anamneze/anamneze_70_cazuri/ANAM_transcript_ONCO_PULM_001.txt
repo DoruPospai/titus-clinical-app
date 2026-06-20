@@ -1,0 +1,34 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Pneumologie / Oncologie
+Diagnostic prezumtiv: Neoplasm pulmonar primar
+Data: 2026-04-21
+Medic: Dr. Mihai Teodora
+
+MEDIC: Bună ziua. Ce simptome vă deranjează?
+PACIENT: Tuse persistentă de 3 luni care nu trece cu nimic. Și am slăbit.
+
+MEDIC: Ați expectotat sânge?
+PACIENT: O dată, acum 2 săptămâni, câteva stropi de sânge. Am ignorat.
+
+MEDIC: Câte kilograme ați pierdut?
+PACIENT: Vreo 7 kg în 3 luni.
+
+MEDIC: Aveți durere în piept?
+PACIENT: Da, durere surdă în dreapta, mai ales la respirat adânc.
+
+MEDIC: Aveți vocea schimbată?
+PACIENT: Soția zice că vocea mea s-a schimbat, e mai răgușită.
+
+MEDIC: Ați fumat? Câți ani?
+PACIENT: 35 de ani, câte 1.5 pachete pe zi. Am 60 de ani.
+
+MEDIC: Ați lucrat cu azbest sau substanțe chimice?
+PACIENT: Am lucrat la o fabrică de materiale de construcție 20 de ani.
+
+MEDIC: Aveți cancer în familie?
+PACIENT: Nu știu.
+
+DIAGNOSTIC PREZUMTIV: Neoplasm pulmonar primar suspectat (fumător 35 ani, hemoptizie, scădere ponderală, disfonie - posibil compresie nerv recurent, durere pleuritică). Necesită CT torace cu contrast, bronhoscopie.
+
+CUVINTE CHEIE: tuse cronică progresivă, hemoptizie, scădere ponderală, disfonie, fumat intens, expunere ocupațională, durere toracică

@@ -1,0 +1,16 @@
+{
+  "script_name": "Titus_build_w_matrix.py",
+  "triplets_csv": "D:\\MULTIMI_VAGI1\\Test11\\Test11_Final_OK\\out_exact_ordinal_triplets\\Titus_exact_triplets.csv",
+  "n_diseases": 2985,
+  "n_rows_total": 290684393,
+  "n_pairs_w": 746929,
+  "matrix_density_pct": 8.3828,
+  "w_min": 0.0,
+  "w_max": 0.956292,
+  "w_mean": 0.003996,
+  "w_threshold": 0.0,
+  "chunk_size": 2000000,
+  "elapsed_sec": 647,
+  "elapsed_min": 10.8,
+  "outdir": "D:\\MULTIMI_VAGI1\\Test11\\Test11_Final_OK\\out_w_matrix"
+}

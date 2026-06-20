@@ -1,0 +1,37 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Reumatologie / Medicină internă
+Diagnostic prezumtiv: Fenomenul Raynaud primar
+Data: 2026-05-20
+Medic: Dr. Enescu Mihaela
+
+MEDIC: Bună ziua! Ce probleme aveți?
+PACIENT: Mi se albesc degetele în frig și se învinețesc. E înfricoșător.
+
+MEDIC: De cât timp se întâmplă?
+PACIENT: De 3 ani, dar iarna e mult mai rău.
+
+MEDIC: Cum evoluează culoarea? Alb, albastru, roșu?
+PACIENT: Da, exact așa, în trei faze. Alb, vinețiu, apoi roșu și dor.
+
+MEDIC: Apare numai la frig sau și la stres?
+PACIENT: La ambele. Și la congelator la supermarket.
+
+MEDIC: Aveți dureri articulare, erupții cutanate, ochi uscați?
+PACIENT: Nu, nimic din astea.
+
+MEDIC: Aveți boli autoimune cunoscute?
+PACIENT: Nu am fost diagnosticată cu nimic.
+
+MEDIC: Există Raynaud sau boli autoimune în familie?
+PACIENT: Mama are ceva similar la degete.
+
+MEDIC: Fumați?
+PACIENT: Nu.
+
+MEDIC: Câți ani aveți?
+PACIENT: 27 de ani.
+
+DIAGNOSTIC PREZUMTIV: Fenomenul Raynaud primar (tricromial, debut tânăr, femeie, antecedente familiale, fără semne de boală sistemică). Necesită anticorpi ANA pentru excludere Raynaud secundar.
+
+CUVINTE CHEIE: vasospasm digital, tricromial alb-albastru-roșu, trigger frig și stres, femeie tânără, Raynaud primar, fără boală sistemică, anticorpi ANA

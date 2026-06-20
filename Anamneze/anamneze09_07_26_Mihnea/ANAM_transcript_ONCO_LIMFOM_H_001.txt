@@ -1,0 +1,30 @@
+SPECIALITATE: Hematologie / Oncologie
+COD_DIAGNOSTIC: C81.1
+DATA: 13.02.2024
+MEDIC: Dr. Anca Dumitru
+---
+MEDIC: Bună ziua, ce vă aduce la consultație?
+PACIENT: Am niște umflături la gât de vreo 2 luni. Și mă simt obosită, nu mă mai recunosc.
+MEDIC: Unde sunt exact umflăturile?
+PACIENT: La gât, pe ambele părți. Și acum am apărut una și la subraț.
+MEDIC: Sunt dureroase?
+PACIENT: Deloc, asta m-a și mirat. Parcă sunt niște bile care nu dor.
+MEDIC: Aveți febră?
+PACIENT: Nu în fiecare zi, dar am niște episoade când fac temperatură seara și apoi trece. De vreo 6 săptămâni.
+MEDIC: Transpirați noaptea?
+PACIENT: Da! Asta e cumplit, mă trezesc complet udă, schimb cearșafurile de câteva ori pe săptămână.
+MEDIC: Ați slăbit fără să vreți?
+PACIENT: Da, 6 kg în 2 luni. Și nici nu țin dietă.
+MEDIC: Aveți mâncărimi ale pielii?
+PACIENT: Da, mai ales după duș cald. Mă mănâncă toată pielea.
+MEDIC: Aveți vârsta de...?
+PACIENT: 24 de ani. Student.
+MEDIC: Aveți dificultăți la respirație sau tuse?
+PACIENT: Da, o tuse seacă intermitentă de câteva săptămâni. Nu am răcit.
+MEDIC: Există boli în familie sau cancere?
+PACIENT: Nu știu de cancere. Bunica a avut limfom, mi s-a spus.
+MEDIC: Aveți dureri osoase sau la șira spinării?
+PACIENT: Nu, dureri nu am.
+---
+DIAGNOSTIC PREZUMTIV: Limfom Hodgkin nodular sclerozant — tânără cu adenopatii cervicale și axilare neprereroase, simptome B clasice (febră, transpirații nocturne, scădere ponderală >10%), prurit și tuse seacă (mediastin probabil afectat). Diferențial 1: Limfom non-Hodgkin — mai rar la această vârstă, morfologie Hodgkin mai probabilă. Diferențial 2: Mononucleoză infecțioasă — adenopatii și stare generală alterată la tânăr, dar durata și simptomele B exclud.
+CUVINTE CHEIE: limfom Hodgkin, adenopatii cervicale, simptome B, transpirații nocturne, prurit, mediastin, tânăr

@@ -1,0 +1,30 @@
+SPECIALITATE: Psihiatrie / Medicină Internă
+COD_DIAGNOSTIC: F50.0
+DATA: 20.04.2024
+MEDIC: Dr. Ioana Filipescu
+---
+MEDIC: Bună ziua. Mama ta m-a sunat îngrijorată. Cum ești?
+PACIENT: Bine. Nu știu de ce sunt toți speriați. Pur și simplu mănânc sănătos.
+MEDIC: Cât cântărești acum?
+PACIENT: 41 de kilograme. Dar am 1,67.
+MEDIC: Ai slăbit intenționat?
+PACIENT: Mi s-a părut că eram grasă. Dar nu mai sunt.
+MEDIC: Ce mănânci zilnic?
+PACIENT: Un măr, niște salată, uneori iaurt. E suficient.
+MEDIC: Ai vârsta de...?
+PACIENT: 19 ani. Student la medicină.
+MEDIC: Ai menstruație?
+PACIENT: Nu mai am de 6 luni. Am crezut că e de la stres.
+MEDIC: Ai frig permanent, chiar și vara?
+PACIENT: Da, mereu frig. Dorm cu 3 pături.
+MEDIC: Ai oboseală?
+PACIENT: Câteodată amețesc când mă ridic repede. Dar sunt în formă.
+MEDIC: Ai părul cum era?
+PACIENT: Cade mai mult. Și pielea e mai uscată.
+MEDIC: Te simți grasă acum?
+PACIENT: Da. Știu că nu sunt, dar simt că sunt. Nu o pot controla.
+MEDIC: Ai gânduri să îți faci rău?
+PACIENT: Nu, nu. Vreau să fiu mai slabă, nu să dispar.
+---
+DIAGNOSTIC PREZUMTIV: Anorexie nervoasă tip restrictiv, stadiu sever — tânără cu BMI 14,7 kg/m², amenoree, lanugo, alopecie, hipotermie, amețeli posturale și distorsionare a imaginii corporale cu insight parțial. Diferențial 1: Depresie cu anorexie — scădere ponderală posibilă, dar distorsionarea imaginii corporale specifică anorexiei. Diferențial 2: Cauze organice de scădere ponderală — endocrinopatii, neoplazie, excluse prin tabloul psihiatric proeminent.
+CUVINTE CHEIE: anorexie nervoasă, BMI scăzut, amenoree, distorsionarea imaginii corporale, restricție alimentară, lanugo, rehidratare

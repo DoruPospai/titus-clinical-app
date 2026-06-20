@@ -1,0 +1,34 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Cardiologie
+Diagnostic prezumtiv: Pericardită acută
+Data: 2026-04-18
+Medic: Dr. Stan Roxana
+
+MEDIC: Bună ziua. Cu ce problemă veniți?
+PACIENT: Am durere în piept de 2 zile. E diferită de ce am mai simțit.
+
+MEDIC: Descrieți mai exact durerea.
+PACIENT: E ascuțită, înțepătoare. Se agravează când inspir adânc sau stau culcat pe spate. Dacă stau aplecat înainte e mai bine.
+
+MEDIC: Ați avut recent o infecție - răceală, gripă?
+PACIENT: Da! Acum 10 zile am avut o viroză, tuse și febră. Credeam că s-a rezolvat.
+
+MEDIC: Aveți febră acum?
+PACIENT: Ieri am avut 37.8. Azi mai puțin.
+
+MEDIC: Aveți dificultăți de respirație?
+PACIENT: Oarecum, mai ales dacă respir adânc, doare.
+
+MEDIC: Aveți boli autoimune - lupus, artrită reumatoidă?
+PACIENT: Nu.
+
+MEDIC: Câți ani aveți?
+PACIENT: 32 de ani, sunt în general sănătos.
+
+MEDIC: Ați luat antiinflamatoare?
+PACIENT: Ibuprofen, și parcă ajută puțin.
+
+DIAGNOSTIC PREZUMTIV: Pericardită acută, probabil de etiologie virală post-infecțioasă.
+
+CUVINTE CHEIE: durere toracică pleuritică, ameliorare în poziție antalgică (aplecată), agravare decubit, viroză recentă, febră subfebrilă, răspuns la ibuprofen

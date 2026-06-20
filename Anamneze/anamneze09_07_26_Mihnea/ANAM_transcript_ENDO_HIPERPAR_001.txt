@@ -1,0 +1,30 @@
+SPECIALITATE: Endocrinologie / Chirurgie
+COD_DIAGNOSTIC: E21.0
+DATA: 09.04.2024
+MEDIC: Dr. Anca Brătianu
+---
+MEDIC: Bună ziua, cum vă pot ajuta?
+PACIENT: Mi s-a descoperit la un control că am calciul prea mare. M-au trimis la specialist.
+MEDIC: Aveți simptome — oboseală, dureri?
+PACIENT: Da, mă simt obosită constant și am dureri la oase de câteva luni. Am crezut că e reumatism.
+MEDIC: Aveți pietre la rinichi?
+PACIENT: Da! Am avut 3 episoade de colică renală în 2 ani. Doctorii s-au mirat.
+MEDIC: Aveți probleme digestive — greață, constipație?
+PACIENT: Constipație cronică, de mult. Și greață ocazional după mese.
+MEDIC: Aveți probleme de memorie sau concentrare?
+PACIENT: Da, uituc mult. Și apar gânduri pesimiste, nu știu de ce.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 56 de ani.
+MEDIC: Aveți slăbiciune musculară?
+PACIENT: Greu să urc scările și să mă ridic de pe scaun.
+MEDIC: Aveți tensiunea mare?
+PACIENT: Da, tensiunea e crescută de câțiva ani.
+MEDIC: Beti suficientă apă?
+PACIENT: Beau mult, am senzație de sete frecventă.
+MEDIC: Există probleme la paratiroide în familie?
+PACIENT: Nu știu. Un frate cu pietre la rinichi.
+MEDIC: Ați scăzut în greutate?
+PACIENT: Nu, am luat mai degrabă câteva kilograme.
+---
+DIAGNOSTIC PREZUMTIV: Hiperparatiroidism primar — femeie vârstnică cu hipercalcemie asimptomatică descoperită întâmplător, nefrolitiază recurentă, dureri osoase, tulburări digestive și neuropsihice (depresia hipercalcemică). Diferențial 1: Hipercalcemie malignă — vârstă și tablou clinic similar, dar absența masei tumorale la examen. Diferențial 2: Hipervitaminoze D sau litiu — anamneza medicamentoasă va exclude.
+CUVINTE CHEIE: hiperparatiroidism primar, hipercalcemie, nefrolitiază, dureri osoase, PTH crescut, osteitis fibrosa, paratiroidectomie

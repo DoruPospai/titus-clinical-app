@@ -1,0 +1,30 @@
+SPECIALITATE: Nefrologie
+COD_DIAGNOSTIC: N04.9
+DATA: 15.03.2024
+MEDIC: Dr. Elena Marinescu
+---
+MEDIC: Bună ziua, ce vă aduce la consultație?
+PACIENT: Mă umflă tot — picioarele, fața dimineața. Am luat 8 kg în 2 săptămâni fără să mânânc mai mult.
+MEDIC: De când s-au instalat umflăturile?
+PACIENT: Brusc, parcă peste noapte. Acum 2 săptămâni nu aveam nimic, acum nu îmi mai intră pantofii.
+MEDIC: Ați observat ceva la urină?
+PACIENT: E spumoasă, parcă face clăbuci. Și mai puțină decât de obicei.
+MEDIC: Aveți și alte simptome — dificultăți la respirație, dureri?
+PACIENT: Respir mai greu când mă culc, stau cu 2 perne. Și burta mi s-a umflat.
+MEDIC: Aveți tensiunea mare sau boli de rinichi cunoscute?
+PACIENT: Nu știu de rinichi. Tensiunea am avut-o normală mereu.
+MEDIC: Ați luat recent medicamente — antiinflamatorii, antibiotice?
+PACIENT: Nu, nimic. Sunt sănătos în rest.
+MEDIC: Aveți dureri de spate sau dureri la urinat?
+PACIENT: Nu, nicio durere. Doar umflătura asta.
+MEDIC: Aveți vârsta de...?
+PACIENT: 35 de ani.
+MEDIC: Aveți diabet sau hepatită?
+PACIENT: Nu, niciunul.
+MEDIC: Ochii vi s-au umflat dimineața?
+PACIENT: Da! Dimineața ochii sunt umflați și după-amiază se mai reduc. Cred că de la somn.
+MEDIC: Aveți mâncărimi sau oboseală?
+PACIENT: Oboseală da, mâncărimi mai puțin.
+---
+DIAGNOSTIC PREZUMTIV: Sindrom nefrotic primitiv (nefropatie cu leziuni minime probabilă la adult tânăr) — edeme masive, proteinurie spumoasă, creștere rapidă în greutate, ortopnee și periorbital edem. Diferențial 1: Glomerulonefrită membranoasă — prezentare identică la adult, biopsia renală diferențiază. Diferențial 2: Insuficiență cardiacă — dispnee și edeme, dar lipsa antecedentelor cardiace și proteinuria spumoasă pledează contra.
+CUVINTE CHEIE: sindrom nefrotic, edeme masive, proteinurie, urină spumoasă, hipoalbuminemie, anasarcă, biopsie renală

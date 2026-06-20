@@ -1,0 +1,30 @@
+SPECIALITATE: Urologie-Ginecologie
+COD_DIAGNOSTIC: N39.3
+DATA: 02.04.2024
+MEDIC: Dr. Simona Vlad
+---
+MEDIC: Bună ziua, cu ce problemă veniți?
+PACIENT: Pierd urină de câte ori tușesc, strănuț sau rid. E o problemă mare pentru mine.
+MEDIC: De cât timp?
+PACIENT: De 2 ani, dar s-a înrăutățit mult în ultima jumătate de an.
+MEDIC: Câți ani aveți? Aveți copii?
+PACIENT: 48 de ani. Am 3 copii, toți născuți natural.
+MEDIC: Pierdeți și fără efort fizic — la mers sau spontan?
+PACIENT: Ocazional și la mers repede sau urcat scări.
+MEDIC: Aveți urgență — simțiți că trebuie urgent la baie și nu ajungeți?
+PACIENT: Uneori da, mai ales când aud apa curgând.
+MEDIC: Aveți infecții urinare frecvente?
+PACIENT: 2-3 pe an.
+MEDIC: Sunteți la menopauza?
+PACIENT: Menopauza de 3 ani.
+MEDIC: Folosiți absorbante pentru incontinență?
+PACIENT: Da, unul sau două pe zi. Mă costă și mă jenez la lucru.
+MEDIC: Aveți constipație?
+PACIENT: Da, cronică.
+MEDIC: Ați slăbit sau vreți să slăbiți?
+PACIENT: Sunt supraponderală, BMI 28. Medicul mi-a zis că asta agravează.
+MEDIC: Ați încercat kinetoterapie pelvină?
+PACIENT: Nu, nu știam că există.
+---
+DIAGNOSTIC PREZUMTIV: Incontinență urinară mixtă (de efort predominant) — femeie 48 ani, multipară, postmenopauza, supraponderală, cu pierdere urinară la efort și componentă de urgență, constipație cronică agravantă. Diferențial 1: Incontinență prin prea plin (isosuprafloată) — reziduală postmicțională, mecanism diferit. Diferențial 2: Cistită cronică — mai ales componenta de urgență, necesită excludere infecțioasă.
+CUVINTE CHEIE: incontinență urinară de efort, multipare, menopauza, exercises Kegel, prolapsCistocele, sling, urodinamică

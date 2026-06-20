@@ -1,0 +1,28 @@
+SPECIALITATE: Ginecologie
+COD_DIAGNOSTIC: N81.2
+DATA: 19.03.2024
+MEDIC: Dr. Raluca Georgescu
+---
+MEDIC: Bună ziua, ce vă deranjează?
+PACIENT: Simt ceva care coboară între picioare, mai ales când stau în picioare mult sau tușesc.
+MEDIC: De cât timp?
+PACIENT: De 2 ani am simțit presiune, dar de 6 luni simt ceva ce iese în afară.
+MEDIC: Aveți dureri pelvine sau lombare?
+PACIENT: Durere în spate jos și presiune pelvină după ce stau mult în picioare.
+MEDIC: Aveți probleme urinare?
+PACIENT: Pierd urină când tușesc sau rid. Și uneori nu pot urina bine — trebuie să mă aplec.
+MEDIC: Câți ani aveți? Aveți copii?
+PACIENT: 58 de ani. Am 4 copii, cel mai mare aproape 3 kilograme la naștere.
+MEDIC: Nașterile au fost naturale?
+PACIENT: Toate naturale. Și una a fost dificilă, a durat mult.
+MEDIC: Sunteți la menopauza?
+PACIENT: Da, de 7 ani.
+MEDIC: Lucrați fizic greu? Ridicați greutăți?
+PACIENT: Da, lucrez la curățenie, ridic găleți grele zilnic.
+MEDIC: Aveți constipație și defecație dificilă?
+PACIENT: Da, constipată de ani de zile. Mă împing la toaletă.
+MEDIC: Prolapsul vă limitează activitatea zilnică?
+PACIENT: Nu mai pot sta în picioare mai mult de 2 ore. Nu mai fac curățenie.
+---
+DIAGNOSTIC PREZUMTIV: Prolaps uterin gr. II-III cu cistocele și incontinență urinară de efort — multiparapentru, menopausal, muncă fizică, constipație cronică, incontinență la efort. Diferențial 1: Cistocele izolat — descensul vezicii fără prolaps uterin, ecografie pelvină diferențiază. Diferențial 2: Enterocele — prolaps al intestinului prin fundul de sac Douglas, frecvent postmenopauza.
+CUVINTE CHEIE: prolaps uterin, cistocele, incontinență urinară de efort, multiparitate, menopauza, prolaps pelvin, colporafie

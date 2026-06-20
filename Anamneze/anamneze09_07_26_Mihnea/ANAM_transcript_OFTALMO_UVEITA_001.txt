@@ -1,0 +1,28 @@
+SPECIALITATE: Oftalmologie
+COD_DIAGNOSTIC: H20.0
+DATA: 07.04.2024
+MEDIC: Dr. Diana Vlasceanu
+---
+MEDIC: Bună ziua, cu ce problemă oculara ați venit?
+PACIENT: Ochiul stâng e roșu, doare și văd mai incetos de 3 zile. Lumina mă deranjează mult.
+MEDIC: Câți ani aveți?
+PACIENT: 32 de ani.
+MEDIC: Ați mai avut episoade similare?
+PACIENT: Da, al treilea episod în 2 ani. Mereu ochiul stâng.
+MEDIC: Aveți dureri de spate sau rigiditate matinala?
+PACIENT: Da, durere de coloana lombara de câțiva ani, mai rea dimineata.
+MEDIC: Aveți diagnostic reumatologic?
+PACIENT: Spondilita ankilopoietica diagnosticata acum 1 an. HLA-B27 pozitiv.
+MEDIC: Vederea e afectata?
+PACIENT: Da, mai incetosata, mai ales dimineata.
+MEDIC: Pupila e mică sau iregulata?
+PACIENT: La ultimul episod medicul a spus ca e mică și nu se dilata bine.
+MEDIC: Luați biologic pentru spondilita?
+PACIENT: Am inceput adalimumab de 6 luni, acesta e primul puseu pe biologic.
+MEDIC: Aveți dureri articulare periferice?
+PACIENT: Câteodată la genunchi.
+MEDIC: Aveți afectare intestinala — Crohn sau colita?
+PACIENT: Nu, nu am boli intestinale.
+---
+DIAGNOSTIC PREZUMTIV: Uveita anterioara acuta HLA-B27 pozitiva recurenta — tânăr cu spondilita ankilopoietica (HLA-B27+), al treilea puseu de uveita anterioara (ochi roșu, fotofobia, durere oculara, sinechii), recidiva dupa adalimumab (posibil necontrolat complet). Diferențial 1: Keratita infectioasa — ulcer cornean, infiltrat, mai acut. Diferențial 2: Glaucom acut cu unghi inchis — durere intensa, halos, pupila midriatica.
+CUVINTE CHEIE: uveita anterioara, HLA-B27, spondilita ankilopoietica, fotofobia, sinechii, corticosteroizi topici, cicloplegice

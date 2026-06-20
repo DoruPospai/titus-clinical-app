@@ -1,0 +1,28 @@
+SPECIALITATE: Dermatologie
+COD_DIAGNOSTIC: L70.0
+DATA: 18.01.2024
+MEDIC: Dr. Gabriela Preda
+---
+MEDIC: Bună ziua, cu ce vă prezentați?
+PACIENT: Am coșuri mari și dureroase pe față și pe spate de 2 ani. Nu trec cu nimic.
+MEDIC: Ce tratamente ați încercat?
+PACIENT: Creme, antibiotice orale, pastile pentru coșuri de la farmacie. Nimic nu a ajutat pe termen lung.
+MEDIC: Cum sunt leziunile — dureroase, mari?
+PACIENT: Noduli mari, roșii, dureroși la atingere. Câteodată au capete albe, alteori sunt în profunzime.
+MEDIC: Lasă cicatrici?
+PACIENT: Da, cicatrici groaznice pe obraji. Mă afectează psihologic mult.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 20 de ani.
+MEDIC: Există acnee în familie?
+PACIENT: Tatăl meu a avut acnee grea. A luat un tratament special la 20 de ani.
+MEDIC: Aveți menstruații regulate și normale?
+PACIENT: Nu, neregulate. Și mai multă față de corp decât normal.
+MEDIC: Aveți obezitate sau probleme cu zahărul?
+PACIENT: Ușoară suprapondere. La un control mi s-a spus că zahărul e la limită.
+MEDIC: Psihologic cum vă afectează?
+PACIENT: Nu ies din casă, evit oamenii. Câteodată nu merg la școală.
+MEDIC: Aveți și pe trunchi sau alte zone?
+PACIENT: Pe spate, pe umeri, pe piept. E cumplit să merg la plajă.
+---
+DIAGNOSTIC PREZUMTIV: Acnee nodulo-chistică severă, posibil în context hiperandrogenic (PCOS) — tânăr cu acnee nodulară refractară la tratamente standard, cicatrici, neregularități menstruale și hirsutism, cu implicare psihosocială majoră. Diferențial 1: Acnee fulminans — forma severă sistemică cu febră și artralgii, dar fără aceste semne sistemice. Diferențial 2: Rozacee — inflamație facială posibilă, dar distribuția, vârsta și tipul leziunilor pledează pentru acnee.
+CUVINTE CHEIE: acnee nodulo-chistică, cicatrici acneice, hiperandrogenism, PCOS, isotretinoin, impact psihosocial, sebum

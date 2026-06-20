@@ -1,0 +1,30 @@
+SPECIALITATE: Reumatologie / Nefrologie
+COD_DIAGNOSTIC: M31.3
+DATA: 30.04.2024
+MEDIC: Dr. Alexandru Olaru
+---
+MEDIC: Bună ziua, ce simptome aveți?
+PACIENT: Am probleme la nas de câteva luni — scurgere, sângerare, și parcă îmi schimbă forma nasul.
+MEDIC: Aveți dureri la sinusuri sau la urechi?
+PACIENT: Da, dureri la sinusuri, mai ales dimineața. Și am pierdut din auz la urechea stângă.
+MEDIC: Aveți tuse sau sânge în spută?
+PACIENT: Da, am tușit cu sânge de câteva ori în ultimele 2 luni. Am crezut că e de la nas.
+MEDIC: Aveți probleme la urinat?
+PACIENT: Urina e roz-roșiatică câteodată. Am crezut că e de la sfeclă.
+MEDIC: Aveți febră și stare generală alterată?
+PACIENT: Da, mă simt rău în ultimele luni — oboseală, febră, slăbiciune. Am slăbit 8 kg.
+MEDIC: Aveți dureri la articulații sau mușchi?
+PACIENT: Da, mă dor articulațiile de la mâini și genunchii.
+MEDIC: Aveți ochii roșii sau dificultăți de vedere?
+PACIENT: Da! Ochii sunt roșii frecvent și acum câteva săptămâni mi-a apărut o durere în ochi care îmi afectează vederea.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 61 de ani.
+MEDIC: Aveți probleme nervoase — amorțeală, slăbiciune la brațe sau picioare?
+PACIENT: La un picior am amorțeală de câteva săptămâni.
+MEDIC: Aveți boli reumatologice cunoscute?
+PACIENT: Nu, am venit că am citit despre granulomatoză pe internet și am intrat în panică.
+MEDIC: Există boli autoimune în familie?
+PACIENT: Nu știu.
+---
+DIAGNOSTIC PREZUMTIV: Granulomatoza cu poliangeită (Wegener) — vârstnic cu triada ENT + pulmonar + renal: sinuzită distructivă, hemoptizie și hematurie, cu manifestări oculare și articulare, scădere ponderală. Diferențial 1: Poliangeita microscopică — afectare renală și pulmonară similare, dar fără manifestări ENT marcate. Diferențial 2: Sarcoidoză cu manifestări multiorganice — posibilă, dar hemoptia și hemituria pledează pentru vasculită ANCA.
+CUVINTE CHEIE: granulomatoza Wegener, ANCA, sinuzită distructivă, hemoptizie, hematurie, episclerită, glomerulonefrită

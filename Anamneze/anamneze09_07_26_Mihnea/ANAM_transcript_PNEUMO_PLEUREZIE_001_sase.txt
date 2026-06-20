@@ -1,0 +1,27 @@
+SPECIALITATE: Pneumologie / Boli Infecțioase
+COD_DIAGNOSTIC: J65
+DATA: 24.03.2024
+MEDIC: Dr. Ioana Nistor
+---
+MEDIC: Bună ziua, cu ce vă pot ajuta?
+PACIENT: Mă doare la piept, la respir adânc, de câteva zile. Și mai greu respir.
+MEDIC: Pe care parte doare?
+PACIENT: Pe dreapta, mai ales jos. Când respir adânc sau când mă aplec.
+MEDIC: Aveți febră?
+PACIENT: Da, 38-38,5, mai ales seara. De vreo 2 săptămâni.
+MEDIC: Aveți tuse?
+PACIENT: Da, o tuse uscată, enervantă. Uneori cu puțin sânge.
+MEDIC: Ați slăbit?
+PACIENT: Da, vreo 5 kg în 2 luni. Nu am poftă.
+MEDIC: Transpirați noaptea?
+PACIENT: Da, cumplit. Schimb lenjeria.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 31 de ani. Vin din Moldova.
+MEDIC: Ați fost în contact cu persoane bolnave de tuberculoză?
+PACIENT: În țara de origine am lucrat la penitenciar. Probabil da.
+MEDIC: Ați mai avut tuberculoză sau tratament pentru TBC?
+PACIENT: Nu, niciodata, dar acum 5 ani mi-a ieșit testul pozitiv și nu am luat tratament.
+MEDIC: Aveți HIV sau alte boli imunosupresive?
+PACIENT: Nu știu de HIV. Nu am testat.
+MEDIC: Aveți dispnee marcată sau cianoza?
+PACIENT: Respir destul de greu. Mă obosesc la mers.

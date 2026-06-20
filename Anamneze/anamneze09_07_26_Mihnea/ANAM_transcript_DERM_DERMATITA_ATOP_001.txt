@@ -1,0 +1,28 @@
+SPECIALITATE: Dermatologie
+COD_DIAGNOSTIC: L20.9
+DATA: 12.02.2024
+MEDIC: Dr. Oana Stoica
+---
+MEDIC: Bună ziua, ce probleme dermatologice aveți?
+PACIENT: Mă mănâncă cumplit pe tot corpul, mai ales noaptea. Nu mai pot dormi de luni de zile.
+MEDIC: De cât timp aveți această problemă?
+PACIENT: De la 7 ani am dermatită atopică. Acum la 25 de ani a explodat din nou, cel mai grav episod.
+MEDIC: Unde sunt zonele afectate?
+PACIENT: La coate, la genunchi, la gât și pe față. Și pe mâini — mâinile sunt crăpate și sângerează.
+MEDIC: Aveți astm sau alergii?
+PACIENT: Da, astm bronșic și rinită alergică. Toată familia mea e alergică.
+MEDIC: Există factori care agravează — stres, anumite alimente, sezon?
+PACIENT: Stresul e cel mai rău. Și spunurile parfumate. Iarna e mai gravă.
+MEDIC: Vă grăpați și apar răni?
+PACIENT: Da, mă grăpesc fără să îmi dau seama noaptea. Dimineta am sânge pe cearceaf.
+MEDIC: Ați folosit cortizon sau alte tratamente?
+PACIENT: Am uns cu cortizon ani de zile. Am ajuns să îl folosesc zilnic, dar efectul a scăzut.
+MEDIC: Aveți infecții frecvente pe piele?
+PACIENT: Da, am avut 2 impetigo în ultimul an.
+MEDIC: Vă afectează calitatea vieții în mod semnificativ?
+PACIENT: Nu pot ieși cu mâneci scurte. Nu dorm. Partenerul mă privește ciudat.
+MEDIC: Aveți depresie sau anxietate asociată?
+PACIENT: Probabil da. Sunt tristă din cauza pielii.
+---
+DIAGNOSTIC PREZUMTIV: Dermatită atopică severă a adultului cu suprainfecție bacteriană și insomnie cronică — tânără cu formă severă recidivantă pe fond atopic (triada astm-rinita-eczema), refractară la corticosteroizi topici îndelungați. Diferențial 1: Psoriazis — plăci scuamoase posibile, dar distribuția și pruritul nocturn pledează pentru DA. Diferențial 2: Dermatita de contact — agravare la substanțe chimice posibilă suprapunere, dar tabloul atopic sistemic este predominant.
+CUVINTE CHEIE: dermatită atopică, prurit nocturn, teren atopic, impetigo secundar, triada alergică, dupilumab, insomnie

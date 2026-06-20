@@ -1,0 +1,28 @@
+SPECIALITATE: Alergologie
+COD_DIAGNOSTIC: J45.0
+DATA: 08.03.2024
+MEDIC: Dr. Cristina Tudose
+---
+MEDIC: Bună ziua, cu ce simptome ați venit?
+PACIENT: Respir greu cu fluierat, mai ales noaptea si la efort. Si tușesc mult.
+MEDIC: De cât timp?
+PACIENT: De 3 ani. A inceput dupa ce m-am mutat într-un apartament nou cu pisica vecinilor ce umblă pe scara.
+MEDIC: Câți ani aveți?
+PACIENT: 29 de ani.
+MEDIC: Simptomele sunt mai rele in anumite sezoane sau locuri?
+PACIENT: Primavara mai rau si la contactul cu pisicile. Si la praful de casa.
+MEDIC: Aveți alte alergii?
+PACIENT: Rinita alergica de multi ani. Ochii îmi lacrimeaza primavara.
+MEDIC: Aveți eczema sau dermatita atopica?
+PACIENT: Da, am eczema pe maini periodic.
+MEDIC: Exista astm sau alergii in familie?
+PACIENT: Mama are astm si tata rinita.
+MEDIC: Ați masurat peak-flow-ul sau spirometria?
+PACIENT: Spirometrie cu test bronhodilatator pozitiv mi s-a facut acum o luna.
+MEDIC: Luati ceva?
+PACIENT: Ventolin la nevoie. De 3 ori pe saptamana aprox.
+MEDIC: Ati trezit noaptea cu crize?
+PACIENT: Da, de 2-3 ori pe luna noaptea.
+MEDIC: Ati ratatat zile de serviciu din cauza astmului?
+PACIENT: Da, 4 zile luna asta.
+---

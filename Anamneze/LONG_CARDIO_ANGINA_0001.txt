@@ -1,0 +1,43 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+DIALOG_ID: LONG_CARDIO_ANGINA_0001
+Specialitate: Cardiologie
+Diagnostic prezumtiv: Angina pectorală stabilă de efort
+Data: 2026-05-29
+
+MEDIC: Bună ziua. Vă rog să-mi spuneți ce v-a adus astăzi la consultație.
+PACIENT: Bună ziua. De câteva zile simt o strângere în piept. Nu e chiar durere ca o înțepătură, e mai mult ca o presiune, ca și cum m-ar apăsa cineva pe piept.
+
+MEDIC: Când apare această presiune? În repaus sau la efort?
+PACIENT: Mai ales când urc scările sau când merg mai repede. Dacă stau liniștit pe scaun, de obicei nu simt nimic.
+
+MEDIC: Cât durează un episod?
+PACIENT: Cam cinci minute, poate zece. Dacă mă opresc din mers și respir liniștit, trece.
+
+MEDIC: Durerea se duce undeva? Spre braț, gât, mandibulă sau spate?
+PACIENT: Uneori parcă îmi amorțește mâna stângă. Nu știu dacă e de la frică, dar simt furnicături pe braț.
+
+MEDIC: Aveți greață, transpirații sau lipsă de aer în timpul episodului?
+PACIENT: Da, transpir rece și mi se face puțin greață. Cu aerul... da, parcă nu-mi ajunge aerul când mă ia strângerea.
+
+MEDIC: Ați avut vreodată ceva asemănător înainte?
+PACIENT: Nu chiar. Am mai avut palpitații când eram stresat, dar presiunea asta în piept e nouă.
+
+MEDIC: De cât timp se întâmplă asta?
+PACIENT: Prima dată a fost acum vreo săptămână, dar atunci am zis că poate sunt obosit. În ultimele trei zile s-a repetat de mai multe ori.
+
+MEDIC: Aveți tensiune arterială crescută, diabet, colesterol mare?
+PACIENT: Tensiunea a fost cam mare la controale, dar nu iau tratament regulat. Mi s-a spus și că am colesterolul crescut.
+
+MEDIC: Fumați?
+PACIENT: Da, fumez cam un pachet pe zi, de peste douăzeci de ani.
+
+MEDIC: În familie există boli de inimă?
+PACIENT: Tata a făcut infarct pe la 60 de ani.
+
+MEDIC: Înțeleg. Este important să verificăm imediat inima. Vom face EKG și analize de sânge. Până atunci evitați efortul și rămâneți în repaus.
+PACIENT: Sincer, m-am speriat. Nu vreau să ajung ca tata.
+
+DIAGNOSTIC PREZUMTIV: Angina pectorală stabilă de efort, clasa CCS II-III. Factori de risc majori: fumat activ 1 pachet/zi >20 ani, hipercolesterolemie, HTA necontrolată, antecedente familiale coronariene (tată infarct la 60 ani).
+
+CUVINTE CHEIE: strângere în piept la efort, amorțeală mână stângă, transpirații, dispnee la efort, cedare la repaus, fumat, colesterol crescut, tensiune mare, familie infarct

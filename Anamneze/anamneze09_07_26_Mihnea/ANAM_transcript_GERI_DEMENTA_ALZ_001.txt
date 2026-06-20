@@ -1,0 +1,28 @@
+SPECIALITATE: Geriatrie-Neurologie
+COD_DIAGNOSTIC: G30.1
+DATA: 20.02.2024
+MEDIC: Dr. Luminita Cojocaru
+---
+MEDIC: Bună ziua. Mama dumneavoastra cine o aduce?
+APARTINATOR: Eu, fiica. Mama are 79 de ani și a uitat grav în ultimul an. Nu mai știe ce zi e.
+MEDIC: De cât timp s-a înrăutățit?
+APARTINATOR: Progresiv de 3 ani, dar accelerat ultimul an. Uita ce a mâncat, se repeta, nu mai recunoaste vecinii.
+MEDIC: Rătăceste?
+APARTINATOR: Odata a plecat la piata si s-a pierdut. A gasit-o politia.
+MEDIC: Aveți probleme de comportament — agresivitate, halucinatii?
+APARTINATOR: Noaptea se agita, vede lucruri. Ziua e mai linistita.
+MEDIC: Ce medicamente ia?
+APARTINATOR: Tensiune, diabet, aspirina. Multe.
+MEDIC: Exista dementa in familie?
+APARTINATOR: Bunica materna a murit cu probleme similare la 82 de ani.
+MEDIC: Cum este autonomia — se imbraca, se spala singura?
+APARTINATOR: Nu mai poate singura. O ajutam la tot.
+MEDIC: Are probleme de mers sau a cazut?
+APARTINATOR: A cazut de 3 ori in ultimul an, fara fractura din fericire.
+MEDIC: Pierdere de urina?
+APARTINATOR: Da, incontinenta aparuta in ultimul an.
+MEDIC: Puteti aduce mama la consult?
+APARTINATOR: Da, mama e afara.
+---
+DIAGNOSTIC PREZUMTIV: Boala Alzheimer stadiu moderat-sever — varstnica 79 ani cu declin cognitiv progresiv multidomeniu (memorie, functie executiva, orientare, recunoastere), autonomie pierduta, simptome psihiatrice nocturne (halucinatii vizuale), incontinenta, cazaturi, istoric familial. MMSE, CT/RMN cerebral, biomarkeri CSF. Diferențial 1: Dementa cu corpi Lewy — halucinatii vizuale + parkinsonism + fluctuatie cognitiva (fenotip mixt posibil). Diferențial 2: Dementa vasculara — HTA+DZ multipli factori de risc, RMN leucoaraioze.
+CUVINTE CHEIE: Alzheimer, declin cognitiv progresiv, amnezie, halucinatii nocturne, pierdere autonomie, donepezil, ingrijitor familial

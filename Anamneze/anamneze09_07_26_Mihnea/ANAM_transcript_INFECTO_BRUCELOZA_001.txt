@@ -1,0 +1,30 @@
+SPECIALITATE: Boli Infecțioase
+COD_DIAGNOSTIC: A23.9
+DATA: 15.04.2024
+MEDIC: Dr. Elena Serban
+---
+MEDIC: Bună ziua, cu ce probleme ați venit?
+PACIENT: Am febra care vine și pleacă de 3 săptămâni, transpirații cu miros dulceag și dureri articulare puternice.
+MEDIC: De unde sunteți și ce lucrați?
+PACIENT: Din mediu rural. Lucrez cu oi, am și vaci.
+MEDIC: Ați consumat lapte nepasteurizat sau brânza proaspătă de casă?
+PACIENT: Da, zilnic, lapte proaspăt de la oi.
+MEDIC: Cum e febra — cu frisoane?
+PACIENT: Da, frisoane, febra urca seara și scade dimineata. Cu transpirații abundente.
+MEDIC: Câți ani aveți?
+PACIENT: 45 de ani.
+MEDIC: Aveți durere la coloana sau la articulatii mari?
+PACIENT: Dureri lombare puternice și la șolduri.
+MEDIC: Aveți ganglioni, splina mărită?
+PACIENT: Nu știu.
+MEDIC: Aveți simptome genitale — durere testiculara?
+PACIENT: Da, testiculul stâng e dureros și umflat.
+MEDIC: Ați pierdut în greutate?
+PACIENT: Da, 6 kilograme în 3 săptămâni.
+MEDIC: Ați mai avut același lucru anterior?
+PACIENT: Acum 5 ani am avut ceva similar, dar am trecut de la sine.
+MEDIC: Aveți dureri de cap sau probleme neurologice?
+PACIENT: Cefalee moderata, nu severe.
+---
+DIAGNOSTIC PREZUMTIV: Bruceloza acuta — bărbat din mediu rural, contact direct cu animale (bovine, ovine), consum lapte nepasteurizat, febra ondulanta, transpirații cu miros tipic, sacroileita, orhiepididimita (complicatie clasica), pierdere ponderala. Diferențial 1: Febra tifoida — febra în platou, bradicardie relativă, rose spots, contact hidric. Diferențial 2: Endocardita infecțioasă — febra, suflu cardiac, embolii.
+CUVINTE CHEIE: bruceloza, febra ondulanta, zoonoza, lapte nepasteurizat, orhiepididimita, Brucella spp., doxiciclina+rifampicina

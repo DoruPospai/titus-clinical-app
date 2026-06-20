@@ -1,0 +1,30 @@
+SPECIALITATE: Neurologie
+COD_DIAGNOSTIC: G12.21
+DATA: 09.04.2024
+MEDIC: Dr. Mihaela Constantin
+---
+MEDIC: Bună ziua, ce simptome vă deranjează?
+PACIENT: Am probleme la înghițit de vreo 6 luni. La început înghițeam greu lichidele, acum și mâncarea solidă e dificilă.
+MEDIC: Ați observat și schimbări la voce sau la vorbire?
+PACIENT: Da, lumea îmi spune că vorbesc mai nazal, ca și cum am o rată în gat. Și obosesc vorbind mult.
+MEDIC: Ați slăbit în ultimul timp?
+PACIENT: Da, 7 kg în 4 luni. Nu mă pot hrăni cum trebuie.
+MEDIC: Aveți slăbiciune la brațe sau picioare?
+PACIENT: La mână dreaptă am început să am mai puțină forță. Greu să deschid borcanele, să întorc cheia.
+MEDIC: Aveți crampe musculare sau mișcări involuntare sub piele?
+PACIENT: Da! Mușchii zvâcnesc singuri, mai ales la brațe. Apar niște ondulații pe piele. E înfiorător.
+MEDIC: Aveți vârsta de...?
+PACIENT: 55 de ani. Am lucrat toată viața fizic.
+MEDIC: Vă este mai dificil să respirați, mai ales noaptea?
+PACIENT: Da, uneori noaptea mă trezesc că nu pot respira bine, mai ales stând culcat.
+MEDIC: Aveți tulburări de memorie sau de comportament?
+PACIENT: Nu, capul e clar. Asta mă înfurie — mintea funcționează dar corpul nu mai ascultă.
+MEDIC: Există în familie cineva cu probleme asemănătoare?
+PACIENT: Nu știu. Tatăl meu a murit repede, la 57 de ani. Nu știu exact de ce.
+MEDIC: Aveți dificultăți la mers sau ați căzut?
+PACIENT: Mă mai împiedic, dar merg. La mâini e mai rău.
+MEDIC: Saliva este mai multă decât normal?
+PACIENT: Da, am salivă în exces, înghit greu și droolez uneori. Mă jenez.
+---
+DIAGNOSTIC PREZUMTIV: Scleroză laterală amiotrofică debut bulbar — vârstnic cu disfagie progresivă, disartrie, fasciculații, slăbiciune focală și hipoventilaie nocturnă, fără afectare cognitivă. Diferențial 1: Miastenia gravis bulbară — simptome bulbare cu fatigabilitate, dar absența fluctuației diurne și fasciculațiile exclud. Diferențial 2: Polimioziă cu afectare esofagiană — disfagie posibilă, dar fasciculațiile și amiotrofia pledează contra.
+CUVINTE CHEIE: SLA, disfagie progresivă, disartrie bulbară, fasciculații, amiotrofie, hipoventilaie nocturnă, debut bulbar

@@ -1,0 +1,37 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Pneumologie
+Diagnostic prezumtiv: Pneumonie lobară dreaptă
+Data: 2026-05-19
+Medic: Dr. Gheorghe Marius
+
+MEDIC: Bună ziua. Ce simptome vă deranjează?
+PACIENT: Febră mare de 2 zile, tuse cu flegmă ruginie și durere în partea dreaptă a pieptului când respir.
+
+MEDIC: Cât de mare este febra?
+PACIENT: 39.5, uneori 40. Am luat paracetamol dar revine.
+
+MEDIC: Ați avut frisoane?
+PACIENT: Da, frison violent la debut, acum 3 zile.
+
+MEDIC: Cum arată expectorația?
+PACIENT: La început era albicioasă, acum e ruginie, ca rugina.
+
+MEDIC: Aveți dificultăți de respirație?
+PACIENT: Da, mă simt scurt de suflare, mai ales când merg.
+
+MEDIC: Ați luat deja antibiotic?
+PACIENT: Am luat Amoxicilină 3 zile de la farmacie, nu am îmbunătățire.
+
+MEDIC: Aveți boli cronice - diabet, boli pulmonare?
+PACIENT: Nu.
+
+MEDIC: Câți ani aveți?
+PACIENT: 45 de ani.
+
+MEDIC: Ați călătorit recent? Ați stat în spital recent?
+PACIENT: Nu, nu am călătorit.
+
+DIAGNOSTIC PREZUMTIV: Pneumonie comunitară lobară dreaptă (posibil pneumococică, expectorație ruginie). Posibil necesită schimb antibiotic sau internare.
+
+CUVINTE CHEIE: febră 39.5, frison, tuse productivă, expectorație ruginie, junghi pleuritic, insuficiență parțială la amoxicilină

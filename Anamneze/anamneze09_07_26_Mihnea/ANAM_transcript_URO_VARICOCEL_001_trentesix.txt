@@ -1,0 +1,25 @@
+SPECIALITATE: Urologie
+COD_DIAGNOSTIC: I86.1
+DATA: 16.04.2024
+MEDIC: Dr. Bogdan Achim
+---
+MEDIC: Bună ziua, cu ce vă prezentați?
+PACIENT: Am durere la testicul stâng și în inghinal. Uneori simt ceva ca vene în plus.
+MEDIC: De cât timp aveți aceste simptome?
+PACIENT: De vreo 2 ani. Durerea e surdă, mai rea după efort sau stat mult în picioare.
+MEDIC: Vârsta?
+PACIENT: 26 de ani.
+MEDIC: Durerea radiază undeva?
+PACIENT: Jos în abdomen și câteodată în inghinal.
+MEDIC: Ați observat diferență de volum testicular?
+PACIENT: Testiculul stâng mi se pare mai mic, mai moale față de dreapta.
+MEDIC: Aveți probleme de fertilitate sau doriți copii?
+PACIENT: Suntem de un an cu partenera și nu reușim o sarcina. M-a trimis la spermogramă.
+MEDIC: Spermograma a ieșit?
+PACIENT: Oligoastenoteratospermie moderată, mi-a zis medicul.
+MEDIC: Aveți temperatură scrotală sau febră?
+PACIENT: Nu.
+MEDIC: Durerea se agravează la efort fizic sau sex?
+PACIENT: Da, la sport și după activitate sexuală mai intensă.
+MEDIC: Ați făcut eco-Doppler scrotal?
+PACIENT: Da, reflux la manevra Valsalva, varicocel grad II.

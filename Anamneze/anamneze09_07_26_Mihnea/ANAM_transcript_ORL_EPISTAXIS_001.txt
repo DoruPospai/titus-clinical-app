@@ -1,0 +1,30 @@
+SPECIALITATE: ORL
+COD_DIAGNOSTIC: R04.0
+DATA: 19.04.2024
+MEDIC: Dr. Cătălin Marin
+---
+MEDIC: Bună ziua, cu ce vă pot ajuta?
+PACIENT: Am sângerări din nas care nu se mai opresc. Am venit că ieri a durat 40 de minute.
+MEDIC: Cât de des se întâmplă?
+PACIENT: Cam de 3-4 ori pe săptămână. Câteva ori s-a oprit, dar de ieri nu mai putea.
+MEDIC: De câte luni?
+PACIENT: De vreo 3 luni, cam de când mi-am schimbat medicamentele de tensiune.
+MEDIC: Aveți tensiunea mare?
+PACIENT: Da, tensiunea o iau de câțiva ani, dar acum am și alte două pastile noi.
+MEDIC: Luați anticoagulante sau aspirina?
+PACIENT: Da, aspirina zilnic de 5 ani pentru inimă. Și recent mi s-a adăugat un alt medicament subțiator de sânge.
+MEDIC: Aveți vârsta de...?
+PACIENT: 55 de ani.
+MEDIC: Din care nară sângerează?
+PACIENT: Mai mult din dreapta, dar câteodată și din stânga.
+MEDIC: Aveți vânătăi ușoare sau sângerare la gingii?
+PACIENT: Da, gingivita sângerează la periat și am vânătăi pe brațe.
+MEDIC: Există boli de sânge în familie?
+PACIENT: Nu știu de boli de sânge, dar tata murit de accident vascular.
+MEDIC: Aveți pierdere de sânge prin scaun?
+PACIENT: Am scaunul închis uneori, dar am crezut că e de la fier.
+MEDIC: Cum se opresc de obicei sângerările?
+PACIENT: Mă aplec înainte și compr nara, merge 20-30 minute. Ieri nu a mers deloc.
+---
+DIAGNOSTIC PREZUMTIV: Epistaxis recurent sever pe fond de HTA necontrolată și terapie antiplachetară/anticoagulantă dublă — bărbat cu factori de risc multipli (HTA, aspirina + anticoagulant) și semne de diateza hemoragică (gingivoragii, vânătăi). Diferențial 1: Telangiectazie hemoragică ereditară (Rendu-Osler-Weber) — epistaxis recurent din copilărie, angiomata mucoase diferențiază. Diferențial 2: Trombocitopenie — sângerare mucoasă multiplă, hemoleucograma diferențiază.
+CUVINTE CHEIE: epistaxis, HTA, anticoagulant, antiagregant, sângerare mucoasă, cauterizare, tamponament nazal

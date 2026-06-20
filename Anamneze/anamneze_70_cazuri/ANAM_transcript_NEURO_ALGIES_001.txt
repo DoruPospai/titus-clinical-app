@@ -1,0 +1,34 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Neurologie
+Diagnostic prezumtiv: Neuropatie periferică diabetică
+Data: 2026-05-20
+Medic: Dr. Stănescu Lavinia
+
+MEDIC: Bună ziua. Ce simptome vă aduc la neurologie?
+PACIENT: Senzație de arsuri și furnicături la picioare, mai ales noaptea. De câteva luni nu mai simt bine la tălpi.
+
+MEDIC: Durerea este simetrică, la ambele picioare?
+PACIENT: Da, ambele. Și urcă până la genunchi.
+
+MEDIC: Aveți diabet?
+PACIENT: Da, de 12 ani. Tip 2. Nu am ținut glicemia bine, recunosc.
+
+MEDIC: Ce HbA1c aveți la ultimul control?
+PACIENT: 9.8, e prea mare, știu.
+
+MEDIC: Aveți probleme cu vederea?
+PACIENT: Da, am retinopatie diabetică la un ochi.
+
+MEDIC: Aveți probleme cu rinichii?
+PACIENT: Creatinina mi-e un pic crescută, 1.4.
+
+MEDIC: Ați observat răni care se vindecă greu la picioare?
+PACIENT: Da, o rănire mică la deget a durat 3 luni să se vindece.
+
+MEDIC: Câți ani aveți?
+PACIENT: 59 de ani.
+
+DIAGNOSTIC PREZUMTIV: Neuropatie periferică diabetică senzitivă, cu polineuropatie simetrică distală. Control glicemic slab. Complicații microvasculare multiple (retinopatie, nefropatie incipientă).
+
+CUVINTE CHEIE: parestezii simetrice distale, arsuri nocturne, diabet zaharat tip 2 necontrolat, HbA1c 9.8, retinopatie, nefropatie incipientă, vindecare lentă

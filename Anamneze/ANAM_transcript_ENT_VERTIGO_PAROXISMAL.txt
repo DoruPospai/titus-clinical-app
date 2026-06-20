@@ -1,0 +1,25 @@
+Transcript — ANAM_transcript_ENT_VERTIGO_PAROXISMAL
+MEDIC: Dr. Florescu Adrian
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Amețeli intense care apar brusc. Camera se rotește.
+
+MEDIC: Cum apar amețelile?
+PACIENT: Când mă întorc în pat sau mă ridic rapid. Durează câteva secunde, maxim un minut.
+
+MEDIC: Aveți greață sau vărsături?
+PACIENT: Greață da, uneori vărsături când e mai rău.
+
+MEDIC: Aveți surditate sau țiuit în ureche?
+PACIENT: Nu, aud bine. Nu am țiuit.
+
+MEDIC: Aveți dureri de cap?
+PACIENT: Nu, nu mă doare capul.
+
+MEDIC: Ați mai avut episoade similare?
+PACIENT: Da, acum 6 luni am mai avut câteva zile. A trecut singur.
+
+MEDIC: Câți ani aveți?
+PACIENT: 55 de ani.
+
+DIAGNOSTIC PREZUMTIV: Vertij pozițional paroxistic benign (VPPB) — amețeli rotatorii scurte declanșate de schimbarea poziției capului, fără hipoacuzie sau tinitus, episoade recurente autolimitate. Manevra Dix-Hallpike pozitivă confirmă diagnosticul. Manevra Epley indicată. CUVINTE CHEIE: vertigo pozitional paroxistic benign, VPPB, ameteala rotatorie, pozitional, fara hipoacuzie, fara tinitus, autolimitat

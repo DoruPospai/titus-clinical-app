@@ -1,0 +1,34 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Gastroenterologie
+Diagnostic prezumtiv: Ulcer duodenal
+Data: 2026-05-07
+Medic: Dr. Alexe Bogdan
+
+MEDIC: Bună ziua. Cu ce problemă veniți?
+PACIENT: Am dureri de stomac recurente de luni de zile. Se agravează când sunt flămând.
+
+MEDIC: Unde este localizată durerea?
+PACIENT: În epigastru, sus în burtă, între coaste. Uneori merge și în spate.
+
+MEDIC: Când apare exact?
+PACIENT: La 2-3 ore după masă și noaptea mă trezesc cu durere. Mâncatul ajută să treacă.
+
+MEDIC: Aveți grețuri sau vărsături?
+PACIENT: Greață da, vărsătură de 2 ori. O dată vărsătura era cu zațuri de cafea.
+
+MEDIC: Ați observat scaune negre?
+PACIENT: Da! De vreo 3 ori în ultima lună, scaune negre și lipicioase. Nu m-am gândit că e grav.
+
+MEDIC: Luați aspirină, ibuprofen sau alte antiinflamatoare?
+PACIENT: Da, iau Ibuprofen des pentru durerile de spate, fără prescripție.
+
+MEDIC: Ați testat H. pylori vreodată?
+PACIENT: Nu am testat.
+
+MEDIC: Câți ani aveți? Fumați?
+PACIENT: 39 de ani. Fumez 10 țigări pe zi.
+
+DIAGNOSTIC PREZUMTIV: Ulcer duodenal probabil complicat cu sângerare (melenă, hematemeză cu zațuri de cafea). Necesită endoscopie digestivă urgentă.
+
+CUVINTE CHEIE: epigastralgii ritmice, ameliorare postprandială, melenă, hematemeză, AINS cronic, H. pylori netestat, fumat

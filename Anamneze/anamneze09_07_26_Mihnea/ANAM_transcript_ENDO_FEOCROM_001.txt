@@ -1,0 +1,30 @@
+SPECIALITATE: Endocrinologie / Urgențe
+COD_DIAGNOSTIC: D35.0
+DATA: 18.04.2024
+MEDIC: Dr. Silvia Marin
+---
+MEDIC: Bună ziua, ce simptome vă aduc la endocrinolog?
+PACIENT: Am crize de tensiune cumplite. Vine brusc, tensiunea sare la 200, simt că îmi explodează capul.
+MEDIC: Cât de des apar crizele?
+PACIENT: Cam de 2-3 ori pe săptămână. Durează 20-30 de minute. Dispar la fel de brusc cum vin.
+MEDIC: Cum vă simțiți în timpul crizei?
+PACIENT: Transpir abundent, inima îmi bate repede, am dureri de cap violente și simt că îmi vine rău. Mă tremur toată.
+MEDIC: Aveți ceva care declanșează crizele?
+PACIENT: Câteodată la efort, câteodată după ce întorc brusc capul. Uneori fără niciun motiv.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 42 de ani.
+MEDIC: Aveți tensiunea mare și între crize?
+PACIENT: Da, tensiunea e mereu un pic ridicată. Dar în criză ajunge la 200.
+MEDIC: Aveți slăbiciune musculară?
+PACIENT: Da, în crize simt că picioarele cedează.
+MEDIC: Aveți anxietate sau atacuri de panică?
+PACIENT: Mi s-a spus că sunt atacuri de panică, am luat tratament dar n-a ajutat.
+MEDIC: Aveți diabet sau zahărul e crescut?
+PACIENT: La ultimul control mi s-a spus că zahărul e un pic crescut.
+MEDIC: Există tumori la glandele suprarenale în familie?
+PACIENT: Mama a murit brusc la 45 de ani, nu știu de ce. Și un frate are pietre la rinichi frecvent.
+MEDIC: Ați pierdut în greutate?
+PACIENT: Da, 5 kg în 6 luni.
+---
+DIAGNOSTIC PREZUMTIV: Feocromocitom — femeie cu crize paroxistice de HTA severă, cefalee, tahicardie și transpirații abundente, hiperglicemie și istoric familial sugestiv (posibilă MEN2 sau VHL). Diferențial 1: Atac de panică — prezentare similară, dar HTA paroxistică severă la 200 mmHg și glicemia crescută exclud cauza funcțională. Diferențial 2: Hipertensiune arterială esențială cu crize — fără paroxisme tipice ale feocromocitomului.
+CUVINTE CHEIE: feocromocitom, crize hipertensive paroxistice, cefalee, tahicardie, transpirații, catecolamine urinare, MEN2

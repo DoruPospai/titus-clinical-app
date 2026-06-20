@@ -1,0 +1,37 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Toxicologie / Medicină de urgență
+Diagnostic prezumtiv: Intoxicație acută cu paracetamol
+Data: 2026-05-18
+Medic: Dr. Vasile Mirela
+
+MEDIC: Bună ziua, ce s-a întâmplat?
+PACIENT: Am luat prea multe pastile de paracetamol acum 4 ore.
+
+MEDIC: Câte pastile ați luat și de ce doză?
+PACIENT: Vreo 12 comprimate de 500mg. Aveam dureri de cap groaznice și am tot luat.
+
+MEDIC: Ați luat intenționat atât de multe sau accidental?
+PACIENT: (pauza) ...Era intenționat. Eram la capătul puterilor.
+
+MEDIC: Înțeleg. Ați luat și alcool sau alte substanțe?
+PACIENT: Nu, doar paracetamolul.
+
+MEDIC: Simțiți greață, durere abdominală?
+PACIENT: Greață multă și doare în dreapta sus, la ficat.
+
+MEDIC: Ați mai încercat vreodată să vă faceți rău?
+PACIENT: Acum un an am luat câteva pastile de somn. Tot singur am rezolvat.
+
+MEDIC: Aveți boli hepatice sau consumați alcool cronic?
+PACIENT: Nu boli, dar beau ocazional.
+
+MEDIC: Luați medicamente zilnic, anticoagulante?
+PACIENT: Nu, nimic altceva.
+
+MEDIC: Câți ani aveți?
+PACIENT: 29 de ani.
+
+DIAGNOSTIC PREZUMTIV: Intoxicație acută cu paracetamol - doză potențial hepatotoxică (6g). Tentativă de autovătămare. Necesită N-acetilcisteină urgent, monitorizare INR, transaminaze, evaluare psihiatrică.
+
+CUVINTE CHEIE: intoxicație paracetamol, supradoză voluntară, hepatotoxicitate, greață, durere hipocondru drept, tentativă autovătămare, N-acetilcisteină, evaluare psihiatrică

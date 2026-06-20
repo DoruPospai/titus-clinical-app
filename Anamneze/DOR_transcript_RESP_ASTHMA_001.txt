@@ -1,0 +1,36 @@
+CASE: Astm / dispnee episodică / wheezing
+DIALOG_ID: RESP_ASTHMA_001
+
+Doctor: Bună ziua. Ce vă supără cel mai mult?
+
+Patient: De câteva zile mă apucă o lipsă de aer, mai ales seara. Parcă nu pot trage aer până la capăt.
+
+Doctor: Se întâmplă în repaus sau la efort?
+
+Patient: Uneori și în repaus, dar mai ales când urc scările sau când ies afară la aer rece.
+
+Doctor: Tușiți?
+
+Patient: Da, tușesc sec. Nu prea scot flegmă.
+
+Doctor: Ați auzit vreun șuierat când respirați?
+
+Patient: Da, uneori parcă îmi fluieră pieptul. Mai ales noaptea.
+
+Doctor: Aveți febră?
+
+Patient: Nu, febră nu am avut.
+
+Doctor: Ați mai avut astfel de episoade?
+
+Patient: Da, primăvara mi se mai întâmplă, mai ales când e praf sau polen.
+
+Doctor: Folosiți vreun inhalator?
+
+Patient: Am avut unul mai demult, dar nu l-am mai folosit. Acum mă sperie că simt că mă sufoc.
+
+Doctor: Fumați?
+
+Patient: Nu fumez.
+
+Doctor: Înțeleg. Vom evalua respirația și saturația, iar apoi discutăm despre tratamentul inhalator.

@@ -1,0 +1,30 @@
+SPECIALITATE: Ortopedie
+COD_DIAGNOSTIC: M16.1
+DATA: 06.02.2024
+MEDIC: Dr. Cristian Voicu
+---
+MEDIC: Bună ziua, cu ce problemă ați venit?
+PACIENT: Mă doare șoldul drept de câțiva ani, dar în ultimele 6 luni merg greu și am durere în repaus.
+MEDIC: Câți ani aveți?
+PACIENT: 72 de ani.
+MEDIC: Durerea radiaza undeva?
+PACIENT: Da, în inghinal și pe fața internă a coapsei.
+MEDIC: Dimineata cât durează redoarea?
+PACIENT: Vreo 30 de minute până mă dezmorțesc. Uneori mai mult.
+MEDIC: Aveți dificultăți la activități — încălțat, urc scări?
+PACIENT: Nu mai pot să îmi leg șireturile. Scările îs o problemă. Nu mai merg la piata.
+MEDIC: Ați luat analgezice?
+PACIENT: Da, ibuprofen și paracetamol zilnic de luni. Nu mai ajuta.
+MEDIC: Aveți radiografie?
+PACIENT: Da, spațiu articular aproape dispărut, osteofite mari. Medicul a spus uzura totala.
+MEDIC: Ce IMC aveți?
+PACIENT: Sunt supraponderal, cam 95 kg la 1,70.
+MEDIC: Aveți alte articulații afectate?
+PACIENT: Genunchii puțin, dar mai puțin.
+MEDIC: Luați anticoagulante sau aveți boli de inimă?
+PACIENT: Fibrilatie atriala, iau anticoagulant.
+MEDIC: Ce așteptați de la consultație?
+PACIENT: Să știu dacă am nevoie de proteaza.
+---
+DIAGNOSTIC PREZUMTIV: Coxartroza primara severa (gr. IV Kellgren) cu indicatie de artroplastie — pacient 72 ani cu coxartroza evoluata radiografic, durere la repaus, limitare functionala majora, esec terapie conservatoare. Planificare artroplastie totala de sold. Diferențial 1: Artrita reumatoida — afectare poliarticulara, VS, CRP, FR; prezentarea monoarticulara la vârsta mică probabilitate. Diferențial 2: Necroza avasculara a capului femural — imagistic RMN diferentiaza, mai ales post corticoizi.
+CUVINTE CHEIE: coxartroza, artroplastie totala sold, osteofite, spatiu articular redus, durere la repaus, Kellgren grad IV, anticoagulare perioperatorie

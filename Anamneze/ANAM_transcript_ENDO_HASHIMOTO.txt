@@ -1,0 +1,31 @@
+Transcript — ANAM_transcript_ENDO_HASHIMOTO
+MEDIC: Dr. Popescu Ioana
+
+MEDIC: Bună ziua. Ce simptome vă deranjează?
+PACIENT: Sunt obosită tot timpul, deși dorm suficient. Am luat 6 kg în ultimele 6 luni fără să mănânc mai mult.
+
+MEDIC: Aveți intoleranță la frig?
+PACIENT: Da, mereu mi-e frig. Colegii au căldură și eu stau cu geaca pe mine.
+
+MEDIC: Cum este părul și pielea?
+PACIENT: Părul îmi cade mult, mai ales la pieptănat. Pielea e uscată și aspră.
+
+MEDIC: Aveți constipație sau modificări intestinale?
+PACIENT: Da, constipație de câteva luni. Înainte eram regulată.
+
+MEDIC: Aveți probleme de memorie sau dispoziție?
+PACIENT: Mă simt deprimată, fără energie. Și uit lucruri simple.
+
+MEDIC: Aveți boli autoimune sau în familie?
+PACIENT: Mama are diabet tip 1. O soră are vitiligo.
+
+MEDIC: Vocea s-a schimbat?
+PACIENT: Soțul zice că vorbesc mai răgușit de câteva luni.
+
+MEDIC: Câți ani aveți?
+PACIENT: 38 de ani.
+
+MEDIC: Pulsul cum este?
+PACIENT: Medicul de familie a zis că am pulsul rar, 52 pe minut.
+
+DIAGNOSTIC PREZUMTIV: Tiroidită Hashimoto cu hipotiroidism instalat — oboseală, creștere ponderală, intoleranță la frig, cădere păr, piele uscată, constipație, depresie, bradycardie, antecedente familiale autoimune. Confirmare TSH, FT4, anticorpi anti-TPO, ecografie tiroidiană. CUVINTE CHEIE: hipotiroidism, oboseală, creștere ponderală, intoleranță frig, cădere păr, piele uscată, constipație, depresie, bradycardie, autoimunitate

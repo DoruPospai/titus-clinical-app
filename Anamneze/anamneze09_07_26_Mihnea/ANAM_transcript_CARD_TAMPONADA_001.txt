@@ -1,0 +1,30 @@
+SPECIALITATE: Cardiologie / Urgențe
+COD_DIAGNOSTIC: I31.9
+DATA: 27.06.2024
+MEDIC: Dr. Bogdan Marin
+---
+MEDIC: Bine ați venit, ce se întâmplă?
+PACIENT: Respir greu de azi dimineață, tot mai rău. Și inima parcă îmi bate ciudat.
+MEDIC: Ați mai avut recent vreo infecție sau boală?
+PACIENT: Da, acum 3 săptămâni am avut o inflamație la inimă, mi s-a zis pericardită. Am luat ibuprofen și colchicină.
+MEDIC: Cum a evoluat de atunci?
+PACIENT: Prima săptămână a fost mai bine, dar de ieri a început să se înrăutățească brusc.
+MEDIC: Aveți dureri la piept?
+PACIENT: Da, o presiune mare, parcă mă strânge de toate părțile. Nu pot lua aer complet.
+MEDIC: Vă este mai greu să respirați în anumite poziții?
+PACIENT: Când stau culcat e cumplit. Stau drept și mai merge, dar și drept e greu.
+MEDIC: Aveți amețeli sau senzație că leșinați?
+PACIENT: Da, mă simt slăbit, parcă am să cad. Și mi s-a spus că am tensiunea mică.
+MEDIC: Aveți 58 de ani, corect?
+PACIENT: Da, 58. Nu am mai avut probleme cu inima înainte de luna asta.
+MEDIC: Aveți picioarele umflate?
+PACIENT: Da, și mai umflate azi decât ieri.
+MEDIC: Ați mai consultat pe cineva pentru starea actuală?
+PACIENT: Am sunat medicul de familie azi dimineață și m-a trimis direct la urgențe.
+MEDIC: Aveți senzația că vocea vi s-a schimbat sau înghițitul e dificil?
+PACIENT: Nu la vorbire, dar înghesuitura asta la piept nu îmi dă pace.
+MEDIC: Febră aveți?
+PACIENT: Nu, nu am temperatură.
+---
+DIAGNOSTIC PREZUMTIV: Tamponadă cardiacă post-pericardită — deteriorare acută la pacient cu pericardită recentă, hipotensiune, dispnee și ortopnee marcată sugerând reacumulare de lichid pericardic. Diferențial 1: Recurență pericardită acută — posibil, dar hipotensiunea și tabloul dramatic pledează pentru tamponadă. Diferențial 2: Insuficiență cardiacă acută — tablou similar, ecocardiografia urgentă diferențiază.
+CUVINTE CHEIE: tamponadă cardiacă, pericardită, lichid pericardic, hipotensiune, dispnee, triada Beck, pericardiocenteză

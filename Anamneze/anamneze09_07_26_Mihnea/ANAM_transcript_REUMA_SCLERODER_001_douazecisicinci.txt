@@ -1,0 +1,28 @@
+SPECIALITATE: Reumatologie
+COD_DIAGNOSTIC: M34.0
+DATA: 12.04.2024
+MEDIC: Dr. Lidia Munteanu
+---
+MEDIC: Bună ziua, cu ce vă pot ajuta?
+PACIENT: Degetele îmi albesc și devin albastre la frig, de ani de zile. Dar acum am și altceva — pielea de pe mâini mi s-a îngroșat și strâns.
+MEDIC: De cât timp a apărut îngroșarea pielii?
+PACIENT: Cam de 2 ani. Acum și la față simt că pielea e mai strânsă, greu să deschid gura larg.
+MEDIC: Aveți probleme la înghițit?
+PACIENT: Da! Mâncarea se blochează câteodată. Trebuie să beau multă apă ca să coboară.
+MEDIC: Aveți arsuri la stomac?
+PACIENT: Arsuri cumplite. Simt acid în gât noaptea, trebuie să dorm cu perne multe.
+MEDIC: Aveți dificultăți la respirație?
+PACIENT: Da, de câteva luni respir mai greu la efort. Acum câteva luni mai bine, acum mai rău.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 52 de ani.
+MEDIC: Aveți tensiunea arterială mai mare?
+PACIENT: Da, recent mi-a urcat tensiunea brusc și am mers la urgențe luna trecută.
+MEDIC: Aveți edeme la picioare sau la față?
+PACIENT: La față nu, dar la degete sunt umflate și parcă rigid fixate.
+MEDIC: Aveți ulcerații sau răni la vârful degetelor?
+PACIENT: Da, la vârful degetelor apar mici răni care se vindecă greu.
+MEDIC: Există boli autoimune în familie?
+PACIENT: Nu știu, nu am vorbit despre asta.
+MEDIC: Aveți dificultăți la urinat sau probleme la rinichi?
+PACIENT: Tensiunea brusc crescută luna trecută a speriat medicii de la urgențe de rinichi.
+

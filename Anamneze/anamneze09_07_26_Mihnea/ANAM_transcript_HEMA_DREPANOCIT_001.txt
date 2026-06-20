@@ -1,0 +1,30 @@
+SPECIALITATE: Hematologie
+COD_DIAGNOSTIC: D57.1
+DATA: 12.04.2024
+MEDIC: Dr. Andrei Moldovan
+---
+MEDIC: Bună ziua, cu ce urgență ați venit?
+PACIENT: Am dureri enorme în oase și în piept de ieri. Știu că e criza mea de siclemie.
+MEDIC: Câți ani aveți?
+PACIENT: 19 ani.
+MEDIC: De câte ori pe an aveți crize?
+PACIENT: 3-4 pe an de obicei, dar aceasta e mai severă.
+MEDIC: Durerea este localizată unde?
+PACIENT: În oase — picioare, spate, coaste. Și pieptul doare la respirație.
+MEDIC: Aveți febră?
+PACIENT: Da, 38,5, de azi dimineața.
+MEDIC: Aveți dificultăți de respirație?
+PACIENT: Da, respir mai greu decât de obicei. Asta mă îngrijorează.
+MEDIC: Aveți tuse sau spute?
+PACIENT: Tuse seacă de câteva ore.
+MEDIC: Ați fostspitalizat anterior pentru crize?
+PACIENT: Da, de multe ori. Odată cu accident vascular la 15 ani.
+MEDIC: Luați hidroxiuree?
+PACIENT: Da, dar uneori uit.
+MEDIC: Care a fost factorul declanșator?
+PACIENT: Am avut o infecție cu 3 zile înainte, febra și tuse.
+MEDIC: Saturația de oxigen?
+PACIENT: 92%, spun asistentele.
+---
+DIAGNOSTIC PREZUMTIV: Criză vaso-ocluzivă severă în drepanocitoza cu sindrom toracic acut (STA) — pacient cunoscut cu siclemie, febră, durere osoasă difuza, implicare pulmonara (tuse, SatO2 92%, durere pleuritică), precedat de infecție. STA este urgență cu mortalitate semnificativă. Diferențial 1: Pneumonie bacteriană fără STA — posibilă cauza declanșatoare, frecvent asociata. Diferențial 2: Embolie pulmonara — durere pleurala, dispnee, hipoxie, dar contextul sickle cell face STA mai probabil.
+CUVINTE CHEIE: drepanocitoza, siclemie, criză vaso-ocluzivă, sindrom toracic acut, hidroxiurea, transfuzie de schimb, hipoxie

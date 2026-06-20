@@ -1,0 +1,25 @@
+Transcript — ANAM_transcript_PUL_PNEUMOTHORAX
+MEDIC: Dr. Constantin Elena
+
+MEDIC: Bună ziua. Ce s-a întâmplat?
+PACIENT: Nu pot respira dintr-odată. A apărut brusc acum o oră, în repaus.
+
+MEDIC: Aveți durere?
+PACIENT: Durere bruscă în piept stâng, ascuțită, la fiecare respirație.
+
+MEDIC: Ați avut ceva similar înainte?
+PACIENT: Nu, niciodată.
+
+MEDIC: Aveți boli pulmonare diagnosticate?
+PACIENT: Nu știu de nimic.
+
+MEDIC: Fumați?
+PACIENT: Da, fumez de 5 ani.
+
+MEDIC: Câți ani aveți și cum sunteți construit?
+PACIENT: 24 de ani. Sunt înalt și slab.
+
+MEDIC: Aveți palpitații sau amețeli?
+PACIENT: Palpitații da, mă simt slăbit.
+
+DIAGNOSTIC PREZUMTIV: Pneumotorax spontan primar — debut brusc dispnee + durere pleuritică, tânăr înalt și slab, fumător, fără antecedente. Confirmare radiografie toracică. CUVINTE CHEIE: pneumotorax spontan, dispnee brusca, durere pleuritica, tanar inalt slab, fumator, debut repaus

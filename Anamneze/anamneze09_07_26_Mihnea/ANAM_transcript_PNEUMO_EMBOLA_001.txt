@@ -1,0 +1,30 @@
+SPECIALITATE: Pneumologie / Urgențe
+COD_DIAGNOSTIC: I26.0
+DATA: 02.06.2024
+MEDIC: Dr. Radu Ceaușu
+---
+MEDIC: Ce se întâmplă? Vă rog să-mi descrieți.
+PACIENT: Am dureri mari la piept și respir greu de ieri seară. M-a adus ambulanța.
+MEDIC: Când a apărut brusc sau treptat?
+PACIENT: Brusc. Mă uitam la televizor și m-a lovit ca un pumni în piept.
+MEDIC: Ați observat picioarele umflate sau dureroase?
+PACIENT: Da! Piciorul drept mi s-a umflat de vreo săptămână. Am crezut că m-am lovit și nu am dat importanță.
+MEDIC: Ați făcut recent vreo operație sau ați stat imobilizat?
+PACIENT: Am avut operație la genunchi acum 10 zile. Ortopedie. Am stat acasă, în pat.
+MEDIC: Aveți vârsta de...?
+PACIENT: 39 de ani.
+MEDIC: Aveți sânge în sputa sau tuse cu sânge?
+PACIENT: Da, de dimineață am tușit cu un pic de sânge. M-am speriat.
+MEDIC: Aveți palpitații sau tensiunea scăzută?
+PACIENT: Inima îmi bate tare și repede. La ambulanță mi-au spus că tensiunea e scăzută.
+MEDIC: Ați luat pastile contraceptive sau alt tratament hormonal?
+PACIENT: Nu, nu iau nimic.
+MEDIC: Fumați?
+PACIENT: Da, 15 ani.
+MEDIC: Există tromboze sau embolii în familie?
+PACIENT: Mama a avut tromboză la picior.
+MEDIC: Aveți dificultăți la respirație care se agravează?
+PACIENT: Da, de ieri până acum s-a înrăutățit. Nu pot vorbi fără să mă opresc să respir.
+---
+DIAGNOSTIC PREZUMTIV: Embolie pulmonară masivă — post-chirurgical ortopedic cu tromboflebită profundă dreaptă, hipotensiune, hemoptizie și tahicardie, cu factori de risc multipli. Diferențial 1: Pneumonie cu infarct pulmonar — hemoptizie posibilă, dar hipotensiunea și contextul post-operator pledează pentru EP. Diferențial 2: Pneumotorax spontan — durere toracică bruscă, dar absența factorilor constitutivi și contextul tromboembolism sunt mai probabili.
+CUVINTE CHEIE: embolie pulmonară, tromboflebită, post-operator, hemoptizie, hipotensiune, tahicardie, anticoagulare urgentă

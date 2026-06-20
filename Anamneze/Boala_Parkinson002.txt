@@ -1,0 +1,55 @@
+MEDIC: Bună ziua. Ce observați legat de sănătatea dumneavoastră?
+
+PACIENT: Mâna dreaptă tremură de aproape doi ani.
+
+MEDIC: Tremorul apare când folosiți mâna sau în repaus?
+
+PACIENT: Mai ales când stau liniștit. Dacă iau ceva în mână, parcă se liniștește.
+
+MEDIC: Ați observat dificultăți la mers?
+
+PACIENT: Da. Merg mai greu și cu pași mici.
+
+MEDIC: Ați avut căderi?
+
+PACIENT: Nu, dar simt că mă dezechilibrez uneori.
+
+MEDIC: Vi se pare că mișcările sunt mai lente?
+
+PACIENT: Da. Îmi ia mai mult timp să mă îmbrac sau să mă întorc în pat.
+
+MEDIC: Familia a observat schimbări?
+
+PACIENT: Soția spune că sunt mai rigid și că nu mai clipesc la fel de des.
+
+MEDIC: Scrisul s-a modificat?
+
+PACIENT: Da. Scriu tot mai mic și înghesuit.
+
+MEDIC: Aveți constipație?
+
+PACIENT: Da. De câțiva ani.
+
+MEDIC: Simțiți mirosurile normal?
+
+PACIENT: Nu prea. Parcă nu mai simt mirosul mâncării.
+
+MEDIC: Aveți tulburări de somn?
+
+PACIENT: Soția spune că vorbesc și mă agit în somn.
+
+MEDIC: Există Parkinson în familie?
+
+PACIENT: Nu știu pe nimeni.
+
+MEDIC: Câți ani aveți?
+
+PACIENT: 66 de ani.
+
+MEDIC: Tremorul este mai mult pe o parte?
+
+PACIENT: Da. Mai ales pe dreapta.
+
+MEDIC: Simțiți rigiditate musculară?
+
+PACIENT: Da. Parcă sunt înțepenit dimineața.

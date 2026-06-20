@@ -1,0 +1,31 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Neurologie - Urgență
+Diagnostic prezumtiv: AVC ischemic - teritoriu ACM stângă
+Data: 2026-05-16
+Medic: Dr. Ionașcu Radu
+
+MEDIC: Doamnă, când exact au apărut simptomele?
+PACIENT (soțul răspunde): În urmă cu 2 ore, la 8:30 dimineața. Eram la masă și brusc nu mai putea vorbi. Brațul drept nu l-a mai putut ridica.
+
+MEDIC: A mai avut episoade similare, chiar trecătoare?
+SOȚ: Da! Acum 3 săptămâni a mai avut o oră în care nu vorbea clar, dar a trecut. Nu am venit atunci.
+
+MEDIC: Are tensiune sau fibrilație atrială?
+SOȚ: Tensiune mare, da. Fibrilație atrială - i-a zis medicul dar ea nu lua anticoagulant.
+
+MEDIC: Ia medicamente pentru tensiune?
+SOȚ: Lua Amlodipina, dar neregulat.
+
+MEDIC: Are diabet?
+SOȚ: Nu știu exact. La analize îi era glicemia la limită.
+
+MEDIC: Câți ani are?
+SOȚ: 72 de ani.
+
+MEDIC (pacientei): Doamnă, strângeți mâna mea cu mâna dreaptă?
+PACIENTĂ: (nu poate, deviere oculă spre stânga, afazie)
+
+DIAGNOSTIC PREZUMTIV: AVC ischemic acut hemisferă stângă (afazie, hemiplegie dreaptă, deviere oculă). Fibrilație atrială posibil emboligenă. Fereastră tromboliză deschisă - acțiune urgentă.
+
+CUVINTE CHEIE: deficit motor brusc, afazie, deviere oculă, fibrilație atrială, anticoagulant absent, AIT anterior netratat, hipertensiune, fereastră terapeutică

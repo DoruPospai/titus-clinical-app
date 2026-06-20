@@ -1,0 +1,30 @@
+SPECIALITATE: Gastroenterologie
+COD_DIAGNOSTIC: K90.0
+DATA: 29.01.2024
+MEDIC: Dr. Oana Mihai
+---
+MEDIC: Bună ziua, cu ce vă pot ajuta?
+PACIENT: Am diaree de ani de zile, merg la baie de 3-4 ori pe zi. Am obosit.
+MEDIC: Cum este scaunul? Aspect, consistență?
+PACIENT: Apos, urât mirositor, parcă gras. Uneori cu bucăți nedigerate.
+MEDIC: Aveți dureri abdominale?
+PACIENT: Da, balonare mai ales. Burta se umflă după mâncare și mă doare difuz.
+MEDIC: Ați observat că anumite alimente declanșează simptomele?
+PACIENT: Parcă după pâine și paste e mai rău. Dar nu am fost sigură niciodată.
+MEDIC: Ați slăbit?
+PACIENT: Da, sunt slabă și nu pot lua în greutate deși mânânc.
+MEDIC: Aveți oboseală?
+PACIENT: Oboseală cronică, zi de zi. Am 33 de ani și mă simt ca la 60.
+MEDIC: Aveți anemie sau deficit de vitamine?
+PACIENT: Da, mi s-a spus că am fier mic și vitamina D scăzută, și vitamina B12 la limită.
+MEDIC: Aveți dureri la oase sau la mușchi?
+PACIENT: Mă dor oasele, mai ales la șolduri. Și crampe musculare noaptea.
+MEDIC: Există boli autoimune în familie — tiroidă, diabet, alt?
+PACIENT: Mama are tiroidă Hashimoto. Sora are diabet.
+MEDIC: Aveți erupții pe piele?
+PACIENT: Da, de când eram mică am o iritație pe coate și genunchi, cu mâncărimi. Doctorii au zis că e eczema.
+MEDIC: Ați mai investigat intestinul vreodată?
+PACIENT: Am făcut o colonoscopie acum 3 ani, normală. Dar nu s-a uitat la intestinul subțire.
+---
+DIAGNOSTIC PREZUMTIV: Boală celiacă adultă cu malabsorbție — femeie tânără cu diaree cronică, balonare, malnutriție, policarențe și dermatită herpetiformă probabilă, cu istoric familial de autoimunitate. Diferențial 1: Sindrom de intestin iritabil — simptome similare, dar policarențele și pierderea ponderală exclud etiologia funcțională. Diferențial 2: Boala Crohn — afectare ileon posibilă, dar absența durerilor severe și tabloul autoimun pledează pentru celiachie.
+CUVINTE CHEIE: boală celiacă, malabsorbție, diaree cronică, balonare, policarențe, dermatită herpetiformă, anticorpi anti-tTG

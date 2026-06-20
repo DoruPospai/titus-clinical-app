@@ -1,0 +1,28 @@
+SPECIALITATE: Psihiatrie
+COD_DIAGNOSTIC: F43.1
+DATA: 10.02.2024
+MEDIC: Dr. Mara Dobre
+---
+MEDIC: Bună ziua, ce vă aduce la consultație?
+PACIENT: Am coșmaruri în fiecare noapte de un an. Nu mai dorm. Și ziua nu pot funcționa normal.
+MEDIC: Ce fel de coșmaruri?
+PACIENT: Retrăiesc accidentul. Exact cum s-a întâmplat. Mă trezesc cu inima ieșind din piept.
+MEDIC: Când a avut loc accidentul?
+PACIENT: Acum un an. Un accident de mașină grav. Am fost spitalizată 3 săptămâni.
+MEDIC: În timpul zilei aveți flashbackuri sau retrăiți momente din accident?
+PACIENT: Da, uneori în trafic mi se pare că văd din nou camioanele și mă blochez complet. Nu mai știu unde sunt.
+MEDIC: Evitați să mergeți cu mașina sau în locuri care vă amintesc de accident?
+PACIENT: Da, nu am mai condus de un an. Și evit șoselele. Ocolesc chiar și să mă uit la știri cu accidente.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 35 de ani.
+MEDIC: Aveți reacții de alarmă exagerate?
+PACIENT: Dacă cineva mă atinge pe neașteptate sau trânțește o ușă sar imediat. Inima îmi sare.
+MEDIC: Aveți dificultăți de concentrare sau de memorie?
+PACIENT: Nu mai pot citi o pagină. Mintea o ia razna mereu.
+MEDIC: Aveți gânduri de a vă face rău?
+PACIENT: Nu, dar uneori simt că nu mai am rost. Oboseala e enormă.
+MEDIC: Aveți relații cu familia sau cu prietenii?
+PACIENT: M-am distanțat de toți. Nu vreau să le spun ce simt.
+---
+DIAGNOSTIC PREZUMTIV: Tulburare de stres post-traumatic cronică — femeie cu traumă severă, coșmaruri recurente, flashbackuri diurne, evitare, hipervigilență, sentimente de detașare și izolare socială timp de un an. Diferențial 1: Depresie majoră post-traumatică — tristețe și izolare prezente, dar simptomele de reexperimentare sunt caracteristice PTSD. Diferențial 2: Tulburare de anxietate generalizată — anxietate și hipervigilență, dar nu legate de un eveniment traumatic specific.
+CUVINTE CHEIE: PTSD, traumă, coșmaruri, flashbackuri, evitare, hipervigilență, psihoterapie EMDR

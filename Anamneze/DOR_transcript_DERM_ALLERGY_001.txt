@@ -1,0 +1,32 @@
+CASE: Reacție alergică cutanată / prurit
+DIALOG_ID: DERM_ALLERGY_001
+
+Doctor: Ce a apărut pe piele?
+
+Patient: M-am umplut de pete roșii și mă mănâncă rău pielea.
+
+Doctor: De când?
+
+Patient: De aseară. A început pe brațe și apoi s-a întins pe piept.
+
+Doctor: Ați mâncat ceva nou sau ați luat vreun medicament?
+
+Patient: Am început un antibiotic acum două zile.
+
+Doctor: Aveți umflături la buze, limbă sau față?
+
+Patient: Buzele parcă sunt puțin umflate, dar respir bine.
+
+Doctor: Aveți dificultăți de respirație?
+
+Patient: Nu, nu mă sufoc.
+
+Doctor: Aveți febră?
+
+Patient: Nu.
+
+Doctor: Mâncărimea este continuă?
+
+Patient: Da, mă scarpin întruna. E foarte deranjant.
+
+Doctor: Vom evalua reacția alergică și decidem dacă trebuie oprit antibioticul.

@@ -1,0 +1,26 @@
+
+════════════════════════════════════════════════════════════════
+DIALOG 1 — Insuficiență cardiacă
+════════════════════════════════════════════════════════════════
+
+CASE: Dispnee de efort și edeme la pacient vârstnic
+DIALOG_ID: DLG_CARDIO_HEART_FAILURE_001
+
+Doctor: Bună ziua. Ce vă aduce astăzi?
+Patient: Mă sufoc când urc scările. Înainte mergeam fără probleme, acum mă opresc la primul etaj.
+Doctor: De când a apărut această problemă?
+Patient: De vreo două luni, dar în ultima săptămână e mai rău.
+Doctor: Noaptea dormiți bine?
+Patient: Nu. Mă trezesc cu senzația că nu am aer și trebuie să stau cu capul ridicat pe două perne.
+Doctor: Ați observat umflături la picioare?
+Patient: Da, spre seară mi se umflă glezna și picioarele. Dimineața e mai bine.
+Doctor: Simțiți și inima cum bate?
+Patient: Uneori da, simt cum îmi bate inima neregulat. Mă sperie.
+Doctor: Ați mai avut probleme cu inima?
+Patient: Am tensiunea mare de mulți ani. Și colesterolul crescut.
+Doctor: Vă simțiți obosit?
+Patient: Foarte obosit. Nu mai am putere deloc. Fac câțiva pași și obosesc.
+Doctor: Aveți tuse?
+Patient: Da, tușesc mai ales noaptea. Uneori scot și puțină flegmă.
+
+═══════════════════════════════════════════════

@@ -1,0 +1,30 @@
+SPECIALITATE: ORL
+COD_DIAGNOSTIC: H71
+DATA: 28.03.2024
+MEDIC: Dr. Ioana Radu
+---
+MEDIC: Bună ziua, ce probleme aveți la urechi?
+PACIENT: Am infecție la urechea dreaptă care nu trece. De 2 ani tot cu picături și antibiotice.
+MEDIC: Cât de des apar episoadele?
+PACIENT: Cam la 2-3 luni se înrăutățește. Ies secreții urât mirositoare.
+MEDIC: Auziți bine la urechea afectată?
+PACIENT: Nu, la urechea dreaptă aud mult mai slab. A scăzut auzul treptat.
+MEDIC: Aveți amețeli sau vertij?
+PACIENT: Uneori amețesc, mai ales când îmi curăț urechea.
+MEDIC: Aveți dureri la ureche?
+PACIENT: Dureri apar în episoadele acute. Între episoade, mai mult o senzație de plenitudine.
+MEDIC: Aveți bâzâit în ureche?
+PACIENT: Da, tinnitus constant în urechea dreaptă de un an.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 38 de ani.
+MEDIC: Ați avut probleme la urechi în copilărie?
+PACIENT: Da, otite frecvente, am avut tub de drenaj la 5 ani.
+MEDIC: V-a observat vreun medic ceva specific la timpan?
+PACIENT: Mi s-a spus că timpanul e perforat. Am o gaură din care iese.
+MEDIC: Aveți paralizie facială sau amorțeală la față?
+PACIENT: Nu, nu am paralizie, dar doctorii s-au îngrijorat să nu apară.
+MEDIC: Aveți dureri de cap persistente sau febră?
+PACIENT: Ocazional dureri de cap. Fără febră în prezent.
+---
+DIAGNOSTIC PREZUMTIV: Otită medie cronică colesteatomatoasă — bărbat cu perforație timpanică veche, secreție urât mirositoare recurentă, hipoacuzie progresivă și tinnitus, cu risc de complicații (paralizie facială, labirintita). Diferențial 1: Otită medie cronică simplă — perforație timpanică fără colesteatom, dar mirosul și recidivele pledează pentru colesteatom. Diferențial 2: Tumoră de apex petros — rar, CT mastoid diferențiază.
+CUVINTE CHEIE: colesteatom, otită cronică, perforație timpanică, hipoacuzie, tinnitus, secreție urât mirositoare, timpanotomie

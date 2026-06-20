@@ -1,0 +1,30 @@
+SPECIALITATE: Cardiologie
+COD_DIAGNOSTIC: I40.0
+DATA: 03.03.2024
+MEDIC: Dr. Radu Popa
+---
+MEDIC: Ce vă aduce astăzi la urgențe?
+PACIENT: Mă doare la piept de ieri, parcă mă apasă. Și inima parcă îmi bate neregulat.
+MEDIC: Cum ați fost cu sănătatea în ultima lună?
+PACIENT: Am avut o gripă urâtă acum 2 săptămâni. Febră, tuse, dureri de oase. Am crezut că a trecut, dar ieri a început durerea asta.
+MEDIC: Durerea de piept apare la efort sau și în repaus?
+PACIENT: Mai ales în repaus. Nu am mers nicăieri, stăteam pe canapea și mi-a venit.
+MEDIC: Se iradiază durerea undeva — în braț, în spate, în gât?
+PACIENT: Nu, stă la piept, dar uneori mai jos, la stomac parcă.
+MEDIC: Aveți dificultăți la respirație?
+PACIENT: Da, și oboseală mare. Ieri am vrut să mă ridic să merg la baie și am amețit.
+MEDIC: Aveți vârsta de...?
+PACIENT: 28 de ani. Nu am avut probleme cu inima niciodată.
+MEDIC: Inima vă bate mai repede sau mai lent decât normal?
+PACIENT: Mai repede, parcă fuge. Și uneori simt bătăi în plus, ca un tresărit.
+MEDIC: Aveți febră în momentul de față?
+PACIENT: Ieri seară am măsurat 37,8. Azi dimineață 37,4.
+MEDIC: Aveți dureri la mișcarea toracelui, la respirație adâncă?
+PACIENT: Da, când respir adânc mă doare mai tare.
+MEDIC: Ați luat ceva pentru durere?
+PACIENT: Ibuprofen, dar nu prea a ajutat.
+MEDIC: Există boli autoimune sau infecții în familie?
+PACIENT: Sora mea are lupus, dar eu nu am nimic asemănător.
+---
+DIAGNOSTIC PREZUMTIV: Miocardită virală acută — tânăr post-sindrom gripal cu durere toracică pericardică, palpitații și oboseală marcată. Diferențial 1: Pericardită acută — durere pleuritică prezentă, dar palpitațiile și oboseala marcată sugerează afectare miocardică. Diferențial 2: Sindrom coronarian acut — exclus prin vârstă și context post-viral, dar troponinele vor diferenția.
+CUVINTE CHEIE: miocardită, post-viral, durere toracică, palpitații, oboseală, tahicardie, troponine

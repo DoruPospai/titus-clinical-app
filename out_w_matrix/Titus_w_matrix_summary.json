@@ -1,0 +1,16 @@
+{
+  "script": "Titus_build_w_matrix_direct.py",
+  "diseases": 2989,
+  "oversized_skipped": 415,
+  "patients_processed": 226776612,
+  "patients_below_threshold": 47415381,
+  "triplets_accumulated": 1076661234,
+  "w_nonzero_entries": 1576019,
+  "w_max_value": 355412,
+  "w_sum": 1076661234,
+  "output_npz_mb": 4.06,
+  "cr_threshold": 0.4,
+  "cr_mode": "lambda_fix",
+  "cr_lambda": 0.3,
+  "max_exact_patients_per_disease": 500000
+}

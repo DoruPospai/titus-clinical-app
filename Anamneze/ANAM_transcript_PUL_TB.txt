@@ -1,0 +1,28 @@
+Transcript — ANAM_transcript_PUL_TB
+MEDIC: Dr. Petrescu Ioana
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Tușesc de luni de zile. Nu trece.
+
+MEDIC: Cum este tusea?
+PACIENT: Seacă la început, acum scot și mucus. Uneori am tușit cu sânge.
+
+MEDIC: Aveți febră?
+PACIENT: Seara și noaptea, mă simt fierbinte. Dimineața trece.
+
+MEDIC: Transpirați noaptea?
+PACIENT: Transpirații nocturne abundente. Mă trezesc ud.
+
+MEDIC: Ați slăbit?
+PACIENT: Am slăbit fără să încerc, vreo 6 kg în 3 luni.
+
+MEDIC: Ați stat în contact cu cineva care are tuberculoză?
+PACIENT: Da, un coleg de muncă a fost diagnosticat acum 4 luni.
+
+MEDIC: Câți ani aveți și de unde sunteți?
+PACIENT: 38 de ani. Am venit din Moldova acum 2 ani.
+
+MEDIC: Aveți oboseală marcată?
+PACIENT: Extrem de obosit tot timpul.
+
+DIAGNOSTIC PREZUMTIV: Tuberculoză pulmonară activă — tuse cronică cu hemoptizie, transpirații nocturne, scădere ponderală, febră vesperală, contact TB, proveniență zonă endemică. Confirmare IDR, Quantiferon, BK spută, CT toracic. CUVINTE CHEIE: tuberculoza, tuse cronica, hemoptizie, transpiratii nocturne, scadere ponderala, febra vesperala, contact TB

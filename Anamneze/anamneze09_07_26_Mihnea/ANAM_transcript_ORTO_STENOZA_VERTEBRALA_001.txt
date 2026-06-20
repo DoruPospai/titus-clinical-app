@@ -1,0 +1,30 @@
+SPECIALITATE: Ortopedie-Neurochirurgie
+COD_DIAGNOSTIC: M48.06
+DATA: 19.03.2024
+MEDIC: Dr. Gabriel Ciupitu
+---
+MEDIC: Bună ziua, cu ce durere v-ați prezentat?
+PACIENT: Picioarele mă dor și îmi amorțesc la mers. Trebuie să mă opresc după 100-200 de metri.
+MEDIC: Câți ani aveți?
+PACIENT: 69 de ani.
+MEDIC: Durerea apare la mers și cedează la repaus?
+PACIENT: Da, dacă mă opresc sau mă aplec în față dispar în câteva minute.
+MEDIC: Vă simțiți mai bine la mers în urcuș sau coborâș?
+PACIENT: La urcuș cu coloana aplecata înainte sunt mai bine. La coborâș mai rău.
+MEDIC: Aveți dureri lombare?
+PACIENT: Da, spate jos tot timpul. Durerea la picioare e mai rea decât spatele.
+MEDIC: Aveți probleme cu urinarea sau defecarea?
+PACIENT: Nu, nu am probleme.
+MEDIC: Aveți tensiune sau diabet?
+PACIENT: Tensiune mare, tratata. Diabet ușor.
+MEDIC: Fumați?
+PACIENT: Da, fumez de 40 de ani.
+MEDIC: Aveți RMN lombosacrat?
+PACIENT: Da, stenoza de canal la L3-L4 și L4-L5.
+MEDIC: Ați facut fizioterapie?
+PACIENT: Da, 2 serii de kinetoterapie — ameliorare temporara.
+MEDIC: La ce distanta vă opriti acum față de un an?
+PACIENT: Acum 100 de metri, anul trecut 400 de metri.
+---
+DIAGNOSTIC PREZUMTIV: Stenoza de canal lombar simptomatică cu claudicatie neurogena progresiva — bărbat 69 ani cu claudicatie tip neurogenic (ameliorare la flexie anterioara, agravare la extensie), RMN confirmat stenoza L3-L5, esec fizioterapie, deteriorare progresiva. Indicatie chirurgicala (decompresie). Diferențial 1: Claudicatie vasculara (ateroze membre inferioare) — pulsuri periferice reduse, ABI redus, durere muscular nu neural. Diferențial 2: Neuropatie periferica — DZ, distribuție diferita, EMG diferentiaza.
+CUVINTE CHEIE: stenoza canal lombar, claudicatie neurogenă, RMN lombosacrat, decompresie chirurgicala, flexie amelioreaza, extensie agravează, mielopatie

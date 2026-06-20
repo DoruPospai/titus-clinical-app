@@ -1,0 +1,28 @@
+SPECIALITATE: Geriatrie-Nutritie
+COD_DIAGNOSTIC: E46
+DATA: 11.03.2024
+MEDIC: Dr. Irina Sabau
+---
+MEDIC: Bună ziua, cine o aduce pe doamna?
+APARTINATOR: Fiica. Mama are 77 de ani. A slabit enorm in 6 luni si e tot mai slaba.
+MEDIC: Câte kilograme a pierdut?
+APARTINATOR: Cam 12 kilograme in 6 luni. Acum cantareste 42 kg la 1,62 m.
+MEDIC: Mananca?
+PACIENT: Nu mi-e foame. Nu simt gustul. E totul fara savoare.
+MEDIC: Aveți proteze dentare? Masticati bine?
+PACIENT: Protezele nu mai tin bine. Mi-e rusine sa mananc in public.
+MEDIC: Aveți depresie sau tristete?
+PACIENT: De cand a murit sotul meu acum un an... nu ma mai bucur de nimic.
+MEDIC: Aveți dificultati la inghitit?
+PACIENT: Un pic. Uneori tusesc la baut.
+MEDIC: Aveți boli cronice?
+PACIENT: Inima, tensiune, diabet. Multe pastile care imi strica pofta.
+MEDIC: Cum e autonomia — se descurca singura?
+APARTINATOR: Nu mai iese din casa, nu gateste, mânca ce ii duc eu.
+MEDIC: Aveți dureri care o impiedica sa manance?
+PACIENT: Burta ma doare câteodată. Guri nu.
+MEDIC: A facut controlul anual la medicul de familie?
+APARTINATOR: Nu mai vine de 2 ani, nu vrea sa iasa.
+---
+DIAGNOSTIC PREZUMTIV: Malnutritie proteico-calorica severa la varstnica cu sindrom de fragilitate — varstnica 77 ani, pierdere ponderala 12 kg/6 luni (>10% din greutatea corporala), BMI critic (<16), disfagie usoara, depresie (dol recent), anorexie, izolare, polimedicatie, probleme dentare. Nutritie enterala + suport psiho-social. Diferențial 1: Cancer gastric sau alte neoplazii — pierdere ponderala involuntara obligatoriu exclusa. Diferențial 2: Hipotiroidism — metabolic, mai ales la varstnica.
+CUVINTE CHEIE: malnutritie, fragilitate varstnica, sarcopenie, pierdere ponderala involuntara, disfagie, depresie, nutritie enterala

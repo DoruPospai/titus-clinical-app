@@ -1,0 +1,32 @@
+
+================================================================
+Transcript — ANAM_transcript_GAS_IBS
+MEDIC: Dr. Constantin Elena
+================================================================
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Dureri abdominale care trec după ce merg la toaletă. De ani de zile.
+
+MEDIC: Cum sunt scaunele?
+PACIENT: Variabile. Uneori constipat zile întregi, apoi diaree bruscă. Niciodată normal.
+
+MEDIC: Aveți balonare sau gaze?
+PACIENT: Balonare enormă după masă. Mă simt umflat tot timpul. Și zgomote intestinale.
+
+MEDIC: Aveți sânge în scaun sau scaune nocturne?
+PACIENT: Nu, niciodată sânge. Niciodată noaptea.
+
+MEDIC: Există situații care agravează simptomele?
+PACIENT: Stresul agravează tot. La examene sau situații tensionate e cel mai rău.
+
+MEDIC: Ați pierdut în greutate?
+PACIENT: Nu, greutatea e stabilă.
+
+MEDIC: Câți ani aveți și există boli intestinale în familie?
+PACIENT: 34 de ani. Mama a avut ceva similar, nu știu exact diagnosticul.
+
+MEDIC: Simptomele sunt prezente de cât timp?
+PACIENT: De vreo 5 ani, de când am început serviciul.
+
+DIAGNOSTIC PREZUMTIV: Sindrom de colon iritabil — dureri abdominale ameliorate de defecație, alternantă constipație-diaree, balonare, fără sânge, agravare la stres, simptome cronice. Confirmare prin excludere — colonoscopie normală, calprotectina fecală normală. CUVINTE CHEIE: colon iritabil, durere abdominala, alternanta diaree constipatie, balonare, stres, fara sange, cronic
+

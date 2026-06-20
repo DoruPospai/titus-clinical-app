@@ -1,0 +1,34 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Hematologie / Medicină internă
+Diagnostic prezumtiv: Anemie feriprivă
+Data: 2026-05-09
+Medic: Dr. Apostol Anca
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Sunt obosită tot timpul, palid mi-am observat în oglindă, și mă amețesc când mă ridic brusc.
+
+MEDIC: Aveți palpitații sau scurtare de respirație?
+PACIENT: Da, la efort ușor mă sufoc și simt inima bate repede.
+
+MEDIC: Ați observat menstruații abundente?
+PACIENT: Da, menstruații foarte abundente de un an. Schimb 6-8 tampoane pe zi.
+
+MEDIC: Aveți apetit pentru lucruri ciudate - gheată, lut, praf de cretă?
+PACIENT: Îmi mânânc unghiile mult și îmi plac gusturile metalice. Nu știam că are legătură.
+
+MEDIC: Aveți unghii fragile, cădere de păr, glosodinie?
+PACIENT: Unghii fragile da, păr cade mult, și am limba uscată și dureroasă uneori.
+
+MEDIC: Ce valori ați avut la hemoleucogramă?
+PACIENT: Hemoglobina 7.8, adică joasă. Și fierul seric aproape 0.
+
+MEDIC: Urmați dietă specială?
+PACIENT: Vegetarianism de 2 ani.
+
+MEDIC: Câți ani aveți?
+PACIENT: 27 de ani.
+
+DIAGNOSTIC PREZUMTIV: Anemie feriprivă severă (Hb 7.8, Fe seric scăzut), etiologie multifactorială: menoragie + dietă vegetariană. Simptome de pica (pagofagie).
+
+CUVINTE CHEIE: fatigabilitate, paloare, amețeli posturale, menoragie, pica, glosodinie, unghii fragile, cădere păr, Hb 7.8, vegetarianism

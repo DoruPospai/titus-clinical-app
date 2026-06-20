@@ -1,0 +1,30 @@
+SPECIALITATE: Nefrologie / Reumatologie
+COD_DIAGNOSTIC: E85.4
+DATA: 03.06.2024
+MEDIC: Dr. Nora Vasile
+---
+MEDIC: Bună ziua, ce vă aduce la specialist?
+PACIENT: Am artrită reumatoidă de 15 ani și acum am apărut umflat la picioare. Mi s-a zis că e de la rinichi.
+MEDIC: De cât timp sunt umflăturile?
+PACIENT: De vreo 4-5 luni, treptat. Am crezut că e efectul medicamentelor.
+MEDIC: Ați observat ceva la urină?
+PACIENT: Da, e spumoasă și albicioasă câteodată. Și mai multă noaptea.
+MEDIC: Aveți tensiunea mare?
+PACIENT: Da, recent mi-a crescut tensiunea. Nu am mai avut probleme cu asta.
+MEDIC: Ați slăbit?
+PACIENT: Da, cam 6 kg în 4 luni. Fără dietă.
+MEDIC: Aveți oboseală mai mare?
+PACIENT: Oboseală cruntă. Și fără apetit.
+MEDIC: Aveți diaree sau dureri abdominale?
+PACIENT: Da, diaree intermitentă de câteva luni. Și balonare.
+MEDIC: Luați medicamente pentru artrită?
+PACIENT: Metotrexat și un antiinflamator. De 15 ani.
+MEDIC: Aveți vârsta de...?
+PACIENT: 58 de ani.
+MEDIC: Aveți probleme cu inima sau cu ficatul?
+PACIENT: Mi s-a spus că inima e puțin mărită. Ficatul nu știu.
+MEDIC: Analizele recente?
+PACIENT: Creatinina crescută și proteine în urină mult. Medicul de familie m-a trimis urgent.
+---
+DIAGNOSTIC PREZUMTIV: Amiloidoză renală secundară (AA) pe artrită reumatoidă veche — bărbat cu boală inflamatorie cronică de lungă durată, sindrom nefrotic, HTA, cardiomegalie și disfuncție gastrointestinală. Diferențial 1: Nefropatia membranoasă iatrogenă la metotrexat — posibilă, dar amiloidoza AA este complicația clasică a AR de lungă durată. Diferențial 2: Amiloidoză primară (AL) — plasmocitom exclus cu imunoelectroforeză serică.
+CUVINTE CHEIE: amiloidoză secundară, artrită reumatoidă, proteinurie, sindrom nefrotic, amiloid AA, cardiomegalie, biopsie grăsime abdominală

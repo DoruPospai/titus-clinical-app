@@ -1,0 +1,28 @@
+SPECIALITATE: Chirurgie Colorectala
+COD_DIAGNOSTIC: K60.3
+DATA: 08.04.2024
+MEDIC: Dr. Calin Preda
+---
+MEDIC: Bună ziua, cu ce problema anorecta ați venit?
+PACIENT: Am un orificiu mic langa anus care elimina lichid de câteva luni. Murdareste lenjeria.
+MEDIC: De cât timp?
+PACIENT: De 6 luni. Inainte a fost un abces, a fost drenant, si nu s-a inchis niciodata complet.
+MEDIC: Durere?
+PACIENT: La abces a durut mult. Acum e mai mult disconfort si secretie persistenta.
+MEDIC: Câți ani aveți?
+PACIENT: 41 de ani.
+MEDIC: Aveți Crohn sau colita?
+PACIENT: Nu am diagnostic, dar am diaree frecventa de câțiva ani.
+MEDIC: Aveți febra sau secretia e purulenta?
+PACIENT: Câteodată secretia e galbena cu miros. Si febra mica ocazional.
+MEDIC: Ati mai avut abcese perianale anterior?
+PACIENT: Da, doua in ultimii 3 ani, tratate cu incizie.
+MEDIC: Aveți dureri abdominale sau diaree cu sânge?
+PACIENT: Da, câteodată sânge în scaun si crampe.
+MEDIC: Localizarea orificiului fistular?
+PACIENT: La 3 cm de anus, lateral.
+MEDIC: Ati facut colonoscopie?
+PACIENT: Nu.
+---
+DIAGNOSTIC PREZUMTIV: Fistula perianala transsfinctiana recurenta, posibil în context Crohn — barbat 41 ani cu abcese perianale repetate, fistula cronică cu secretie purulenta, diaree cronica, sânge în scaun sugestive pentru boala Crohn perianala. Colonoscopie cu biopsii obligatorii. Diferențial 1: Fistula criptoglandulara simpla — fara boala inflamatorie intestinala, cel mai frecvent. Diferențial 2: Fistula tuberculoasa perianala — contact TBC, aspect cronic.
+CUVINTE CHEIE: fistula perianala, abces perianal, boala Crohn perianala, secretie purulenta, fistulotomie, seton, infliximab

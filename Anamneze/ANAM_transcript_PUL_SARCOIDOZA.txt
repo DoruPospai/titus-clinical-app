@@ -1,0 +1,25 @@
+Transcript — ANAM_transcript_PUL_SARCOIDOZA
+MEDIC: Dr. Ionescu Radu
+
+MEDIC: Bună ziua. Ce simptome aveți?
+PACIENT: Oboseală marcată de câteva luni și tuse seacă.
+
+MEDIC: Aveți dificultăți de respirație?
+PACIENT: Da, la efort moderat.
+
+MEDIC: Aveți ganglioni umflați?
+PACIENT: Da, la gât și la axile, simt ceva.
+
+MEDIC: Aveți probleme oculare sau cutanate?
+PACIENT: Ochii sunt roșii și iritați uneori. Și am niște leziuni pe piele.
+
+MEDIC: Aveți febră sau scădere ponderală?
+PACIENT: Febră mică uneori. Am slăbit câțiva kilograme.
+
+MEDIC: Câți ani aveți?
+PACIENT: 34 de ani.
+
+MEDIC: Aveți dureri articulare?
+PACIENT: Da, gleznele mă dor periodic.
+
+DIAGNOSTIC PREZUMTIV: Sarcoidoză pulmonară stadiu II — adenopatii hilare bilaterale, tuse seacă, dispnee, uveită, leziuni cutanate, artralgii, la adult tânăr. Confirmare CT toracic, biopsie ganglionară, ACE seric. CUVINTE CHEIE: sarcoidoza, adenopatii hilare, tuse seaca, uveita, leziuni cutanate, artralgii, adult tanar

@@ -1,0 +1,30 @@
+SPECIALITATE: Urologie / Nefrologie
+COD_DIAGNOSTIC: N13.3
+DATA: 19.02.2024
+MEDIC: Dr. Cristian Badea
+---
+MEDIC: Bună ziua, ce simptome aveți?
+PACIENT: Mă doare în spate, la stânga, și am senzația că nu pot goli vezica complet.
+MEDIC: Cum este durerea — constantă sau vine în crize?
+PACIENT: Mai mult constantă, o presiune. Dar uneori apare o durere mai ascuțită, mai ales după ce beau mult.
+MEDIC: De cât timp?
+PACIENT: De câteva luni, dar ultima lună e mai rău.
+MEDIC: Aveți vârsta de...?
+PACIENT: 48 de ani.
+MEDIC: Aveți dificultăți la urinat — jet slab, întreruperi?
+PACIENT: Da, jetul e mai slab, trebuie să mă forțez. Și de câteva ori am simțit că nu mai pot urina deloc.
+MEDIC: Aveți sânge în urină?
+PACIENT: Da, am văzut urină roz câteva ori în ultima lună.
+MEDIC: Aveți febră sau frisoane?
+PACIENT: Ieri am avut febră 38,5 și frisoane. A venit brusc.
+MEDIC: Aveți pietre la rinichi cunoscute?
+PACIENT: Mi s-au descoperit calculi acum 2 ani. Un calcul mic la ureter stâng.
+MEDIC: Mergeți frecvent la toaletă noaptea?
+PACIENT: Da, mă trezesc de 3-4 ori noaptea. Am crezut că e prostata.
+MEDIC: S-a investigat prostata?
+PACIENT: Am făcut un PSA acum 6 luni — normal. Ecografia a arătat rinichiul stâng ceva mai mare.
+MEDIC: Aveți greutăți la urcatul scărilor sau oboseală generală?
+PACIENT: Mai obosit în ultima perioadă, da.
+---
+DIAGNOSTIC PREZUMTIV: Hidronefroză obstructivă gr.III stângă pe calcul ureteral — bărbat cu durere lombară stângă, hematurie, obstrucție micțională, febră (pielonefrită obstructivă probabilă) și calcul ureteral cunoscut. Diferențial 1: Adenom de prostată cu retenție cronică — disurie și nicturie prezente, dar lateralizarea și calculul pledează pentru obstrucție ureterală. Diferențial 2: Tumoră urotelială ureterală — obstrucție fără calcul, cistoscopia și uro-CT diferențiază.
+CUVINTE CHEIE: hidronefroză, calcul ureteral, obstrucție, pielonefrită obstructivă, hematurie, jet slab, uro-CT

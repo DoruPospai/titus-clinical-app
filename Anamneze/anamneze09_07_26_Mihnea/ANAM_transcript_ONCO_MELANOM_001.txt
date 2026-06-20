@@ -1,0 +1,30 @@
+SPECIALITATE: Dermatologie / Oncologie
+COD_DIAGNOSTIC: C43.9
+DATA: 08.03.2024
+MEDIC: Dr. Simona Rădulescu
+---
+MEDIC: Bună ziua, ce vă aduce?
+PACIENT: Am o aluniță pe spate care s-a schimbat mult. Nevasta mi-a spus să vin urgent.
+MEDIC: Cum s-a schimbat?
+PACIENT: A crescut, e mai mare decât era. Și marginile ei nu mai sunt rotunde, are niște excrescențe.
+MEDIC: De când a crescut și în cât timp?
+PACIENT: Schimbarea a apărut în câteva luni. A crescut repede.
+MEDIC: A apărut sângerare sau suintare din acea aluniță?
+PACIENT: Da, acum 2 săptămâni a sângerat când m-am șters cu prosopul. Și acum are o crustă.
+MEDIC: Aveți mai multe alunițe sau noduli noi apăruți pe piele?
+PACIENT: Am mai apărut niște pete mici maro pe braț. Și un nodul mic lângă alunița cea mare.
+MEDIC: Aveți ganglioni umflați — la subraț, la gât?
+PACIENT: La subrațul drept simt ceva. Mi-a zis nevasta că are o bilă.
+MEDIC: Aveți vârsta de...?
+PACIENT: 51 de ani. Lucrez mult afară, la soare.
+MEDIC: Ați avut arsuri solare în copilărie sau ați stat mult la solar?
+PACIENT: Arsuri solare am avut de nenumărate ori în copilărie. Solarul nu am folosit.
+MEDIC: Aveți pierdere în greutate sau oboseală?
+PACIENT: Da, câteva kilograme și oboseală din primăvară.
+MEDIC: Aveți dureri de cap sau tulburări de vedere?
+PACIENT: Dureri de cap am câteodată, recent mai des.
+MEDIC: Există melanom sau cancere în familie?
+PACIENT: Un frate cu cancer de piele, nu știu exact ce tip.
+---
+DIAGNOSTIC PREZUMTIV: Melanom malign în stadiu avansat cu metastaze ganglionare — bărbat cu leziune pigmentată rapid schimbată, criteriile ABCDE prezente, sângerare, satelitoză cutanată și adenopatie axilară. Diferențial 1: Carcinom bazocelular pigmentat — creștere lentă de obicei, dar melanomul este mai probabil clinic. Diferențial 2: Nev displazic — leziune benignă, dar modificările rapide și sângerarea impun excizie și histologie urgentă.
+CUVINTE CHEIE: melanom, ABCDE, satelitoză, adenopatie axilară, sângerare, expunere solar, metastaze

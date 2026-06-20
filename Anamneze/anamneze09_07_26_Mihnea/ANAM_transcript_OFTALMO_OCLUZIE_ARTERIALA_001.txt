@@ -1,0 +1,26 @@
+SPECIALITATE: Oftalmologie-Urgenta
+COD_DIAGNOSTIC: H34.1
+DATA: 22.01.2024
+MEDIC: Dr. Mirel Ionescu
+---
+MEDIC: Bună ziua! Cât de repede ați venit?
+PACIENT: Am sunat la urgente, mi-am pierdut vederea la ochiul drept cu 2 ore în urma. Brusc, instantaneu.
+MEDIC: Pierderea vederii e totala sau partiala?
+PACIENT: Totala, ochiul drept nu vede nimic. Ca și cum lumina s-a stins.
+MEDIC: A fost precedata de episoade de pierdere tranzitorie?
+PACIENT: Da! De 2 ori în ultima saptamana vederea a disparut câteva minute si s-a intors. Nu am dat importanta.
+MEDIC: Câți ani aveți?
+PACIENT: 71 de ani.
+MEDIC: Aveți fibrilatie atriala sau probleme cardiace?
+PACIENT: Da, fibrilatie atriala. Nu iau anticoagulant, mi-a zis medicul ca am risc de sângerare.
+MEDIC: Aveți tensiune, diabet, colesterol?
+PACIENT: Tensiune si colesterol crescut, da. Tratate partial.
+MEDIC: Aveți durere la ochi?
+PACIENT: Nu doare. Asta mi s-a parut ciudat.
+MEDIC: Aveți simptome neurologice — slabiciune la fata sau mână?
+PACIENT: Nu am simtit nimic altceva.
+MEDIC: Ochiul stâng cum este?
+PACIENT: Stânga vad bine.
+---
+DIAGNOSTIC PREZUMTIV: Ocluzie de artera centrala a retinei (OACR) — urgenta oftalmo-neurologica — bărbat 71 ani cu pierdere acuta nedureroasa de vedere, episoade tranzitorii prealabile (amaurosis fugax), FA neanticulata, risc cardiovascular major. Fereastra terapeutică probabil depasita. CT cerebral, ecocord, anticoagulare. Diferențial 1: Ocluzie de vena centrala a retinei — hemoragii masive retiniene, mai puțin urgent. Diferențial 2: Neuropatie optica ischemica anterioara — afectare parțiala câmp vizual, fara amaurosis fugax tipic.
+CUVINTE CHEIE: ocluzie artera centrala retina, amaurosis fugax, fibrilatie atriala, urgenta oftalmo-vasculara, pierdere vedre acuta nedureroasa, anticoagulare, ecocord

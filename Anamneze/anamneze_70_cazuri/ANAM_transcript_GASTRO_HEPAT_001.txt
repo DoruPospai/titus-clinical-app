@@ -1,0 +1,37 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Gastroenterologie / Hepatologie
+Diagnostic prezumtiv: Hepatită cronică B
+Data: 2026-05-01
+Medic: Dr. Munteanu Victor
+
+MEDIC: Bună ziua. Ce vă aduce la hepatologie?
+PACIENT: Am primit o analiză de sânge cu transaminaze mari și mi s-a spus să văd un specialist.
+
+MEDIC: Cât de mari sunt transaminazele?
+PACIENT: ALT era 120, AST 95. Valori normale nu știu exact.
+
+MEDIC: Ați avut vreodată icter - îngălbenire a pielii sau ochilor?
+PACIENT: Da, acum 15 ani am îngălbenit. Mi s-a spus hepatită, dar nu știu ce fel.
+
+MEDIC: Ați făcut test pentru hepatita B sau C?
+PACIENT: AcumB mi s-a spus că sunt AgHBs pozitiv la donare de sânge acum 10 ani.
+
+MEDIC: Consumați alcool?
+PACIENT: Ocazional, weekend-uri, 2-3 beri.
+
+MEDIC: Luați medicamente sau suplimente?
+PACIENT: Nimic cronic. Ibuprofen la dureri.
+
+MEDIC: Aveți oboseală, pierdere de apetit?
+PACIENT: Da, mă obosesc repede și dimineața nu-mi e foame.
+
+MEDIC: Există ciroză sau cancer hepatic în familie?
+PACIENT: Tatăl meu a murit de cancer la ficat. Nu știu dacă a avut hepatită.
+
+MEDIC: Câți ani aveți?
+PACIENT: 42 de ani.
+
+DIAGNOSTIC PREZUMTIV: Hepatită cronică B activă (AgHBs pozitiv, transaminaze crescute), risc de progresie la ciroză. Necesită evaluare completă virusologică și fibroscan.
+
+CUVINTE CHEIE: AgHBs pozitiv, transaminaze crescute, icter în antecedente, oboseală, antecedente familiale cancer hepatic, alcool ocazional

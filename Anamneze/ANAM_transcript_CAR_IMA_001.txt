@@ -1,0 +1,44 @@
+Transcript — ANAM_transcript_CAR_IMA_001
+MEDIC: Dr. Popescu Alexandru
+================================================================
+
+MEDIC: Bună ziua. Ce simptome vă aduc astăzi?
+PACIENT: Am o durere în piept de vreo oră. Apasă ca o greutate, nu pot respira bine.
+
+MEDIC: Unde exact simțiți durerea?
+PACIENT: În mijlocul pieptului, în spatele sternului. Parcă îmi stă cineva pe piept.
+
+MEDIC: Iradiază undeva?
+PACIENT: Da, îmi merge în brațul stâng și în maxilar. Și în spate un pic.
+
+MEDIC: Cum a început?
+PACIENT: Brusc, în repaus. Stăteam pe canapea și deodată am simțit.
+
+MEDIC: Aveți transpirații?
+PACIENT: Da, transpir abundent, sunt ud. Și mi-e greață.
+
+MEDIC: Aveți senzație că inima bate neregulat?
+PACIENT: Inima îmi bate ciudat, neregulat, simt că sare bătăi.
+
+MEDIC: Aveți dificultăți de respirație?
+PACIENT: Da, respir greu de când a început durerea.
+
+MEDIC: Ați mai avut dureri de piept înainte?
+PACIENT: Am mai avut dureri la efort, dar treceau la repaus. Acum nu trece.
+
+MEDIC: Aveți tensiune arterială mare?
+PACIENT: Da, hipertensiv de 10 ani, iau medicamente.
+
+MEDIC: Aveți diabet?
+PACIENT: Da, diabet zaharat tip 2 de 5 ani.
+
+MEDIC: Fumați sau ați fumat?
+PACIENT: Am fumat 20 de ani, am lăsat acum 3 ani.
+
+MEDIC: Există boli de inimă în familie?
+PACIENT: Tatăl meu a murit de infarct la 58 de ani.
+
+MEDIC: Câți ani aveți?
+PACIENT: 62 de ani.
+
+DIAGNOSTIC PREZUMTIV: Infarct miocardic acut STEMI — durere toracică retrosternală cu iradiere în brațul stâng și maxilar, debut brusc în repaus, transpirații profuze, greață, dispnee, antecedente de angină de efort. Factori de risc: HTA, DZ tip 2, fumat, antecedente familiale. ECG urgent, troponine, cateterism de urgență. CUVINTE CHEIE: infarct miocardic, durere retrosternala, iradiere brat stang, transpiratie, greata, dispnee, HTA, diabet, fumat, antecedente familiale

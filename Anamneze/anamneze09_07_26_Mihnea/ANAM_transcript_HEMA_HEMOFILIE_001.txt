@@ -1,0 +1,28 @@
+SPECIALITATE: Hematologie
+COD_DIAGNOSTIC: D66
+DATA: 29.02.2024
+MEDIC: Dr. Carmen Ciobanu
+---
+MEDIC: Bună ziua, cu ce problemă vă prezentați?
+PACIENT: Genunchiul meu stâng s-a umflat masiv după un traumatism minor. Îmi sângerează articulațiile de ani de zile.
+MEDIC: Câți ani aveți?
+PACIENT: 22 de ani.
+MEDIC: De la ce vârstă aveți sângerări?
+PACIENT: De copil mic. Prima articulație s-a umflat la 3 ani.
+MEDIC: Aveți diagnosticul pus?
+PACIENT: Hemofilie A, factor VIII deficient. Iau tratament de substituție.
+MEDIC: Ați avut sângerări în alte locuri — mușchi, creier?
+PACIENT: Am avut un hematom de mușchi la coapsă. Și o sângerare cerebrală la 5 ani.
+MEDIC: Frecvența sângerărilor articulare?
+PACIENT: 2-3 pe lună dacă nu iau profilaxia. Cu profilaxia lunar sau mai rar.
+MEDIC: Articulațiile vă limitează?
+PACIENT: Genunchii și gleznele. Am artropatie pe ambii genunchi.
+MEDIC: Luați profilaxia corect?
+PACIENT: Uneori omit. Și factor VIII la cerere.
+MEDIC: Aveți inhibitori detectați?
+PACIENT: Au apărut inhibitori acum 2 ani, cu titru scăzut.
+MEDIC: Sunteți activ fizic?
+PACIENT: Încerc, dar mă tem de traumatisme.
+---
+DIAGNOSTIC PREZUMTIV: Hemofilie A severă cu artropatie hemofilică și inhibitori de titru scăzut — tânăr cu hemofilie A diagnosticată de mic, hemartroza recurentă cu artropatie cronică bilaterală, sângerare cerebrală în antecedente, inhibitori detectați. Ajustare protocol cu emicizumab sau bypass agents. Diferențial 1: Boala von Willebrand severă — timp de sângerare prelungit, tipul 3 imită hemofilia. Diferențial 2: Deficiența de factor IX (Hemofilia B) — clinic identic, diferentiat prin dozaj specific.
+CUVINTE CHEIE: hemofilie A, factor VIII, hemartroza, artropatie hemofilică, inhibitori, profilaxie, emicizumab

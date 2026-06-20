@@ -1,0 +1,28 @@
+Transcript — ANAM_transcript_PUL_COPD
+MEDIC: Dr. Ionescu Mihai
+
+MEDIC: Bună ziua. Ce simptome vă aduc?
+PACIENT: Respir greu de ani de zile. Se înrăutățește progresiv.
+
+MEDIC: La ce efort apare dificultatea de respirație?
+PACIENT: Scurtare a respirației la urcatul scărilor. Chiar și la mers pe plat acum.
+
+MEDIC: Aveți tuse?
+PACIENT: Tușesc de ani de zile, mai ales dimineața. Scot mucus.
+
+MEDIC: Ați fumat?
+PACIENT: Am fumat mulți ani, cam un pachet pe zi. Am renunțat acum 5 ani.
+
+MEDIC: Aveți episoade când respirația se înrăutățește brusc?
+PACIENT: Da, iarna mai ales. Ajung la urgențe de 2-3 ori pe an.
+
+MEDIC: Aveți fluierat la respirație?
+PACIENT: Da, expir cu dificultate și se aude fluierat.
+
+MEDIC: Câți ani aveți?
+PACIENT: 64 de ani.
+
+MEDIC: Ați lucrat cu praf sau substanțe chimice?
+PACIENT: Am lucrat în construcții 20 de ani.
+
+DIAGNOSTIC PREZUMTIV: BPOC moderat-sever — dispnee progresivă la efort, tuse cronică productivă matinală, episoade de exacerbare, fumat cronic, expir cu fluierat. Confirmare spirometrie FEV1/FVC<0.7 post-bronhodilatator. CUVINTE CHEIE: BPOC, COPD, dispnee efort, tuse cronica, fumat, exacerbari, wheeze expirator

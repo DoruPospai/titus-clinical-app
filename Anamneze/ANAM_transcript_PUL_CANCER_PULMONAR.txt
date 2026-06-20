@@ -1,0 +1,28 @@
+Transcript — ANAM_transcript_PUL_CANCER_PULMONAR
+MEDIC: Dr. Radu Silviu
+
+MEDIC: Bună ziua. Ce simptome vă deranjează?
+PACIENT: Tușesc de câteva luni. Tusea e mai rea ca înainte.
+
+MEDIC: Ați tușit cu sânge?
+PACIENT: Da, de câteva ori am tușit cu sânge.
+
+MEDIC: Ați slăbit?
+PACIENT: Vreo 7 kg în ultimele 3 luni fără să încerc.
+
+MEDIC: Aveți durere în piept?
+PACIENT: Durere surdă în piept drept, persistentă.
+
+MEDIC: Aveți răgușeală?
+PACIENT: Da, vocea mi s-a schimbat în ultimele 2 luni.
+
+MEDIC: Ați fumat?
+PACIENT: Am fumat mulți ani, un pachet pe zi. Am oprit acum 3 ani.
+
+MEDIC: Câți ani aveți?
+PACIENT: 61 de ani.
+
+MEDIC: Oboseală?
+PACIENT: Extrem de obosit, nu mai am energie.
+
+DIAGNOSTIC PREZUMTIV: Neoplasm pulmonar primar — tuse cronică cu hemoptizie, scădere ponderală marcată, durere toracică persistentă, voce răgușită, fumat cronic, vârstă >60 ani. Confirmare CT toracic, bronhoscopie, biopsie. CUVINTE CHEIE: cancer pulmonar, hemoptizie, scadere ponderala, ragusita, durere toracica, fumat, varsta

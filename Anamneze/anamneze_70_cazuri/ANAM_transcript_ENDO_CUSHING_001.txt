@@ -1,0 +1,40 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Endocrinologie
+Diagnostic prezumtiv: Sindrom Cushing endogen
+Data: 2026-05-19
+Medic: Dr. Voicu Raluca
+
+MEDIC: Bună ziua. Ce vă aduce la endocrinologie?
+PACIENT: Doctore, m-am îngrășat ciudat - numai pe burtă și față, nu la picioare. Și am vergeturi roz pe abdomen.
+
+MEDIC: De cât timp s-a instalat această modificare?
+PACIENT: De vreo 18 luni. Am luat 12 kg, mai ales pe trunchi.
+
+MEDIC: Aveți tensiune arterială mare?
+PACIENT: Da, recent mi-a apărut, 155/95. Nu aveam înainte.
+
+MEDIC: Aveți slăbiciune musculară? Dificultăți la ridicat din scaun?
+PACIENT: Da! Mă ridic greu din fotoliu, ca un bătrân. Am 34 de ani.
+
+MEDIC: Aveți vânătăi ușoare sau pielea subțire?
+PACIENT: Exact, pielea s-a subțiat vizibil și îmi apar vânătăi din nimic.
+
+MEDIC: Cum este dispoziția? Aveți depresie sau anxietate?
+PACIENT: Sunt deprimată și iritabilă. Am plâns mult fără motiv.
+
+MEDIC: Aveți tulburări menstruale?
+PACIENT: Da, ciclul e neregulat de un an.
+
+MEDIC: Luați corticoizi sau alte medicamente?
+PACIENT: Nu, niciun tratament cronic.
+
+MEDIC: Aveți acnee sau păr excesiv pe față?
+PACIENT: Da, acnee la 34 de ani, și un puf mai des pe față.
+
+MEDIC: Câți ani aveți?
+PACIENT: 34 de ani.
+
+DIAGNOSTIC PREZUMTIV: Sindrom Cushing endogen (obezitate centripetă, vergeturi violacee, HTA de novo, miopatie proximală, piele subțire, disfuncție menstruală, depresie). Necesită cortizol liber urinar 24h, test supresia la dexametazonă, RMN hipofizar.
+
+CUVINTE CHEIE: obezitate centripetă, vergeturi violacee, hipertensiune de novo, miopatie proximală, piele subțire, labilitate emoțională, hipercortizolism, cortizol urinar

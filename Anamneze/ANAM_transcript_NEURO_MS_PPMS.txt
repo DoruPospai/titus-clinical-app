@@ -1,0 +1,31 @@
+Transcript — ANAM_transcript_NEURO_MS_PPMS
+MEDIC: Dr. Constantin Mihai
+
+MEDIC: Bună ziua. Ce simptome vă aduc?
+PACIENT: De 2 ani merg din ce în ce mai greu. Nu am pusee, se înrăutățește constant.
+
+MEDIC: A existat vreodată o perioadă de ameliorare?
+PACIENT: Nu, niciodată. Merge tot mai prost, fără nicio îmbunătățire.
+
+MEDIC: Aveți amorțeli sau furnicături?
+PACIENT: Da, la ambele picioare, permanent. Uneori și la mâini.
+
+MEDIC: Aveți probleme de echilibru?
+PACIENT: Tremur la mâini când țintesc ceva. Și merg cu picioarele depărtate pentru echilibru.
+
+MEDIC: Probleme urinare?
+PACIENT: Da, nu mai pot controla urinarea bine. E jenant.
+
+MEDIC: Aveți slăbiciune la picioare?
+PACIENT: Picioarele sunt rigide și grele, nu le ridic bine. Urc greu scările.
+
+MEDIC: Există scleroza multiplă în familie?
+PACIENT: Nu știu de nimeni.
+
+MEDIC: Câți ani aveți?
+PACIENT: 48 de ani.
+
+MEDIC: Simptomele se agravează la căldură?
+PACIENT: Da, vara e mai rău. Și când sunt obosit.
+
+DIAGNOSTIC PREZUMTIV: Scleroză multiplă primară progresivă — deteriorare continuă fără pusee, parapareza spastică progresivă, ataxie, tulburări sfincteriene, parestezii bilaterale, agravare la căldură. Confirmare RMN — leziuni T2 periventriculate și medulare, absența leziunilor Gd+. CUVINTE CHEIE: scleroza multipla progresiva, fara pusee, mers dificil, parapareaza, amorțeli bilaterale, incontinenta urinara, agravare caldura

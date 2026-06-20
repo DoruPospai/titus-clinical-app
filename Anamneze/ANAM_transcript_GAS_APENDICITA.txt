@@ -1,0 +1,26 @@
+
+================================================================
+Transcript — ANAM_transcript_GAS_APENDICITA
+MEDIC: Dr. Constantin Mihai
+================================================================
+
+MEDIC: Bună ziua. De când aveți durerea?
+PACIENT: A început azi dimineață în jurul buricului, acum s-a mutat în dreapta jos. Se agravează.
+
+MEDIC: Aveți greață sau vărsături?
+PACIENT: Da, am vomitat de două ori. Nu mi-e foame deloc.
+
+MEDIC: Aveți febră?
+PACIENT: Da, am măsurat 38.2 acasă.
+
+MEDIC: Durerea se agravează la mers sau la tuse?
+PACIENT: Da, la orice mișcare e mai rău. Am venit cu mașina aplecată.
+
+MEDIC: Aveți scaune diareice sau constipație?
+PACIENT: Constipat de ieri. Nu am putut merge la toaletă.
+
+MEDIC: Câți ani aveți?
+PACIENT: 22 de ani.
+
+MEDIC: Durerea este continuă sau vine în valuri?
+PACIENT: Continuă, nu trece. Se agravează treptat de dimineață.

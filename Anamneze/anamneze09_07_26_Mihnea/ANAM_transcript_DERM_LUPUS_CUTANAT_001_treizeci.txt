@@ -1,0 +1,25 @@
+SPECIALITATE: Dermatologie
+COD_DIAGNOSTIC: L93.0
+DATA: 07.04.2024
+MEDIC: Dr. Elena Munteanu
+---
+MEDIC: Bună ziua, ce vă aduce astăzi?
+PACIENT: Am o erupție roșie pe față, pe nas și pe obraji, care se agravează la soare.
+MEDIC: De cât timp aveți această problemă?
+PACIENT: De vreo 4 luni. La început am crezut că e roșeață obișnuită, dar nu a trecut.
+MEDIC: Aveți dureri articulare sau oboseală?
+PACIENT: Da, am mâinile dureroase dimineața și sunt obosită tot timpul.
+MEDIC: Forma erupției — este simetrică, traversează nasul?
+PACIENT: Da, exact, e ca o fluture pe față, de pe un obraz pe altul, prin nas.
+MEDIC: Aveți ulcerații în gură sau cădere de păr?
+PACIENT: Cădere de păr da, mult mai mult decât normal. Și am avut 2 răni în gură.
+MEDIC: Aveți febră sau probleme renale cunoscute?
+PACIENT: Febră ușoară 37,5 uneori. Renale nu știu.
+MEDIC: Există LES în familie?
+PACIENT: Mătușa mea are LES, da.
+MEDIC: Luați medicamente?
+PACIENT: Anticoncepționale de 2 ani.
+MEDIC: Aveți fotosensibilitate marcată?
+PACIENT: La soare se agravează enorm, imediat. Evit ieșirea la soare.
+MEDIC: Aveți fenomen Raynaud — degetele devin albe sau albastre la frig?
+PACIENT: Da, iarna degetele devin albe și după roșii la frig.

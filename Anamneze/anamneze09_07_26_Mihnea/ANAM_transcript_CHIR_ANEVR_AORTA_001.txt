@@ -1,0 +1,28 @@
+SPECIALITATE: Chirurgie Vasculara
+COD_DIAGNOSTIC: I71.4
+DATA: 14.03.2024
+MEDIC: Dr. Dinu Apostol
+---
+MEDIC: Bună ziua, cu ce problema vasculara ați venit?
+PACIENT: Am durere puternica în spate si burtă de câteva ore, senzatie de pulsatie în burtă.
+MEDIC: Durerea a aparut brusc?
+PACIENT: Da, brusc, la 3 dimineata m-a trezit.
+MEDIC: Câți ani aveți?
+PACIENT: 72 de ani.
+MEDIC: Știați ca aveti anevrism de aorta?
+PACIENT: Da, imi s-a descoperit acum 2 ani, 5,2 cm la ultima masurare acum 6 luni. Nu am acceptat operatia.
+MEDIC: Tensiunea dumneavoastra e controlata?
+PACIENT: Nu prea, mai sar pastilele.
+MEDIC: Fumati?
+PACIENT: Da, fumez de 40 de ani.
+MEDIC: Durerea iradiaza undeva?
+PACIENT: Posterior, in spate jos si pe flancul stang.
+MEDIC: Simtiti ca lesinati sau ametelui?
+PACIENT: Sunt palid, soția spune ca sunt transpirat si arata rau.
+MEDIC: Aveți tensiunea masurata acum?
+PACIENT: Asistenta mi-a luat — 90/60.
+MEDIC: Aveți pulsuri la picioare?
+PACIENT: Doctore, ma simt foarte rau.
+---
+DIAGNOSTIC PREZUMTIV: Anevrism de aorta abdominala in fisurare/ruptura — URGENTA CHIRURGICALA MAXIMA — barbat 72 ani, anevrism 5,2 cm anterior netratat, debut acut durere dorsolombar, hipotensiune (soc hemoragic), triada clasica Ruptură AAA: durere + hipotensiune + masa pulsatila. Interventie chirurgicala imediata (EVAR sau chirurgie deschisa). Diferențial 1: Colica renala — durere similara, dar fara hipotensiune sau pulsatie. Diferențial 2: Disectie aortica acuta — aorta toracica si abdominala, durere toracica anterioara "sfâsietoare".
+CUVINTE CHEIE: anevrism aorta abdominala, ruptura AAA, triada clasica, soc hemoragic, EVAR, urgenta vasculara, hipotensiune

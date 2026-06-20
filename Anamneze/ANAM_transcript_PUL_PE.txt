@@ -1,0 +1,28 @@
+Transcript — ANAM_transcript_PUL_PE
+MEDIC: Dr. Stanescu Bogdan
+
+MEDIC: Bună ziua. Ce s-a întâmplat?
+PACIENT: Durere bruscă în piept și nu mai pot respira bine. A apărut acum 2 ore.
+
+MEDIC: Aveți și tuse sau febră?
+PACIENT: Tușesc puțin, fără febră. Am tușit o dată cu puțin sânge.
+
+MEDIC: Ați zburat recent sau ați stat mult timp imobilizat?
+PACIENT: Am zburat recent, zbor lung de 10 ore acum 3 zile.
+
+MEDIC: Aveți picioarele umflate?
+PACIENT: Piciorul stâng e umflat și dureros de ieri. Credeam că am lovit.
+
+MEDIC: Aveți istoric de tromboze?
+PACIENT: Nu, prima dată.
+
+MEDIC: Luați contraceptive?
+PACIENT: Da, pilule contraceptive de 2 ani.
+
+MEDIC: Câți ani aveți?
+PACIENT: 34 de ani.
+
+MEDIC: Aveți senzație că inima bate repede?
+PACIENT: Da, palpitații de când a început durerea.
+
+DIAGNOSTIC PREZUMTIV: Embolie pulmonară — debut brusc dispnee + durere pleuritică, hemoptizie, TVP picior stâng, zbor lung recent, contraceptive orale. Confirmare CT angiografie pulmonară, D-dimeri, eco cord. CUVINTE CHEIE: embolie pulmonara, durere piept brusca, dispnee, hemoptizie, picior umflat, zbor lung, contraceptive, TVP

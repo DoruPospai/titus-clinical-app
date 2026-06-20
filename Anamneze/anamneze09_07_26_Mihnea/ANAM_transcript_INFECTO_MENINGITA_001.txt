@@ -1,0 +1,28 @@
+SPECIALITATE: Boli Infecțioase-Urgenta
+COD_DIAGNOSTIC: G00.9
+DATA: 03.03.2024
+MEDIC: Dr. Viorel Tudoran
+---
+MEDIC: Bună ziua. Văd că ați venit la urgențe. Ce simptome aveți?
+PACIENT: Durere de cap groaznica, cea mai puternică din viata mea. Și îmi e greata, lumina mă deranjează.
+MEDIC: De cât timp?
+PACIENT: De 6 ore, a apărut brusc la 2 noaptea.
+MEDIC: Câți ani aveți?
+PACIENT: 22 de ani, student.
+MEDIC: Aveți febră?
+PACIENT: Soția mi-a luat temperatura — 39,5.
+MEDIC: Gâtul — aveți rigiditate, nu puteți apleca capul?
+PACIENT: Da, gâtul e rigid, doare să încerc să îl aplec.
+MEDIC: Aveți pete sau erupție pe piele?
+PACIENT: Nu am văzut, dar soția zice că are ceva roșu pe picior care nu dispare la presiune.
+MEDIC: Aveți confuzie sau ați pierdut conștienta?
+PACIENT: Sunt... nu mă simt bine la cap. Soția spune că vorbesc ciudat.
+MEDIC: Ați fost la cursuri sau ați stat în grup recent?
+PACIENT: Da, în cămin cu colegi de cameră.
+MEDIC: Aveți fotofobie marcată?
+PACIENT: Lumina e insuportabilă, trebuie să închid ochii.
+MEDIC: Aveți vărsături?
+PACIENT: Da, am vomitat de 3 ori.
+---
+DIAGNOSTIC PREZUMTIV: Meningita bacteriana acuta, probabil meningococica — tânăr student, debut brusc cu triada: cefalee + febra + rigiditate de ceafa, fotofobie, vărsături, pete petechialie (purpura fulminans posibil), statut mental alterat. Urgenta maxima — tratament imediat cu antibiotice fara a astepta LP. Diferențial 1: Hemoragie subarahnoida — cefalee în tun, dar fara febra sau sindrom meningean infecțios. Diferențial 2: Encefalita herpetică — HSV, afectare focala, alterarea conștiintei, EEG.
+CUVINTE CHEIE: meningita bacteriana, Neisseria meningitidis, triada meningiana, purpura fulminans, LP, ceftriaxona urgenta, profilaxie contacti

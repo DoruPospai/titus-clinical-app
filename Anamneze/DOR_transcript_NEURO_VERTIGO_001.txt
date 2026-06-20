@@ -1,0 +1,32 @@
+CASE: Vertij pozițional / amețeală rotatorie
+DIALOG_ID: NEURO_VERTIGO_001
+
+Doctor: Ce fel de amețeală aveți?
+
+Patient: Nu e doar slăbiciune. Se învârte camera cu mine.
+
+Doctor: Când apare?
+
+Patient: Când întorc capul în pat sau când mă ridic brusc.
+
+Doctor: Cât durează episodul?
+
+Patient: Puțin, poate jumătate de minut, dar e foarte neplăcut.
+
+Doctor: Aveți greață?
+
+Patient: Da, îmi vine să vomit când se învârte totul.
+
+Doctor: Ați avut pierdere de auz sau țiuit în urechi?
+
+Patient: Nu am pierdut auzul, dar uneori am un țiuit scurt.
+
+Doctor: Aveți slăbiciune într-o mână sau dificultăți de vorbire?
+
+Patient: Nu, nimic de genul acesta.
+
+Doctor: Vă doare capul?
+
+Patient: Nu tare. Doar mă sperie amețeala.
+
+Doctor: Vom face câteva manevre de examinare pentru vertij pozițional și vom verifica semnele neurologice.

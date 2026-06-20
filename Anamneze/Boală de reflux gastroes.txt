@@ -1,0 +1,22 @@
+DIALOG 3 — Boală de reflux gastroesofagian
+════════════════════════════════════════════════════════════════
+
+CASE: Arsuri retrosternale și disfagie
+DIALOG_ID: DLG_DIGEST_GERD_001
+
+Doctor: Ce vă deranjează?
+Patient: Mă arde la stomac după ce mănânc. Urcă în sus, până în gât.
+Doctor: De cât timp?
+Patient: De câteva luni. Mai ales după masă mare sau seara.
+Doctor: Se agravează când vă întindeți?
+Patient: Exact. Când stau culcat pe spate e mai rău. Dorm cu capul ridicat.
+Doctor: Aveți dificultăți la înghițit?
+Patient: Uneori înghit greu, mai ales solidele. Parcă se opresc la mijloc.
+Doctor: Aveți răgușeală sau tuse?
+Patient: Da, sunt răgușit dimineața. Și tușesc fără să știu de ce.
+Doctor: Ați observat dacă stresul agravează simptomele?
+Patient: Cu siguranță. La serviciu am mult stres și atunci e mai rău.
+Doctor: Aveți greutate în plus?
+Patient: Da, am câteva kilograme în plus de vreo doi ani.
+Doctor: Consumați alcool sau cafea?
+Patient: Cafea trei pe zi. Alcool rar, la ocazii.

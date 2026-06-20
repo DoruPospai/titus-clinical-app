@@ -1,0 +1,30 @@
+SPECIALITATE: Psihiatrie-Medicina Interna
+COD_DIAGNOSTIC: F32.1
+DATA: 28.03.2024
+MEDIC: Dr. Ioana Costache
+---
+MEDIC: Bună ziua, cum va simtiti?
+PACIENT: Nu stiu, doctore. Am venit ca tot mai simt dureri de cap, de stomac, de tot. Medicii nu gasesc nimic.
+MEDIC: Câți ani aveți?
+PACIENT: 73 de ani.
+MEDIC: De cât timp aveti aceste dureri?
+PACIENT: De vreo 6 luni. Dureri de cap aproape zilnic. Burta ma doare câteodată. Si inima bate nebuneste uneori.
+MEDIC: Ati facut investigatii?
+PACIENT: Mult. Coronare bune, gastroscopia buna, RMN cap bun. Nimeni nu gaseste nimic.
+MEDIC: Dormiti bine?
+PACIENT: Nu dorm bine de luni. Ma trezesc la 3-4 si nu mai pot adormi.
+MEDIC: Aveți energie, pofta de mancare?
+PACIENT: Nu. Nu imi mai place nimic. Mancarea are gust de nimic.
+MEDIC: Iesiti din casa? Vedeti familia, prietenii?
+PACIENT: Nu mai ies. Nu am chef de nimic. Familia vine sa ma vada dar nu ma bucur.
+MEDIC: Ce ganduri aveti?
+PACIENT: Ganduri grele. Ma gândesc ca n-am facut nimic bun in viata. Ca sunt povara.
+MEDIC: Va ganditi ca nu mai vreti sa traiti?
+PACIENT: Câteodată... câteodată ma gândesc ca as prefera sa nu mai fiu.
+MEDIC: V-ati simtit vreodata fericit sau plin de energie in exces?
+PACIENT: Nu, doar asa greu, de multa vreme.
+MEDIC: Ați pierdut pe cineva drag recent?
+PACIENT: Sotul meu acum un an. N-am mai depasit.
+---
+DIAGNOSTIC PREZUMTIV: Depresie majora mascata cu somatizare la varstnic, episod sever cu ideatie pasiv-suicidara — barbata 73 ani, dol complicat post-deces sot, simptome somatice multiple fara substrat organic (cefalee, epigastrice, palpitații), insomnie terminala, anhedonie, retragere sociala, ideatie de autovatamare pasiva. Evaluare risc suicidar si antidepresiv + suport psihologic. Diferențial 1: Dol necomplicat — simptomele depasesc durata si severitatea normala pentru dol. Diferențial 2: Tulburare de somatizare (tulburare somatoforma) — simptome fizice multiple, dar este secundara depresiei, nu primara.
+CUVINTE CHEIE: depresie mascata, somatizare, varstnic, dol complicat, insomnie terminala, anhedonie, ideatie suicidara pasiva

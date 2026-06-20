@@ -1,0 +1,30 @@
+SPECIALITATE: Cardiologie / Boli Infecțioase
+COD_DIAGNOSTIC: I33.0
+DATA: 19.04.2024
+MEDIC: Dr. Alina Ionescu
+---
+MEDIC: Bună ziua, ce probleme aveți?
+PACIENT: Am febră de vreo 3 săptămâni, nu trece. Am luat paracetamol dar vine mereu înapoi.
+MEDIC: Cât de mare e febra și când apare?
+PACIENT: Vreo 38-39 grade, mai ales seara. Și transpir mult noaptea, schimb pijamaua.
+MEDIC: Aveți dureri undeva anume?
+PACIENT: Mă doare în spate, mai ales la rinichi parcă. Și articulațiile de la mâini mă dor.
+MEDIC: Ați observat ceva la piele sau la unghii?
+PACIENT: Da, am apărut niște pete roșii mici sub unghii, ca niște aschii. Și pe palme am niște pete roșii sensibile.
+MEDIC: Aveți probleme cu inima sau ați avut?
+PACIENT: Mi s-a zis că am o valvă la inimă cu probleme, de când eram mic. Nu am mai verificat de ani.
+MEDIC: Folosiți droguri injectabile?
+PACIENT: Da... heroină, dar încerc să mă las. Știu că e rău.
+MEDIC: Ați observat ceva la ochii sau la degetele de la picioare?
+PACIENT: La un picior am o pată roșie dureroasă pe deget, parcă e bătătură dar nu e.
+MEDIC: Aveți dificultăți la respirație?
+PACIENT: Da, mai ales în ultimele zile simt că respir mai greu, mai ales la efort.
+MEDIC: Ați mers la vreun medic cu aceste simptome?
+PACIENT: Am fost la un cabinet, mi-au dat antibiotic dar nu s-a întâmplat nimic.
+MEDIC: Aveți dureri de cap sau v-ați simțit confuz sau amețit?
+PACIENT: Mă doare capul uneori și am simțit că mi se împletică picioarele o dată.
+MEDIC: Unde lucrați sau locuiți în prezent?
+PACIENT: Stau cu prieteni, nu prea am o adresă stabilă.
+---
+DIAGNOSTIC PREZUMTIV: Endocardită infecțioasă pe valvă nativă (probabil stafilococică) — febră prelungită + utilizator de droguri IV + valvulopatie preexistentă + splinter hemorrhages + noduli Osler. Diferențial 1: Bacteriemie fără endocardită — febră și frisoane, dar semnele periferice pledează pentru localizare valvulară. Diferențial 2: Osteomielită vertebrală — dureri de spate și febră, poate coexista.
+CUVINTE CHEIE: endocardită, febră prelungită, splinter hemorrhages, droguri intravenoase, valvulopatie, noduli Osler, embolism septic

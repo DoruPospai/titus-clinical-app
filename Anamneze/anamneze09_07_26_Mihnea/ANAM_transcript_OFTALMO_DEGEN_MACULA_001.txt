@@ -1,0 +1,30 @@
+SPECIALITATE: Oftalmologie
+COD_DIAGNOSTIC: H35.31
+DATA: 13.02.2024
+MEDIC: Dr. Octavia Negoita
+---
+MEDIC: Bună ziua, ce probleme de vedere aveți?
+PACIENT: Vedeam ceva ca o pata neagra în mijlocul câmpului vizual al ochiului drept. A apărut de 2 săptămâni.
+MEDIC: Câți ani aveți?
+PACIENT: 74 de ani.
+MEDIC: Pata a apărut brusc sau progresiv?
+PACIENT: Brusc, într-o dimineata mi-am dat seama că nu văd bine la centru. Ca un gol în vedere.
+MEDIC: Liniile drepte vi se par distorsionate — ondulate?
+PACIENT: Da! Tocmai am observat că tocul ușii nu mai pare drept. E ondulat.
+MEDIC: Aveți diabet sau tensiune?
+PACIENT: Tensiune da, tratata. Nu diabet.
+MEDIC: Fumați sau ați fumat?
+PACIENT: Am fumat 30 de ani, oprit acum 10.
+MEDIC: Există DMLV în familie?
+PACIENT: Mama a pierdut vederea la 80 de ani, nu știu exact cauza.
+MEDIC: Ochiul stâng cum este?
+PACIENT: Stânga văd mai bine, dar și acolo parcă ceva s-a schimbat.
+MEDIC: Ați mai consultat un oftalmolog?
+PACIENT: Da, acum 2 ani mi s-a spus druze la ochi. M-am negligat.
+MEDIC: Folosiți rețea Amsler?
+PACIENT: Nu știam de ea.
+MEDIC: Vederea la distanta, la citit?
+PACIENT: La citit e imposibil cu ochiul drept. La distanta merge cu ochiul stâng.
+---
+DIAGNOSTIC PREZUMTIV: Degenerare maculara legată de vârstă (DMLV) formă umeda (neovasculara) — pacient 74 ani cu scotom central brusc, metamorfopsie, druze preexistente, factori de risc (fumat, HTA, vârstă). OCT + angiofluorografie urgente, indicatie anti-VEGF. Diferențial 1: DMLV forma uscată avansată — atrofie geografica, evolutie mai lentă, fara neovascularizatie. Diferențial 2: Neuropatie optica — afectare câmp vizual diferit, fara metamorfopsie.
+CUVINTE CHEIE: DMLV umeda, scotom central, metamorfopsie, rețea Amsler, druze, anti-VEGF, OCT

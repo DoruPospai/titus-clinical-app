@@ -1,0 +1,36 @@
+CASE: Palpitații / tremor / scădere ponderală / suspiciune hipertiroidie
+DIALOG_ID: ENDO_HYPERTHYROID_001
+
+Doctor: Ce simptome v-au făcut să veniți?
+
+Patient: Îmi bate inima tare, tremur și am slăbit fără să vreau.
+
+Doctor: De când se întâmplă?
+
+Patient: De vreo două luni. La început am crezut că e stres.
+
+Doctor: Aveți poftă de mâncare?
+
+Patient: Da, mănânc mai mult ca înainte, dar tot slăbesc.
+
+Doctor: Transpirați mai mult?
+
+Patient: Da, mi-e cald tot timpul și transpir ușor.
+
+Doctor: Aveți tremur la mâini?
+
+Patient: Da, îmi tremură mâinile când țin o cană.
+
+Doctor: Dormiți bine?
+
+Patient: Nu prea. Mă trezesc des și sunt agitat.
+
+Doctor: Aveți scaune mai dese?
+
+Patient: Da, merg mai des la toaletă, dar nu e diaree apoasă.
+
+Doctor: În familie există boli de tiroidă?
+
+Patient: Mama a avut probleme cu tiroida.
+
+Doctor: Vom verifica hormonii tiroidieni și vom face un consult endocrinologic.

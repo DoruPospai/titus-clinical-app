@@ -1,0 +1,30 @@
+SPECIALITATE: Pneumologie
+COD_DIAGNOSTIC: J84.1
+DATA: 11.04.2024
+MEDIC: Dr. Horia Teodorescu
+---
+MEDIC: Bună ziua, ce simptome aveți?
+PACIENT: Respir tot mai greu. La început doar la efort, acum și la plimbat liniștit.
+MEDIC: De cât timp?
+PACIENT: De vreo 2 ani, dar ultimele 6 luni s-a înrăutățit mult.
+MEDIC: Aveți tuse?
+PACIENT: Tuse seacă, enervantă. Nu trece cu nimic. Mai ales seara.
+MEDIC: Ați primit vreun tratament pentru plămâni?
+PACIENT: Am luat antibiotice că s-a crezut infecție, dar nu s-a schimbat nimic.
+MEDIC: Fumați?
+PACIENT: Da, 30 de ani. Am renunțat acum 5 ani.
+MEDIC: Vârsta dumneavoastră?
+PACIENT: 64 de ani.
+MEDIC: Aveți alte boli — boli reumatologice, reflux gastric?
+PACIENT: Am reflux de ani, iau omeprazol. Și mi s-a spus că am artrită la mâini.
+MEDIC: La ce altitudini sau eforturi simțiți dispneea?
+PACIENT: La un etaj mă opresc. Pe plat pot merge poate 200 de metri.
+MEDIC: Aveți degetele modificate — îngroșate la vârf?
+PACIENT: Da! Doctorul de familie mi-a zis că am hipocratism digital — bățele de tobă. E de mult.
+MEDIC: Aveți palpitații sau picioare umflate?
+PACIENT: Da, ultimele luni mi s-au umflat gleznele.
+MEDIC: Ce activitate ați desfășurat — praf, azbest?
+PACIENT: Am lucrat în construcții 20 de ani.
+---
+DIAGNOSTIC PREZUMTIV: Fibroză pulmonară idiopatică (IPF) — bărbat vârstnic, fumător, cu dispnee progresivă, tuse seacă, hipocratism digital, edeme și expunere la praf de construcții. Diferențial 1: Pneumoconioză (asbestoză) — expunere la praf, tablou similar, HRCT și anamneza profesională diferențiază. Diferențial 2: Fibroză pulmonară în boală de colagen — AR și reflux în context, biopsia și serologiile autoimune vor clarifica.
+CUVINTE CHEIE: fibroză pulmonară, dispnee progresivă, tuse seacă, hipocratism digital, expunere profesională, HRCT, cor pulmonar

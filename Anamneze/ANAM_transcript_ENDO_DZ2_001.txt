@@ -1,0 +1,23 @@
+CASE: Diabet zaharat tip 2 — debut insidios cu simptome clasice
+DIALOG_ID: ANAM_ENDO_DZ2_001
+
+Medic: Ce probleme vă aduc astăzi?
+Pacient: Mă simt obosit tot timpul, de vreo 6 luni. Și am o sete care nu se mai potolește, beau câte 4-5 litri pe zi, apă, ceai, orice.
+Medic: Și urinați mai des?
+Pacient: Da, de asta am venit. Merg la baie la fiecare oră ziua și mă trezesc de 3-4 ori noaptea. Nu mai dorm bine.
+Medic: Ați slăbit?
+Pacient: Nu, din contră. Sunt gras de mulți ani. Cântăresc 115 kilograme la 1.74 înălțime.
+Medic: Alte simptome? Vederea?
+Pacient: Acum că ziceți, de câteva luni parcă văd mai încetoșat. Am crezut că am nevoie de ochelari noi. Și am niște furnicături la tălpi, noaptea mai ales.
+Medic: Răni care se vindecă greu?
+Pacient: Da! Am o mică rană la picior de o lună și nu se vindecă. Soția m-a trimis la medic de asta mai ales.
+Medic: Mâncărime pe piele?
+Pacient: Cam des, mai ales la nivelul intim. Am crezut că e o infecție fungică.
+Medic: Antecedente în familie?
+Pacient: Mama are diabet de 15 ani, insulinodependent. Un unchi la fel. Tata a murit de inimă.
+Medic: Tensiunea?
+Pacient: Mi s-a zis că am tensiune mare acum 2 ani, nu iau tratament regulat.
+Medic: Activitate fizică?
+Pacient: Zero. Lucrez la birou, mașină până la ușă. Mănânc mult, recunosc, mai ales dulciuri.
+Medic: Ați mai făcut analize recent?
+Pacient: Acum 3 ani glicemia era 108, medicul a zis că e la limită și să slăbesc. N-am reușit.

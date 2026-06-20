@@ -1,0 +1,34 @@
+ANAMNEZA MEDICALĂ - TRANSCRIPT
+================================
+Specialitate: Oftalmologie
+Diagnostic prezumtiv: Glaucom cu unghi deschis
+Data: 2026-04-23
+Medic: Dr. Dima Sorin
+
+MEDIC: Bună ziua. Ce probleme vizuale aveți?
+PACIENT: Medicul mi-a trimis pentru că la tonometrie tensiunea oculară e mare. Nu am simptome clare.
+
+MEDIC: Aveți vedere periferică redusă?
+PACIENT: Parcă câteodată nu văd lucrurile din lateral, dar cred că e oboseală.
+
+MEDIC: Aveți dureri de ochi sau cefalee orbitală?
+PACIENT: Nu dureri propriu-zise.
+
+MEDIC: Aveți diabet sau hipertensiune arterială?
+PACIENT: Ambele.
+
+MEDIC: Există glaucom în familie?
+PACIENT: Tatăl meu a orbit de un ochi, nu știam că a avut glaucom.
+
+MEDIC: Ați folosit corticoizi inhalatori sau locali îndelungat?
+PACIENT: Cortizon spray în nas de 5 ani.
+
+MEDIC: Cât timp petreceți în fața ecranului?
+PACIENT: 10-12 ore pe zi, lucrez IT.
+
+MEDIC: Câți ani aveți?
+PACIENT: 52 de ani.
+
+DIAGNOSTIC PREZUMTIV: Glaucom primar cu unghi deschis (tensiune oculară crescută, defect câmp vizual incipient, antecedente familiale). Necesită câmp vizual complet, pachimetrie, OCT nerv optic.
+
+CUVINTE CHEIE: tensiune oculară crescută, defect câmp vizual periferic, antecedente familiale glaucom, diabet, hipertensiune, corticoizi cronici, asimptomatic

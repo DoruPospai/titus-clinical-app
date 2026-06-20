@@ -1,0 +1,30 @@
+SPECIALITATE: Gastroenterologie / Oncologie
+COD_DIAGNOSTIC: C16.9
+DATA: 25.03.2024
+MEDIC: Dr. Viorel Stancu
+---
+MEDIC: Bună ziua, ce vă aduce la consultație?
+PACIENT: Am probleme la stomac de ceva timp. Nu mai mănânc cum mâncam înainte.
+MEDIC: Cum s-a schimbat apetitul?
+PACIENT: Simt că mă satur repede, după câteva îmbucături nu mai pot. Și nu am plăcere să mânânc.
+MEDIC: Aveți dureri la stomac?
+PACIENT: Un fel de presiune în stomac, mai ales după mâncare. Nu o durere tare, mai mult o jenă.
+MEDIC: Ați slăbit?
+PACIENT: Da, vreo 10 kg în 3 luni fără să încerc. Colegii mi-au spus că arăt slab.
+MEDIC: Aveți greață sau vărsături?
+PACIENT: Greață am des. Vărsături mai rar, dar dacă mănânc mai mult uneori dau afară.
+MEDIC: Ați observat ceva la culoarea scaunului?
+PACIENT: Scaunul e mai închis la culoare câteodată, ca smoala. Cred că de la vitamine cu fier.
+MEDIC: Luați vitamine cu fier?
+PACIENT: Nu, de fapt nu iau nimic. A, da, pentru asta am venit.
+MEDIC: Aveți vârsta de...?
+PACIENT: 67 de ani. Fumez de 40 de ani.
+MEDIC: Există boli la stomac în familie?
+PACIENT: Tatăl meu a murit de cancer la stomac la 70 de ani. Și un unchi.
+MEDIC: Ați mai făcut o endoscopie sau investigații la stomac?
+PACIENT: Acum 10 ani mi s-a spus că am Helicobacter, am luat niște pastile și n-am mai mers.
+MEDIC: Aveți dificultăți la înghițit?
+PACIENT: Da, mâncarea pare că se oprește la jumătatea drumului câteodată.
+---
+DIAGNOSTIC PREZUMTIV: Adenocarcinom gastric — vârstnic fumător cu anorexie, scădere ponderală marcată, melenă, disfagie și istoric familial de cancer gastric pozitiv. Diferențial 1: Ulcer gastric malignizat — prezentare similară, endoscopia cu biopsie diferențiază definitiv. Diferențial 2: Limfom gastric MALT pe fond de Helicobacter — posibil la pacient cu H.pylori tratat incomplet.
+CUVINTE CHEIE: cancer gastric, anorexie, scădere ponderală, melenă, disfagie, Helicobacter pylori, istoric familial

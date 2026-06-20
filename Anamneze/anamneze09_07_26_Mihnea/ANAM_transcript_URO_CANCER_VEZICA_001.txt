@@ -1,0 +1,28 @@
+SPECIALITATE: Urologie-Oncologie
+COD_DIAGNOSTIC: C67.9
+DATA: 11.03.2024
+MEDIC: Dr. Lucian Barbu
+---
+MEDIC: Bună ziua, ce simptome vă aduc astăzi?
+PACIENT: Am sânge în urină, fără durere, de câteva ori în ultimele 2 luni.
+MEDIC: Este sânge vizibil sau v-ați dat seama doar la analize?
+PACIENT: Vizibil, urina era roșie. Uneori apar cheaguri.
+MEDIC: Durere la urinare?
+PACIENT: Nu, fără durere. Asta m-a speriat mai tare — sânge fără durere.
+MEDIC: Urinați frecvent sau cu dificultate?
+PACIENT: Mai des la baie noaptea, dar nu am dificultate.
+MEDIC: Câți ani aveți? Fumați?
+PACIENT: 67 de ani. Fumez de 40 de ani, un pachet pe zi.
+MEDIC: Aveți infecții urinare frecvente?
+PACIENT: Am avut 3 infecții tratate cu antibiotice în ultimul an.
+MEDIC: Ați lucrat cu substanțe chimice — vopsele, cauciuc, coloranți?
+PACIENT: Da, 20 de ani în fabrică de vopsele. Pensionat acum 7 ani.
+MEDIC: Aveți dureri lombare sau la nivelul bazinului?
+PACIENT: Câteodată o durere surdă în spate, dreaptă.
+MEDIC: Ați slăbit recent?
+PACIENT: Da, vreo 5 kilograme în 3 luni, fără motiv.
+MEDIC: Aveți hematurie macroscopică chiar acum?
+PACIENT: Nu acum, intermitentă.
+---
+DIAGNOSTIC PREZUMTIV: Carcinom urotelial al vezicii urinare suspectat — bărbat 67 ani cu hematurie macroscopică indoloră, factori de risc major (fumat 40 pack-ani, expunere profesională la coloranți aromatici), pierdere ponderală. Cistoscopie și citologie urinară obligatorii. Diferențial 1: Litiaza renală sau ureterală — hematurie + durere colicativă, dar pacientul este indolor. Diferențial 2: Pielonefrită sau tuberculoză renală — hematurie posibilă, dar tabloul infecțios sau TBC completează.
+CUVINTE CHEIE: hematurie macroscopică indoloră, carcinom urotelial, factori de risc fumăt, expunere profesională, cistoscopie, TURBT

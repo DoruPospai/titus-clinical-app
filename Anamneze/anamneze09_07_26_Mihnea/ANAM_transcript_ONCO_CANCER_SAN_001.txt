@@ -1,0 +1,30 @@
+SPECIALITATE: Oncologie / Chirurgie Mamară
+COD_DIAGNOSTIC: C50.9
+DATA: 05.06.2024
+MEDIC: Dr. Gabriela Ionescu
+---
+MEDIC: Bună ziua, ce vă aduce astăzi?
+PACIENT: M-am dus la mammografie de rutină și mi-au spus să vin urgent la specialist.
+MEDIC: Ați simțit ceva la sân înainte de mammografie?
+PACIENT: Da, de vreo 3 luni am un nodul la sânul stâng. L-am simțit singură când îmi fac autoexaminarea.
+MEDIC: Cum este nodulul — dureros, mobil?
+PACIENT: Nu doare deloc, asta m-a și speriat. Și pare mai dur decât restul. Parcă e lipit de piele.
+MEDIC: Aveți scurgeri din mamelon?
+PACIENT: Nu scurgeri, dar mamelonul stâng mi se pare că s-a retractat puțin, e mai tras înăuntru.
+MEDIC: Aveți ganglioni palpabili la subraț?
+PACIENT: Da, mi-a zis medicul de la mammografie că am ceva și la subraț stâng.
+MEDIC: Aveți vârsta de...?
+PACIENT: 49 de ani. Am menopauza de un an.
+MEDIC: Există cancer în familie?
+PACIENT: Mama a avut cancer la sân la 52 de ani. Și o mătușă din partea mamei.
+MEDIC: Ați născut? Ați alăptat?
+PACIENT: Am doi copii, nu am alăptat.
+MEDIC: Ați luat tratament hormonal pentru menopauză?
+PACIENT: Da, am luat estrogen și progesteron vreo 3 ani pentru bufeuri.
+MEDIC: Aveți dureri osoase sau tuse?
+PACIENT: Am dureri la spate de câteva luni, dar am crezut că e de la birou.
+MEDIC: V-ați simțit mai obosită sau slăbită recent?
+PACIENT: Da, oboseală mai mare din vară.
+---
+DIAGNOSTIC PREZUMTIV: Carcinom mamar invaziv T2N1 — femeie perimenopauzală cu nodul dur, fix, retracție de mamelon, adenopatie axilară și istoric familial puternic pozitiv. Diferențial 1: Fibroadenom — nodul benign posibil, dar fixitatea, retracția și vârsta pledează contra. Diferențial 2: Chist mamar complicat — eco mamară diferențiază, dar mamelonul retractat și ganglionii axilari impun biopsie urgentă.
+CUVINTE CHEIE: cancer mamar, nodul dur, retracție mamelon, adenopatie axilară, istoric familial, tratament hormonal, biopsie

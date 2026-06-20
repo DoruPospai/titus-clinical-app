@@ -1,0 +1,36 @@
+CASE: Dispnee progresivă / edeme gambiere / suspiciune insuficiență cardiacă
+DIALOG_ID: CARDIO_HEART_FAILURE_001
+
+Doctor: Ce problemă v-a adus la consultație?
+
+Patient: Obosesc foarte repede și nu mai pot merge ca înainte. Gâfâi după câțiva pași.
+
+Doctor: De când se întâmplă asta?
+
+Patient: De câteva luni, dar în ultima săptămână s-a accentuat.
+
+Doctor: Respirați greu și noaptea?
+
+Patient: Da. Noaptea trebuie să dorm pe două perne, altfel parcă mă sufoc.
+
+Doctor: Vă treziți din somn din cauza lipsei de aer?
+
+Patient: Da, mă trezesc brusc și trebuie să mă ridic în șezut.
+
+Doctor: Ați observat umflarea picioarelor?
+
+Patient: Da, seara mi se umflă gleznele. Șosetele lasă urme.
+
+Doctor: Aveți durere în piept?
+
+Patient: Nu durere, mai mult o apăsare ușoară când sunt foarte obosit.
+
+Doctor: Aveți tensiune mare?
+
+Patient: Da, de ani de zile. Iau tratament, dar uneori uit.
+
+Doctor: Ați avut infarct sau probleme cardiace înainte?
+
+Patient: Mi s-a spus că am inima mărită, dar nu am mai fost la control.
+
+Doctor: Vom face EKG, ecografie cardiacă și analize. Simptomele pot sugera o problemă de pompă cardiacă.

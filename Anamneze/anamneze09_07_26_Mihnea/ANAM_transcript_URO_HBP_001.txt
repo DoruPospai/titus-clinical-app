@@ -1,0 +1,28 @@
+SPECIALITATE: Urologie
+COD_DIAGNOSTIC: N40
+DATA: 25.03.2024
+MEDIC: Dr. Teodor Negrescu
+---
+MEDIC: Bună ziua, cu ce problemă urologică veniți?
+PACIENT: Merg greu la baie de câțiva ani. Jetul e slab și dau greu drumul.
+MEDIC: Câți ani aveți?
+PACIENT: 68 de ani.
+MEDIC: Cât durează până începe urinarea?
+PACIENT: Stau câteodată și 2 minute înainte să înceapă. E frustrant.
+MEDIC: Urinați noaptea de câte ori?
+PACIENT: De 3-4 ori pe noapte. Nu mai dorm bine de un an.
+MEDIC: Aveți senzație că nu ați golit vezica complet?
+PACIENT: Da, mai am mereu. Simt că mai rămâne.
+MEDIC: Aveți urgență — simțiți că trebuie urgent la baie?
+PACIENT: Da, câteodată nu ajung. Am și câteva picături care scapă.
+MEDIC: Aveți durere sau sânge în urină?
+PACIENT: Nu sânge. Durere ușoară câteodată în zona de jos.
+MEDIC: Ați făcut PSA sau ecografie prostatică?
+PACIENT: PSA a ieșit 8. Ecografia a arătat prostata mare, 60 de grame.
+MEDIC: Luați medicamente — antihipertensive, antidepresive?
+PACIENT: Amlodipina pentru tensiune.
+MEDIC: Ați avut vreodată retenție completă?
+PACIENT: O dată acum 6 luni am ajuns la urgențe, nu puteam deloc. Mi-au pus sondă.
+---
+DIAGNOSTIC PREZUMTIV: Hiperplazie benignă de prostată cu obstrucție infravezicală severă și simptome iritative — bărbat 68 ani cu IPSS sever, prostată 60g, PSA 8, retenție acută în antecedente. PSA necesită corelație cu cancer de prostată. Diferențial 1: Carcinom de prostată — PSA 8 necesită biopsie, simptome obstructive similare. Diferențial 2: Strictura uretrală — obstrucție mecanică, uretrografie rectrogradă diferențiază.
+CUVINTE CHEIE: HBP, simptome micționale, IPSS, PSA crescut, nicturie, retenție urinară, alfa-blocante

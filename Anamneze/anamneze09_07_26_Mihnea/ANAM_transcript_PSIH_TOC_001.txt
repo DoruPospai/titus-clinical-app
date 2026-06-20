@@ -1,0 +1,30 @@
+SPECIALITATE: Psihiatrie
+COD_DIAGNOSTIC: F42
+DATA: 05.03.2024
+MEDIC: Dr. Bogdan Dumitrescu
+---
+MEDIC: Bună ziua, ce vă deranjează?
+PACIENT: Am ritualuri de spălat mâinile care îmi iau ore pe zi. Nu mai pot funcționa.
+MEDIC: De cât timp?
+PACIENT: De vreo 4 ani, dar ultimul an e cel mai rău. Acum îmi ia 3-4 ore pe zi.
+MEDIC: Ce vă face să vă spălați atât de mult?
+PACIENT: Mă tem că am atins ceva murdar și că mă voi îmbolnăvi sau îi voi îmbolnăvi pe alții. Știu că e absurd, dar nu pot să mă opresc.
+MEDIC: Aveți și alte ritualuri sau verificări repetate?
+PACIENT: Da, verific de zeci de ori că am închis gazul, că am încuiat ușa. Plec la serviciu și mă întorc de 3-4 ori să verific.
+MEDIC: Aveți gânduri intruzive care nu vă plac?
+PACIENT: Da, gânduri că voi face rău cuiva involuntar, sau că am uitat ceva important. Știu că nu sunt adevărate.
+MEDIC: Aveți vârsta de...?
+PACIENT: 28 de ani.
+MEDIC: Cât timp petreceți cu aceste comportamente zilnic?
+PACIENT: Cam 4-5 ore în total. Dimineața întârzie la serviciu, seara nu pot dormi.
+MEDIC: Aveți mâinile deteriorate de la spălat?
+PACIENT: Da, mâinile sunt roșii, crăpate, mă dor. Am folosit dezinfectant mult în pandemie și a început mai serios.
+MEDIC: Aveți anxietate și în alte situații?
+PACIENT: Da, la serviciu anxietate că am greșit ceva. Îmi verific munca de zeci de ori.
+MEDIC: Există TOC sau anxietate în familie?
+PACIENT: Mama e foarte perfecționistă, dar nu la același nivel.
+MEDIC: Ați luat tratament?
+PACIENT: Nu, mi-a fost jenă să vin la psihiatru.
+---
+DIAGNOSTIC PREZUMTIV: Tulburare obsesiv-compulsivă severă — tânără cu obsesii de contaminare și compulsii de spălare/verificare, ego-distonic, cu timp consumat >4h/zi și afectare funcțională majoră. Diferențial 1: Tulburare de anxietate generalizată — anxietate prezentă, dar ritualurile compulsive specifice TOC sunt centrale. Diferențial 2: Tulburare de personalitate obsesiv-compulsivă — trăsături de perfecționism, dar fără obseii și compulsii discrete.
+CUVINTE CHEIE: TOC, obsesii de contaminare, compulsii de spălare, verificare, ego-distonic, afectare funcțională, sertralină

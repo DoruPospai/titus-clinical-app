@@ -1,0 +1,28 @@
+SPECIALITATE: Alergologie-Dermatologie
+COD_DIAGNOSTIC: L50.1
+DATA: 22.04.2024
+MEDIC: Dr. Ana Dragomirescu
+---
+MEDIC: Bună ziua, cu ce problema de piele ați venit?
+PACIENT: Am bataturi roșii care imi apar si dispar pe tot corpul, cu mancarime groaznica. De 3 luni.
+MEDIC: Leziunile cat dureaza?
+PACIENT: Unele cateva ore, altele o zi. Dispar si apar in alt loc.
+MEDIC: Câți ani aveți?
+PACIENT: 37 de ani.
+MEDIC: Ati identificat un factor declansator?
+PACIENT: Nu, apar si fara motiv. Câteodată la cald, câteodată pe stres.
+MEDIC: Aveți edem al buzelor sau fetei?
+PACIENT: O data am avut buzele umflate, dar a trecut repede.
+MEDIC: Aveți alergii cunoscute sau ati luat medicamente noi?
+PACIENT: Nu alergii cunoscute. Am luat ibuprofenul pentru o durere de cap cu vreo luna inainte sa inceapa.
+MEDIC: Aveți infectii cronice — hepatita, H.pylori, infectii urinare?
+PACIENT: Nu știu. Nu am facut analize recente.
+MEDIC: Probleme tiroidiene?
+PACIENT: Mama are tiroida, eu nu stiu.
+MEDIC: Luati antihistaminice?
+PACIENT: Da, Aerius, dar ajuta partial. Inca apar.
+MEDIC: Aveti angioedema recurent — umflare buze, pleoape, maini?
+PACIENT: Buze o data, cum am spus. Ocazional pleoape.
+---
+DIAGNOSTIC PREZUMTIV: Urticarie cronica spontana — femeie 37 ani, leziuni urticariene mobile >6 saptamani, angioedema asociat, fara factor declansator identificat, partial controlata cu antihistaminice. Antihistaminice non-sedante doza dubla. H.pylori, TSH, FBC, ANA de exclus. Diferențial 1: Urticarie vasculitica — leziuni >24h, dureroase, lasă echimoze. Diferențial 2: Urticarie inductibila (simptomatic demografism) — raspuns la frictiune, testare specifica.
+CUVINTE CHEIE: urticarie cronica spontana, angioedema, antihistaminice, omalizumab, IgE, H.pylori, TSH
