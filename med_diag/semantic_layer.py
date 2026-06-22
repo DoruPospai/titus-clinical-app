@@ -26,6 +26,30 @@ import pandas as pd
 
 logger = logging.getLogger(__name__)
 
+# Cache de modul — pastreaza modelul SentenceTransformer incarcat in memorie
+# pe durata vietii procesului Python curent. Fara acest cache, fiecare
+# instantiere noua a SemanticMatcher (de exemplu la fiecare rerun al
+# scriptului de pipeline) reincarca integral modelul de pe disc — operatie
+# costisitoare (~2.24GB pentru e5-large) care poate epuiza paging file-ul
+# Windows daca se repeta de mai multe ori in succesiune rapida.
+_MODEL_CACHE: dict = {}
+
+
+def _get_cached_model(model_name: str):
+    """Returneaza modelul din cache-ul de modul, sau il incarca o singura
+    data si il memoreaza pentru apelurile ulterioare din acelasi proces."""
+    if model_name in _MODEL_CACHE:
+        logger.info(f"SemanticMatcher: model '{model_name}' reutilizat din cache de proces.")
+        return _MODEL_CACHE[model_name]
+
+    from sentence_transformers import SentenceTransformer
+    try:
+        model = SentenceTransformer(model_name, local_files_only=True)
+    except Exception:
+        model = SentenceTransformer(model_name)
+    _MODEL_CACHE[model_name] = model
+    return model
+
 # ── Constante ─────────────────────────────────────────────────────────────────
 
 MODEL_NAME         = "intfloat/multilingual-e5-large"
@@ -144,8 +168,10 @@ class SemanticMatcher:
                     logger.info(f"SemanticMatcher: index incarcat din cache ({len(lex_valid)} expresii).")
                     self._index    = faiss.deserialize_index(cached["index_bytes"])
                     self._lex_rows = cached["lex_rows"]
-                    # Incarca modelul pentru query-uri - doar din cache local
-                    self._model  = SentenceTransformer(MODEL_NAME, local_files_only=True)
+                    # Incarca modelul pentru query-uri — din cache de proces
+                    # daca a mai fost incarcat anterior in aceasta sesiune,
+                    # altfel din disc local (local_files_only).
+                    self._model  = _get_cached_model(MODEL_NAME)
                     self._is_e5  = "e5" in MODEL_NAME.lower()
                     self._available = True
                     return
@@ -155,23 +181,11 @@ class SemanticMatcher:
         # Build index FAISS
         logger.info(f"SemanticMatcher: incarc modelul {MODEL_NAME}...")
         try:
-            # Incercare cu local_files_only (fara acces retea)
-            model = SentenceTransformer(MODEL_NAME, local_files_only=True)
-            
-            
+            model = _get_cached_model(MODEL_NAME)
             is_e5 = True
         except Exception:
-            try:
-                # Fallback: descarca daca nu e in cache local
-                model = SentenceTransformer(MODEL_NAME)
-                is_e5 = True
-            except Exception:
-                try:
-                    model = SentenceTransformer(MODEL_NAME_SMALL, local_files_only=True)
-                    is_e5 = False
-                except Exception:
-                    model = SentenceTransformer(MODEL_NAME_SMALL)
-                    is_e5 = False
+            model = _get_cached_model(MODEL_NAME_SMALL)
+            is_e5 = False
 
         self._model = model
         self._is_e5 = is_e5

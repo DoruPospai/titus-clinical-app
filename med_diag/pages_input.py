@@ -196,6 +196,7 @@ def render_free_expression_mode(*, catalog_df, default_weight: int,
         nature=nature,
         default_weight=default_weight,
         source_label=source_label,
+        catalog_df=catalog_df,
     )
 
 

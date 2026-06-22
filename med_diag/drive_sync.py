@@ -40,6 +40,8 @@ SYNCED_FILES = [
     "data_clean/Symptomes.xlsx",
     "data_clean/Riskf.xlsx",
     "data_clean/catriskf.xlsx",
+    "data_clean/catsympt.xlsx",
+    "data_clean/catsigne.xlsx",
     "data_clean/Order_AgeMetadata_FINAL.xlsx",
 ]
 

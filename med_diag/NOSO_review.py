@@ -43,9 +43,10 @@ def add_element(code: int, nature: str, name: str = "",
     for existing in ss["noso_elements"]:
         if _element_key(existing) == key:
             return
-
+    st.write(ss)
     ss["noso_elements"].append(e)
 
+    st.write(ss)
 
 def add_elements_bulk(elements: list[tuple], source: str = "bulk", root: str = ""):
     """Adaugă o listă de (code, nature, score) deodată."""
